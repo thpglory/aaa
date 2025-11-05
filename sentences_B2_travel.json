@@ -1,0 +1,1103 @@
+[
+    {
+        "id": 754,
+        "content_en": "I would be most grateful if you could expedite the processing of my visa application.",
+        "content_vi": "Tôi sẽ vô cùng biết ơn nếu bạn có thể đẩy nhanh việc xử lý đơn xin visa của tôi.",
+        "phonetic": "aɪ wʊd bi moʊst ˈɡreɪtfəl ɪf ju kʊd ˈɛkspəˌdaɪt ðə ˈprɑsɛsɪŋ ʌv maɪ ˈvizə ˌæpləˈkeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "visa",
+            "formal",
+            "request",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu đẩy nhanh xử lý visa (formal)",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 755,
+        "content_en": "Despite having meticulously planned our itinerary, we encountered several unforeseen complications.",
+        "content_vi": "Mặc dù đã lập kế hoạch hành trình tỉ mỉ, chúng tôi vẫn gặp phải một số biến chứng không lường trước được.",
+        "phonetic": "dɪˈspaɪt ˈhævɪŋ məˈtɪkjələsli plænd ˈaʊər aɪˈtɪnəˌrɛri, wi ɪnˈkaʊntərd ˈsɛvrəl ˌʌnfɔrˈsin ˌkɑmpləˈkeɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "planning",
+            "complications",
+            "advanced vocabulary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về gặp biến chứng dù đã lập kế hoạch",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 756,
+        "content_en": "The airline's handling of the situation left much to be desired from a customer service perspective.",
+        "content_vi": "Cách xử lý tình huống của hãng hàng không còn nhiều điều chưa thỏa đáng từ góc độ dịch vụ khách hàng.",
+        "phonetic": "ði ˈɛrˌlaɪnz ˈhændlɪŋ ʌv ðə ˌsɪʧuˈeɪʃən lɛft mʌʧ tə bi dɪˈzaɪərd frʌm ə ˈkʌstəmər ˈsɜrvəs pərˈspɛktɪv",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "airline",
+            "diplomatic criticism"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phê bình tinh tế về dịch vụ hãng hàng không",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 757,
+        "content_en": "I'm looking to immerse myself in the local culture rather than following the typical tourist trail.",
+        "content_vi": "Tôi muốn đắm mình vào văn hóa địa phương thay vì đi theo lối mòn du lịch điển hình.",
+        "phonetic": "aɪm ˈlʊkɪŋ tə ɪˈmɜrs maɪˈsɛlf ɪn ðə ˈloʊkəl ˈkʌlʧər ˈræðər ðæn ˈfɑloʊɪŋ ðə ˈtɪpɪkəl ˈtʊrɪst treɪl",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "cultural immersion",
+            "authentic travel",
+            "preference"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Muốn trải nghiệm văn hóa chân thực",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 758,
+        "content_en": "The accommodation, while somewhat lacking in modern amenities, possessed an undeniable charm.",
+        "content_vi": "Chỗ ở, tuy hơi thiếu tiện nghi hiện đại, lại sở hữu sức hấp dẫn không thể phủ nhận.",
+        "phonetic": "ði əˌkɑməˈdeɪʃən, waɪl ˈsʌmˌwʌt ˈlækɪŋ ɪn ˈmɑdərn əˈmɛnətiz, pəˈzɛst ən ˌʌndɪˈnaɪəbəl ʧɑrm",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "accommodation",
+            "balanced review",
+            "sophisticated language"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá chỗ ở cân bằng ưu nhược điểm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 759,
+        "content_en": "Having navigated numerous bureaucratic hurdles, I finally secured the necessary travel permits.",
+        "content_vi": "Sau khi vượt qua nhiều rào cản quan liêu, cuối cùng tôi đã có được giấy phép đi lại cần thiết.",
+        "phonetic": "ˈhævɪŋ ˈnævəˌɡeɪtəd ˈnumərəs ˌbjʊrəˈkrætɪk ˈhɜrdəlz, aɪ ˈfaɪnəli sɪˈkjʊrd ðə ˈnɛsəˌsɛri ˈtrævəl ˈpɜrmɪts",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "bureaucracy",
+            "permits",
+            "achievement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả việc xin giấy phép sau nhiều rào cản",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 760,
+        "content_en": "The discrepancy between the advertised facilities and actual provisions was quite substantial.",
+        "content_vi": "Sự khác biệt giữa các tiện nghi được quảng cáo và những gì thực sự cung cấp là khá đáng kể.",
+        "phonetic": "ðə dɪˈskrɛpənsi bɪˈtwin ði ˈædvərˌtaɪzd fəˈsɪlətiz ænd ˈækʧuəl prəˈvɪʒənz wʌz kwaɪt səbˈstænʃəl",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "discrepancy",
+            "formal criticism"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về sự khác biệt giữa quảng cáo và thực tế",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 761,
+        "content_en": "I'd appreciate your insights on navigating the complexities of the local transportation network.",
+        "content_vi": "Tôi sẽ đánh giá cao những hiểu biết của bạn về việc điều hướng sự phức tạp của mạng lưới giao thông địa phương.",
+        "phonetic": "aɪd əˈpriʃiˌeɪt jʊr ˈɪnˌsaɪts ɑn ˈnævəˌɡeɪtɪŋ ðə kəmˈplɛksətiz ʌv ðə ˈloʊkəl ˌtrænspərˈteɪʃən ˈnɛtˌwɜrk",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "transportation",
+            "advice request",
+            "formal"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin lời khuyên về giao thông địa phương (formal)",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 762,
+        "content_en": "The establishment has consistently maintained impeccable standards of service throughout my stay.",
+        "content_vi": "Cơ sở này đã duy trì tiêu chuẩn dịch vụ hoàn hảo một cách nhất quán trong suốt thời gian lưu trú của tôi.",
+        "phonetic": "ði ɪˈstæblɪʃmənt hæz kənˈsɪstəntli meɪnˈteɪnd ɪmˈpɛkəbəl ˈstændərdz ʌv ˈsɜrvəs θruˈaʊt maɪ steɪ",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "compliment",
+            "service quality",
+            "formal praise"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen dịch vụ hoàn hảo (formal)",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 763,
+        "content_en": "The prevailing political instability in the region has necessitated a thorough reassessment of our travel plans.",
+        "content_vi": "Sự bất ổn chính trị đang diễn ra trong khu vực đã đòi hỏi phải đánh giá lại kỹ lưỡng kế hoạch du lịch của chúng tôi.",
+        "phonetic": "ðə prɪˈveɪlɪŋ pəˈlɪtɪkəl ˌɪnstəˈbɪləti ɪn ðə ˈriʤən hæz nəˈsɛsəˌteɪtəd ə ˈθɜroʊ ˌriəˈsɛsmənt ʌv ˈaʊər ˈtrævəl plænz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "safety",
+            "political situation",
+            "planning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về ảnh hưởng của tình hình chính trị",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 764,
+        "content_en": "I was thoroughly impressed by the staff's proficiency in multiple languages and cultural sensitivity.",
+        "content_vi": "Tôi vô cùng ấn tượng với khả năng thành thạo nhiều ngôn ngữ và sự nhạy bén văn hóa của nhân viên.",
+        "phonetic": "aɪ wʌz ˈθɜroʊli ɪmˈprɛst baɪ ðə stæfs prəˈfɪʃənsi ɪn ˈmʌltəpəl ˈlæŋɡwəʤəz ænd ˈkʌlʧərəl ˌsɛnsəˈtɪvəti",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "compliment",
+            "staff",
+            "multilingual"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen nhân viên đa ngôn ngữ và nhạy bén văn hóa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 765,
+        "content_en": "The excursion provided an unparalleled opportunity to witness the region's biodiversity firsthand.",
+        "content_vi": "Chuyến tham quan cung cấp cơ hội vô song để chứng kiến sự đa dạng sinh học của khu vực một cách trực tiếp.",
+        "phonetic": "ði ɪkˈskɜrʒən prəˈvaɪdəd ən ʌnˈpærəˌlɛld ˌɑpərˈtunəti tə ˈwɪtnəs ðə ˈriʤənz ˌbaɪoʊdaɪˈvɜrsəti ˈfɜrstˌhænd",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "nature",
+            "excursion",
+            "biodiversity"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả chuyến tham quan về sinh học",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 766,
+        "content_en": "I'm seeking recommendations for off-the-beaten-path destinations that offer authentic cultural experiences.",
+        "content_vi": "Tôi đang tìm kiếm gợi ý cho những điểm đến ít người biết cung cấp trải nghiệm văn hóa chân thực.",
+        "phonetic": "aɪm ˈsikɪŋ ˌrɛkəmɛnˈdeɪʃənz fɔr ɔf-ðə-ˈbitən-pæθ ˌdɛstəˈneɪʃənz ðæt ˈɔfər ɔˈθɛntɪk ˈkʌlʧərəl ɪkˈspɪriənsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "authentic travel",
+            "recommendations",
+            "cultural"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm điểm đến ít người biết",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 767,
+        "content_en": "The protracted delay resulted in us missing our connecting flight and subsequent hotel reservation.",
+        "content_vi": "Sự chậm trễ kéo dài dẫn đến việc chúng tôi lỡ chuyến bay nối và đặt phòng khách sạn tiếp theo.",
+        "phonetic": "ðə proʊˈtræktəd dɪˈleɪ rɪˈzʌltəd ɪn ʌs ˈmɪsɪŋ ˈaʊər kəˈnɛktɪŋ flaɪt ænd ˈsʌbsəkwənt hoʊˈtɛl ˌrɛzərˈveɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "delay",
+            "consequences",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả hậu quả của sự chậm trễ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 768,
+        "content_en": "The tour operator demonstrated remarkable flexibility in accommodating our last-minute itinerary changes.",
+        "content_vi": "Công ty tổ chức tour đã thể hiện sự linh hoạt đáng kể trong việc đáp ứng những thay đổi hành trình phút chót của chúng tôi.",
+        "phonetic": "ðə tʊr ˈɑpəˌreɪtər ˈdɛmənˌstreɪtəd rɪˈmɑrkəbəl ˌflɛksəˈbɪləti ɪn əˈkɑməˌdeɪtɪŋ ˈaʊər læst-ˈmɪnət aɪˈtɪnəˌrɛri ˈʧeɪnʤəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tour operator",
+            "flexibility",
+            "compliment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen công ty tour linh hoạt",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 769,
+        "content_en": "I'm endeavoring to strike a balance between comfort and sustainability in my travel choices.",
+        "content_vi": "Tôi đang cố gắng tạo ra sự cân bằng giữa tiện nghi và tính bền vững trong các lựa chọn du lịch của mình.",
+        "phonetic": "aɪm ɪnˈdɛvərɪŋ tə straɪk ə ˈbæləns bɪˈtwin ˈkʌmfərt ænd səˌsteɪnəˈbɪləti ɪn maɪ ˈtrævəl ˈʧɔɪsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "sustainability",
+            "values",
+            "philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về cân bằng tiện nghi và bền vững",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 770,
+        "content_en": "The architectural heritage of the city far surpassed anything I had encountered in previous travels.",
+        "content_vi": "Di sản kiến trúc của thành phố vượt xa bất cứ điều gì tôi từng gặp trong những chuyến du lịch trước đây.",
+        "phonetic": "ði ˌɑrkəˈtɛkʧərəl ˈhɛrətəʤ ʌv ðə ˈsɪti fɑr sərˈpæst ˈɛniˌθɪŋ aɪ hæd ɪnˈkaʊntərd ɪn ˈpriviəs ˈtrævəlz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "architecture",
+            "heritage",
+            "admiration"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi di sản kiến trúc",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 771,
+        "content_en": "I would strongly advise against venturing into that particular neighborhood after dark.",
+        "content_vi": "Tôi rất khuyên không nên mạo hiểm vào khu phố cụ thể đó sau khi trời tối.",
+        "phonetic": "aɪ wʊd ˈstrɔŋli ədˈvaɪz əˈɡɛnst ˈvɛnʧərɪŋ ˈɪntu ðæt pərˈtɪkjələr ˈneɪbərˌhʊd ˈæftər dɑrk",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "safety",
+            "warning",
+            "advice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cảnh báo về an toàn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 772,
+        "content_en": "The panoramic vista from the observation deck proved to be well worth the arduous climb.",
+        "content_vi": "Quang cảnh toàn cảnh từ sàn quan sát đã chứng minh là xứng đáng với cuộc leo trèo gian khổ.",
+        "phonetic": "ðə ˌpænəˈræmɪk ˈvɪstə frʌm ði ˌɑbzərˈveɪʃən dɛk pruvd tə bi wɛl wɜrθ ði ˈɑrʤuəs klaɪm",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "view",
+            "effort",
+            "reward"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả view đẹp xứng đáng với công sức",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 773,
+        "content_en": "The establishment's rigid adherence to outdated policies has alienated many potential customers.",
+        "content_vi": "Sự tuân thủ cứng nhắc các chính sách lỗi thời của cơ sở đã làm xa lánh nhiều khách hàng tiềm năng.",
+        "phonetic": "ði ɪˈstæblɪʃmənts ˈrɪʤəd ədˈhɪrəns tə ˌaʊtˈdeɪtəd ˈpɑləsiz hæz ˈeɪliəˌneɪtəd ˈmɛni pəˈtɛnʃəl ˈkʌstəmərz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "policy",
+            "criticism"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phê bình chính sách cứng nhắc",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 774,
+        "content_en": "Having extensively researched the destination, I feel adequately prepared for the cultural nuances.",
+        "content_vi": "Sau khi nghiên cứu kỹ lưỡng về điểm đến, tôi cảm thấy đã chuẩn bị đầy đủ cho những sắc thái văn hóa.",
+        "phonetic": "ˈhævɪŋ ɪkˈstɛnsɪvli ˈrisɜrʧt ðə ˌdɛstəˈneɪʃən, aɪ fil ˈædəkwətli prɪˈpɛrd fɔr ðə ˈkʌlʧərəl ˈnuɑnsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "preparation",
+            "culture",
+            "research"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả việc chuẩn bị kỹ lưỡng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 775,
+        "content_en": "The culinary scene has evolved considerably, blending traditional techniques with contemporary innovation.",
+        "content_vi": "Bối cảnh ẩm thực đã phát triển đáng kể, pha trộn kỹ thuật truyền thống với sự đổi mới đương đại.",
+        "phonetic": "ðə ˈkjulɪˌnɛri sin hæz ɪˈvɑlvd kənˈsɪdərəbli, ˈblɛndɪŋ trəˈdɪʃənəl tɛkˈniks wɪð kənˈtɛmpəˌrɛri ˌɪnəˈveɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "culinary",
+            "evolution",
+            "innovation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả sự phát triển của ẩm thực",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 776,
+        "content_en": "I'm contemplating whether to prioritize convenience or cost-effectiveness in my accommodation selection.",
+        "content_vi": "Tôi đang cân nhắc có nên ưu tiên sự tiện lợi hay hiệu quả chi phí trong việc lựa chọn chỗ ở.",
+        "phonetic": "aɪm ˈkɑntəmˌpleɪtɪŋ ˈwɛðər tə praɪˈɔrəˌtaɪz kənˈvinjəns ɔr kɔst-ɪˈfɛktɪvnəs ɪn maɪ əˌkɑməˈdeɪʃən səˈlɛkʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "decision making",
+            "accommodation",
+            "priorities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cân nhắc ưu tiên trong lựa chọn chỗ ở",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 777,
+        "content_en": "The implementation of sustainable tourism practices has significantly enhanced the destination's appeal.",
+        "content_vi": "Việc triển khai các thực hành du lịch bền vững đã nâng cao đáng kể sức hấp dẫn của điểm đến.",
+        "phonetic": "ði ˌɪmpləmɛnˈteɪʃən ʌv səˈsteɪnəbəl ˈtʊrɪzəm ˈpræktəsəz hæz sɪɡˈnɪfɪkəntli ɪnˈhænst ðə ˌdɛstəˈneɪʃənz əˈpil",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "sustainability",
+            "tourism",
+            "positive impact"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về tác động tích cực của du lịch bền vững",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 778,
+        "content_en": "The logistics of coordinating multiple international transfers proved more challenging than anticipated.",
+        "content_vi": "Công tác hậu cần phối hợp nhiều chuyến chuyển tiếp quốc tế tỏ ra khó khăn hơn dự đoán.",
+        "phonetic": "ðə loʊˈʤɪstɪks ʌv koʊˈɔrdəˌneɪtɪŋ ˈmʌltəpəl ˌɪntərˈnæʃənəl ˈtrænsfɜrz pruvd mɔr ˈʧælənʤɪŋ ðæn ænˈtɪsəˌpeɪtəd",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "logistics",
+            "complexity",
+            "international travel"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả độ khó của việc phối hợp chuyến bay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 779,
+        "content_en": "I'm particularly interested in engaging with local artisans to understand their traditional craftsmanship.",
+        "content_vi": "Tôi đặc biệt quan tâm đến việc giao lưu với các nghệ nhân địa phương để hiểu về nghề thủ công truyền thống của họ.",
+        "phonetic": "aɪm pərˈtɪkjələrli ˈɪntrəstəd ɪn ɪnˈɡeɪʤɪŋ wɪð ˈloʊkəl ˈɑrtəzənz tə ˌʌndərˈstænd ðɛr trəˈdɪʃənəl ˈkræftsmənˌʃɪp",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "culture",
+            "artisans",
+            "engagement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Muốn tìm hiểu nghề thủ công địa phương",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 780,
+        "content_en": "The socioeconomic disparities observed during the journey prompted considerable reflection.",
+        "content_vi": "Những chênh lệch kinh tế xã hội được quan sát trong hành trình đã thúc đẩy sự suy ngẫm đáng kể.",
+        "phonetic": "ðə ˌsoʊsioʊˌɛkəˈnɑmɪk dɪˈspærətiz əbˈzɜrvd ˈdjʊrɪŋ ðə ˈʤɜrni ˈprɑmptəd kənˈsɪdərəbəl rɪˈflɛkʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "society",
+            "observation",
+            "reflection"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Suy ngẫm về chênh lệch xã hội",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 781,
+        "content_en": "The concierge's encyclopedic knowledge of the area proved invaluable in crafting our itinerary.",
+        "content_vi": "Kiến thức bách khoa toàn thư của nhân viên lễ tân về khu vực đã chứng minh là vô giá trong việc xây dựng hành trình của chúng tôi.",
+        "phonetic": "ðə ˌkɑnsiˈɛrʒɪz ɪnˌsaɪkləˈpidɪk ˈnɑləʤ ʌv ði ˈɛriə pruvd ɪnˈvæljəbəl ɪn ˈkræftɪŋ ˈaʊər aɪˈtɪnəˌrɛri",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "concierge",
+            "knowledge",
+            "high praise"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi kiến thức của nhân viên lễ tân",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 782,
+        "content_en": "I must emphasize the paramount importance of securing comprehensive travel insurance coverage.",
+        "content_vi": "Tôi phải nhấn mạnh tầm quan trọng tối thượng của việc đảm bảo bảo hiểm du lịch toàn diện.",
+        "phonetic": "aɪ mʌst ˈɛmfəˌsaɪz ðə ˈpærəˌmaʊnt ɪmˈpɔrtəns ʌv sɪˈkjʊrɪŋ ˌkɑmprɪˈhɛnsɪv ˈtrævəl ɪnˈʃʊrəns ˈkʌvərɪʤ",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "insurance",
+            "advice",
+            "emphasis"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nhấn mạnh tầm quan trọng của bảo hiểm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 783,
+        "content_en": "The juxtaposition of ancient traditions with modern infrastructure creates a fascinating dynamic.",
+        "content_vi": "Sự đặt cạnh nhau của truyền thống cổ xưa với cơ sở hạ tầng hiện đại tạo ra một động lực hấp dẫn.",
+        "phonetic": "ðə ˌʤʌkstəpəˈzɪʃən ʌv ˈeɪnʃənt trəˈdɪʃənz wɪð ˈmɑdərn ˈɪnfrəˌstrʌkʧər kriˈeɪts ə ˈfæsəˌneɪtɪŋ daɪˈnæmɪk",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "culture",
+            "contrast",
+            "observation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả sự tương phản giữa truyền thống và hiện đại",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 784,
+        "content_en": "The expedition required meticulous planning to account for the unpredictable mountain weather conditions.",
+        "content_vi": "Chuyến thám hiểm đòi hỏi lập kế hoạch tỉ mỉ để tính đến điều kiện thời tiết núi không thể đoán trước.",
+        "phonetic": "ði ˌɛkspəˈdɪʃən rɪˈkwaɪərd məˈtɪkjələs ˈplænɪŋ tə əˈkaʊnt fɔr ði ˌʌnprɪˈdɪktəbəl ˈmaʊntən ˈwɛðər kənˈdɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "expedition",
+            "planning",
+            "adventure"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả yêu cầu lập kế hoạch cho thám hiểm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 785,
+        "content_en": "I found the restoration of the historical district to be remarkably faithful to the original architecture.",
+        "content_vi": "Tôi thấy việc phục hồi khu lịch sử trung thành đáng kể với kiến trúc nguyên bản.",
+        "phonetic": "aɪ faʊnd ðə ˌrɛstəˈreɪʃən ʌv ðə hɪˈstɔrɪkəl ˈdɪstrɪkt tə bi rɪˈmɑrkəbli ˈfeɪθfəl tə ði əˈrɪʤənəl ˈɑrkəˌtɛkʧər",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "architecture",
+            "restoration",
+            "historical"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi sự phục hồi di tích",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 786,
+        "content_en": "The indigenous community's preservation of ancestral customs offers profound insights into sustainable living.",
+        "content_vi": "Việc cộng đồng bản địa bảo tồn phong tục tổ tiên mang lại những hiểu biết sâu sắc về cuộc sống bền vững.",
+        "phonetic": "ði ɪnˈdɪʤənəs kəˈmjunətiz ˌprɛzərˈveɪʃən ʌv ænˈsɛstrəl ˈkʌstəmz ˈɔfərz proʊˈfaʊnd ˈɪnˌsaɪts ˈɪntu səˈsteɪnəbəl ˈlɪvɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "indigenous",
+            "culture",
+            "sustainability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả bài học từ cộng đồng bản địa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 787,
+        "content_en": "The regulatory requirements for entry have become increasingly stringent in recent months.",
+        "content_vi": "Các yêu cầu quy định để nhập cảnh đã trở nên ngày càng nghiêm ngặt trong những tháng gần đây.",
+        "phonetic": "ðə ˈrɛɡjələˌtɔri rɪˈkwaɪrmənts fɔr ˈɛntri hæv bɪˈkʌm ɪnˈkrisɪŋli ˈstrɪnʤənt ɪn ˈrisənt mʌnθs",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "regulations",
+            "entry requirements",
+            "changes"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo về thay đổi quy định nhập cảnh",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 788,
+        "content_en": "I was captivated by the intricate interplay between urban development and environmental conservation.",
+        "content_vi": "Tôi bị quyến rũ bởi sự tương tác phức tạp giữa phát triển đô thị và bảo tồn môi trường.",
+        "phonetic": "aɪ wʌz ˈkæptəˌveɪtəd baɪ ði ˈɪntrəkət ˌɪntərˈpleɪ bɪˈtwin ˈɜrbən dɪˈvɛləpmənt ænd ɪnˌvaɪrənˈmɛntəl ˌkɑnsərˈveɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "urban development",
+            "environment",
+            "observation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Quan sát về sự cân bằng phát triển và bảo tồn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 789,
+        "content_en": "The establishment's refusal to accommodate reasonable requests bordered on discourteous behavior.",
+        "content_vi": "Việc cơ sở từ chối đáp ứng các yêu cầu hợp lý gần như là hành vi bất lịch sự.",
+        "phonetic": "ði ɪˈstæblɪʃmənts rɪˈfjuzəl tə əˈkɑməˌdeɪt ˈrizənəbəl rɪˈkwɛsts ˈbɔrdərd ɑn dɪsˈkɜrtiəs bɪˈheɪvjər",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "service",
+            "diplomatic criticism"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phê bình tinh tế về thái độ phục vụ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 790,
+        "content_en": "The gastronomic offerings exceeded expectations, showcasing innovative interpretations of regional cuisine.",
+        "content_vi": "Các món ẩm thực vượt quá mong đợi, thể hiện những diễn giải sáng tạo của ẩm thực vùng miền.",
+        "phonetic": "ðə ˌɡæstrəˈnɑmɪk ˈɔfərɪŋz ɪkˈsidəd ˌɛkspɛkˈteɪʃənz, ˈʃoʊˌkeɪsɪŋ ˈɪnəˌveɪtɪv ɪnˌtɜrprəˈteɪʃənz ʌv ˈriʤənəl kwɪˈzin",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "gastronomy",
+            "innovation",
+            "compliment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi sự sáng tạo trong ẩm thực",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 791,
+        "content_en": "I'm seeking accommodation that provides an optimal balance of authenticity and modern conveniences.",
+        "content_vi": "Tôi đang tìm kiếm chỗ ở cung cấp sự cân bằng tối ưu giữa tính chân thực và tiện nghi hiện đại.",
+        "phonetic": "aɪm ˈsikɪŋ əˌkɑməˈdeɪʃən ðæt prəˈvaɪdz ən ˈɑptəməl ˈbæləns ʌv ˌɔθɛnˈtɪsəti ænd ˈmɑdərn kənˈvinjənsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "accommodation",
+            "preferences",
+            "balance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm chỗ ở cân bằng chân thực và tiện nghi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 792,
+        "content_en": "The deteriorating security situation has compelled authorities to issue travel advisories for the region.",
+        "content_vi": "Tình hình an ninh đang xấu đi đã buộc các cơ quan chức năng phải phát hành cảnh báo du lịch cho khu vực.",
+        "phonetic": "ðə dɪˈtɪriəˌreɪtɪŋ sɪˈkjʊrəti ˌsɪʧuˈeɪʃən hæz kəmˈpɛld ɔˈθɔrətiz tə ˈɪʃu ˈtrævəl ədˈvaɪzəriz fɔr ðə ˈriʤən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "security",
+            "travel advisory",
+            "warning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo về cảnh báo du lịch",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 793,
+        "content_en": "The cultural immersion program facilitated meaningful interactions with members of the local community.",
+        "content_vi": "Chương trình hòa nhập văn hóa đã tạo điều kiện cho các tương tác có ý nghĩa với các thành viên của cộng đồng địa phương.",
+        "phonetic": "ðə ˈkʌlʧərəl ɪˈmɜrʒən ˈproʊɡræm fəˈsɪləˌteɪtəd ˈminɪŋfəl ˌɪntərˈækʃənz wɪð ˈmɛmbərz ʌv ðə ˈloʊkəl kəˈmjunəti",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "cultural immersion",
+            "community",
+            "interaction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen chương trình hòa nhập văn hóa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 794,
+        "content_en": "I must confess to being somewhat overwhelmed by the sheer diversity of experiences available.",
+        "content_vi": "Tôi phải thú nhận là hơi choáng ngợp bởi sự đa dạng tuyệt đối của các trải nghiệm có sẵn.",
+        "phonetic": "aɪ mʌst kənˈfɛs tə ˈbiɪŋ ˈsʌmˌwʌt ˌoʊvərˈwɛlmd baɪ ðə ʃɪr dəˈvɜrsəti ʌv ɪkˈspɪriənsəz əˈveɪləbəl",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "experience",
+            "diversity",
+            "overwhelmed"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thú nhận choáng ngợp với sự đa dạng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 795,
+        "content_en": "The proliferation of digital nomad spaces has fundamentally altered the landscape of international travel.",
+        "content_vi": "Sự gia tăng của các không gian du mục kỹ thuật số đã thay đổi căn bản bối cảnh du lịch quốc tế.",
+        "phonetic": "ðə prəˌlɪfəˈreɪʃən ʌv ˈdɪʤətəl ˈnoʊmæd ˈspeɪsəz hæz ˌfʌndəˈmɛntəli ˈɔltərd ðə ˈlændskeɪp ʌv ˌɪntərˈnæʃənəl ˈtrævəl",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "digital nomad",
+            "trend",
+            "observation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Quan sát về xu hướng du mục kỹ thuật số",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 796,
+        "content_en": "The municipality has implemented stringent measures to mitigate the adverse effects of overtourism.",
+        "content_vi": "Chính quyền địa phương đã thực hiện các biện pháp nghiêm ngặt để giảm thiểu tác động bất lợi của du lịch quá tải.",
+        "phonetic": "ðə mjuˌnɪsəˈpæləti hæz ˈɪmpləˌmɛntəd ˈstrɪnʤənt ˈmɛʒərz tə ˈmɪtəˌɡeɪt ði ædˈvɜrs ɪˈfɛkts ʌv ˌoʊvərˈtʊrɪzəm",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "overtourism",
+            "measures",
+            "sustainability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả biện pháp chống du lịch quá tải",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 797,
+        "content_en": "I'm endeavoring to navigate the intricate visa requirements for multiple jurisdictions simultaneously.",
+        "content_vi": "Tôi đang cố gắng điều hướng các yêu cầu visa phức tạp cho nhiều khu vực pháp lý đồng thời.",
+        "phonetic": "aɪm ɪnˈdɛvərɪŋ tə ˈnævəˌɡeɪt ði ˈɪntrəkət ˈvizə rɪˈkwaɪrmənts fɔr ˈmʌltəpəl ˌʤʊrəsˈdɪkʃənz ˌsaɪməlˈteɪniəsli",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "visa",
+            "complexity",
+            "multiple destinations"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả việc xin visa nhiều nước phức tạp",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 798,
+        "content_en": "The symbiotic relationship between tourism and cultural preservation requires careful management.",
+        "content_vi": "Mối quan hệ cộng sinh giữa du lịch và bảo tồn văn hóa đòi hỏi quản lý cẩn thận.",
+        "phonetic": "ðə ˌsɪmbiˈɑtɪk rɪˈleɪʃənˌʃɪp bɪˈtwin ˈtʊrɪzəm ænd ˈkʌlʧərəl ˌprɛzərˈveɪʃən rɪˈkwaɪərz ˈkɛrfəl ˈmænəʤmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tourism",
+            "cultural preservation",
+            "balance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả mối quan hệ du lịch và bảo tồn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 799,
+        "content_en": "The culmination of months of planning resulted in an extraordinarily enriching travel experience.",
+        "content_vi": "Đỉnh điểm của nhiều tháng lập kế hoạch đã mang lại một trải nghiệm du lịch phong phú phi thường.",
+        "phonetic": "ðə ˌkʌlməˈneɪʃən ʌv mʌnθs ʌv ˈplænɪŋ rɪˈzʌltəd ɪn ən ɪkˈstrɔrdəˌnɛrəli ɪnˈrɪʧɪŋ ˈtrævəl ɪkˈspɪriəns",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "planning",
+            "achievement",
+            "satisfaction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tổng kết trải nghiệm du lịch thành công",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 800,
+        "content_en": "I would contend that responsible tourism practices are not merely optional but absolutely imperative.",
+        "content_vi": "Tôi cho rằng các thực hành du lịch có trách nhiệm không chỉ là tùy chọn mà là tuyệt đối bắt buộc.",
+        "phonetic": "aɪ wʊd kənˈtɛnd ðæt rɪˈspɑnsəbəl ˈtʊrɪzəm ˈpræktəsəz ɑr nɑt ˈmɪrli ˈɑpʃənəl bʌt ˈæbsəˌlutli ɪmˈpɛrətɪv",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "responsible tourism",
+            "opinion",
+            "advocacy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Bày tỏ quan điểm về du lịch có trách nhiệm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 801,
+        "content_en": "The chronically understaffed reception area consistently failed to meet basic service expectations.",
+        "content_vi": "Khu vực lễ tân thiếu nhân viên trầm trọng liên tục không đáp ứng được kỳ vọng dịch vụ cơ bản.",
+        "phonetic": "ðə ˈkrɑnɪkli ˌʌndərˈstæft rɪˈsɛpʃən ˈɛriə kənˈsɪstəntli feɪld tə mit ˈbeɪsɪk ˈsɜrvəs ˌɛkspɛkˈteɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "staffing",
+            "service quality"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về thiếu nhân viên",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 802,
+        "content_en": "The integration of cutting-edge technology has revolutionized the guest experience at this establishment.",
+        "content_vi": "Việc tích hợp công nghệ tiên tiến đã cách mạng hóa trải nghiệm của khách tại cơ sở này.",
+        "phonetic": "ði ˌɪntəˈɡreɪʃən ʌv ˈkʌtɪŋ-ɛʤ tɛkˈnɑləʤi hæz ˌrɛvəˈluʃəˌnaɪzd ðə ɡɛst ɪkˈspɪriəns æt ðɪs ɪˈstæblɪʃmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "technology",
+            "innovation",
+            "guest experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen công nghệ cải thiện trải nghiệm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 803,
+        "content_en": "I remain cautiously optimistic about the prospects for sustainable tourism development in the region.",
+        "content_vi": "Tôi vẫn lạc quan thận trọng về triển vọng phát triển du lịch bền vững trong khu vực.",
+        "phonetic": "aɪ rɪˈmeɪn ˈkɔʃəsli ˌɑptəˈmɪstɪk əˈbaʊt ðə ˈprɑspɛkts fɔr səˈsteɪnəbəl ˈtʊrɪzəm dɪˈvɛləpmənt ɪn ðə ˈriʤən",
+        "level_id": "B2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "sustainability",
+            "future",
+            "cautious optimism"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Bày tỏ hy vọng về du lịch bền vững",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

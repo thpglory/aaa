@@ -1,0 +1,1105 @@
+[
+    {
+        "id": 704,
+        "content_en": "I'd appreciate it if you could recommend an authentic local restaurant.",
+        "content_vi": "Tôi sẽ rất biết ơn nếu bạn có thể giới thiệu một nhà hàng địa phương chính thống.",
+        "phonetic": "aɪd əˈpriʃiˌeɪt ɪt ɪf ju kʊd ˌrɛkəˈmɛnd ən ɔˈθɛntɪk ˈloʊkəl ˈrɛstəˌrɑnt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "restaurant",
+            "local",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gợi ý nhà hàng địa phương chính thống",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 705,
+        "content_en": "Could you tell me the best time to visit the historical sites?",
+        "content_vi": "Bạn có thể cho tôi biết thời điểm tốt nhất để tham quan các di tích lịch sử không?",
+        "phonetic": "kʊd ju tɛl mi ðə bɛst taɪm tə ˈvɪzɪt ðə hɪˈstɔrɪkəl saɪts",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "historical sites",
+            "timing",
+            "advice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi thời điểm tốt nhất để tham quan di tích",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 706,
+        "content_en": "I was wondering if there are any special events happening this week.",
+        "content_vi": "Tôi đang thắc mắc liệu có sự kiện đặc biệt nào diễn ra tuần này không.",
+        "phonetic": "aɪ wʌz ˈwʌndərɪŋ ɪf ðɛr ɑr ˈɛni ˈspɛʃəl ɪˈvɛnts ˈhæpənɪŋ ðɪs wik",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "events",
+            "information",
+            "inquiry"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về sự kiện đặc biệt",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 707,
+        "content_en": "My travel insurance doesn't cover this situation.",
+        "content_vi": "Bảo hiểm du lịch của tôi không bao gồm tình huống này.",
+        "phonetic": "maɪ ˈtrævəl ɪnˈʃʊrəns ˈdʌzənt ˈkʌvər ðɪs ˌsɪʧuˈeɪʃən",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "insurance",
+            "problem",
+            "coverage"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo bảo hiểm không bao gồm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 708,
+        "content_en": "I need to file a complaint about the service I received.",
+        "content_vi": "Tôi cần nộp đơn khiếu nại về dịch vụ tôi nhận được.",
+        "phonetic": "aɪ nid tə faɪl ə kəmˈpleɪnt əˈbaʊt ðə ˈsɜrvəs aɪ rɪˈsivd",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "service",
+            "formal"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nộp đơn khiếu nại dịch vụ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 709,
+        "content_en": "Would it be possible to upgrade to business class?",
+        "content_vi": "Có thể nâng cấp lên hạng thương gia được không?",
+        "phonetic": "wʊd ɪt bi ˈpɑsəbəl tə ˈʌpˌɡreɪd tə ˈbɪznəs klæs",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "upgrade",
+            "flight",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về nâng cấp hạng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 710,
+        "content_en": "The hotel room doesn't match the description in the booking.",
+        "content_vi": "Phòng khách sạn không giống với mô tả trong đặt phòng.",
+        "phonetic": "ðə hoʊˈtɛl rum ˈdʌzənt mæʧ ðə dɪˈskrɪpʃən ɪn ðə ˈbʊkɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "complaint",
+            "hotel",
+            "discrepancy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn phòng không khớp mô tả",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 711,
+        "content_en": "I'm trying to locate the entrance to the underground station.",
+        "content_vi": "Tôi đang cố tìm lối vào ga tàu điện ngầm.",
+        "phonetic": "aɪm ˈtraɪɪŋ tə ˈloʊˌkeɪt ði ˈɛntrəns tə ði ˈʌndərˌɡraʊnd ˈsteɪʃən",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "subway",
+            "location",
+            "direction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm lối vào ga tàu điện ngầm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 712,
+        "content_en": "Are there any cultural customs I should be aware of?",
+        "content_vi": "Có phong tục văn hóa nào tôi nên biết không?",
+        "phonetic": "ɑr ðɛr ˈɛni ˈkʌlʧərəl ˈkʌstəmz aɪ ʃʊd bi əˈwɛr ʌv",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "culture",
+            "customs",
+            "advice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phong tục văn hóa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 713,
+        "content_en": "I'd like to arrange transportation to the conference venue.",
+        "content_vi": "Tôi muốn sắp xếp phương tiện đến địa điểm hội nghị.",
+        "phonetic": "aɪd laɪk tə əˈreɪndʒ ˌtrænspərˈteɪʃən tə ðə ˈkɑnfərəns ˈvɛnju",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "transportation",
+            "business",
+            "arrangement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin sắp xếp phương tiện đến hội nghị",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 714,
+        "content_en": "Unfortunately, my connecting flight was cancelled due to weather.",
+        "content_vi": "Thật không may, chuyến bay nối của tôi đã bị hủy do thời tiết.",
+        "phonetic": "ʌnˈfɔrʧənətli, maɪ kəˈnɛktɪŋ flaɪt wʌz ˈkænsəld du tə ˈwɛðər",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "flight",
+            "cancellation",
+            "weather"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo chuyến bay bị hủy do thời tiết",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 715,
+        "content_en": "Could you explain the public transportation system to me?",
+        "content_vi": "Bạn có thể giải thích hệ thống giao thông công cộng cho tôi không?",
+        "phonetic": "kʊd ju ɪkˈspleɪn ðə ˈpʌblɪk ˌtrænspərˈteɪʃən ˈsɪstəm tə mi",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "transportation",
+            "explanation",
+            "public transit"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin giải thích hệ thống giao thông công cộng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 716,
+        "content_en": "I'm interested in booking a guided walking tour of the old town.",
+        "content_vi": "Tôi quan tâm đến việc đặt tour đi bộ có hướng dẫn viên ở khu phố cổ.",
+        "phonetic": "aɪm ˈɪntrəstəd ɪn ˈbʊkɪŋ ə ˈɡaɪdəd ˈwɔkɪŋ tʊr ʌv ði oʊld taʊn",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tour",
+            "booking",
+            "walking",
+            "old town"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đặt tour đi bộ ở phố cổ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 717,
+        "content_en": "What's your policy on late check-out?",
+        "content_vi": "Chính sách trả phòng muộn của bạn là gì?",
+        "phonetic": "wʌts jʊr ˈpɑləsi ɑn leɪt ʧɛk-aʊt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "policy",
+            "check-out"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chính sách trả phòng muộn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 718,
+        "content_en": "I need to reschedule my flight to an earlier departure.",
+        "content_vi": "Tôi cần đổi lịch chuyến bay sang giờ khởi hành sớm hơn.",
+        "phonetic": "aɪ nid tə riˈskɛdʒul maɪ flaɪt tə ən ˈɜrliər dɪˈpɑrʧər",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "flight",
+            "reschedule",
+            "change"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đổi lịch chuyến bay sớm hơn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 719,
+        "content_en": "The tour guide was extremely knowledgeable about local history.",
+        "content_vi": "Hướng dẫn viên rất am hiểu về lịch sử địa phương.",
+        "phonetic": "ðə tʊr ɡaɪd wʌz ɪkˈstrimli ˈnɑlɪdʒəbəl əˈbaʊt ˈloʊkəl ˈhɪstəri",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tour",
+            "guide",
+            "compliment",
+            "history"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen hướng dẫn viên am hiểu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 720,
+        "content_en": "I'd prefer to avoid touristy areas and see where locals actually go.",
+        "content_vi": "Tôi muốn tránh khu vực du lịch và xem nơi người địa phương thực sự đi.",
+        "phonetic": "aɪd prɪˈfɜr tə əˈvɔɪd ˈtʊrɪsti ˈɛriəz ænd si wɛr ˈloʊkəlz ˈækʧuəli ɡoʊ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "preference",
+            "local",
+            "authentic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Muốn tránh khu du lịch đông khách",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 721,
+        "content_en": "Has my room been cleaned yet?",
+        "content_vi": "Phòng của tôi đã được dọn dẹp chưa?",
+        "phonetic": "hæz maɪ rum bɪn klind jɛt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "housekeeping",
+            "inquiry"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi phòng đã dọn chưa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 722,
+        "content_en": "I wasn't aware that there would be additional charges.",
+        "content_vi": "Tôi không biết sẽ có phí bổ sung.",
+        "phonetic": "aɪ ˈwɑzənt əˈwɛr ðæt ðɛr wʊd bi əˈdɪʃənəl ˈʧɑrdʒəz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "charges",
+            "surprise",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Không biết về phí bổ sung",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 723,
+        "content_en": "Could you recommend a reliable car rental company?",
+        "content_vi": "Bạn có thể giới thiệu công ty cho thuê xe uy tín không?",
+        "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə rɪˈlaɪəbəl kɑr ˈrɛntəl ˈkʌmpəni",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "car rental",
+            "recommendation",
+            "reliable"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gợi ý công ty cho thuê xe",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 724,
+        "content_en": "The accommodation exceeded my expectations in every way.",
+        "content_vi": "Chỗ ở vượt quá mong đợi của tôi về mọi mặt.",
+        "phonetic": "ði əˌkɑməˈdeɪʃən ɪkˈsidəd maɪ ˌɛkspɛkˈteɪʃənz ɪn ˈɛvri weɪ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "accommodation",
+            "compliment",
+            "satisfaction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen chỗ ở vượt mong đợi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 725,
+        "content_en": "I'm looking for accommodations within walking distance of the beach.",
+        "content_vi": "Tôi đang tìm chỗ ở trong khoảng cách đi bộ đến bãi biển.",
+        "phonetic": "aɪm ˈlʊkɪŋ fɔr əˌkɑməˈdeɪʃənz wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns ʌv ðə biʧ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "accommodation",
+            "location",
+            "beach"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm chỗ ở gần biển",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 726,
+        "content_en": "What documents do I need to present at immigration?",
+        "content_vi": "Tôi cần xuất trình giấy tờ gì tại nơi nhập cảnh?",
+        "phonetic": "wʌt ˈdɑkjəmənts du aɪ nid tə prɪˈzɛnt æt ˌɪməˈɡreɪʃən",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "immigration",
+            "documents",
+            "requirements"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về giấy tờ nhập cảnh",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 727,
+        "content_en": "I've been waiting for over an hour and still haven't received my luggage.",
+        "content_vi": "Tôi đã đợi hơn một giờ và vẫn chưa nhận được hành lý.",
+        "phonetic": "aɪv bɪn ˈweɪtɪŋ fɔr ˈoʊvər ən ˈaʊər ænd stɪl ˈhævənt rɪˈsivd maɪ ˈlʌɡɪdʒ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "luggage",
+            "complaint",
+            "delay"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn đợi hành lý lâu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 728,
+        "content_en": "Is it customary to tip in this country?",
+        "content_vi": "Có phải thông lệ để tiền tip ở quốc gia này không?",
+        "phonetic": "ɪz ɪt ˈkʌstəˌmɛri tə tɪp ɪn ðɪs ˈkʌntri",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tipping",
+            "culture",
+            "customs"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thông lệ tip",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 729,
+        "content_en": "The flight attendant was very helpful during the turbulence.",
+        "content_vi": "Tiếp viên hàng không rất hữu ích trong lúc gặp nhiễu động.",
+        "phonetic": "ðə flaɪt əˈtɛndənt wʌz ˈvɛri ˈhɛlpfəl ˈdjʊrɪŋ ðə ˈtɜrbjələns",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "flight",
+            "compliment",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen tiếp viên hàng không",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 730,
+        "content_en": "I'm having difficulty understanding the departure board.",
+        "content_vi": "Tôi đang gặp khó khăn khi hiểu bảng thông báo khởi hành.",
+        "phonetic": "aɪm ˈhævɪŋ ˈdɪfəˌkʌlti ˌʌndərˈstændɪŋ ðə dɪˈpɑrʧər bɔrd",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "information",
+            "confusion",
+            "help"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gặp khó khăn hiểu bảng thông báo",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 731,
+        "content_en": "Would you mind if I switched to a different room?",
+        "content_vi": "Bạn có phiền nếu tôi chuyển sang phòng khác không?",
+        "phonetic": "wʊd ju maɪnd ɪf aɪ swɪʧt tə ə ˈdɪfərənt rum",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "room change",
+            "polite request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin đổi phòng lịch sự",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 732,
+        "content_en": "The scenic route takes longer but offers breathtaking views.",
+        "content_vi": "Tuyến đường ngắm cảnh mất nhiều thời gian hơn nhưng mang đến tầm nhìn ngoạn mục.",
+        "phonetic": "ðə ˈsinɪk rut teɪks ˈlɔŋɡər bʌt ˈɔfərz ˈbrɛθˌteɪkɪŋ vjuz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "route",
+            "scenery",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả tuyến đường ngắm cảnh",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 733,
+        "content_en": "I'd like to confirm my reservation for tomorrow evening.",
+        "content_vi": "Tôi muốn xác nhận đặt chỗ của mình cho tối mai.",
+        "phonetic": "aɪd laɪk tə kənˈfɜrm maɪ ˌrɛzərˈveɪʃən fɔr təˈmɑroʊ ˈivnɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "reservation",
+            "confirmation",
+            "formal"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xác nhận đặt chỗ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 734,
+        "content_en": "The concierge provided excellent recommendations for local dining.",
+        "content_vi": "Nhân viên lễ tân đã cung cấp gợi ý xuất sắc cho ẩm thực địa phương.",
+        "phonetic": "ðə ˌkɑnsiˈɛrʒ prəˈvaɪdəd ˈɛksələnt ˌrɛkəmɛnˈdeɪʃənz fɔr ˈloʊkəl ˈdaɪnɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "concierge",
+            "compliment",
+            "dining"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen nhân viên lễ tân",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 735,
+        "content_en": "I need to arrange a visa extension before my current one expires.",
+        "content_vi": "Tôi cần sắp xếp gia hạn visa trước khi visa hiện tại hết hạn.",
+        "phonetic": "aɪ nid tə əˈreɪndʒ ə ˈvizə ɪkˈstɛnʃən bɪˈfɔr maɪ ˈkɜrənt wʌn ɪkˈspaɪrz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "visa",
+            "extension",
+            "administrative"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Sắp xếp gia hạn visa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 736,
+        "content_en": "There seems to be a discrepancy between what I ordered and what was charged.",
+        "content_vi": "Có vẻ như có sự khác biệt giữa những gì tôi đặt và những gì được tính phí.",
+        "phonetic": "ðɛr simz tə bi ə dɪˈskrɛpənsi bɪˈtwin wʌt aɪ ˈɔrdərd ænd wʌt wʌz ʧɑrdʒd",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "billing",
+            "complaint",
+            "discrepancy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về sự khác biệt trong hóa đơn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 737,
+        "content_en": "What are the check-in procedures for international flights?",
+        "content_vi": "Các thủ tục làm thủ tục cho chuyến bay quốc tế là gì?",
+        "phonetic": "wʌt ɑr ðə ʧɛk-ɪn prəˈsiʤərz fɔr ˌɪntərˈnæʃənəl flaɪts",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "check-in",
+            "procedures",
+            "international"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thủ tục check-in quốc tế",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 738,
+        "content_en": "I was pleasantly surprised by how affordable the local cuisine was.",
+        "content_vi": "Tôi đã ngạc nhiên thú vị về việc ẩm thực địa phương rẻ như thế nào.",
+        "phonetic": "aɪ wʌz ˈplɛzəntli sərˈpraɪzd baɪ haʊ əˈfɔrdəbəl ðə ˈloʊkəl kwɪˈzin wʌz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "food",
+            "price",
+            "positive surprise"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Ngạc nhiên về giá ẩm thực rẻ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 739,
+        "content_en": "The hostel offers a perfect balance between comfort and affordability.",
+        "content_vi": "Nhà trọ cung cấp sự cân bằng hoàn hảo giữa tiện nghi và giá cả phải chăng.",
+        "phonetic": "ðə ˈhɑstəl ˈɔfərz ə ˈpɜrfɪkt ˈbæləns bɪˈtwin ˈkʌmfərt ænd əˌfɔrdəˈbɪləti",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hostel",
+            "value",
+            "recommendation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen nhà trọ cân bằng tiện nghi và giá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 740,
+        "content_en": "Could you direct me to the nearest currency exchange?",
+        "content_vi": "Bạn có thể chỉ đường cho tôi đến quầy đổi tiền gần nhất không?",
+        "phonetic": "kʊd ju dəˈrɛkt mi tə ðə ˈnɪrəst ˈkɜrənsi ɪksˈʧeɪndʒ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "currency exchange",
+            "location",
+            "direction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi đường đến quầy đổi tiền",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 741,
+        "content_en": "I've heard that pickpocketing is common in tourist areas.",
+        "content_vi": "Tôi nghe nói móc túi phổ biến ở các khu du lịch.",
+        "phonetic": "aɪv hɜrd ðæt ˈpɪkˌpɑkətɪŋ ɪz ˈkɑmən ɪn ˈtʊrɪst ˈɛriəz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "safety",
+            "warning",
+            "crime"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cảnh báo về móc túi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 742,
+        "content_en": "The airline compensated us for the inconvenience caused by the delay.",
+        "content_vi": "Hãng hàng không đã bồi thường cho chúng tôi vì sự bất tiện do chậm trễ gây ra.",
+        "phonetic": "ði ˈɛrˌlaɪn ˈkɑmpənˌseɪtəd ʌs fɔr ði ˌɪnkənˈvinjəns kɔzd baɪ ðə dɪˈleɪ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "compensation",
+            "delay",
+            "airline"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo được bồi thường",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 743,
+        "content_en": "I'm trying to find transportation that's both convenient and economical.",
+        "content_vi": "Tôi đang cố tìm phương tiện vừa tiện lợi vừa tiết kiệm.",
+        "phonetic": "aɪm ˈtraɪɪŋ tə faɪnd ˌtrænspərˈteɪʃən ðæts boʊθ kənˈvinjənt ænd ˌɛkəˈnɑmɪkəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "transportation",
+            "search",
+            "value"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm phương tiện tiện lợi và tiết kiệm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 744,
+        "content_en": "What precautions should I take when traveling alone at night?",
+        "content_vi": "Tôi nên thực hiện biện pháp phòng ngừa nào khi đi du lịch một mình vào ban đêm?",
+        "phonetic": "wʌt prɪˈkɔʃənz ʃʊd aɪ teɪk wɛn ˈtrævəlɪŋ əˈloʊn æt naɪt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "safety",
+            "night travel",
+            "advice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về an toàn khi đi đêm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 745,
+        "content_en": "The view from my hotel room was absolutely stunning.",
+        "content_vi": "Tầm nhìn từ phòng khách sạn của tôi thực sự tuyệt đẹp.",
+        "phonetic": "ðə vju frʌm maɪ hoʊˈtɛl rum wʌz ˈæbsəˌlutli ˈstʌnɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "view",
+            "compliment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen tầm nhìn từ phòng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 746,
+        "content_en": "I'd like to purchase travel insurance that covers medical emergencies.",
+        "content_vi": "Tôi muốn mua bảo hiểm du lịch bao gồm trường hợp khẩn cấp y tế.",
+        "phonetic": "aɪd laɪk tə ˈpɜrʧəs ˈtrævəl ɪnˈʃʊrəns ðæt ˈkʌvərz ˈmɛdɪkəl ɪˈmɜrʤənsiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "insurance",
+            "medical",
+            "purchase"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mua bảo hiểm du lịch",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 747,
+        "content_en": "The travel agency helped me plan an itinerary that fit my budget.",
+        "content_vi": "Công ty du lịch đã giúp tôi lập kế hoạch hành trình phù hợp với ngân sách.",
+        "phonetic": "ðə ˈtrævəl ˈeɪdʒənsi hɛlpt mi plæn ən aɪˈtɪnəˌrɛri ðæt fɪt maɪ ˈbʌdʒɪt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "travel agency",
+            "itinerary",
+            "budget"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen công ty du lịch lập kế hoạch",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 748,
+        "content_en": "I need assistance with filling out these customs declaration forms.",
+        "content_vi": "Tôi cần hỗ trợ điền các mẫu khai báo hải quan này.",
+        "phonetic": "aɪ nid əˈsɪstəns wɪð ˈfɪlɪŋ aʊt ðiz ˈkʌstəmz ˌdɛkləˈreɪʃən fɔrmz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "customs",
+            "forms",
+            "assistance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin giúp điền mẫu hải quan",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 749,
+        "content_en": "The local market is definitely worth visiting if you have time.",
+        "content_vi": "Chợ địa phương chắc chắn đáng tham quan nếu bạn có thời gian.",
+        "phonetic": "ðə ˈloʊkəl ˈmɑrkət ɪz ˈdɛfənətli wɜrθ ˈvɪzɪtɪŋ ɪf ju hæv taɪm",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "market",
+            "recommendation",
+            "local"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gợi ý tham quan chợ địa phương",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 750,
+        "content_en": "I'm concerned about the security of my belongings in the shared dormitory.",
+        "content_vi": "Tôi lo lắng về sự an toàn của đồ đạc trong phòng ngủ chung.",
+        "phonetic": "aɪm kənˈsɜrnd əˈbaʊt ðə sɪˈkjʊrəti ʌv maɪ bɪˈlɔŋɪŋz ɪn ðə ʃɛrd ˈdɔrmɪˌtɔri",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "security",
+            "hostel",
+            "concern"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Lo lắng về an toàn đồ đạc",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 751,
+        "content_en": "Have you experienced any issues with your accommodation so far?",
+        "content_vi": "Bạn đã gặp vấn đề gì với chỗ ở cho đến nay chưa?",
+        "phonetic": "hæv ju ɪkˈspɪriənst ˈɛni ˈɪʃuz wɪð jʊr əˌkɑməˈdeɪʃən soʊ fɑr",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "accommodation",
+            "inquiry",
+            "problems"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về vấn đề với chỗ ở",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 752,
+        "content_en": "The overnight train journey was surprisingly comfortable and convenient.",
+        "content_vi": "Hành trình tàu qua đêm ngạc nhiên là thoải mái và tiện lợi.",
+        "phonetic": "ði ˈoʊvərˌnaɪt treɪn ˈdʒɜrni wʌz sərˈpraɪzɪŋli ˈkʌmfərtəbəl ænd kənˈvinjənt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "train",
+            "overnight",
+            "positive experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen hành trình tàu qua đêm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 753,
+        "content_en": "I wasn't expecting the weather to be quite this unpredictable.",
+        "content_vi": "Tôi không mong đợi thời tiết lại khá khó đoán như thế này.",
+        "phonetic": "aɪ ˈwɑzənt ɪkˈspɛktɪŋ ðə ˈwɛðər tə bi kwaɪt ðɪs ˌʌnprɪˈdɪktəbəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "weather",
+            "surprise",
+            "observation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nhận xét về thời tiết khó đoán",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

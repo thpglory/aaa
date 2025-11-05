@@ -1,0 +1,1099 @@
+[
+    {
+        "id": 654,
+        "content_en": "Could you recommend a good hotel nearby?",
+        "content_vi": "Bạn có thể giới thiệu một khách sạn tốt gần đây không?",
+        "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə ɡʊd hoʊˈtɛl ˈnɪrˌbaɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "hotel",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gợi ý khách sạn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 655,
+        "content_en": "What time does the museum open?",
+        "content_vi": "Bảo tàng mở cửa lúc mấy giờ?",
+        "phonetic": "wʌt taɪm dʌz ðə mjuˈziəm ˈoʊpən",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "time",
+            "museum",
+            "opening hours"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giờ mở cửa bảo tàng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 656,
+        "content_en": "How do I get to the train station from here?",
+        "content_vi": "Làm sao để đi đến ga tàu từ đây?",
+        "phonetic": "haʊ du aɪ ɡɛt tə ðə treɪn ˈsteɪʃən frʌm hɪr",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "direction",
+            "train",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi cách đến ga tàu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 657,
+        "content_en": "Is there a shuttle bus to the airport?",
+        "content_vi": "Có xe buýt đưa đón đến sân bay không?",
+        "phonetic": "ɪz ðɛr ə ˈʃʌtəl bʌs tə ði ˈɛrˌpɔrt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "transportation",
+            "airport",
+            "shuttle"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về xe đưa đón sân bay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 658,
+        "content_en": "I'd like to book a tour for tomorrow.",
+        "content_vi": "Tôi muốn đặt một tour cho ngày mai.",
+        "phonetic": "aɪd laɪk tə bʊk ə tʊr fɔr təˈmɑroʊ",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "booking",
+            "tour",
+            "future"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đặt tour du lịch",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 659,
+        "content_en": "Can I pay by credit card?",
+        "content_vi": "Tôi có thể trả bằng thẻ tín dụng không?",
+        "phonetic": "kæn aɪ peɪ baɪ ˈkrɛdɪt kɑrd",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "payment",
+            "credit card"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thanh toán thẻ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 660,
+        "content_en": "My flight has been delayed.",
+        "content_vi": "Chuyến bay của tôi đã bị hoãn.",
+        "phonetic": "maɪ flaɪt hæz bɪn dɪˈleɪd",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "flight",
+            "delay",
+            "problem"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo chuyến bay bị delay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 661,
+        "content_en": "Where can I find a taxi?",
+        "content_vi": "Tôi có thể tìm taxi ở đâu?",
+        "phonetic": "wɛr kæn aɪ faɪnd ə ˈtæksi",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "taxi",
+            "location",
+            "transportation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi nơi tìm taxi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 662,
+        "content_en": "How much is a ticket to the city center?",
+        "content_vi": "Vé đến trung tâm thành phố giá bao nhiêu?",
+        "phonetic": "haʊ mʌʧ ɪz ə ˈtɪkət tə ðə ˈsɪti ˈsɛntər",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "price",
+            "ticket",
+            "city center"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giá vé đến trung tâm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 663,
+        "content_en": "I need to cancel my reservation.",
+        "content_vi": "Tôi cần hủy đặt chỗ của mình.",
+        "phonetic": "aɪ nid tə ˈkænsəl maɪ ˌrɛzərˈveɪʃən",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "cancellation",
+            "reservation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu hủy đặt chỗ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 664,
+        "content_en": "What time is check-out?",
+        "content_vi": "Mấy giờ là giờ trả phòng?",
+        "phonetic": "wʌt taɪm ɪz ʧɛk-aʊt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "check-out",
+            "time"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giờ trả phòng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 665,
+        "content_en": "Can I store my luggage here?",
+        "content_vi": "Tôi có thể gửi hành lý ở đây không?",
+        "phonetic": "kæn aɪ stɔr maɪ ˈlʌɡɪdʒ hɪr",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "luggage",
+            "storage",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về gửi hành lý",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 666,
+        "content_en": "Is there a pharmacy near here?",
+        "content_vi": "Có hiệu thuốc nào gần đây không?",
+        "phonetic": "ɪz ðɛr ə ˈfɑrməsi nɪr hɪr",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "pharmacy",
+            "location",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về hiệu thuốc gần đó",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 667,
+        "content_en": "The air conditioning isn't working.",
+        "content_vi": "Điều hòa không hoạt động.",
+        "phonetic": "ði ɛr kənˈdɪʃənɪŋ ˈɪzənt ˈwɜrkɪŋ",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "problem",
+            "facilities",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo điều hòa hỏng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 668,
+        "content_en": "I'd like a window seat, please.",
+        "content_vi": "Làm ơn cho tôi chỗ ngồi cạnh cửa sổ.",
+        "phonetic": "aɪd laɪk ə ˈwɪndoʊ sit, pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "seat",
+            "preference",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chỗ ngồi cửa sổ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 669,
+        "content_en": "How long does the tour last?",
+        "content_vi": "Tour kéo dài bao lâu?",
+        "phonetic": "haʊ lɔŋ dʌz ðə tʊr læst",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tour",
+            "duration",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi thời gian tour",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 670,
+        "content_en": "Are there any guided tours available?",
+        "content_vi": "Có tour có hướng dẫn viên nào không?",
+        "phonetic": "ɑr ðɛr ˈɛni ˈɡaɪdəd tʊrz əˈveɪləbəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tour",
+            "guide",
+            "availability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về tour có hướng dẫn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 671,
+        "content_en": "I'm looking for the nearest ATM.",
+        "content_vi": "Tôi đang tìm máy ATM gần nhất.",
+        "phonetic": "aɪm ˈlʊkɪŋ fɔr ðə ˈnɪrəst ˌeɪˌtiˈɛm",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "ATM",
+            "money",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm máy ATM",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 672,
+        "content_en": "What's the exchange rate?",
+        "content_vi": "Tỷ giá hối đoái là bao nhiêu?",
+        "phonetic": "wʌts ði ɪksˈʧeɪndʒ reɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "money",
+            "exchange rate",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi tỷ giá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 673,
+        "content_en": "Could you call a taxi for me?",
+        "content_vi": "Bạn có thể gọi taxi cho tôi không?",
+        "phonetic": "kʊd ju kɔl ə ˈtæksi fɔr mi",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "taxi",
+            "request",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nhờ gọi taxi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 674,
+        "content_en": "Which platform does the train leave from?",
+        "content_vi": "Tàu khởi hành từ sân ga nào?",
+        "phonetic": "wɪʧ ˈplætˌfɔrm dʌz ðə treɪn liv frʌm",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "train",
+            "platform",
+            "departure"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi sân ga tàu khởi hành",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 675,
+        "content_en": "I lost my boarding pass.",
+        "content_vi": "Tôi làm mất thẻ lên máy bay.",
+        "phonetic": "aɪ lɔst maɪ ˈbɔrdɪŋ pæs",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "problem",
+            "boarding pass",
+            "lost"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo mất thẻ lên máy bay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 676,
+        "content_en": "Is there free WiFi in the hotel?",
+        "content_vi": "Có WiFi miễn phí trong khách sạn không?",
+        "phonetic": "ɪz ðɛr fri ˈwaɪˌfaɪ ɪn ðə hoʊˈtɛl",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "wifi",
+            "hotel",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về WiFi miễn phí",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 677,
+        "content_en": "Can you suggest some local attractions?",
+        "content_vi": "Bạn có thể gợi ý một số điểm tham quan địa phương không?",
+        "phonetic": "kæn ju səɡˈdʒɛst sʌm ˈloʊkəl əˈtrækʃənz",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "attractions",
+            "local"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gợi ý điểm tham quan",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 678,
+        "content_en": "My luggage hasn't arrived yet.",
+        "content_vi": "Hành lý của tôi chưa đến.",
+        "phonetic": "maɪ ˈlʌɡɪdʒ ˈhæzənt əˈraɪvd jɛt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "luggage",
+            "problem",
+            "delay"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo hành lý chưa đến",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 679,
+        "content_en": "Where is the luggage claim area?",
+        "content_vi": "Khu vực nhận hành lý ở đâu?",
+        "phonetic": "wɛr ɪz ðə ˈlʌɡɪdʒ kleɪm ˈɛriə",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "luggage",
+            "location",
+            "airport"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi khu vực nhận hành lý",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 680,
+        "content_en": "Do I need to change trains?",
+        "content_vi": "Tôi có cần đổi tàu không?",
+        "phonetic": "du aɪ nid tə ʧeɪndʒ treɪnz",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "train",
+            "transfer",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về đổi tàu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 681,
+        "content_en": "How far is it from the airport?",
+        "content_vi": "Cách sân bay bao xa?",
+        "phonetic": "haʊ fɑr ɪz ɪt frʌm ði ˈɛrˌpɔrt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "distance",
+            "airport",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi khoảng cách từ sân bay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 682,
+        "content_en": "I'd like to extend my stay.",
+        "content_vi": "Tôi muốn gia hạn lưu trú.",
+        "phonetic": "aɪd laɪk tə ɪkˈstɛnd maɪ steɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "extension",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gia hạn lưu trú",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 683,
+        "content_en": "What's included in the tour price?",
+        "content_vi": "Giá tour bao gồm những gì?",
+        "phonetic": "wʌts ɪnˈkludəd ɪn ðə tʊr praɪs",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "tour",
+            "price",
+            "inclusion"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về bao gồm trong giá tour",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 684,
+        "content_en": "Can I get a refund?",
+        "content_vi": "Tôi có thể được hoàn tiền không?",
+        "phonetic": "kæn aɪ ɡɛt ə ˈriˌfʌnd",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "refund",
+            "money",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về hoàn tiền",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 685,
+        "content_en": "Where can I rent a car?",
+        "content_vi": "Tôi có thể thuê xe ở đâu?",
+        "phonetic": "wɛr kæn aɪ rɛnt ə kɑr",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "car rental",
+            "location",
+            "transportation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi nơi thuê xe",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 686,
+        "content_en": "Is parking available at the hotel?",
+        "content_vi": "Khách sạn có chỗ đỗ xe không?",
+        "phonetic": "ɪz ˈpɑrkɪŋ əˈveɪləbəl æt ðə hoʊˈtɛl",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "parking",
+            "hotel",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chỗ đỗ xe",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 687,
+        "content_en": "Can you wake me up at 7 AM?",
+        "content_vi": "Bạn có thể đánh thức tôi lúc 7 giờ sáng không?",
+        "phonetic": "kæn ju weɪk mi ʌp æt ˈsɛvən ˌeɪˈɛm",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "wake-up call",
+            "service",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin dịch vụ đánh thức",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 688,
+        "content_en": "I need extra towels.",
+        "content_vi": "Tôi cần thêm khăn tắm.",
+        "phonetic": "aɪ nid ˈɛkstrə ˈtaʊəlz",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "amenities",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thêm khăn tắm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 689,
+        "content_en": "What's the best way to get around the city?",
+        "content_vi": "Cách tốt nhất để di chuyển quanh thành phố là gì?",
+        "phonetic": "wʌts ðə bɛst weɪ tə ɡɛt əˈraʊnd ðə ˈsɪti",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "transportation",
+            "advice",
+            "city"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phương tiện di chuyển",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 690,
+        "content_en": "Are there any discounts for students?",
+        "content_vi": "Có giảm giá cho sinh viên không?",
+        "phonetic": "ɑr ðɛr ˈɛni ˈdɪsˌkaʊnts fɔr ˈstudənts",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "discount",
+            "student",
+            "price"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về giảm giá sinh viên",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 691,
+        "content_en": "I'd like a non-smoking room.",
+        "content_vi": "Tôi muốn phòng không hút thuốc.",
+        "phonetic": "aɪd laɪk ə nɑn-ˈsmoʊkɪŋ rum",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "hotel",
+            "room",
+            "preference"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin phòng không khói",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 692,
+        "content_en": "Does the price include taxes?",
+        "content_vi": "Giá đã bao gồm thuế chưa?",
+        "phonetic": "dʌz ðə praɪs ɪnˈklud ˈtæksɪz",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "price",
+            "tax",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về giá đã bao gồm thuế",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 693,
+        "content_en": "Can I have a receipt, please?",
+        "content_vi": "Cho tôi xin hóa đơn được không?",
+        "phonetic": "kæn aɪ hæv ə rɪˈsit, pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "receipt",
+            "request",
+            "payment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin hóa đơn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 694,
+        "content_en": "Where's the nearest bus stop?",
+        "content_vi": "Trạm xe buýt gần nhất ở đâu?",
+        "phonetic": "wɛrz ðə ˈnɪrəst bʌs stɑp",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "bus",
+            "location",
+            "transportation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi trạm xe buýt gần nhất",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 695,
+        "content_en": "I have a connecting flight.",
+        "content_vi": "Tôi có chuyến bay nối tiếp.",
+        "phonetic": "aɪ hæv ə kəˈnɛktɪŋ flaɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "flight",
+            "connection",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo có chuyến bay nối",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 696,
+        "content_en": "What attractions are nearby?",
+        "content_vi": "Những điểm tham quan nào ở gần đây?",
+        "phonetic": "wʌt əˈtrækʃənz ɑr ˈnɪrˌbaɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "attractions",
+            "location",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về điểm tham quan gần",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 697,
+        "content_en": "I need to report a lost item.",
+        "content_vi": "Tôi cần báo mất đồ.",
+        "phonetic": "aɪ nid tə rɪˈpɔrt ə lɔst ˈaɪtəm",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "lost",
+            "report",
+            "problem"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo mất đồ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 698,
+        "content_en": "Is there a gym in the hotel?",
+        "content_vi": "Khách sạn có phòng tập gym không?",
+        "phonetic": "ɪz ðɛr ə dʒɪm ɪn ðə hoʊˈtɛl",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "gym",
+            "facilities",
+            "hotel"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phòng gym",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 699,
+        "content_en": "Can I leave my bags with you?",
+        "content_vi": "Tôi có thể để túi xách với bạn không?",
+        "phonetic": "kæn aɪ liv maɪ bæɡz wɪð ju",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "luggage",
+            "storage",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gửi hành lý",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 700,
+        "content_en": "How often do the buses run?",
+        "content_vi": "Xe buýt chạy bao lâu một chuyến?",
+        "phonetic": "haʊ ˈɔfən du ðə ˈbʌsɪz rʌn",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "bus",
+            "frequency",
+            "schedule"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi tần suất xe buýt",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 701,
+        "content_en": "I'm traveling alone.",
+        "content_vi": "Tôi đi du lịch một mình.",
+        "phonetic": "aɪm ˈtrævəlɪŋ əˈloʊn",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "solo travel",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo đi một mình",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 702,
+        "content_en": "What time should I arrive at the airport?",
+        "content_vi": "Tôi nên đến sân bay lúc mấy giờ?",
+        "phonetic": "wʌt taɪm ʃʊd aɪ əˈraɪv æt ði ˈɛrˌpɔrt",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "airport",
+            "time",
+            "advice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi thời gian đến sân bay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 703,
+        "content_en": "Is there a laundry service?",
+        "content_vi": "Có dịch vụ giặt ủi không?",
+        "phonetic": "ɪz ðɛr ə ˈlɔndri ˈsɜrvəs",
+        "level_id": "A2",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "laundry",
+            "service",
+            "hotel"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về dịch vụ giặt ủi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]
