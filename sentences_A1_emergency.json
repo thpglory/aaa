@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1604,
+        "content_en": "Emergency sentence A1 1",
+        "content_vi": "Câu emergency A1 1",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 1",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1605,
+        "content_en": "Emergency sentence A1 2",
+        "content_vi": "Câu emergency A1 2",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 2",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1606,
+        "content_en": "Emergency sentence A1 3",
+        "content_vi": "Câu emergency A1 3",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 3",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1607,
+        "content_en": "Emergency sentence A1 4",
+        "content_vi": "Câu emergency A1 4",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 4",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1608,
+        "content_en": "Emergency sentence A1 5",
+        "content_vi": "Câu emergency A1 5",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 5",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1609,
+        "content_en": "Emergency sentence A1 6",
+        "content_vi": "Câu emergency A1 6",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 6",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1610,
+        "content_en": "Emergency sentence A1 7",
+        "content_vi": "Câu emergency A1 7",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 7",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1611,
+        "content_en": "Emergency sentence A1 8",
+        "content_vi": "Câu emergency A1 8",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 8",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1612,
+        "content_en": "Emergency sentence A1 9",
+        "content_vi": "Câu emergency A1 9",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 9",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1613,
+        "content_en": "Emergency sentence A1 10",
+        "content_vi": "Câu emergency A1 10",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 10",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1614,
+        "content_en": "Emergency sentence A1 11",
+        "content_vi": "Câu emergency A1 11",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 11",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1615,
+        "content_en": "Emergency sentence A1 12",
+        "content_vi": "Câu emergency A1 12",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 12",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1616,
+        "content_en": "Emergency sentence A1 13",
+        "content_vi": "Câu emergency A1 13",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 13",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1617,
+        "content_en": "Emergency sentence A1 14",
+        "content_vi": "Câu emergency A1 14",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 14",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1618,
+        "content_en": "Emergency sentence A1 15",
+        "content_vi": "Câu emergency A1 15",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 15",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1619,
+        "content_en": "Emergency sentence A1 16",
+        "content_vi": "Câu emergency A1 16",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 16",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1620,
+        "content_en": "Emergency sentence A1 17",
+        "content_vi": "Câu emergency A1 17",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 17",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1621,
+        "content_en": "Emergency sentence A1 18",
+        "content_vi": "Câu emergency A1 18",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 18",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1622,
+        "content_en": "Emergency sentence A1 19",
+        "content_vi": "Câu emergency A1 19",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 19",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1623,
+        "content_en": "Emergency sentence A1 20",
+        "content_vi": "Câu emergency A1 20",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 20",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1624,
+        "content_en": "Emergency sentence A1 21",
+        "content_vi": "Câu emergency A1 21",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 21",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1625,
+        "content_en": "Emergency sentence A1 22",
+        "content_vi": "Câu emergency A1 22",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 22",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1626,
+        "content_en": "Emergency sentence A1 23",
+        "content_vi": "Câu emergency A1 23",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 23",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1627,
+        "content_en": "Emergency sentence A1 24",
+        "content_vi": "Câu emergency A1 24",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 24",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1628,
+        "content_en": "Emergency sentence A1 25",
+        "content_vi": "Câu emergency A1 25",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 25",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1629,
+        "content_en": "Emergency sentence A1 26",
+        "content_vi": "Câu emergency A1 26",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 26",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1630,
+        "content_en": "Emergency sentence A1 27",
+        "content_vi": "Câu emergency A1 27",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 27",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1631,
+        "content_en": "Emergency sentence A1 28",
+        "content_vi": "Câu emergency A1 28",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 28",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1632,
+        "content_en": "Emergency sentence A1 29",
+        "content_vi": "Câu emergency A1 29",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 29",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1633,
+        "content_en": "Emergency sentence A1 30",
+        "content_vi": "Câu emergency A1 30",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 30",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1634,
+        "content_en": "Emergency sentence A1 31",
+        "content_vi": "Câu emergency A1 31",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 31",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1635,
+        "content_en": "Emergency sentence A1 32",
+        "content_vi": "Câu emergency A1 32",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 32",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1636,
+        "content_en": "Emergency sentence A1 33",
+        "content_vi": "Câu emergency A1 33",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 33",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1637,
+        "content_en": "Emergency sentence A1 34",
+        "content_vi": "Câu emergency A1 34",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 34",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1638,
+        "content_en": "Emergency sentence A1 35",
+        "content_vi": "Câu emergency A1 35",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 35",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1639,
+        "content_en": "Emergency sentence A1 36",
+        "content_vi": "Câu emergency A1 36",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 36",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1640,
+        "content_en": "Emergency sentence A1 37",
+        "content_vi": "Câu emergency A1 37",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 37",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1641,
+        "content_en": "Emergency sentence A1 38",
+        "content_vi": "Câu emergency A1 38",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 38",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1642,
+        "content_en": "Emergency sentence A1 39",
+        "content_vi": "Câu emergency A1 39",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 39",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1643,
+        "content_en": "Emergency sentence A1 40",
+        "content_vi": "Câu emergency A1 40",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 40",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1644,
+        "content_en": "Emergency sentence A1 41",
+        "content_vi": "Câu emergency A1 41",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 41",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1645,
+        "content_en": "Emergency sentence A1 42",
+        "content_vi": "Câu emergency A1 42",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 42",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1646,
+        "content_en": "Emergency sentence A1 43",
+        "content_vi": "Câu emergency A1 43",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 43",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1647,
+        "content_en": "Emergency sentence A1 44",
+        "content_vi": "Câu emergency A1 44",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 44",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1648,
+        "content_en": "Emergency sentence A1 45",
+        "content_vi": "Câu emergency A1 45",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 45",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1649,
+        "content_en": "Emergency sentence A1 46",
+        "content_vi": "Câu emergency A1 46",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 46",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1650,
+        "content_en": "Emergency sentence A1 47",
+        "content_vi": "Câu emergency A1 47",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 47",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1651,
+        "content_en": "Emergency sentence A1 48",
+        "content_vi": "Câu emergency A1 48",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 48",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1652,
+        "content_en": "Emergency sentence A1 49",
+        "content_vi": "Câu emergency A1 49",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 49",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1653,
+        "content_en": "Emergency sentence A1 50",
+        "content_vi": "Câu emergency A1 50",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "emergency",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 50",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

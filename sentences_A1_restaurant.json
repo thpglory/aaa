@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 804,
+        "content_en": "I'm hungry.",
+        "content_vi": "Tôi đói.",
+        "phonetic": "aɪm ˈhʌŋɡri",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "basic",
+            "hunger"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về cảm giác đói",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 805,
+        "content_en": "I'm thirsty.",
+        "content_vi": "Tôi khát.",
+        "phonetic": "aɪm ˈθɜrsti",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "basic",
+            "thirst"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về cảm giác khát",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 806,
+        "content_en": "Can I see the menu?",
+        "content_vi": "Cho tôi xem thực đơn được không?",
+        "phonetic": "kæn aɪ si ðə ˈmɛnju",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "menu",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin xem thực đơn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 807,
+        "content_en": "I'd like water, please.",
+        "content_vi": "Cho tôi xin nước.",
+        "phonetic": "aɪd laɪk ˈwɔtər, pliz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "drink"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi nước",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 808,
+        "content_en": "What do you recommend?",
+        "content_vi": "Bạn gợi ý món gì?",
+        "phonetic": "wʌt du ju ˌrɛkəˈmɛnd",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "recommendation",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi gợi ý món ăn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 809,
+        "content_en": "I'll have the chicken.",
+        "content_vi": "Tôi sẽ lấy món gà.",
+        "phonetic": "aɪl hæv ðə ˈʧɪkən",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "food"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi món gà",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 810,
+        "content_en": "Can I have the bill?",
+        "content_vi": "Cho tôi xin hóa đơn?",
+        "phonetic": "kæn aɪ hæv ðə bɪl",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "bill",
+            "payment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin hóa đơn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 811,
+        "content_en": "This is delicious!",
+        "content_vi": "Món này ngon quá!",
+        "phonetic": "ðɪs ɪz dɪˈlɪʃəs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "taste"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen món ăn ngon",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 812,
+        "content_en": "Is this spicy?",
+        "content_vi": "Món này có cay không?",
+        "phonetic": "ɪz ðɪs ˈspaɪsi",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "spicy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về độ cay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 813,
+        "content_en": "No salt, please.",
+        "content_vi": "Làm ơn không cho muối.",
+        "phonetic": "noʊ sɔlt, pliz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "dietary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu không muối",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 814,
+        "content_en": "I'm vegetarian.",
+        "content_vi": "Tôi ăn chay.",
+        "phonetic": "aɪm ˌvɛʤəˈtɛriən",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "vegetarian"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo ăn chay",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 815,
+        "content_en": "A table for two, please.",
+        "content_vi": "Cho tôi bàn cho hai người.",
+        "phonetic": "ə ˈteɪbəl fɔr tu, pliz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "seating",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin bàn cho 2 người",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 816,
+        "content_en": "Do you have coffee?",
+        "content_vi": "Bạn có cà phê không?",
+        "phonetic": "du ju hæv ˈkɔfi",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "drink",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cà phê",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 817,
+        "content_en": "One moment, please.",
+        "content_vi": "Xin chờ một chút.",
+        "phonetic": "wʌn ˈmoʊmənt, pliz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "waiting",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chờ một chút",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 818,
+        "content_en": "What's this?",
+        "content_vi": "Đây là món gì?",
+        "phonetic": "wʌts ðɪs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "identification"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món ăn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 819,
+        "content_en": "It's too hot.",
+        "content_vi": "Nó nóng quá.",
+        "phonetic": "ɪts tu hɑt",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "temperature",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn nóng quá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 820,
+        "content_en": "It's too cold.",
+        "content_vi": "Nó lạnh quá.",
+        "phonetic": "ɪts tu koʊld",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "temperature",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn lạnh quá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 821,
+        "content_en": "More water, please.",
+        "content_vi": "Cho thêm nước.",
+        "phonetic": "mɔr ˈwɔtər, pliz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "drink"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thêm nước",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 822,
+        "content_en": "No sugar, please.",
+        "content_vi": "Không đường, cảm ơn.",
+        "phonetic": "noʊ ˈʃʊɡər, pliz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "dietary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Không cho đường",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 823,
+        "content_en": "I'm full.",
+        "content_vi": "Tôi no rồi.",
+        "phonetic": "aɪm fʊl",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "basic",
+            "fullness"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về cảm giác no",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 824,
+        "content_en": "Thank you!",
+        "content_vi": "Cảm ơn!",
+        "phonetic": "θæŋk ju",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "gratitude",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cảm ơn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 825,
+        "content_en": "Where is the bathroom?",
+        "content_vi": "Nhà vệ sinh ở đâu?",
+        "phonetic": "wɛr ɪz ðə ˈbæθˌrum",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "bathroom",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi nhà vệ sinh",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 826,
+        "content_en": "How much is this?",
+        "content_vi": "Cái này bao nhiêu tiền?",
+        "phonetic": "haʊ mʌʧ ɪz ðɪs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "price",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 827,
+        "content_en": "Do you have tea?",
+        "content_vi": "Bạn có trà không?",
+        "phonetic": "du ju hæv ti",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "drink",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về trà",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 828,
+        "content_en": "This is good.",
+        "content_vi": "Món này ngon.",
+        "phonetic": "ðɪs ɪz ɡʊd",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "taste"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen món ăn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 829,
+        "content_en": "I don't eat meat.",
+        "content_vi": "Tôi không ăn thịt.",
+        "phonetic": "aɪ doʊnt it mit",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "vegetarian"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Không ăn thịt",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 830,
+        "content_en": "Can I order?",
+        "content_vi": "Tôi có thể gọi món không?",
+        "phonetic": "kæn aɪ ˈɔrdər",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gọi món",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 831,
+        "content_en": "Is this fresh?",
+        "content_vi": "Món này tươi không?",
+        "phonetic": "ɪz ðɪs frɛʃ",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "quality",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi độ tươi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 832,
+        "content_en": "I like this.",
+        "content_vi": "Tôi thích món này.",
+        "phonetic": "aɪ laɪk ðɪs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "preference",
+            "like"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thích món ăn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 833,
+        "content_en": "I don't like this.",
+        "content_vi": "Tôi không thích món này.",
+        "phonetic": "aɪ doʊnt laɪk ðɪs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "preference",
+            "dislike"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Không thích món ăn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 834,
+        "content_en": "Can I pay now?",
+        "content_vi": "Tôi có thể thanh toán bây giờ không?",
+        "phonetic": "kæn aɪ peɪ naʊ",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "payment",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thanh toán",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 835,
+        "content_en": "Do you accept cards?",
+        "content_vi": "Bạn nhận thẻ không?",
+        "phonetic": "du ju ækˈsɛpt kɑrdz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "payment",
+            "card"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thanh toán thẻ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 836,
+        "content_en": "Can I have a fork?",
+        "content_vi": "Cho tôi xin cái nĩa?",
+        "phonetic": "kæn aɪ hæv ə fɔrk",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "utensils",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin nĩa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 837,
+        "content_en": "Can I have a spoon?",
+        "content_vi": "Cho tôi xin cái thìa?",
+        "phonetic": "kæn aɪ hæv ə spun",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "utensils",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thìa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 838,
+        "content_en": "Can I have a knife?",
+        "content_vi": "Cho tôi xin cái dao?",
+        "phonetic": "kæn aɪ hæv ə naɪf",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "utensils",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin dao",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 839,
+        "content_en": "I need a napkin.",
+        "content_vi": "Tôi cần khăn giấy.",
+        "phonetic": "aɪ nid ə ˈnæpkɪn",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "napkin",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin khăn giấy",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 840,
+        "content_en": "Can I have ice?",
+        "content_vi": "Cho tôi xin đá?",
+        "phonetic": "kæn aɪ hæv aɪs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "ice",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin đá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 841,
+        "content_en": "Is this sweet?",
+        "content_vi": "Món này có ngọt không?",
+        "phonetic": "ɪz ðɪs swit",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "taste",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về vị ngọt",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 842,
+        "content_en": "I want soup.",
+        "content_vi": "Tôi muốn súp.",
+        "phonetic": "aɪ wɑnt sup",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "food"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi súp",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 843,
+        "content_en": "I want salad.",
+        "content_vi": "Tôi muốn salad.",
+        "phonetic": "aɪ wɑnt ˈsæləd",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "food"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi salad",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 844,
+        "content_en": "I want rice.",
+        "content_vi": "Tôi muốn cơm.",
+        "phonetic": "aɪ wɑnt raɪs",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "food"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi cơm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 845,
+        "content_en": "I want bread.",
+        "content_vi": "Tôi muốn bánh mì.",
+        "phonetic": "aɪ wɑnt brɛd",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "food"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi bánh mì",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 846,
+        "content_en": "Can I have dessert?",
+        "content_vi": "Tôi có thể gọi tráng miệng không?",
+        "phonetic": "kæn aɪ hæv dɪˈzɜrt",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dessert",
+            "order"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi món tráng miệng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 847,
+        "content_en": "Is this hot?",
+        "content_vi": "Món này nóng không?",
+        "phonetic": "ɪz ðɪs hɑt",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "temperature",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về nhiệt độ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 848,
+        "content_en": "That was great!",
+        "content_vi": "Tuyệt vời!",
+        "phonetic": "ðæt wʌz ɡreɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "satisfaction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen tuyệt vời",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 849,
+        "content_en": "I'm ready to order.",
+        "content_vi": "Tôi sẵn sàng gọi món.",
+        "phonetic": "aɪm ˈrɛdi tə ˈɔrdər",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "ready"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Sẵn sàng gọi món",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 850,
+        "content_en": "Do you have fish?",
+        "content_vi": "Bạn có cá không?",
+        "phonetic": "du ju hæv fɪʃ",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "food",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món cá",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 851,
+        "content_en": "What time do you close?",
+        "content_vi": "Mấy giờ bạn đóng cửa?",
+        "phonetic": "wʌt taɪm du ju kloʊz",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "time",
+            "closing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giờ đóng cửa",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 852,
+        "content_en": "Can I sit here?",
+        "content_vi": "Tôi có thể ngồi đây không?",
+        "phonetic": "kæn aɪ sɪt hɪr",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "seating",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chỗ ngồi",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 853,
+        "content_en": "Enjoy your meal!",
+        "content_vi": "Chúc ngon miệng!",
+        "phonetic": "ɪnˈʤɔɪ jʊr mil",
+        "level_id": "A1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "polite",
+            "wish"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chúc ăn ngon",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

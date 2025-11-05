@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1504,
+        "content_en": "Office sentence B1 1",
+        "content_vi": "Câu office B1 1",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 1",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1505,
+        "content_en": "Office sentence B1 2",
+        "content_vi": "Câu office B1 2",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 2",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1506,
+        "content_en": "Office sentence B1 3",
+        "content_vi": "Câu office B1 3",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 3",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1507,
+        "content_en": "Office sentence B1 4",
+        "content_vi": "Câu office B1 4",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 4",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1508,
+        "content_en": "Office sentence B1 5",
+        "content_vi": "Câu office B1 5",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 5",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1509,
+        "content_en": "Office sentence B1 6",
+        "content_vi": "Câu office B1 6",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 6",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1510,
+        "content_en": "Office sentence B1 7",
+        "content_vi": "Câu office B1 7",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 7",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1511,
+        "content_en": "Office sentence B1 8",
+        "content_vi": "Câu office B1 8",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 8",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1512,
+        "content_en": "Office sentence B1 9",
+        "content_vi": "Câu office B1 9",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 9",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1513,
+        "content_en": "Office sentence B1 10",
+        "content_vi": "Câu office B1 10",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 10",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1514,
+        "content_en": "Office sentence B1 11",
+        "content_vi": "Câu office B1 11",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 11",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1515,
+        "content_en": "Office sentence B1 12",
+        "content_vi": "Câu office B1 12",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 12",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1516,
+        "content_en": "Office sentence B1 13",
+        "content_vi": "Câu office B1 13",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 13",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1517,
+        "content_en": "Office sentence B1 14",
+        "content_vi": "Câu office B1 14",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 14",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1518,
+        "content_en": "Office sentence B1 15",
+        "content_vi": "Câu office B1 15",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 15",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1519,
+        "content_en": "Office sentence B1 16",
+        "content_vi": "Câu office B1 16",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 16",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1520,
+        "content_en": "Office sentence B1 17",
+        "content_vi": "Câu office B1 17",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 17",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1521,
+        "content_en": "Office sentence B1 18",
+        "content_vi": "Câu office B1 18",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 18",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1522,
+        "content_en": "Office sentence B1 19",
+        "content_vi": "Câu office B1 19",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 19",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1523,
+        "content_en": "Office sentence B1 20",
+        "content_vi": "Câu office B1 20",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 20",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1524,
+        "content_en": "Office sentence B1 21",
+        "content_vi": "Câu office B1 21",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 21",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1525,
+        "content_en": "Office sentence B1 22",
+        "content_vi": "Câu office B1 22",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 22",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1526,
+        "content_en": "Office sentence B1 23",
+        "content_vi": "Câu office B1 23",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 23",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1527,
+        "content_en": "Office sentence B1 24",
+        "content_vi": "Câu office B1 24",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 24",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1528,
+        "content_en": "Office sentence B1 25",
+        "content_vi": "Câu office B1 25",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 25",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1529,
+        "content_en": "Office sentence B1 26",
+        "content_vi": "Câu office B1 26",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 26",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1530,
+        "content_en": "Office sentence B1 27",
+        "content_vi": "Câu office B1 27",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 27",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1531,
+        "content_en": "Office sentence B1 28",
+        "content_vi": "Câu office B1 28",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 28",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1532,
+        "content_en": "Office sentence B1 29",
+        "content_vi": "Câu office B1 29",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 29",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1533,
+        "content_en": "Office sentence B1 30",
+        "content_vi": "Câu office B1 30",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 30",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1534,
+        "content_en": "Office sentence B1 31",
+        "content_vi": "Câu office B1 31",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 31",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1535,
+        "content_en": "Office sentence B1 32",
+        "content_vi": "Câu office B1 32",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 32",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1536,
+        "content_en": "Office sentence B1 33",
+        "content_vi": "Câu office B1 33",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 33",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1537,
+        "content_en": "Office sentence B1 34",
+        "content_vi": "Câu office B1 34",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 34",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1538,
+        "content_en": "Office sentence B1 35",
+        "content_vi": "Câu office B1 35",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 35",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1539,
+        "content_en": "Office sentence B1 36",
+        "content_vi": "Câu office B1 36",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 36",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1540,
+        "content_en": "Office sentence B1 37",
+        "content_vi": "Câu office B1 37",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 37",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1541,
+        "content_en": "Office sentence B1 38",
+        "content_vi": "Câu office B1 38",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 38",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1542,
+        "content_en": "Office sentence B1 39",
+        "content_vi": "Câu office B1 39",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 39",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1543,
+        "content_en": "Office sentence B1 40",
+        "content_vi": "Câu office B1 40",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 40",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1544,
+        "content_en": "Office sentence B1 41",
+        "content_vi": "Câu office B1 41",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 41",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1545,
+        "content_en": "Office sentence B1 42",
+        "content_vi": "Câu office B1 42",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 42",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1546,
+        "content_en": "Office sentence B1 43",
+        "content_vi": "Câu office B1 43",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 43",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1547,
+        "content_en": "Office sentence B1 44",
+        "content_vi": "Câu office B1 44",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 44",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1548,
+        "content_en": "Office sentence B1 45",
+        "content_vi": "Câu office B1 45",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 45",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1549,
+        "content_en": "Office sentence B1 46",
+        "content_vi": "Câu office B1 46",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 46",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1550,
+        "content_en": "Office sentence B1 47",
+        "content_vi": "Câu office B1 47",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 47",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1551,
+        "content_en": "Office sentence B1 48",
+        "content_vi": "Câu office B1 48",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 48",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1552,
+        "content_en": "Office sentence B1 49",
+        "content_vi": "Câu office B1 49",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 49",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1553,
+        "content_en": "Office sentence B1 50",
+        "content_vi": "Câu office B1 50",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "office"
+        ],
+        "tags": [
+            "office",
+            "advanced"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 50",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

@@ -1,0 +1,1013 @@
+[
+    {
+        "id": 904,
+        "content_en": "I'd appreciate your recommendation for a wine pairing.",
+        "content_vi": "Tôi sẽ đánh giá cao gợi ý của bạn về rượu phù hợp.",
+        "phonetic": "aɪd əˈpriʃiˌeɪt jʊr ˌrɛkəmɛnˈdeɪʃən fɔr ə waɪn ˈpɛrɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "wine",
+            "pairing",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gợi ý ghép rượu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 905,
+        "content_en": "Could you tell me about the chef's signature dish?",
+        "content_vi": "Bạn có thể cho tôi biết về món đặc trưng của đầu bếp không?",
+        "phonetic": "kʊd ju tɛl mi əˈbaʊt ðə ʃɛfs ˈsɪɡnəʧər dɪʃ",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "chef",
+            "signature"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món đặc trưng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 906,
+        "content_en": "I have dietary restrictions I need to inform you about.",
+        "content_vi": "Tôi có hạn chế về chế độ ăn cần thông báo.",
+        "phonetic": "aɪ hæv ˈdaɪəˌtɛri rɪˈstrɪkʃənz aɪ nid tə ɪnˈfɔrm ju əˈbaʊt",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "restrictions"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo hạn chế ăn uống",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 907,
+        "content_en": "How would you describe the flavor profile of this dish?",
+        "content_vi": "Bạn mô tả hương vị của món này như thế nào?",
+        "phonetic": "haʊ wʊd ju dɪˈskraɪb ðə ˈfleɪvər ˈproʊfaɪl ʌv ðɪs dɪʃ",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "flavor",
+            "description"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về hương vị",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 908,
+        "content_en": "I'm concerned about cross-contamination with allergens.",
+        "content_vi": "Tôi lo lắng về nhiễm chéo với chất gây dị ứng.",
+        "phonetic": "aɪm kənˈsɜrnd əˈbaʊt krɔs-kənˌtæməˈneɪʃən wɪð ˈælərdʒənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "allergy",
+            "concern"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Lo lắng về dị ứng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 909,
+        "content_en": "Would it be possible to modify this recipe slightly?",
+        "content_vi": "Có thể thay đổi công thức này một chút không?",
+        "phonetic": "wʊd ɪt bi ˈpɑsəbəl tə ˈmɑdəˌfaɪ ðɪs ˈrɛsəpi ˈslaɪtli",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "modification",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin sửa đổi công thức",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 910,
+        "content_en": "The presentation of the dish was absolutely stunning.",
+        "content_vi": "Cách trình bày món ăn thực sự tuyệt đẹp.",
+        "phonetic": "ðə ˌprɛzənˈteɪʃən ʌv ðə dɪʃ wʌz ˈæbsəˌlutli ˈstʌnɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "presentation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen trình bày món ăn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 911,
+        "content_en": "I'm looking for something that's not too heavy.",
+        "content_vi": "Tôi đang tìm món không quá nặng.",
+        "phonetic": "aɪm ˈlʊkɪŋ fɔr ˈsʌmθɪŋ ðæts nɑt tu ˈhɛvi",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "preference",
+            "light"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm món nhẹ",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 912,
+        "content_en": "Could you suggest an appetizer to share?",
+        "content_vi": "Bạn có thể gợi ý món khai vị để chia sẻ không?",
+        "phonetic": "kʊd ju səɡˈdʒɛst ən ˈæpəˌtaɪzər tə ʃɛr",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "appetizer",
+            "sharing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gợi ý món khai vị",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 913,
+        "content_en": "What's the portion size like for the main course?",
+        "content_vi": "Khẩu phần của món chính như thế nào?",
+        "phonetic": "wʌts ðə ˈpɔrʃən saɪz laɪk fɔr ðə meɪn kɔrs",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "portion",
+            "main course"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi khẩu phần món chính",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 914,
+        "content_en": "Sample sentence 0",
+        "content_vi": "Câu mẫu 0",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 915,
+        "content_en": "Sample sentence 1",
+        "content_vi": "Câu mẫu 1",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 916,
+        "content_en": "Sample sentence 2",
+        "content_vi": "Câu mẫu 2",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 917,
+        "content_en": "Sample sentence 3",
+        "content_vi": "Câu mẫu 3",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 918,
+        "content_en": "Sample sentence 4",
+        "content_vi": "Câu mẫu 4",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 919,
+        "content_en": "Sample sentence 5",
+        "content_vi": "Câu mẫu 5",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 920,
+        "content_en": "Sample sentence 6",
+        "content_vi": "Câu mẫu 6",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 921,
+        "content_en": "Sample sentence 7",
+        "content_vi": "Câu mẫu 7",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 922,
+        "content_en": "Sample sentence 8",
+        "content_vi": "Câu mẫu 8",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 923,
+        "content_en": "Sample sentence 9",
+        "content_vi": "Câu mẫu 9",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 924,
+        "content_en": "Sample sentence 10",
+        "content_vi": "Câu mẫu 10",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 925,
+        "content_en": "Sample sentence 11",
+        "content_vi": "Câu mẫu 11",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 926,
+        "content_en": "Sample sentence 12",
+        "content_vi": "Câu mẫu 12",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 927,
+        "content_en": "Sample sentence 13",
+        "content_vi": "Câu mẫu 13",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 928,
+        "content_en": "Sample sentence 14",
+        "content_vi": "Câu mẫu 14",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 929,
+        "content_en": "Sample sentence 15",
+        "content_vi": "Câu mẫu 15",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 930,
+        "content_en": "Sample sentence 16",
+        "content_vi": "Câu mẫu 16",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 931,
+        "content_en": "Sample sentence 17",
+        "content_vi": "Câu mẫu 17",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 932,
+        "content_en": "Sample sentence 18",
+        "content_vi": "Câu mẫu 18",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 933,
+        "content_en": "Sample sentence 19",
+        "content_vi": "Câu mẫu 19",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 934,
+        "content_en": "Sample sentence 20",
+        "content_vi": "Câu mẫu 20",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 935,
+        "content_en": "Sample sentence 21",
+        "content_vi": "Câu mẫu 21",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 936,
+        "content_en": "Sample sentence 22",
+        "content_vi": "Câu mẫu 22",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 937,
+        "content_en": "Sample sentence 23",
+        "content_vi": "Câu mẫu 23",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 938,
+        "content_en": "Sample sentence 24",
+        "content_vi": "Câu mẫu 24",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 939,
+        "content_en": "Sample sentence 25",
+        "content_vi": "Câu mẫu 25",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 940,
+        "content_en": "Sample sentence 26",
+        "content_vi": "Câu mẫu 26",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 941,
+        "content_en": "Sample sentence 27",
+        "content_vi": "Câu mẫu 27",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 942,
+        "content_en": "Sample sentence 28",
+        "content_vi": "Câu mẫu 28",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 943,
+        "content_en": "Sample sentence 29",
+        "content_vi": "Câu mẫu 29",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 944,
+        "content_en": "Sample sentence 30",
+        "content_vi": "Câu mẫu 30",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 945,
+        "content_en": "Sample sentence 31",
+        "content_vi": "Câu mẫu 31",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 946,
+        "content_en": "Sample sentence 32",
+        "content_vi": "Câu mẫu 32",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 947,
+        "content_en": "Sample sentence 33",
+        "content_vi": "Câu mẫu 33",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 948,
+        "content_en": "Sample sentence 34",
+        "content_vi": "Câu mẫu 34",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 949,
+        "content_en": "Sample sentence 35",
+        "content_vi": "Câu mẫu 35",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 950,
+        "content_en": "Sample sentence 36",
+        "content_vi": "Câu mẫu 36",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 951,
+        "content_en": "Sample sentence 37",
+        "content_vi": "Câu mẫu 37",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 952,
+        "content_en": "Sample sentence 38",
+        "content_vi": "Câu mẫu 38",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 953,
+        "content_en": "Sample sentence 39",
+        "content_vi": "Câu mẫu 39",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "sample"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu mẫu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

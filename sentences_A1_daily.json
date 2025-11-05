@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 2004,
+        "content_en": "Daily sentence A1 1",
+        "content_vi": "Câu daily A1 1",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 1",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2005,
+        "content_en": "Daily sentence A1 2",
+        "content_vi": "Câu daily A1 2",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 2",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2006,
+        "content_en": "Daily sentence A1 3",
+        "content_vi": "Câu daily A1 3",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 3",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2007,
+        "content_en": "Daily sentence A1 4",
+        "content_vi": "Câu daily A1 4",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 4",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2008,
+        "content_en": "Daily sentence A1 5",
+        "content_vi": "Câu daily A1 5",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 5",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2009,
+        "content_en": "Daily sentence A1 6",
+        "content_vi": "Câu daily A1 6",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 6",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2010,
+        "content_en": "Daily sentence A1 7",
+        "content_vi": "Câu daily A1 7",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 7",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2011,
+        "content_en": "Daily sentence A1 8",
+        "content_vi": "Câu daily A1 8",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 8",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2012,
+        "content_en": "Daily sentence A1 9",
+        "content_vi": "Câu daily A1 9",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 9",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2013,
+        "content_en": "Daily sentence A1 10",
+        "content_vi": "Câu daily A1 10",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 10",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2014,
+        "content_en": "Daily sentence A1 11",
+        "content_vi": "Câu daily A1 11",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 11",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2015,
+        "content_en": "Daily sentence A1 12",
+        "content_vi": "Câu daily A1 12",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 12",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2016,
+        "content_en": "Daily sentence A1 13",
+        "content_vi": "Câu daily A1 13",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 13",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2017,
+        "content_en": "Daily sentence A1 14",
+        "content_vi": "Câu daily A1 14",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 14",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2018,
+        "content_en": "Daily sentence A1 15",
+        "content_vi": "Câu daily A1 15",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 15",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2019,
+        "content_en": "Daily sentence A1 16",
+        "content_vi": "Câu daily A1 16",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 16",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2020,
+        "content_en": "Daily sentence A1 17",
+        "content_vi": "Câu daily A1 17",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 17",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2021,
+        "content_en": "Daily sentence A1 18",
+        "content_vi": "Câu daily A1 18",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 18",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2022,
+        "content_en": "Daily sentence A1 19",
+        "content_vi": "Câu daily A1 19",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 19",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2023,
+        "content_en": "Daily sentence A1 20",
+        "content_vi": "Câu daily A1 20",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 20",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2024,
+        "content_en": "Daily sentence A1 21",
+        "content_vi": "Câu daily A1 21",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 21",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2025,
+        "content_en": "Daily sentence A1 22",
+        "content_vi": "Câu daily A1 22",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 22",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2026,
+        "content_en": "Daily sentence A1 23",
+        "content_vi": "Câu daily A1 23",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 23",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2027,
+        "content_en": "Daily sentence A1 24",
+        "content_vi": "Câu daily A1 24",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 24",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2028,
+        "content_en": "Daily sentence A1 25",
+        "content_vi": "Câu daily A1 25",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 25",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2029,
+        "content_en": "Daily sentence A1 26",
+        "content_vi": "Câu daily A1 26",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 26",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2030,
+        "content_en": "Daily sentence A1 27",
+        "content_vi": "Câu daily A1 27",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 27",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2031,
+        "content_en": "Daily sentence A1 28",
+        "content_vi": "Câu daily A1 28",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 28",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2032,
+        "content_en": "Daily sentence A1 29",
+        "content_vi": "Câu daily A1 29",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 29",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2033,
+        "content_en": "Daily sentence A1 30",
+        "content_vi": "Câu daily A1 30",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 30",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2034,
+        "content_en": "Daily sentence A1 31",
+        "content_vi": "Câu daily A1 31",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 31",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2035,
+        "content_en": "Daily sentence A1 32",
+        "content_vi": "Câu daily A1 32",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 32",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2036,
+        "content_en": "Daily sentence A1 33",
+        "content_vi": "Câu daily A1 33",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 33",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2037,
+        "content_en": "Daily sentence A1 34",
+        "content_vi": "Câu daily A1 34",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 34",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2038,
+        "content_en": "Daily sentence A1 35",
+        "content_vi": "Câu daily A1 35",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 35",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2039,
+        "content_en": "Daily sentence A1 36",
+        "content_vi": "Câu daily A1 36",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 36",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2040,
+        "content_en": "Daily sentence A1 37",
+        "content_vi": "Câu daily A1 37",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 37",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2041,
+        "content_en": "Daily sentence A1 38",
+        "content_vi": "Câu daily A1 38",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 38",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2042,
+        "content_en": "Daily sentence A1 39",
+        "content_vi": "Câu daily A1 39",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 39",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2043,
+        "content_en": "Daily sentence A1 40",
+        "content_vi": "Câu daily A1 40",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 40",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2044,
+        "content_en": "Daily sentence A1 41",
+        "content_vi": "Câu daily A1 41",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 41",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2045,
+        "content_en": "Daily sentence A1 42",
+        "content_vi": "Câu daily A1 42",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 42",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2046,
+        "content_en": "Daily sentence A1 43",
+        "content_vi": "Câu daily A1 43",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 43",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2047,
+        "content_en": "Daily sentence A1 44",
+        "content_vi": "Câu daily A1 44",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 44",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2048,
+        "content_en": "Daily sentence A1 45",
+        "content_vi": "Câu daily A1 45",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 45",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2049,
+        "content_en": "Daily sentence A1 46",
+        "content_vi": "Câu daily A1 46",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 46",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2050,
+        "content_en": "Daily sentence A1 47",
+        "content_vi": "Câu daily A1 47",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 47",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2051,
+        "content_en": "Daily sentence A1 48",
+        "content_vi": "Câu daily A1 48",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 48",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2052,
+        "content_en": "Daily sentence A1 49",
+        "content_vi": "Câu daily A1 49",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 49",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 2053,
+        "content_en": "Daily sentence A1 50",
+        "content_vi": "Câu daily A1 50",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "daily"
+        ],
+        "tags": [
+            "daily",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả 50",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

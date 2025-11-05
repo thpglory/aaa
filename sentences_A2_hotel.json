@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1054,
+        "content_en": "I have a reservation under my name.",
+        "content_vi": "Tôi có đặt phòng dưới tên của tôi.",
+        "phonetic": "aɪ hæv ə ˌrɛzərˈveɪʃən ˈʌndər maɪ neɪm",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "reservation",
+            "check-in"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xác nhận đặt phòng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1055,
+        "content_en": "Is breakfast included in the rate?",
+        "content_vi": "Bữa sáng có bao gồm trong giá không?",
+        "phonetic": "ɪz ˈbrɛkfəst ɪnˈkludəd ɪn ðə reɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "breakfast",
+            "price"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về bữa sáng",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1056,
+        "content_en": "Could I have a wake-up call at 7 AM?",
+        "content_vi": "Tôi có thể nhận cuộc gọi đánh thức lúc 7 giờ sáng không?",
+        "phonetic": "kʊd aɪ hæv ə weɪk-ʌp kɔl æt ˈsɛvən ˌeɪˈɛm",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "wake-up call",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin dịch vụ đánh thức",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1057,
+        "content_en": "The air conditioning isn't working properly.",
+        "content_vi": "Máy lạnh không hoạt động đúng cách.",
+        "phonetic": "ði ɛr kənˈdɪʃənɪŋ ˈɪzənt ˈwɜrkɪŋ ˈprɑpərli",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "complaint",
+            "air conditioning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn máy lạnh",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1058,
+        "content_en": "I'd like to extend my stay for another night.",
+        "content_vi": "Tôi muốn gia hạn thêm một đêm nữa.",
+        "phonetic": "aɪd laɪk tə ɪkˈstɛnd maɪ steɪ fɔr əˈnʌðər naɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "extension",
+            "stay"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gia hạn",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1059,
+        "content_en": "Hotel A2 sentence 6",
+        "content_vi": "Câu hotel A2 6",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 6",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1060,
+        "content_en": "Hotel A2 sentence 7",
+        "content_vi": "Câu hotel A2 7",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 7",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1061,
+        "content_en": "Hotel A2 sentence 8",
+        "content_vi": "Câu hotel A2 8",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 8",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1062,
+        "content_en": "Hotel A2 sentence 9",
+        "content_vi": "Câu hotel A2 9",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 9",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1063,
+        "content_en": "Hotel A2 sentence 10",
+        "content_vi": "Câu hotel A2 10",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 10",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1064,
+        "content_en": "Hotel A2 sentence 11",
+        "content_vi": "Câu hotel A2 11",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 11",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1065,
+        "content_en": "Hotel A2 sentence 12",
+        "content_vi": "Câu hotel A2 12",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 12",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1066,
+        "content_en": "Hotel A2 sentence 13",
+        "content_vi": "Câu hotel A2 13",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 13",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1067,
+        "content_en": "Hotel A2 sentence 14",
+        "content_vi": "Câu hotel A2 14",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 14",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1068,
+        "content_en": "Hotel A2 sentence 15",
+        "content_vi": "Câu hotel A2 15",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 15",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1069,
+        "content_en": "Hotel A2 sentence 16",
+        "content_vi": "Câu hotel A2 16",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 16",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1070,
+        "content_en": "Hotel A2 sentence 17",
+        "content_vi": "Câu hotel A2 17",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 17",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1071,
+        "content_en": "Hotel A2 sentence 18",
+        "content_vi": "Câu hotel A2 18",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 18",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1072,
+        "content_en": "Hotel A2 sentence 19",
+        "content_vi": "Câu hotel A2 19",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 19",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1073,
+        "content_en": "Hotel A2 sentence 20",
+        "content_vi": "Câu hotel A2 20",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 20",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1074,
+        "content_en": "Hotel A2 sentence 21",
+        "content_vi": "Câu hotel A2 21",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 21",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1075,
+        "content_en": "Hotel A2 sentence 22",
+        "content_vi": "Câu hotel A2 22",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 22",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1076,
+        "content_en": "Hotel A2 sentence 23",
+        "content_vi": "Câu hotel A2 23",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 23",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1077,
+        "content_en": "Hotel A2 sentence 24",
+        "content_vi": "Câu hotel A2 24",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 24",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1078,
+        "content_en": "Hotel A2 sentence 25",
+        "content_vi": "Câu hotel A2 25",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 25",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1079,
+        "content_en": "Hotel A2 sentence 26",
+        "content_vi": "Câu hotel A2 26",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 26",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1080,
+        "content_en": "Hotel A2 sentence 27",
+        "content_vi": "Câu hotel A2 27",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 27",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1081,
+        "content_en": "Hotel A2 sentence 28",
+        "content_vi": "Câu hotel A2 28",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 28",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1082,
+        "content_en": "Hotel A2 sentence 29",
+        "content_vi": "Câu hotel A2 29",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 29",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1083,
+        "content_en": "Hotel A2 sentence 30",
+        "content_vi": "Câu hotel A2 30",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 30",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1084,
+        "content_en": "Hotel A2 sentence 31",
+        "content_vi": "Câu hotel A2 31",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 31",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1085,
+        "content_en": "Hotel A2 sentence 32",
+        "content_vi": "Câu hotel A2 32",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 32",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1086,
+        "content_en": "Hotel A2 sentence 33",
+        "content_vi": "Câu hotel A2 33",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 33",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1087,
+        "content_en": "Hotel A2 sentence 34",
+        "content_vi": "Câu hotel A2 34",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 34",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1088,
+        "content_en": "Hotel A2 sentence 35",
+        "content_vi": "Câu hotel A2 35",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 35",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1089,
+        "content_en": "Hotel A2 sentence 36",
+        "content_vi": "Câu hotel A2 36",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 36",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1090,
+        "content_en": "Hotel A2 sentence 37",
+        "content_vi": "Câu hotel A2 37",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 37",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1091,
+        "content_en": "Hotel A2 sentence 38",
+        "content_vi": "Câu hotel A2 38",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 38",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1092,
+        "content_en": "Hotel A2 sentence 39",
+        "content_vi": "Câu hotel A2 39",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 39",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1093,
+        "content_en": "Hotel A2 sentence 40",
+        "content_vi": "Câu hotel A2 40",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 40",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1094,
+        "content_en": "Hotel A2 sentence 41",
+        "content_vi": "Câu hotel A2 41",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 41",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1095,
+        "content_en": "Hotel A2 sentence 42",
+        "content_vi": "Câu hotel A2 42",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 42",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1096,
+        "content_en": "Hotel A2 sentence 43",
+        "content_vi": "Câu hotel A2 43",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 43",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1097,
+        "content_en": "Hotel A2 sentence 44",
+        "content_vi": "Câu hotel A2 44",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 44",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1098,
+        "content_en": "Hotel A2 sentence 45",
+        "content_vi": "Câu hotel A2 45",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 45",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1099,
+        "content_en": "Hotel A2 sentence 46",
+        "content_vi": "Câu hotel A2 46",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 46",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1100,
+        "content_en": "Hotel A2 sentence 47",
+        "content_vi": "Câu hotel A2 47",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 47",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1101,
+        "content_en": "Hotel A2 sentence 48",
+        "content_vi": "Câu hotel A2 48",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 48",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1102,
+        "content_en": "Hotel A2 sentence 49",
+        "content_vi": "Câu hotel A2 49",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 49",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1103,
+        "content_en": "Hotel A2 sentence 50",
+        "content_vi": "Câu hotel A2 50",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "hotel",
+            "a2"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 50",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]

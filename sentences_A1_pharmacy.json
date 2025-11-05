@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1204,
+        "content_en": "I need medicine.",
+        "content_vi": "Tôi cần thuốc.",
+        "phonetic": "aɪ nid ˈmɛdəsən",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "medicine",
+            "need"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cần thuốc",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1205,
+        "content_en": "I have a headache.",
+        "content_vi": "Tôi bị đau đầu.",
+        "phonetic": "aɪ hæv ə ˈhɛdˌeɪk",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "symptom",
+            "headache"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Bị đau đầu",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1206,
+        "content_en": "Do you have pain medicine?",
+        "content_vi": "Bạn có thuốc giảm đau không?",
+        "phonetic": "du ju hæv peɪn ˈmɛdəsən",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pain",
+            "medicine"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi thuốc giảm đau",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1207,
+        "content_en": "I have a cold.",
+        "content_vi": "Tôi bị cảm lạnh.",
+        "phonetic": "aɪ hæv ə koʊld",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "symptom",
+            "cold"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Bị cảm",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1208,
+        "content_en": "Where is the pharmacy?",
+        "content_vi": "Hiệu thuốc ở đâu?",
+        "phonetic": "wɛr ɪz ðə ˈfɑrməsi",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "location",
+            "pharmacy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi hiệu thuốc",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1209,
+        "content_en": "Pharmacy A1 sentence 6",
+        "content_vi": "Câu pharmacy A1 6",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 6",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1210,
+        "content_en": "Pharmacy A1 sentence 7",
+        "content_vi": "Câu pharmacy A1 7",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 7",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1211,
+        "content_en": "Pharmacy A1 sentence 8",
+        "content_vi": "Câu pharmacy A1 8",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 8",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1212,
+        "content_en": "Pharmacy A1 sentence 9",
+        "content_vi": "Câu pharmacy A1 9",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 9",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1213,
+        "content_en": "Pharmacy A1 sentence 10",
+        "content_vi": "Câu pharmacy A1 10",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 10",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1214,
+        "content_en": "Pharmacy A1 sentence 11",
+        "content_vi": "Câu pharmacy A1 11",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 11",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1215,
+        "content_en": "Pharmacy A1 sentence 12",
+        "content_vi": "Câu pharmacy A1 12",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 12",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1216,
+        "content_en": "Pharmacy A1 sentence 13",
+        "content_vi": "Câu pharmacy A1 13",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 13",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1217,
+        "content_en": "Pharmacy A1 sentence 14",
+        "content_vi": "Câu pharmacy A1 14",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 14",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1218,
+        "content_en": "Pharmacy A1 sentence 15",
+        "content_vi": "Câu pharmacy A1 15",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 15",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1219,
+        "content_en": "Pharmacy A1 sentence 16",
+        "content_vi": "Câu pharmacy A1 16",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 16",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1220,
+        "content_en": "Pharmacy A1 sentence 17",
+        "content_vi": "Câu pharmacy A1 17",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 17",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1221,
+        "content_en": "Pharmacy A1 sentence 18",
+        "content_vi": "Câu pharmacy A1 18",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 18",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1222,
+        "content_en": "Pharmacy A1 sentence 19",
+        "content_vi": "Câu pharmacy A1 19",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 19",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1223,
+        "content_en": "Pharmacy A1 sentence 20",
+        "content_vi": "Câu pharmacy A1 20",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 20",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1224,
+        "content_en": "Pharmacy A1 sentence 21",
+        "content_vi": "Câu pharmacy A1 21",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 21",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1225,
+        "content_en": "Pharmacy A1 sentence 22",
+        "content_vi": "Câu pharmacy A1 22",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 22",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1226,
+        "content_en": "Pharmacy A1 sentence 23",
+        "content_vi": "Câu pharmacy A1 23",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 23",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1227,
+        "content_en": "Pharmacy A1 sentence 24",
+        "content_vi": "Câu pharmacy A1 24",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 24",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1228,
+        "content_en": "Pharmacy A1 sentence 25",
+        "content_vi": "Câu pharmacy A1 25",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 25",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1229,
+        "content_en": "Pharmacy A1 sentence 26",
+        "content_vi": "Câu pharmacy A1 26",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 26",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1230,
+        "content_en": "Pharmacy A1 sentence 27",
+        "content_vi": "Câu pharmacy A1 27",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 27",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1231,
+        "content_en": "Pharmacy A1 sentence 28",
+        "content_vi": "Câu pharmacy A1 28",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 28",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1232,
+        "content_en": "Pharmacy A1 sentence 29",
+        "content_vi": "Câu pharmacy A1 29",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 29",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1233,
+        "content_en": "Pharmacy A1 sentence 30",
+        "content_vi": "Câu pharmacy A1 30",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 30",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1234,
+        "content_en": "Pharmacy A1 sentence 31",
+        "content_vi": "Câu pharmacy A1 31",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 31",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1235,
+        "content_en": "Pharmacy A1 sentence 32",
+        "content_vi": "Câu pharmacy A1 32",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 32",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1236,
+        "content_en": "Pharmacy A1 sentence 33",
+        "content_vi": "Câu pharmacy A1 33",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 33",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1237,
+        "content_en": "Pharmacy A1 sentence 34",
+        "content_vi": "Câu pharmacy A1 34",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 34",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1238,
+        "content_en": "Pharmacy A1 sentence 35",
+        "content_vi": "Câu pharmacy A1 35",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 35",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1239,
+        "content_en": "Pharmacy A1 sentence 36",
+        "content_vi": "Câu pharmacy A1 36",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 36",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1240,
+        "content_en": "Pharmacy A1 sentence 37",
+        "content_vi": "Câu pharmacy A1 37",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 37",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1241,
+        "content_en": "Pharmacy A1 sentence 38",
+        "content_vi": "Câu pharmacy A1 38",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 38",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1242,
+        "content_en": "Pharmacy A1 sentence 39",
+        "content_vi": "Câu pharmacy A1 39",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 39",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1243,
+        "content_en": "Pharmacy A1 sentence 40",
+        "content_vi": "Câu pharmacy A1 40",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 40",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1244,
+        "content_en": "Pharmacy A1 sentence 41",
+        "content_vi": "Câu pharmacy A1 41",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 41",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1245,
+        "content_en": "Pharmacy A1 sentence 42",
+        "content_vi": "Câu pharmacy A1 42",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 42",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1246,
+        "content_en": "Pharmacy A1 sentence 43",
+        "content_vi": "Câu pharmacy A1 43",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 43",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1247,
+        "content_en": "Pharmacy A1 sentence 44",
+        "content_vi": "Câu pharmacy A1 44",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 44",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1248,
+        "content_en": "Pharmacy A1 sentence 45",
+        "content_vi": "Câu pharmacy A1 45",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 45",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1249,
+        "content_en": "Pharmacy A1 sentence 46",
+        "content_vi": "Câu pharmacy A1 46",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 46",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1250,
+        "content_en": "Pharmacy A1 sentence 47",
+        "content_vi": "Câu pharmacy A1 47",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 47",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1251,
+        "content_en": "Pharmacy A1 sentence 48",
+        "content_vi": "Câu pharmacy A1 48",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 48",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1252,
+        "content_en": "Pharmacy A1 sentence 49",
+        "content_vi": "Câu pharmacy A1 49",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 49",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    },
+    {
+        "id": 1253,
+        "content_en": "Pharmacy A1 sentence 50",
+        "content_vi": "Câu pharmacy A1 50",
+        "phonetic": "ˈsæmpəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "pharmacy",
+            "a1"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả câu 50",
+        "status": "active",
+        "created_at": "2025-11-05 10:00:00",
+        "updated_at": "2025-11-05 10:00:00"
+    }
+]
