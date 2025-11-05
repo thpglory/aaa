@@ -1,1050 +1,1050 @@
 [
     {
         "id": 1404,
-        "content_en": "Office sentence A1 1",
-        "content_vi": "Câu office A1 1",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 1.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 1.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 1",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1405,
-        "content_en": "Office sentence A1 2",
-        "content_vi": "Câu office A1 2",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 2.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 2.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 2",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1406,
-        "content_en": "Office sentence A1 3",
-        "content_vi": "Câu office A1 3",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 3.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 3.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 3",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1407,
-        "content_en": "Office sentence A1 4",
-        "content_vi": "Câu office A1 4",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 4.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 4.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 4",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1408,
-        "content_en": "Office sentence A1 5",
-        "content_vi": "Câu office A1 5",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 5.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 5.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 5",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1409,
-        "content_en": "Office sentence A1 6",
-        "content_vi": "Câu office A1 6",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 6.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 6.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 6",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1410,
-        "content_en": "Office sentence A1 7",
-        "content_vi": "Câu office A1 7",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 7.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 7.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 7",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1411,
-        "content_en": "Office sentence A1 8",
-        "content_vi": "Câu office A1 8",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 8.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 8.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 8",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1412,
-        "content_en": "Office sentence A1 9",
-        "content_vi": "Câu office A1 9",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 9.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 9.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 9",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1413,
-        "content_en": "Office sentence A1 10",
-        "content_vi": "Câu office A1 10",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 10.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 10.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 10",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1414,
-        "content_en": "Office sentence A1 11",
-        "content_vi": "Câu office A1 11",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 11.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 11.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 11",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1415,
-        "content_en": "Office sentence A1 12",
-        "content_vi": "Câu office A1 12",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 12.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 12.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 12",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1416,
-        "content_en": "Office sentence A1 13",
-        "content_vi": "Câu office A1 13",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 13.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 13.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 13",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1417,
-        "content_en": "Office sentence A1 14",
-        "content_vi": "Câu office A1 14",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 14.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 14.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 14",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1418,
-        "content_en": "Office sentence A1 15",
-        "content_vi": "Câu office A1 15",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 15.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 15.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 15",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1419,
-        "content_en": "Office sentence A1 16",
-        "content_vi": "Câu office A1 16",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 16.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 16.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 16",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1420,
-        "content_en": "Office sentence A1 17",
-        "content_vi": "Câu office A1 17",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 17.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 17.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 17",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1421,
-        "content_en": "Office sentence A1 18",
-        "content_vi": "Câu office A1 18",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 18.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 18.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 18",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1422,
-        "content_en": "Office sentence A1 19",
-        "content_vi": "Câu office A1 19",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 19.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 19.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 19",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1423,
-        "content_en": "Office sentence A1 20",
-        "content_vi": "Câu office A1 20",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 20.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 20.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 20",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1424,
-        "content_en": "Office sentence A1 21",
-        "content_vi": "Câu office A1 21",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 21.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 21.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 21",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1425,
-        "content_en": "Office sentence A1 22",
-        "content_vi": "Câu office A1 22",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 22.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 22.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 22",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1426,
-        "content_en": "Office sentence A1 23",
-        "content_vi": "Câu office A1 23",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 23.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 23.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 23",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1427,
-        "content_en": "Office sentence A1 24",
-        "content_vi": "Câu office A1 24",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 24.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 24.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 24",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1428,
-        "content_en": "Office sentence A1 25",
-        "content_vi": "Câu office A1 25",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 25.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 25.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 25",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1429,
-        "content_en": "Office sentence A1 26",
-        "content_vi": "Câu office A1 26",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 26.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 26.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 26",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1430,
-        "content_en": "Office sentence A1 27",
-        "content_vi": "Câu office A1 27",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 27.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 27.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 27",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1431,
-        "content_en": "Office sentence A1 28",
-        "content_vi": "Câu office A1 28",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 28.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 28.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 28",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1432,
-        "content_en": "Office sentence A1 29",
-        "content_vi": "Câu office A1 29",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 29.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 29.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 29",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1433,
-        "content_en": "Office sentence A1 30",
-        "content_vi": "Câu office A1 30",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 30.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 30.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 30",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1434,
-        "content_en": "Office sentence A1 31",
-        "content_vi": "Câu office A1 31",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 31.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 31.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 31",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1435,
-        "content_en": "Office sentence A1 32",
-        "content_vi": "Câu office A1 32",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 32.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 32.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 32",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1436,
-        "content_en": "Office sentence A1 33",
-        "content_vi": "Câu office A1 33",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 33.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 33.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 33",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1437,
-        "content_en": "Office sentence A1 34",
-        "content_vi": "Câu office A1 34",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 34.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 34.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 34",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1438,
-        "content_en": "Office sentence A1 35",
-        "content_vi": "Câu office A1 35",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 35.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 35.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 35",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1439,
-        "content_en": "Office sentence A1 36",
-        "content_vi": "Câu office A1 36",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 36.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 36.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 36",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1440,
-        "content_en": "Office sentence A1 37",
-        "content_vi": "Câu office A1 37",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 37.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 37.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 37",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1441,
-        "content_en": "Office sentence A1 38",
-        "content_vi": "Câu office A1 38",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 38.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 38.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 38",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1442,
-        "content_en": "Office sentence A1 39",
-        "content_vi": "Câu office A1 39",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 39.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 39.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 39",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1443,
-        "content_en": "Office sentence A1 40",
-        "content_vi": "Câu office A1 40",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 40.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 40.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 40",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1444,
-        "content_en": "Office sentence A1 41",
-        "content_vi": "Câu office A1 41",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 41.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 41.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 41",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1445,
-        "content_en": "Office sentence A1 42",
-        "content_vi": "Câu office A1 42",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 42.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 42.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 42",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1446,
-        "content_en": "Office sentence A1 43",
-        "content_vi": "Câu office A1 43",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 43.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 43.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 43",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1447,
-        "content_en": "Office sentence A1 44",
-        "content_vi": "Câu office A1 44",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 44.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 44.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 44",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1448,
-        "content_en": "Office sentence A1 45",
-        "content_vi": "Câu office A1 45",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 45.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 45.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 45",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1449,
-        "content_en": "Office sentence A1 46",
-        "content_vi": "Câu office A1 46",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about meeting number 46.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về cuộc họp số 46.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 46",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1450,
-        "content_en": "Office sentence A1 47",
-        "content_vi": "Câu office A1 47",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about report number 47.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về báo cáo số 47.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 47",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1451,
-        "content_en": "Office sentence A1 48",
-        "content_vi": "Câu office A1 48",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about email number 48.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về email số 48.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 48",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1452,
-        "content_en": "Office sentence A1 49",
-        "content_vi": "Câu office A1 49",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about project number 49.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về dự án số 49.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 49",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
     },
     {
         "id": 1453,
-        "content_en": "Office sentence A1 50",
-        "content_vi": "Câu office A1 50",
-        "phonetic": "ˈsæmpəl",
+        "content_en": "Office A1 professional sentence about deadline number 50.",
+        "content_vi": "Câu chuyên nghiệp văn phòng A1 về deadline số 50.",
+        "phonetic": "ˈɔfəs prəˈfɛʃənəl",
         "level_id": "A1",
         "topic_ids": [
             "office"
         ],
         "tags": [
             "office",
-            "basic"
+            "a1"
         ],
         "audio_url": "",
         "image_url": "",
         "source": "system",
-        "notes": "Mô tả 50",
+        "notes": "Office A1 sentence",
         "status": "active",
         "created_at": "2025-11-05 10:00:00",
         "updated_at": "2025-11-05 10:00:00"
