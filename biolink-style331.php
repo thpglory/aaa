@@ -392,6 +392,76 @@
             font-style: italic;
         }
 
+        /* Checkbox and Radio Styles */
+        .form-group input[type="checkbox"],
+        .form-group input[type="radio"] {
+            width: auto;
+            min-width: 18px;
+            height: 18px;
+            margin: 0;
+            cursor: pointer;
+            flex-shrink: 0;
+            accent-color: #667eea;
+        }
+
+        .form-group label input[type="checkbox"],
+        .form-group label input[type="radio"] {
+            margin-right: 8px;
+            margin-top: 2px;
+        }
+
+        /* Label with checkbox/radio - flex layout */
+        .form-group label {
+            cursor: pointer;
+            line-height: 1.5;
+        }
+
+        .form-group label[style*="display: flex"] {
+            margin-bottom: 10px;
+        }
+
+        .form-group label[style*="display: flex"] input[type="checkbox"],
+        .form-group label[style*="display: flex"] input[type="radio"] {
+            margin-top: 3px;
+        }
+
+        /* Fix for inputs in flex containers */
+        .form-group input[type="number"],
+        .form-group input[type="text"] {
+            min-width: 0;
+        }
+
+        /* Disabled checkbox style */
+        .form-group input[type="checkbox"]:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* Grid adjustments for form layouts */
+        .grid .form-group {
+            margin-bottom: 15px;
+        }
+
+        /* Ensure proper spacing in STOP-BANG and Checklist sections */
+        .card .form-group label[style*="display: flex"] {
+            padding: 8px 0;
+            border-bottom: 1px solid #f1f5f9;
+        }
+
+        .card .form-group label[style*="display: flex"]:last-child {
+            border-bottom: none;
+        }
+
+        /* Fix for nested inputs in flex */
+        .form-group > div[style*="display: flex"] {
+            gap: 10px;
+            align-items: center;
+        }
+
+        .form-group > div[style*="display: flex"] input[type="checkbox"] {
+            flex-shrink: 0;
+        }
+
         .btn {
             background: linear-gradient(135deg, #667eea, #764ba2);
             color: white;
@@ -1203,6 +1273,27 @@
         .accordion-content.show {
             padding: 16px 20px;
             max-height: 500px;
+        }
+
+        /* Accordion content with checkboxes */
+        .accordion-content .form-group {
+            margin-bottom: 12px;
+        }
+
+        .accordion-content .form-group label {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            line-height: 1.6;
+        }
+
+        .accordion-content .form-group label input[type="checkbox"] {
+            margin-top: 4px;
+            flex-shrink: 0;
+        }
+
+        .accordion-content .form-group label span {
+            flex: 1;
         }
 
         .toggle-switch {
@@ -2096,7 +2187,7 @@
                     <h3><i class="fas fa-check-circle"></i> Checklist vệ sinh giấc ngủ toàn diện</h3>
                     <div class="grid grid-2">
                         <div>
-                            <h4 style="color: #1e293b; margin-bottom: 12px;">🏠 Môi trường phòng ngủ</h4>
+                            <h4 style="color: #1e293b; margin-bottom: 12px;"><i class="fas fa-home"></i> Môi trường phòng ngủ</h4>
                             <div class="form-group">
                                 <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
                                     <input type="checkbox" id="dark-room"> Phòng hoàn toàn tối hoặc có mặt nạ ngủ
@@ -2120,7 +2211,7 @@
                         </div>
                         
                         <div>
-                            <h4 style="color: #1e293b; margin-bottom: 12px;">🕐 Thói Quen và Lịch Trình</h4>
+                            <h4 style="color: #1e293b; margin-bottom: 12px;"><i class="fas fa-clock"></i> Thói quen và lịch trình</h4>
                             <div class="form-group">
                                 <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
                                     <input type="checkbox" id="consistent-schedule"> Ngủ-thức đúng giờ mỗi ngày
@@ -2192,7 +2283,7 @@
                                         <div class="breathing-circle" id="breathing478">
                                             <span id="breathingText">Bắt đầu</span>
                                         </div>
-                                        <button class="btn btn-success" onclick="start478Breathing()">🌬️ Bắt Đầu Luyện Tập</button>
+                                        <button class="btn btn-success" onclick="start478Breathing()">  <i class="fas fa-wind"></i> Bắt đầu luyện tập</button>
                                     </div>
                                 </div>
                             </div>
@@ -2212,7 +2303,7 @@
                                             <li>Nín thở đếm 4</li>
                                             <li>Lặp lại 5-10 chu kỳ</li>
                                         </ol>
-                                        <button class="btn btn-primary" onclick="startBoxBreathing()">🔲 Bắt Đầu Box Breathing</button>
+                                        <button class="btn btn-primary" onclick="startBoxBreathing()">  <i class="fas fa-square"></i> Bắt đầu box breathing</button>
                                     </div>
                                 </div>
                             </div>
@@ -2263,7 +2354,7 @@
                                         <li><strong>Cổ:</strong> Cúi đầu về phía trước</li>
                                         <li><strong>Mặt:</strong> Căng tất cả cơ mặt</li>
                                     </ol>
-                                    <button class="btn btn-success" onclick="startPMRGuide()">🔄 Bắt Đầu PMR Có Hướng Dẫn</button>
+                                    <button class="btn btn-success" onclick="startPMRGuide()">  <i class="fas fa-sync"></i> Bắt đầu PMR có hướng dẫn</button>
                                 </div>
                             </div>
                             
@@ -2289,7 +2380,7 @@
                 <!-- Thiền định và Mindfulness -->
                 <div class="grid grid-2" style="margin-top: 25px;">
                     <div class="card">
-                        <h3>🧘 Thiền định cho giấc ngủ</h3>
+                        <h3><i class="fas fa-spa"></i> Thiền định cho giấc ngủ</h3>
                         
                         <div class="accordion">
                             <div class="accordion-item">
