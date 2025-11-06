@@ -6,6 +6,8 @@
     <title>Sleep optimizer pro - Ứng dụng tối ưu hóa giấc ngủ chuyên nghiệp</title>
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -1926,10 +1928,12 @@
 
                     <div class="card">
                         <h3><i class="fas fa-chart-line"></i> Kết quả đánh giá chi tiết</h3>
-                        <div id="qualityResultAdvanced"></div>
-                        
+                        <div id="qualityResultAdvanced" style="max-width: 500px; margin: 0 auto;">
+                            <canvas id="qualityChart"></canvas>
+                        </div>
+
                         <div id="qualityFactors" style="margin-top: 20px;"></div>
-                        
+
                         <div id="qualityTrends" style="margin-top: 20px;"></div>
                     </div>
                 </div>
@@ -2084,9 +2088,11 @@
                     </div>
 
                     <div class="card">
-                        <h3>📊 Đánh giá môi trường</h3>
-                        <div id="environmentScore"></div>
-                        
+                        <h3><i class="fas fa-chart-pie"></i> Đánh giá môi trường</h3>
+                        <div id="environmentScore" style="max-width: 400px; margin: 0 auto;">
+                            <canvas id="environmentChart"></canvas>
+                        </div>
+
                         <div id="environmentRecommendations" style="margin-top: 20px;"></div>
                     </div>
                 </div>
@@ -2235,7 +2241,9 @@
                         </div>
                     </div>
                     
-                    <div id="hygieneScore" style="margin-top: 20px; text-align: center;"></div>
+                    <div id="hygieneScore" style="margin-top: 20px; text-align: center; max-width: 400px; margin: 20px auto 0;">
+                        <canvas id="hygieneChart"></canvas>
+                    </div>
                 </div>
             </div>
 
@@ -4064,15 +4072,76 @@
             
             const scoreClass = score >= 80 ? 'excellent' : score >= 60 ? 'good' : 'poor';
             const scoreLabel = score >= 80 ? 'Tuyệt vời' : score >= 60 ? 'Ổn' : 'Cần cải thiện';
-            
-            let html = `
-                <div style="text-align: center;">
-                    <div class="quality-score ${scoreClass}">${score}</div>
-                    <p style="font-size: 1.1rem; font-weight: 600; margin-top: 10px;">${scoreLabel}</p>
-                </div>
-            `;
-            
-            document.getElementById('environmentScore').innerHTML = html;
+
+            // Create doughnut chart for environment score
+            const container = document.getElementById('environmentScore');
+            const canvas = document.getElementById('environmentChart');
+            if (canvas && container) {
+                // Clear previous content
+                container.innerHTML = '<canvas id="environmentChart"></canvas>';
+                const newCanvas = document.getElementById('environmentChart');
+
+                // Destroy existing chart if any
+                if (window.environmentChartInstance) {
+                    window.environmentChartInstance.destroy();
+                }
+
+                const chartColor = score >= 80 ? '#10b981' : score >= 60 ? '#f59e0b' : '#ef4444';
+
+                window.environmentChartInstance = new Chart(newCanvas, {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Điểm đạt được', 'Còn thiếu'],
+                        datasets: [{
+                            data: [score, 100 - score],
+                            backgroundColor: [chartColor, '#e5e7eb'],
+                            borderWidth: 0,
+                            circumference: 180,
+                            rotation: 270
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: true,
+                        cutout: '75%',
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        return context.label + ': ' + context.parsed + '%';
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    plugins: [{
+                        id: 'centerText',
+                        beforeDraw: function(chart) {
+                            const width = chart.width;
+                            const height = chart.height;
+                            const ctx = chart.ctx;
+                            ctx.restore();
+
+                            ctx.font = 'bold 2.5rem Arial';
+                            ctx.fillStyle = chartColor;
+                            ctx.textAlign = 'center';
+                            ctx.textBaseline = 'middle';
+                            const centerX = width / 2;
+                            const centerY = height / 2 + 20;
+                            ctx.fillText(score, centerX, centerY);
+
+                            ctx.font = '1rem Arial';
+                            ctx.fillStyle = '#6b7280';
+                            ctx.fillText(scoreLabel, centerX, centerY + 35);
+
+                            ctx.save();
+                        }
+                    }]
+                });
+            }
             
             // Display recommendations
             let recHtml = '';
@@ -4096,27 +4165,88 @@
         function updateHygieneScore() {
             const checkboxes = document.querySelectorAll('#sleep-environment input[type="checkbox"]');
             let completed = 0;
-            
+
             checkboxes.forEach(checkbox => {
                 if (checkbox.checked) completed++;
             });
-            
+
             const total = checkboxes.length;
             const percentage = Math.round((completed / total) * 100);
-            
-            document.getElementById('hygieneScore').innerHTML = `
-                <div style="text-align: center;">
-                    <div class="quality-score ${percentage >= 80 ? 'excellent' : percentage >= 60 ? 'good' : 'poor'}">
-                        ${percentage}%
-                    </div>
-                    <p style="font-size: 1.1rem; font-weight: 600; margin-top: 10px;">
-                        Hoàn thành ${completed}/${total} tiêu chí vệ sinh giấc ngủ
-                    </p>
-                    <div class="progress-bar" style="margin-top: 15px;">
-                        <div class="progress-fill" style="width: ${percentage}%;"></div>
-                    </div>
-                </div>
-            `;
+
+            // Create doughnut chart for hygiene score
+            const container = document.getElementById('hygieneScore');
+            const canvas = document.getElementById('hygieneChart');
+            if (canvas && container) {
+                // Clear previous content
+                container.innerHTML = '<canvas id="hygieneChart"></canvas>';
+                const newCanvas = document.getElementById('hygieneChart');
+
+                // Destroy existing chart if any
+                if (window.hygieneChartInstance) {
+                    window.hygieneChartInstance.destroy();
+                }
+
+                const chartColor = percentage >= 80 ? '#10b981' : percentage >= 60 ? '#f59e0b' : '#ef4444';
+
+                window.hygieneChartInstance = new Chart(newCanvas, {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Hoàn thành', 'Chưa hoàn thành'],
+                        datasets: [{
+                            data: [completed, total - completed],
+                            backgroundColor: [chartColor, '#e5e7eb'],
+                            borderWidth: 0
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: true,
+                        cutout: '70%',
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'bottom',
+                                labels: {
+                                    padding: 15,
+                                    font: {
+                                        size: 12
+                                    }
+                                }
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        return context.label + ': ' + context.parsed + ' tiêu chí';
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    plugins: [{
+                        id: 'centerText',
+                        beforeDraw: function(chart) {
+                            const width = chart.width;
+                            const height = chart.height;
+                            const ctx = chart.ctx;
+                            ctx.restore();
+
+                            ctx.font = 'bold 2.5rem Arial';
+                            ctx.fillStyle = chartColor;
+                            ctx.textAlign = 'center';
+                            ctx.textBaseline = 'middle';
+                            const centerX = width / 2;
+                            const centerY = height / 2 - 10;
+                            ctx.fillText(percentage + '%', centerX, centerY);
+
+                            ctx.font = '0.9rem Arial';
+                            ctx.fillStyle = '#6b7280';
+                            ctx.fillText(completed + '/' + total + ' tiêu chí', centerX, centerY + 30);
+
+                            ctx.save();
+                        }
+                    }]
+                });
+            }
         }
 
         // Add event listeners for hygiene checkboxes
@@ -4264,18 +4394,101 @@
             }
             
             score = Math.max(0, Math.min(100, score));
-            
+
             const scoreClass = score >= 80 ? 'excellent' : score >= 60 ? 'good' : 'poor';
             const scoreLabel = score >= 80 ? 'Tuyệt vời' : score >= 60 ? 'Ổn' : 'Cần cải thiện';
-            
-            let html = `
-                <div style="text-align: center;">
-                    <div class="quality-score ${scoreClass}">${score}</div>
-                    <p style="font-size: 1.1rem; font-weight: 600; margin-top: 10px;">${scoreLabel}</p>
-                </div>
-            `;
-            
-            document.getElementById('qualityResultAdvanced').innerHTML = html;
+
+            // Create radar chart for quality assessment
+            const container = document.getElementById('qualityResultAdvanced');
+            const canvas = document.getElementById('qualityChart');
+            if (canvas && container) {
+                // Clear previous content
+                container.innerHTML = '<canvas id="qualityChart"></canvas>';
+                const newCanvas = document.getElementById('qualityChart');
+
+                // Destroy existing chart if any
+                if (window.qualityChartInstance) {
+                    window.qualityChartInstance.destroy();
+                }
+
+                // Prepare data for radar chart (convert to percentages)
+                const chartData = {
+                    latency: sleepLatency <= 15 ? 100 : sleepLatency <= 30 ? 67 : 17,
+                    wakings: nightWakings <= 1 ? 100 : nightWakings <= 2 ? 60 : 15,
+                    wakeTime: wakeTime <= 20 ? 100 : wakeTime <= 45 ? 53 : 13,
+                    efficiency: efficiency >= 90 ? 100 : efficiency >= 85 ? 75 : efficiency >= 75 ? 40 : 10,
+                    morningFeeling: (morningFeeling / 5) * 100,
+                    dayAlertness: (dayAlertness / 5) * 100,
+                    caffeine: caffeineNeed === 0 ? 100 : caffeineNeed === 1 ? 67 : caffeineNeed === 2 ? 33 : 0
+                };
+
+                window.qualityChartInstance = new Chart(newCanvas, {
+                    type: 'radar',
+                    data: {
+                        labels: ['Độ trễ ngủ', 'Số lần thức', 'Thời gian thức', 'Hiệu suất ngủ', 'Cảm giác sáng', 'Tỉnh táo ngày', 'Không caffeine'],
+                        datasets: [{
+                            label: 'Chất lượng giấc ngủ',
+                            data: [chartData.latency, chartData.wakings, chartData.wakeTime, chartData.efficiency, chartData.morningFeeling, chartData.dayAlertness, chartData.caffeine],
+                            fill: true,
+                            backgroundColor: 'rgba(102, 126, 234, 0.2)',
+                            borderColor: 'rgba(102, 126, 234, 1)',
+                            pointBackgroundColor: 'rgba(102, 126, 234, 1)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(102, 126, 234, 1)',
+                            pointRadius: 5,
+                            pointHoverRadius: 7
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: true,
+                        scales: {
+                            r: {
+                                angleLines: {
+                                    color: 'rgba(0, 0, 0, 0.1)'
+                                },
+                                grid: {
+                                    color: 'rgba(0, 0, 0, 0.1)'
+                                },
+                                pointLabels: {
+                                    font: {
+                                        size: 12,
+                                        weight: '600'
+                                    },
+                                    color: '#4b5563'
+                                },
+                                ticks: {
+                                    display: false,
+                                    stepSize: 20
+                                },
+                                suggestedMin: 0,
+                                suggestedMax: 100
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        return context.parsed.r.toFixed(0) + '%';
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+
+                // Add score display below chart
+                container.insertAdjacentHTML('beforeend', `
+                    <div style="text-align: center; margin-top: 20px;">
+                        <div class="quality-score ${scoreClass}">${score}</div>
+                        <p style="font-size: 1.1rem; font-weight: 600; margin-top: 10px;">${scoreLabel}</p>
+                    </div>
+                `);
+            }
             
             // Display factors
             let factorsHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;"><i class="fas fa-chart-line"></i> Phân tích chi tiết:</h4>';
