@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sleep Optimizer Pro - Ứng Dụng Tối Ưu Hóa Giấc Ngủ Chuyên Nghiệp</title>
+    <title>Sleep optimizer pro - Ứng dụng tối ưu hóa giấc ngủ chuyên nghiệp</title>
     <style>
         * {
             margin: 0;
@@ -1153,7 +1153,7 @@
     <div class="container">
         <!-- Header -->
         <div class="header">
-            <h1>Sleep Optimizer Pro</h1>
+            <h1>Sleep optimizer pro</h1>
             <p class="subtitle">Ứng dụng tối ưu hóa giấc ngủ toàn diện dựa trên khoa học hiện đại</p>
             <p class="version">Phiên bản chuyên nghiệp với đầy đủ công cụ phân tích và tối ưu hóa</p>
         </div>
@@ -1161,46 +1161,46 @@
         <!-- Navigation -->
         <div class="nav-tabs">
             <button class="nav-tab active" onclick="switchTab('sleep-cycles')">
-                🕐 Chu Kỳ Giấc Ngủ
+                🕐 Chu kỳ giấc ngủ
             </button>
             <button class="nav-tab" onclick="switchTab('nap-optimizer')">
-                ☀️ Tối Ưu Ngủ Trưa
+                ☀️ Tối ưu ngủ trưa
             </button>
             <button class="nav-tab" onclick="switchTab('sleep-quality')">
-                📊 Đánh Giá Chất Lượng
+                📊 Đánh giá chất lượng
             </button>
             <button class="nav-tab" onclick="switchTab('sleep-environment')">
-                🏠 Môi Trường Ngủ
+                🏠 Môi trường ngủ
             </button>
             <button class="nav-tab" onclick="switchTab('relaxation')">
-                🧘 Kỹ Thuật Thư Giãn
+                🧘 Kỹ thuật thư giãn
             </button>
             <button class="nav-tab" onclick="switchTab('chronotype')">
                 🎯 Chronotype
             </button>
             <button class="nav-tab" onclick="switchTab('sleep-journal')">
-                📔 Nhật Ký Giấc Ngủ
+                📔 Nhật ký giấc ngủ
             </button>
             <button class="nav-tab" onclick="switchTab('sleep-disorders')">
-                ⚕️ Rối Loạn Giấc Ngủ
+                ⚕️ Rối loạn giấc ngủ
             </button>
             <button class="nav-tab" onclick="switchTab('recommendations')">
-                💡 Khuyến Nghị
+                💡 Khuyến nghị
             </button>
         </div>
 
         <!-- Content -->
         <div class="content">
-            <!-- Tab 1: Chu Kỳ Giấc Ngủ -->
+            <!-- Tab 1: Chu kỳ giấc ngủ -->
             <div id="sleep-cycles" class="tab-content active">
                 <div class="section-header">
                     <span class="icon">🕐</span>
-                    <h2>Tính Toán Chu Kỳ Giấc Ngủ Khoa Học</h2>
+                    <h2>Tính toán chu kỳ giấc ngủ khoa học</h2>
                     <button class="info-btn" onclick="toggleInfo('cycles-info')">i</button>
                 </div>
 
                 <div id="cycles-info" class="info-box">
-                    <h4>Kiến Trúc Giấc Ngủ và Chu Kỳ NREM-REM</h4>
+                    <h4>Kiến trúc giấc ngủ và chu kỳ NREM-REM</h4>
                     <p>Giấc ngủ gồm 4-6 chu kỳ, mỗi chu kỳ 70-120 phút (trung bình 90 phút):</p>
                     <ul>
                         <li><strong>N1 (1-7 phút):</strong> Ru ngủ, chuyển tiếp từ thức sang ngủ</li>
@@ -1213,7 +1213,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>⚙️ Cài Đặt Cá Nhân</h3>
+                        <h3>⚙️ Cài đặt cá nhân</h3>
                         
                         <div class="form-group">
                             <label>Giờ đi ngủ dự định</label>
@@ -1255,11 +1255,11 @@
                     </div>
 
                     <div class="card">
-                        <h3>⏰ Thời Gian Thức Dậy Lý Tưởng</h3>
+                        <h3>⏰ Thời gian thức dậy lý tưởng</h3>
                         <div id="cycleResults"></div>
                         
                         <div style="margin-top: 20px; padding: 16px; background: linear-gradient(135deg, #eff6ff, #dbeafe); border-radius: 12px;">
-                            <h4 style="color: #1e40af; margin-bottom: 8px;">💡 Gợi Ý Thông Minh</h4>
+                            <h4 style="color: #1e40af; margin-bottom: 8px;">💡 Gợi ý thông minh</h4>
                             <p id="cycleAdvice" style="color: #1d4ed8; font-size: 0.9rem; line-height: 1.5;"></p>
                         </div>
                     </div>
@@ -1267,7 +1267,7 @@
 
                 <!-- Tính ngược từ giờ thức dậy -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🎯 Tính Thời Gian Đi Ngủ Từ Giờ Thức Dậy</h3>
+                    <h3>🎯 Tính thời gian đi ngủ từ giờ thức dậy</h3>
                     <div class="grid grid-4" style="align-items: end; margin-top: 15px;">
                         <div class="form-group">
                             <label>Giờ cần thức dậy</label>
@@ -1297,7 +1297,7 @@
 
                 <!-- Sleep Debt Calculator -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📉 Máy Tính Nợ Giấc Ngủ</h3>
+                    <h3>📉 Máy tính nợ giấc ngủ</h3>
                     <div class="grid grid-2">
                         <div>
                             <div class="form-group">
@@ -1313,7 +1313,7 @@
                         </div>
                         
                         <div>
-                            <h4>Nợ Giấc Ngủ Hiện Tại</h4>
+                            <h4>Nợ giấc ngủ hiện tại</h4>
                             <div class="sleep-debt-meter">
                                 <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
                                     <span style="font-size: 0.9rem; color: #6b7280;">Không nợ</span>
@@ -1330,16 +1330,16 @@
                 </div>
             </div>
 
-            <!-- Tab 2: Tối Ưu Ngủ Trưa -->
+            <!-- Tab 2: Tối ưu ngủ trưa -->
             <div id="nap-optimizer" class="tab-content">
                 <div class="section-header">
                     <span class="icon">☀️</span>
-                    <h2>Tối Ưu Hóa Ngủ Trưa Khoa Học</h2>
+                    <h2>Tối ưu hóa ngủ trưa khoa học</h2>
                     <button class="info-btn" onclick="toggleInfo('nap-info')">i</button>
                 </div>
 
                 <div id="nap-info" class="info-box">
-                    <h4>Khoa Học Về Ngủ Trưa và Áp Lực Ngủ (Sleep Pressure)</h4>
+                    <h4>Khoa học về ngủ trưa và áp lực ngủ (Sleep pressure)</h4>
                     <p>Ngủ trưa ảnh hưởng đến adenosine - chất tạo "áp lực ngủ". Lợi ích bao gồm:</p>
                     <ul>
                         <li><strong>Cải thiện nhận thức:</strong> Tăng 34% khả năng tập trung, 16% hiệu suất làm việc</li>
@@ -1352,7 +1352,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>⚙️ Thiết Lập Ngủ Trưa</h3>
+                        <h3>⚙️ Thiết lập ngủ trưa</h3>
                         
                         <div class="form-group">
                             <label>Thời gian hiện tại</label>
@@ -1402,7 +1402,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>📋 Kế Hoạch Ngủ Trưa Thông Minh</h3>
+                        <h3>📋 Kế hoạch ngủ trưa thông minh</h3>
                         <div id="smartNapPlan"></div>
                         
                         <div id="napBenefits" style="margin-top: 20px;"></div>
@@ -1413,17 +1413,17 @@
 
                 <!-- Bảng so sánh chi tiết -->
                 <div class="table-container">
-                    <h3 style="margin-bottom: 16px;">📊 So Sánh Chi Tiết Các Loại Ngủ Trưa</h3>
+                    <h3 style="margin-bottom: 16px;">📊 So sánh chi tiết các loại ngủ trưa</h3>
                     <table class="comparison-table">
                         <thead>
                             <tr>
-                                <th>Loại Ngủ Trưa</th>
-                                <th>Thời Lượng</th>
-                                <th>Giai Đoạn Giấc Ngủ</th>
-                                <th>Lợi Ích Chính</th>
-                                <th>Thời Gian Phục Hồi</th>
-                                <th>Phù Hợp Cho</th>
-                                <th>Tránh Khi</th>
+                                <th>Loại ngủ trưa</th>
+                                <th>Thời lượng</th>
+                                <th>Giai đoạn giấc ngủ</th>
+                                <th>Lợi ích chính</th>
+                                <th>Thời gian phục hồi</th>
+                                <th>Phù hợp cho</th>
+                                <th>Tránh khi</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -1478,10 +1478,10 @@
 
                 <!-- Circadian Timing -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🕐 Thời Điểm Tối Ưu Theo Nhịp Sinh Học</h3>
+                    <h3>🕐 Thời điểm tối ưu theo nhịp sinh học</h3>
                     <div class="grid grid-3">
                         <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fef3c7, #fde68a); border-radius: 12px;">
-                            <h4 style="color: #92400e; margin-bottom: 8px;">🌅 Buổi Sáng (6-9h)</h4>
+                            <h4 style="color: #92400e; margin-bottom: 8px;">🌅 Buổi sáng (6-9h)</h4>
                             <p style="color: #b45309; font-size: 0.9rem;">❌ Không khuyến nghị</p>
                             <small style="color: #78350f;">Cortisol cao tự nhiên</small>
                         </div>
@@ -1501,16 +1501,16 @@
                 </div>
             </div>
 
-            <!-- Tab 3: Đánh Giá Chất Lượng Giấc Ngủ -->
+            <!-- Tab 3: Đánh giá chất lượng giấc ngủ -->
             <div id="sleep-quality" class="tab-content">
                 <div class="section-header">
                     <span class="icon">📊</span>
-                    <h2>Đánh Giá Chất Lượng Giấc Ngủ Toàn Diện</h2>
+                    <h2>Đánh giá chất lượng giấc ngủ toàn diện</h2>
                     <button class="info-btn" onclick="toggleInfo('quality-info')">i</button>
                 </div>
 
                 <div id="quality-info" class="info-box">
-                    <h4>Các Chỉ Số Vàng Đánh Giá Giấc Ngủ Chất Lượng</h4>
+                    <h4>Các chỉ số vàng đánh giá giấc ngủ chất lượng</h4>
                     <p>Đánh giá dựa trên tiêu chuẩn của American Academy of Sleep Medicine:</p>
                     <ul>
                         <li><strong>Độ trễ giấc ngủ:</strong> ≤20 phút (lý tưởng 10-15 phút)</li>
@@ -1524,7 +1524,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>📝 Nhập Dữ Liệu Giấc Ngủ</h3>
+                        <h3>📝 Nhập dữ liệu giấc ngủ</h3>
                         
                         <div class="grid grid-2">
                             <div class="form-group">
@@ -1594,7 +1594,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>📈 Kết Quả Đánh Giá Chi Tiết</h3>
+                        <h3>📈 Kết quả đánh giá chi tiết</h3>
                         <div id="qualityResultAdvanced"></div>
                         
                         <div id="qualityFactors" style="margin-top: 20px;"></div>
@@ -1605,7 +1605,7 @@
 
                 <!-- Pittsburgh Sleep Quality Index (PSQI) -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🏥 Bảng Đánh Giá PSQI (Pittsburgh Sleep Quality Index)</h3>
+                    <h3>🏥 Bảng đánh giá PSQI (Pittsburgh sleep quality index)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Công cụ đánh giá được sử dụng rộng rãi trong y học. Điểm ≤5: giấc ngủ tốt, >5: cần cải thiện, >10: có thể cần tư vấn chuyên gia.</p>
                     
                     <div class="grid grid-2">
@@ -1675,16 +1675,16 @@
                 </div>
             </div>
 
-            <!-- Tab 4: Môi Trường Ngủ -->
+            <!-- Tab 4: Môi trường ngủ -->
             <div id="sleep-environment" class="tab-content">
                 <div class="section-header">
                     <span class="icon">🏠</span>
-                    <h2>Tối Ưu Hóa Môi Trường Ngủ</h2>
+                    <h2>Tối ưu hóa môi trường ngủ</h2>
                     <button class="info-btn" onclick="toggleInfo('environment-info')">i</button>
                 </div>
 
                 <div id="environment-info" class="info-box">
-                    <h4>Nguyên Tắc "Tối - Yên - Mát - Thoải Mái" Theo Khoa Học</h4>
+                    <h4>Nguyên tắc "Tối - Yên - Mát - Thoải mái" theo khoa học</h4>
                     <p>Môi trường ngủ lý tưởng dựa trên nghiên cứu về sinh lý học giấc ngủ:</p>
                     <ul>
                         <li><strong>Ánh sáng:</strong> <1 lux (tối hơn ánh trăng), ức chế melatonin ngay cả ánh sáng nhỏ</li>
@@ -1697,7 +1697,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>🌡️ Kiểm Tra Môi Trường Hiện Tại</h3>
+                        <h3>🌡️ Kiểm tra môi trường hiện tại</h3>
                         
                         <div class="form-group">
                             <label>Nhiệt độ phòng ngủ (°C)</label>
@@ -1753,7 +1753,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>📊 Đánh Giá Môi Trường</h3>
+                        <h3>📊 Đánh giá môi trường</h3>
                         <div id="environmentScore"></div>
                         
                         <div id="environmentRecommendations" style="margin-top: 20px;"></div>
@@ -1763,7 +1763,7 @@
                 <!-- Hướng dẫn tối ưu cụ thể -->
                 <div class="grid grid-3" style="margin-top: 25px;">
                     <div class="card">
-                        <h3>🌡️ Tối Ưu Nhiệt Độ</h3>
+                        <h3>🌡️ Tối ưu nhiệt độ</h3>
                         <div class="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
@@ -1792,7 +1792,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>💡 Quản Lý Ánh Sáng</h3>
+                        <h3>💡 Quản lý ánh sáng</h3>
                         <div class="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
@@ -1822,7 +1822,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>🔇 Kiểm Soát Âm Thanh</h3>
+                        <h3>🔇 Kiểm soát âm thanh</h3>
                         <div class="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
@@ -1853,10 +1853,10 @@
 
                 <!-- Sleep Hygiene Checklist -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>✅ Checklist Vệ Sinh Giấc Ngủ Toàn Diện</h3>
+                    <h3>✅ Checklist vệ sinh giấc ngủ toàn diện</h3>
                     <div class="grid grid-2">
                         <div>
-                            <h4 style="color: #1e293b; margin-bottom: 12px;">🏠 Môi Trường Phòng Ngủ</h4>
+                            <h4 style="color: #1e293b; margin-bottom: 12px;">🏠 Môi trường phòng ngủ</h4>
                             <div class="form-group">
                                 <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
                                     <input type="checkbox" id="dark-room"> Phòng hoàn toàn tối hoặc có mặt nạ ngủ
@@ -1908,16 +1908,16 @@
                 </div>
             </div>
 
-            <!-- Tab 5: Kỹ Thuật Thư Giãn -->
+            <!-- Tab 5: Kỹ thuật thư giãn -->
             <div id="relaxation" class="tab-content">
                 <div class="section-header">
                     <span class="icon">🧘</span>
-                    <h2>Kỹ Thuật Thư Giãn và Thiền Định</h2>
+                    <h2>Kỹ thuật thư giãn và thiền định</h2>
                     <button class="info-btn" onclick="toggleInfo('relaxation-info')">i</button>
                 </div>
 
                 <div id="relaxation-info" class="info-box">
-                    <h4>Khoa Học Đằng Sau Kỹ Thuật Thư Giãn</h4>
+                    <h4>Khoa học đằng sau kỹ thuật thư giãn</h4>
                     <p>Các kỹ thuật thư giãn kích hoạt hệ thần kinh phó giao cảm (parasympathetic), đối kháng với phản ứng stress:</p>
                     <ul>
                         <li><strong>Hô hấp sâu:</strong> Kích hoạt dây thần kinh phế vị, giảm cortisol 23%</li>
@@ -1930,7 +1930,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>🫁 Kỹ Thuật Hô Hấp</h3>
+                        <h3>🫁 Kỹ thuật hô hấp</h3>
                         
                         <div class="accordion">
                             <div class="accordion-item">
@@ -2049,7 +2049,7 @@
                 <!-- Thiền định và Mindfulness -->
                 <div class="grid grid-2" style="margin-top: 25px;">
                     <div class="card">
-                        <h3>🧘 Thiền Định Cho Giấc Ngủ</h3>
+                        <h3>🧘 Thiền định cho giấc ngủ</h3>
                         
                         <div class="accordion">
                             <div class="accordion-item">
@@ -2099,7 +2099,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>🎵 Âm Thanh Trị Liệu</h3>
+                        <h3>🎵 Âm thanh trị liệu</h3>
                         
                         <div class="form-group">
                             <label>Loại âm thanh thư giãn</label>
@@ -2135,7 +2135,7 @@
                             
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
-                                    Âm Thanh Thiên Nhiên
+                                    Âm thanh thiên nhiên
                                     <span>▼</span>
                                 </div>
                                 <div class="accordion-content">
@@ -2180,12 +2180,12 @@
             <div id="chronotype" class="tab-content">
                 <div class="section-header">
                     <span class="icon">🎯</span>
-                    <h2>Xác Định và Tối Ưu Chronotype</h2>
+                    <h2>Xác định và tối ưu chronotype</h2>
                     <button class="info-btn" onclick="toggleInfo('chronotype-info')">i</button>
                 </div>
 
                 <div id="chronotype-info" class="info-box">
-                    <h4>Khoa Học Về Chronotype và Nhịp Sinh Học</h4>
+                    <h4>Khoa học về chronotype và nhịp sinh học</h4>
                     <p>Chronotype được quyết định bởi đồng hồ sinh học bên trong (SCN - Suprachiasmatic Nucleus), ảnh hưởng bởi:</p>
                     <ul>
                         <li><strong>Gen CLOCK và PER:</strong> Quyết định 50% chronotype, di truyền từ cha mẹ</li>
@@ -2198,7 +2198,7 @@
 
                 <!-- MEQ Test (Morningness-Eveningness Questionnaire) -->
                 <div class="card">
-                    <h3>📋 Bài Test MEQ (Morningness-Eveningness Questionnaire)</h3>
+                    <h3>📋 Bài test MEQ (Morningness-eveningness questionnaire)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Bài test chuẩn quốc tế được phát triển bởi Horne & Östberg (1976), được sử dụng trong nghiên cứu khoa học.</p>
                     
                     <div id="meqQuestions">
@@ -2255,7 +2255,7 @@
                         </div>
                     </div>
                     
-                    <button class="btn btn-success" onclick="calculateMEQResult()">📊 Tính Kết Quả MEQ</button>
+                    <button class="btn btn-success" onclick="calculateMEQResult()">📊 Tính Kết quả MEQ</button>
                     
                     <div id="meqResult" style="margin-top: 20px;"></div>
                 </div>
@@ -2325,12 +2325,12 @@
 
                 <!-- Chiến lược tối ưu theo Chronotype -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🎯 Chiến Lược Tối Ưu Hóa Theo Chronotype</h3>
+                    <h3>🎯 Chiến lược tối ưu hóa theo chronotype</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #1e293b; margin-bottom: 15px;">🌅 Nhóm Sáng (Lion & Bear)</h4>
                             <div style="background: linear-gradient(135deg, #fef3c7, #fde68a); padding: 20px; border-radius: 12px;">
-                                <h5 style="color: #92400e; margin-bottom: 10px;">⏰ Lịch Trình Tối Ưu</h5>
+                                <h5 style="color: #92400e; margin-bottom: 10px;">⏰ Lịch trình tối ưu</h5>
                                 <ul style="color: #b45309; line-height: 1.7; margin-left: 20px;">
                                     <li>Công việc quan trọng: 8:00-12:00</li>
                                     <li>Tập thể dục: 6:00-8:00 hoặc 12:00-15:00</li>
@@ -2351,7 +2351,7 @@
                         <div>
                             <h4 style="color: #1e293b; margin-bottom: 15px;">🌙 Nhóm Tối (Wolf & Dolphin)</h4>
                             <div style="background: linear-gradient(135deg, #e0e7ff, #c7d2fe); padding: 20px; border-radius: 12px;">
-                                <h5 style="color: #3730a3; margin-bottom: 10px;">⏰ Lịch Trình Tối Ưu</h5>
+                                <h5 style="color: #3730a3; margin-bottom: 10px;">⏰ Lịch trình tối ưu</h5>
                                 <ul style="color: #4338ca; line-height: 1.7; margin-left: 20px;">
                                     <li>Công việc quan trọng: 14:00-18:00, 19:00-22:00</li>
                                     <li>Tập thể dục: 18:00-20:00</li>
@@ -2373,7 +2373,7 @@
 
                 <!-- Social Jet Lag Calculator -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>✈️ Máy Tính Social Jet Lag</h3>
+                    <h3>✈️ Máy tính social jet lag</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Social Jet Lag là sự chênh lệch giữa đồng hồ sinh học và lịch trình xã hội. >2 giờ có thể gây tác hại sức khỏe.</p>
                     
                     <div class="grid grid-2">
@@ -2406,16 +2406,16 @@
                 </div>
             </div>
 
-            <!-- Tab 7: Nhật Ký Giấc Ngủ -->
+            <!-- Tab 7: Nhật ký giấc ngủ -->
             <div id="sleep-journal" class="tab-content">
                 <div class="section-header">
                     <span class="icon">📔</span>
-                    <h2>Nhật Ký Giấc Ngủ Khoa Học</h2>
+                    <h2>Nhật ký giấc ngủ khoa học</h2>
                     <button class="info-btn" onclick="toggleInfo('journal-info')">i</button>
                 </div>
 
                 <div id="journal-info" class="info-box">
-                    <h4>Tầm Quan Trọng của Sleep Diary trong Y Học</h4>
+                    <h4>Tầm quan trọng của sleep diary trong y học</h4>
                     <p>Nhật ký giấc ngủ là công cụ chẩn đoán chuẩn vàng được American Academy of Sleep Medicine khuyến nghị:</p>
                     <ul>
                         <li><strong>Chẩn đoán:</strong> Giúp phát hiện insomnia, circadian rhythm disorders</li>
@@ -2428,7 +2428,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>📝 Nhập Dữ Liệu Hôm Nay</h3>
+                        <h3>📝 Nhập dữ liệu hôm nay</h3>
                         
                         <div class="form-group">
                             <label>Ngày</label>
@@ -2553,12 +2553,12 @@
                         </div>
 
                         <button class="btn btn-success" onclick="saveAdvancedJournalEntry()">
-                            💾 Lưu Nhật Ký
+                            💾 Lưu nhật ký
                         </button>
                     </div>
 
                     <div class="card">
-                        <h3>📊 Lịch Sử và Phân Tích</h3>
+                        <h3>📊 Lịch sử và phân tích</h3>
                         <div id="journalHistory" style="max-height: 500px; overflow-y: auto;"></div>
                         
                         <div id="journalStats" style="margin-top: 20px;"></div>
@@ -2567,23 +2567,23 @@
 
                 <!-- Advanced Analytics -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📈 Phân Tích Xu Hướng và Tương Quan</h3>
+                    <h3>📈 Phân tích xu hướng và tương quan</h3>
                     <div id="journalAnalytics"></div>
                 </div>
 
                 <!-- Export/Import -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>💾 Xuất/Nhập Dữ Liệu</h3>
+                    <h3>💾 Xuất/nhập dữ liệu</h3>
                     <div class="grid grid-2">
                         <div>
-                            <h4>📤 Xuất Dữ Liệu</h4>
+                            <h4>📤 Xuất dữ liệu</h4>
                             <p style="color: #6b7280; margin-bottom: 15px;">Xuất nhật ký để chia sẻ với bác sĩ hoặc sao lưu</p>
                             <button class="btn btn-primary" onclick="exportJournal()">📋 Xuất CSV</button>
                             <button class="btn btn-primary" onclick="exportJournalPDF()">📄 Xuất PDF</button>
                         </div>
                         
                         <div>
-                            <h4>📥 Nhập Dữ Liệu</h4>
+                            <h4>📥 Nhập dữ liệu</h4>
                             <p style="color: #6b7280; margin-bottom: 15px;">Nhập dữ liệu từ file CSV đã xuất trước đó</p>
                             <input type="file" id="importFile" accept=".csv" style="margin-bottom: 10px;">
                             <button class="btn btn-warning" onclick="importJournal()">📁 Nhập CSV</button>
@@ -2592,16 +2592,16 @@
                 </div>
             </div>
 
-            <!-- Tab 8: Rối Loạn Giấc Ngủ -->
+            <!-- Tab 8: Rối loạn giấc ngủ -->
             <div id="sleep-disorders" class="tab-content">
                 <div class="section-header">
                     <span class="icon">⚕️</span>
-                    <h2>Rối Loạn Giấc Ngủ và Chẩn Đoán</h2>
+                    <h2>Rối loạn giấc ngủ và chẩn đoán</h2>
                     <button class="info-btn" onclick="toggleInfo('disorders-info')">i</button>
                 </div>
 
                 <div id="disorders-info" class="info-box">
-                    <h4>⚠️ Lưu Ý Quan Trọng Về Chẩn Đoán Y Khoa</h4>
+                    <h4>⚠️ Lưu ý quan trọng về chẩn đoán y khoa</h4>
                     <p><strong>Công cụ này chỉ mang tính tham khảo và giáo dục, không thể thay thế chẩn đoán y khoa chuyên nghiệp.</strong></p>
                     <p>Nếu bạn có triệu chứng kéo dài >1 tháng, ảnh hưởng nghiêm trọng đến cuộc sống, hãy tham khảo:</p>
                     <ul>
@@ -2614,7 +2614,7 @@
 
                 <!-- Insomnia Assessment -->
                 <div class="card">
-                    <h3>😴 Đánh Giá Mất Ngủ (Insomnia Severity Index - ISI)</h3>
+                    <h3>😴 Đánh giá mất ngủ (Insomnia severity index - ISI)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Công cụ đánh giá mức độ nghiêm trọng của chứng mất ngủ, được sử dụng rộng rãi trong lâm sàng.</p>
                     
                     <div class="accordion">
@@ -2711,7 +2711,7 @@
 
                 <!-- Sleep Apnea Screening -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>😤 Sàng Lọc Ngưng Thở Khi Ngủ (STOP-BANG)</h3>
+                    <h3>😤 Sàng lọc ngưng thở khi ngủ (STOP-BANG)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Công cụ sàng lọc ngưng thở khi ngủ - rối loạn nghiêm trọng ảnh hưởng 4% nam và 2% nữ trưởng thành.</p>
                     
                     <div class="grid grid-2">
@@ -2786,14 +2786,14 @@
                         </div>
                     </div>
                     
-                    <button class="btn btn-warning" onclick="calculateStopBang()">⚠️ Đánh Giá Nguy Cơ</button>
+                    <button class="btn btn-warning" onclick="calculateStopBang()">⚠️ Đánh giá nguy cơ</button>
                     
                     <div id="stopBangResult" style="margin-top: 20px;"></div>
                 </div>
 
                 <!-- Restless Legs Syndrome -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🦵 Hội Chứng Chân Không Yên (Restless Legs Syndrome)</h3>
+                    <h3>🦵 Hội chứng chân không yên (Restless legs syndrome)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Rối loạn thần kinh ảnh hưởng 7-10% dân số, đặc trưng bởi cảm giác khó chịu ở chân và thôi thúc phải di chuyển.</p>
                     
                     <div class="accordion">
@@ -2847,14 +2847,14 @@
                         </select>
                     </div>
                     
-                    <button class="btn btn-primary" onclick="assessRLS()">🔍 Đánh Giá RLS</button>
+                    <button class="btn btn-primary" onclick="assessRLS()">🔍 Đánh giá RLS</button>
                     
                     <div id="rlsResult" style="margin-top: 20px;"></div>
                 </div>
 
                 <!-- Narcolepsy Screening -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>😴 Sàng Lọc Chứng Ngủ Rũ (Narcolepsy) - Epworth Sleepiness Scale</h3>
+                    <h3>😴 Sàng lọc chứng ngủ rũ (Narcolepsy) - Epworth sleepiness scale</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">ESS đánh giá xu hướng ngủ gật trong các tình huống hàng ngày. Điểm >10 cần được đánh giá thêm.</p>
                     
                     <div class="accordion">
@@ -2957,7 +2957,7 @@
 
                 <!-- When to see a doctor -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🏥 Khi Nào Cần Gặp Chuyên Gia</h3>
+                    <h3>🏥 Khi nào cần gặp chuyên gia</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #dc2626; margin-bottom: 12px;">🚨 Cần Gặp Ngay</h4>
@@ -2995,18 +2995,18 @@
                 </div>
             </div>
 
-            <!-- Tab 9: Khuyến Nghị -->
+            <!-- Tab 9: Khuyến nghị -->
             <div id="recommendations" class="tab-content">
                 <div class="section-header">
                     <span class="icon">💡</span>
-                    <h2>Khuyến Nghị Cải Thiện Toàn Diện</h2>
+                    <h2>Khuyến nghị cải thiện toàn diện</h2>
                 </div>
 
                 <div id="recommendationsList"></div>
 
                 <!-- Evidence-based interventions -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🔬 Can Thiệp Dựa Trên Bằng Chứng Khoa Học</h3>
+                    <h3>🔬 Can thiệp dựa trên bằng chứng khoa học</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #166534; margin-bottom: 12px;">✅ Hiệu Quả Cao (Level A Evidence)</h4>
@@ -3034,11 +3034,11 @@
 
                 <!-- Personalized recommendations engine -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🎯 Khuyến Nghị Cá Nhân Hóa</h3>
+                    <h3>🎯 Khuyến nghị cá nhân hóa</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Dựa trên dữ liệu bạn đã nhập, hệ thống sẽ đưa ra khuyến nghị ưu tiên theo mức độ quan trọng và khả thi.</p>
                     
                     <button class="btn btn-success" onclick="generatePersonalizedRecommendations()">
-                        🔄 Tạo Khuyến Nghị Cá Nhân
+                        🔄 Tạo khuyến nghị cá nhân
                     </button>
                     
                     <div id="personalizedRecommendations" style="margin-top: 20px;"></div>
@@ -3046,13 +3046,13 @@
 
                 <!-- Implementation guide -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📋 Hướng Dẫn Thực Hiện 4 Tuần</h3>
+                    <h3>📋 Hướng dẫn thực hiện 4 tuần</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Lộ trình từng bước để tối ưu hóa giấc ngủ một cách bền vững và hiệu quả.</p>
                     
                     <div class="accordion">
                         <div class="accordion-item">
                             <div class="accordion-header" onclick="toggleAccordion(this)">
-                                🔍 Tuần 1: Đánh Giá và Thiết Lập Nền Tảng
+                                🔍 Tuần 1: Đánh giá và thiết lập nền tảng
                                 <span>▼</span>
                             </div>
                             <div class="accordion-content">
@@ -3067,7 +3067,7 @@
                                     <li>Quan sát mối liên hệ giữa hoạt động ban ngày và giấc ngủ</li>
                                 </ul>
                                 
-                                <h5 style="color: #667eea; margin-bottom: 8px;">Cải Thiện Môi Trường:</h5>
+                                <h5 style="color: #667eea; margin-bottom: 8px;">Cải thiện môi trường:</h5>
                                 <ul style="color: #4b5563; line-height: 1.7; margin-left: 20px;">
                                     <li>Mua rèm cản sáng hoặc mặt nạ ngủ</li>
                                     <li>Điều chỉnh nhiệt độ phòng 16-19°C</li>
@@ -3079,11 +3079,11 @@
                         
                         <div class="accordion-item">
                             <div class="accordion-header" onclick="toggleAccordion(this)">
-                                ⏰ Tuần 2: Thiết Lập Lịch Trình Nhất Quán
+                                ⏰ Tuần 2: Thiết lập lịch trình nhất quán
                                 <span>▼</span>
                             </div>
                             <div class="accordion-content">
-                                <h5 style="color: #667eea; margin-bottom: 8px;">Xác Định Giờ Ngủ-Thức Tối Ưu:</h5>
+                                <h5 style="color: #667eea; margin-bottom: 8px;">Xác định giờ ngủ-thức tối ưu:</h5>
                                 <ul style="color: #4b5563; line-height: 1.7; margin-left: 20px; margin-bottom: 15px;">
                                     <li>Dựa trên chronotype và nhu cầu ngủ cá nhân</li>
                                     <li>Tính toán theo chu kỳ 90 phút</li>
@@ -3116,7 +3116,7 @@
                                     <li>Viết nhật ký biết ơn hoặc lo lắng</li>
                                 </ul>
                                 
-                                <h5 style="color: #667eea; margin-bottom: 8px;">Tối Ưu Vận Động:</h5>
+                                <h5 style="color: #667eea; margin-bottom: 8px;">Tối ưu vận động:</h5>
                                 <ul style="color: #4b5563; line-height: 1.7; margin-left: 20px;">
                                     <li>30 phút vận động vừa phải mỗi ngày</li>
                                     <li>Tập buổi sáng nếu có thể</li>
@@ -3132,7 +3132,7 @@
                                 <span>▼</span>
                             </div>
                             <div class="accordion-content">
-                                <h5 style="color: #667eea; margin-bottom: 8px;">Đánh Giá và Điều Chỉnh:</h5>
+                                <h5 style="color: #667eea; margin-bottom: 8px;">Đánh giá và điều chỉnh:</h5>
                                 <ul style="color: #4b5563; line-height: 1.7; margin-left: 20px; margin-bottom: 15px;">
                                     <li>So sánh nhật ký tuần 1 vs tuần 4</li>
                                     <li>Tính toán cải thiện các chỉ số chính</li>
@@ -3154,7 +3154,7 @@
 
                 <!-- Progress tracking -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📈 Theo Dõi Tiến Độ</h3>
+                    <h3>📈 Theo dõi tiến độ</h3>
                     <div class="grid grid-3">
                         <div class="stat-card">
                             <div class="stat-value" id="progressWeek">1</div>
@@ -3185,7 +3185,7 @@
             <h3 style="text-align: center; margin-bottom: 20px;">💡 Mẹo Sử Dụng Ứng Dụng Hiệu Quả</h3>
             <div class="tips-grid">
                 <div class="tips-card">
-                    <h4>🕐 Chu Kỳ Giấc Ngủ</h4>
+                    <h4>🕐 Chu kỳ giấc ngủ</h4>
                     <ul>
                         <li>Điều chỉnh thời gian chìm vào giấc ngủ theo thực tế của bạn (5-60 phút)</li>
                         <li>Chu kỳ cá nhân có thể dao động 70-120 phút, quan sát để tìm ra pattern</li>
@@ -3195,7 +3195,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>☀️ Ngủ Trưa</h4>
+                    <h4>☀️ Ngủ trưa</h4>
                     <ul>
                         <li>Nên ngủ trước 15:00 để không ảnh hưởng giấc ngủ đêm</li>
                         <li>Chọn thời lượng phù hợp với mục đích: năng lượng (10-20p), trí nhớ (60p), phục hồi (90p)</li>
@@ -3205,7 +3205,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>📊 Đánh Giá Chất Lượng</h4>
+                    <h4>📊 Đánh giá chất lượng</h4>
                     <ul>
                         <li>Nhập dữ liệu trung thực để có kết quả chính xác</li>
                         <li>Theo dõi xu hướng theo thời gian thay vì ám ảnh con số hàng ngày</li>
@@ -3215,7 +3215,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>🏠 Môi Trường Ngủ</h4>
+                    <h4>🏠 Môi trường ngủ</h4>
                     <ul>
                         <li>Đầu tư vào rèm cản sáng chất lượng cao, tối hơn cả mặt nạ ngủ</li>
                         <li>Nhiệt độ 16-19°C là lý tưởng, có thể điều chỉnh theo mùa</li>
@@ -3225,7 +3225,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>🧘 Kỹ Thuật Thư Giãn</h4>
+                    <h4>🧘 Kỹ thuật thư giãn</h4>
                     <ul>
                         <li>Bắt đầu với 5-10 phút/ngày, tăng dần theo thời gian</li>
                         <li>Thực hành đều đặn quan trọng hơn thực hành lâu</li>
@@ -3245,7 +3245,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>📔 Nhật Ký Giấc Ngủ</h4>
+                    <h4>📔 Nhật ký giấc ngủ</h4>
                     <ul>
                         <li>Ghi chép ít nhất 14 ngày liên tục để có dữ liệu đáng tin cậy</li>
                         <li>Tìm kiếm các mối tương quan giữa hoạt động ban ngày và giấc ngủ</li>
@@ -3255,7 +3255,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>⚕️ Rối Loạn Giấc Ngủ</h4>
+                    <h4>⚕️ Rối loạn giấc ngủ</h4>
                     <ul>
                         <li>Các test sàng lọc chỉ mang tính tham khảo</li>
                         <li>Nếu có triệu chứng kéo dài >1 tháng, hãy gặp chuyên gia</li>
@@ -3268,7 +3268,7 @@
         
         <!-- Warning Box -->
         <div class="warning-box">
-            <strong>⚠️ Lưu Ý Y Khoa Quan Trọng:</strong> 
+            <strong>⚠️ Lưu ý y khoa quan trọng:</strong> 
             Ứng dụng này chỉ mang tính giáo dục và tham khảo. Nếu bạn gặp các triệu chứng: 
             mất ngủ kéo dài >1 tháng, ngáy to kèm ngưng thở, buồn ngủ quá mức ban ngày, 
             chân không yên thường xuyên, hoặc bất kỳ triệu chứng nào ảnh hưởng nghiêm trọng 
@@ -3611,7 +3611,7 @@
             
             if (recommendedNap.type === 'avoid') {
                 html += `
-                    <h4 style="color: #dc2626; margin-bottom: 15px;">❌ Không Khuyến Nghị Ngủ Trưa</h4>
+                    <h4 style="color: #dc2626; margin-bottom: 15px;">❌ Không khuyến nghị ngủ trưa</h4>
                     <p style="color: #991b1b; font-size: 1.1rem; line-height: 1.6;">
                         Với tình trạng mất ngủ hiện tại, việc ngủ trưa sẽ làm giảm "áp lực ngủ" 
                         cần thiết cho giấc ngủ đêm. Hãy tập trung vào việc cải thiện giấc ngủ chính.
@@ -3746,7 +3746,7 @@
             // Display recommendations
             let recHtml = '';
             if (recommendations.length > 0) {
-                recHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;">🔧 Khuyến Nghị Cải Thiện:</h4>';
+                recHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;">🔧 Khuyến nghị cải thiện:</h4>';
                 recommendations.forEach(rec => {
                     recHtml += `
                         <div style="margin-bottom: 10px; padding: 10px; background: #f8fafc; border-radius: 8px; border-left: 4px solid #667eea;">
@@ -3947,7 +3947,7 @@
             document.getElementById('qualityResultAdvanced').innerHTML = html;
             
             // Display factors
-            let factorsHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;">📊 Phân Tích Chi Tiết:</h4>';
+            let factorsHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;">📊 Phân tích chi tiết:</h4>';
             factors.forEach(factor => {
                 factorsHtml += `
                     <div class="factor-item ${factor.status}">
@@ -4089,7 +4089,7 @@
             const soundType = document.getElementById('soundType').value;
             const info = {
                 'nature': {
-                    title: 'Âm Thanh Thiên Nhiên',
+                    title: 'Âm thanh thiên nhiên',
                     description: 'Mưa nhẹ, sóng biển, rừng đêm tạo ra "1/f noise" tự nhiên giúp che tiếng ồn và thúc đẩy giấc ngủ sâu.',
                     benefits: ['Giảm cortisol', 'Che tiếng ồn đột ngột', 'Kích hoạt hệ phó giao cảm'],
                     volume: '30-40 dB'
@@ -4107,7 +4107,7 @@
                     volume: '40-50 dB'
                 },
                 'classical': {
-                    title: 'Nhạc Cổ Điển',
+                    title: 'Nhạc cổ điển',
                     description: 'Tempo chậm 60-80 BPM, không có lời, giúp giảm stress và anxiety.',
                     benefits: ['Giảm nhịp tim', 'Thúc đẩy thư giãn', 'Cải thiện chất lượng giấc ngủ'],
                     volume: 'Nhỏ, tránh crescendo đột ngột'
@@ -4144,7 +4144,7 @@
             const title = document.getElementById('modalTitle');
             const body = document.getElementById('modalBody');
             
-            title.textContent = 'Kỹ Thuật Thở 4-7-8';
+            title.textContent = 'Kỹ thuật thở 4-7-8';
             body.innerHTML = `
                 <div class="breathing-guide">
                     <div class="breathing-circle" id="breathingCircle">
@@ -4336,7 +4336,7 @@
             
             document.getElementById('meqResult').innerHTML = `
                 <div style="background: linear-gradient(135deg, #f0f9ff, #e0f2fe); padding: 20px; border-radius: 12px; border: 2px solid #0ea5e9;">
-                    <h4 style="color: #0c4a6e; margin-bottom: 10px;">Kết Quả MEQ: ${totalScore}/86 điểm</h4>
+                    <h4 style="color: #0c4a6e; margin-bottom: 10px;">Kết quả MEQ: ${totalScore}/86 điểm</h4>
                     <h3 style="color: #0369a1; margin-bottom: 12px;">${chronotype}</h3>
                     <p style="color: #075985; margin-bottom: 10px; line-height: 1.6;">${description}</p>
                     <p style="color: #0c4a6e;"><strong>Lịch trình lý tưởng:</strong> ${schedule}</p>
@@ -4506,7 +4506,7 @@
             const avgLatency = recent.filter(e => e.sleepLatency).reduce((sum, entry) => sum + parseInt(entry.sleepLatency), 0) / recent.filter(e => e.sleepLatency).length || 0;
             
             document.getElementById('journalStats').innerHTML = `
-                <h4 style="color: #1e293b; margin-bottom: 12px;">📊 Thống Kê 7 Ngày Gần Nhất</h4>
+                <h4 style="color: #1e293b; margin-bottom: 12px;">📊 Thống kê 7 ngày gần nhất</h4>
                 <div class="stats-grid">
                     <div class="stat-card">
                         <div class="stat-value">${avgQuality.toFixed(1)}</div>
@@ -4865,7 +4865,7 @@
             if (essTotal > 15) {
                 personalizedRecs.push({
                     priority: 1,
-                    title: '🚨 Vấn Đề An Toàn Cấp Thiết',
+                    title: '🚨 Vấn đề an toàn cấp thiết',
                     actions: [
                         'Ngừng lái xe cho đến khi giải quyết được vấn đề buồn ngủ',
                         'Gặp bác sĩ chuyên khoa giấc ngủ trong tuần này',
@@ -4880,7 +4880,7 @@
             if (isiTotal > 14 || essTotal > 10) {
                 personalizedRecs.push({
                     priority: 2,
-                    title: '⚕️ Cần Đánh Giá Y Khoa',
+                    title: '⚕️ Cần đánh giá y khoa',
                     actions: [
                         'Đặt lịch khám với bác sĩ chuyên khoa thần kinh hoặc tâm thần',
                         'Chuẩn bị nhật ký giấc ngủ 2 tuần để mang theo',
@@ -4895,7 +4895,7 @@
             if (sleepLatency > 30) {
                 personalizedRecs.push({
                     priority: 3,
-                    title: '🧘 Can Thiệp Thư Giãn',
+                    title: '🧘 Can thiệp thư giãn',
                     actions: [
                         'Thực hành CBT-I (Cognitive Behavioral Therapy for Insomnia)',
                         'Bắt đầu với kỹ thuật thở 4-7-8 mỗi tối',
@@ -4911,7 +4911,7 @@
                 const isEvening = meqTotal < 42;
                 personalizedRecs.push({
                     priority: 4,
-                    title: '🕐 Tối Ưu Nhịp Sinh Học',
+                    title: '🕐 Tối ưu nhịp sinh học',
                     actions: isEvening ? [
                         'Sử dụng bright light therapy 10,000 lux buổi sáng',
                         'Tránh ánh sáng xanh 2-3 giờ trước ngủ',
@@ -4930,7 +4930,7 @@
             // Priority 5: General optimization
             personalizedRecs.push({
                 priority: 5,
-                title: '⚡ Tối Ưu Tổng Thể',
+                title: '⚡ Tối ưu tổng thể',
                 actions: [
                     'Duy trì lịch ngủ-thức cố định 7 ngày/tuần',
                     'Kiểm soát nhiệt độ phòng ngủ 16-19°C',
@@ -4941,7 +4941,7 @@
             });
             
             // Render recommendations
-            let html = '<h4 style="color: #1e293b; margin-bottom: 20px;">🎯 Kế Hoạch Hành Động Cá Nhân</h4>';
+            let html = '<h4 style="color: #1e293b; margin-bottom: 20px;">🎯 Kế hoạch hành động cá nhân</h4>';
             
             personalizedRecs.forEach(rec => {
                 const priorityColors = ['#dc2626', '#f59e0b', '#3b82f6', '#8b5cf6', '#10b981'];
