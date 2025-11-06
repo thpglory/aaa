@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sleep optimizer pro - Ứng dụng tối ưu hóa giấc ngủ chuyên nghiệp</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         * {
             margin: 0;
@@ -17,93 +19,167 @@
             min-height: 100vh;
             color: #333;
             overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header Styles */
+        .top-header {
+            background: rgba(255, 255, 255, 0.97);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            width: 100%;
+        }
+
+        .top-header .header-content {
+            max-width: 100%;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+        .top-header .logo-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .top-header .logo-section i {
+            font-size: 2rem;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .top-header h1 {
+            font-size: 1.5rem;
+            background: linear-gradient(45deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-weight: 700;
+        }
+
+        .top-header .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .top-header .app-store-btn {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 10px 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+
+        .top-header .app-store-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .mobile-menu-btn {
+            display: none;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        /* Main Layout */
+        .main-wrapper {
+            display: flex;
+            flex: 1;
+            width: 100%;
+            max-width: 100%;
+        }
+
+        /* Sidebar Styles */
+        .sidebar {
+            width: 280px;
+            background: rgba(255, 255, 255, 0.97);
+            backdrop-filter: blur(20px);
+            box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+            padding: 20px 0;
+            overflow-y: auto;
+            position: sticky;
+            top: 70px;
+            height: calc(100vh - 70px - 60px);
+        }
+
+        .sidebar-menu {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .sidebar-menu li {
+            margin-bottom: 5px;
+        }
+
+        .sidebar-menu button {
+            width: 100%;
+            padding: 14px 20px;
+            background: transparent;
+            border: none;
+            text-align: left;
+            cursor: pointer;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: #4b5563;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            border-left: 3px solid transparent;
+        }
+
+        .sidebar-menu button i {
+            width: 20px;
+            font-size: 1.1rem;
+        }
+
+        .sidebar-menu button:hover {
+            background: rgba(102, 126, 234, 0.1);
+            color: #667eea;
+            border-left-color: #667eea;
+        }
+
+        .sidebar-menu button.active {
+            background: linear-gradient(90deg, rgba(102, 126, 234, 0.15), transparent);
+            color: #667eea;
+            border-left-color: #667eea;
+        }
+
+        /* Main Content Area */
+        .main-content {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            max-width: 100%;
         }
 
         .container {
             max-width: 1400px;
             margin: 0 auto;
-            padding: 20px;
-        }
-
-        .header {
-            text-align: center;
-            margin-bottom: 30px;
-            color: white;
-            position: relative;
-        }
-
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -20px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 100px;
-            height: 4px;
-            background: linear-gradient(90deg, #fbbf24, #f59e0b);
-            border-radius: 2px;
-        }
-
-        .header h1 {
-            font-size: 2.8rem;
-            margin-bottom: 10px;
-            background: linear-gradient(45deg, #fbbf24, #f59e0b, #fbbf24);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            font-weight: 700;
-            letter-spacing: -1px;
-        }
-
-        .header .subtitle {
-            font-size: 1.2rem;
-            opacity: 0.9;
-            margin-bottom: 8px;
-        }
-
-        .header .version {
-            font-size: 0.9rem;
-            opacity: 0.7;
-            font-style: italic;
-        }
-
-        .nav-tabs {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 12px;
-            margin-bottom: 30px;
-            padding: 0 10px;
-        }
-
-        .nav-tab {
-            padding: 14px 18px;
-            background: rgba(255, 255, 255, 0.15);
-            color: white;
-            border: none;
-            border-radius: 12px;
-            cursor: pointer;
-            font-weight: 600;
-            font-size: 0.95rem;
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-        }
-
-        .nav-tab:hover {
-            background: rgba(255, 255, 255, 0.25);
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-        }
-
-        .nav-tab.active {
-            background: white;
-            color: #1e3c72;
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
-            transform: translateY(-1px);
         }
 
         .content {
@@ -113,6 +189,32 @@
             padding: 35px;
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
             border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        /* Footer Styles */
+        .bottom-footer {
+            background: rgba(255, 255, 255, 0.97);
+            backdrop-filter: blur(20px);
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+            padding: 15px 0;
+            text-align: center;
+            width: 100%;
+        }
+
+        .bottom-footer p {
+            margin: 0;
+            color: #4b5563;
+            font-size: 0.9rem;
+        }
+
+        .bottom-footer a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .bottom-footer a:hover {
+            text-decoration: underline;
         }
 
         .tab-content {
@@ -1147,54 +1249,192 @@
         input:checked + .toggle-slider:before {
             transform: translateX(22px);
         }
+
+        /* Responsive Styles */
+        @media (max-width: 1024px) {
+            .sidebar {
+                width: 250px;
+            }
+
+            .main-content {
+                padding: 20px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .top-header h1 {
+                font-size: 1.2rem;
+            }
+
+            .top-header .app-store-btn span {
+                display: none;
+            }
+
+            .mobile-menu-btn {
+                display: block;
+            }
+
+            .sidebar {
+                position: fixed;
+                left: -280px;
+                top: 70px;
+                width: 280px;
+                height: calc(100vh - 70px);
+                z-index: 999;
+                transition: left 0.3s ease;
+                box-shadow: 2px 0 15px rgba(0, 0, 0, 0.2);
+            }
+
+            .sidebar.active {
+                left: 0;
+            }
+
+            .sidebar-overlay {
+                display: none;
+                position: fixed;
+                top: 70px;
+                left: 0;
+                width: 100%;
+                height: calc(100vh - 70px);
+                background: rgba(0, 0, 0, 0.5);
+                z-index: 998;
+            }
+
+            .sidebar-overlay.active {
+                display: block;
+            }
+
+            .main-content {
+                padding: 15px;
+                width: 100%;
+            }
+
+            .content {
+                padding: 20px;
+                border-radius: 16px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .top-header .header-content {
+                padding: 0 15px;
+            }
+
+            .top-header h1 {
+                font-size: 1rem;
+            }
+
+            .top-header .logo-section i {
+                font-size: 1.5rem;
+            }
+
+            .main-content {
+                padding: 10px;
+            }
+
+            .content {
+                padding: 15px;
+            }
+
+            .grid-2, .grid-3, .grid-4 {
+                grid-template-columns: 1fr !important;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <h1>Sleep optimizer pro</h1>
-            <p class="subtitle">Ứng dụng tối ưu hóa giấc ngủ toàn diện dựa trên khoa học hiện đại</p>
-            <p class="version">Phiên bản chuyên nghiệp với đầy đủ công cụ phân tích và tối ưu hóa</p>
+    <!-- Header -->
+    <header class="top-header">
+        <div class="header-content">
+            <div class="logo-section">
+                <button class="mobile-menu-btn" onclick="toggleMobileSidebar()">
+                    <i class="fas fa-bars"></i>
+                </button>
+                <i class="fas fa-moon"></i>
+                <h1>Sleep optimizer pro</h1>
+            </div>
+            <div class="header-actions">
+                <a href="https://dinhdanh.com/apps_store" class="app-store-btn" target="_blank">
+                    <i class="fas fa-cube"></i>
+                    <span>Kho ứng dụng</span>
+                </a>
+            </div>
         </div>
+    </header>
 
-        <!-- Navigation -->
-        <div class="nav-tabs">
-            <button class="nav-tab active" onclick="switchTab('sleep-cycles')">
-                🕐 Chu kỳ giấc ngủ
-            </button>
-            <button class="nav-tab" onclick="switchTab('nap-optimizer')">
-                ☀️ Tối ưu ngủ trưa
-            </button>
-            <button class="nav-tab" onclick="switchTab('sleep-quality')">
-                📊 Đánh giá chất lượng
-            </button>
-            <button class="nav-tab" onclick="switchTab('sleep-environment')">
-                🏠 Môi trường ngủ
-            </button>
-            <button class="nav-tab" onclick="switchTab('relaxation')">
-                🧘 Kỹ thuật thư giãn
-            </button>
-            <button class="nav-tab" onclick="switchTab('chronotype')">
-                🎯 Chronotype
-            </button>
-            <button class="nav-tab" onclick="switchTab('sleep-journal')">
-                📔 Nhật ký giấc ngủ
-            </button>
-            <button class="nav-tab" onclick="switchTab('sleep-disorders')">
-                ⚕️ Rối loạn giấc ngủ
-            </button>
-            <button class="nav-tab" onclick="switchTab('recommendations')">
-                💡 Khuyến nghị
-            </button>
-        </div>
+    <!-- Sidebar Overlay for Mobile -->
+    <div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleMobileSidebar()"></div>
 
-        <!-- Content -->
-        <div class="content">
+    <!-- Main Wrapper -->
+    <div class="main-wrapper">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <ul class="sidebar-menu">
+                <li>
+                    <button class="active" onclick="switchTab('sleep-cycles')">
+                        <i class="fas fa-clock"></i>
+                        <span>Chu kỳ giấc ngủ</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('nap-optimizer')">
+                        <i class="fas fa-sun"></i>
+                        <span>Tối ưu ngủ trưa</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('sleep-quality')">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Đánh giá chất lượng</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('sleep-environment')">
+                        <i class="fas fa-home"></i>
+                        <span>Môi trường ngủ</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('relaxation')">
+                        <i class="fas fa-spa"></i>
+                        <span>Kỹ thuật thư giãn</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('chronotype')">
+                        <i class="fas fa-user-clock"></i>
+                        <span>Chronotype</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('sleep-journal')">
+                        <i class="fas fa-book"></i>
+                        <span>Nhật ký giấc ngủ</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('sleep-disorders')">
+                        <i class="fas fa-heartbeat"></i>
+                        <span>Rối loạn giấc ngủ</span>
+                    </button>
+                </li>
+                <li>
+                    <button onclick="switchTab('recommendations')">
+                        <i class="fas fa-lightbulb"></i>
+                        <span>Khuyến nghị</span>
+                    </button>
+                </li>
+            </ul>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <div class="container">
+                <div class="content">
             <!-- Tab 1: Chu kỳ giấc ngủ -->
             <div id="sleep-cycles" class="tab-content active">
                 <div class="section-header">
-                    <span class="icon">🕐</span>
+                    <span class="icon"><i class="fas fa-clock"></i></span>
                     <h2>Tính toán chu kỳ giấc ngủ khoa học</h2>
                     <button class="info-btn" onclick="toggleInfo('cycles-info')">i</button>
                 </div>
@@ -1213,7 +1453,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>⚙️ Cài đặt cá nhân</h3>
+                        <h3><i class="fas fa-cog"></i> Cài đặt cá nhân</h3>
                         
                         <div class="form-group">
                             <label>Giờ đi ngủ dự định</label>
@@ -1255,11 +1495,11 @@
                     </div>
 
                     <div class="card">
-                        <h3>⏰ Thời gian thức dậy lý tưởng</h3>
+                        <h3><i class="fas fa-clock"></i> Thời gian thức dậy lý tưởng</h3>
                         <div id="cycleResults"></div>
                         
                         <div style="margin-top: 20px; padding: 16px; background: linear-gradient(135deg, #eff6ff, #dbeafe); border-radius: 12px;">
-                            <h4 style="color: #1e40af; margin-bottom: 8px;">💡 Gợi ý thông minh</h4>
+                            <h4 style="color: #1e40af; margin-bottom: 8px;"><i class="fas fa-lightbulb"></i> Gợi ý thông minh</h4>
                             <p id="cycleAdvice" style="color: #1d4ed8; font-size: 0.9rem; line-height: 1.5;"></p>
                         </div>
                     </div>
@@ -1267,7 +1507,7 @@
 
                 <!-- Tính ngược từ giờ thức dậy -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🎯 Tính thời gian đi ngủ từ giờ thức dậy</h3>
+                    <h3><i class="fas fa-bullseye"></i> Tính thời gian đi ngủ từ giờ thức dậy</h3>
                     <div class="grid grid-4" style="align-items: end; margin-top: 15px;">
                         <div class="form-group">
                             <label>Giờ cần thức dậy</label>
@@ -1297,7 +1537,7 @@
 
                 <!-- Sleep Debt Calculator -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📉 Máy tính nợ giấc ngủ</h3>
+                    <h3><i class="fas fa-chart-line"></i> Máy tính nợ giấc ngủ</h3>
                     <div class="grid grid-2">
                         <div>
                             <div class="form-group">
@@ -1333,7 +1573,7 @@
             <!-- Tab 2: Tối ưu ngủ trưa -->
             <div id="nap-optimizer" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">☀️</span>
+                    <span class="icon"><i class="fas fa-sun"></i></span>
                     <h2>Tối ưu hóa ngủ trưa khoa học</h2>
                     <button class="info-btn" onclick="toggleInfo('nap-info')">i</button>
                 </div>
@@ -1352,7 +1592,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>⚙️ Thiết lập ngủ trưa</h3>
+                        <h3><i class="fas fa-cog"></i> Thiết lập ngủ trưa</h3>
                         
                         <div class="form-group">
                             <label>Thời gian hiện tại</label>
@@ -1402,7 +1642,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>📋 Kế hoạch ngủ trưa thông minh</h3>
+                        <h3><i class="fas fa-clipboard-list"></i> Kế hoạch ngủ trưa thông minh</h3>
                         <div id="smartNapPlan"></div>
                         
                         <div id="napBenefits" style="margin-top: 20px;"></div>
@@ -1478,22 +1718,22 @@
 
                 <!-- Circadian Timing -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🕐 Thời điểm tối ưu theo nhịp sinh học</h3>
+                    <h3><i class="fas fa-clock"></i> Thời điểm tối ưu theo nhịp sinh học</h3>
                     <div class="grid grid-3">
                         <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fef3c7, #fde68a); border-radius: 12px;">
-                            <h4 style="color: #92400e; margin-bottom: 8px;">🌅 Buổi sáng (6-9h)</h4>
+                            <h4 style="color: #92400e; margin-bottom: 8px;"><i class="fas fa-sunrise"></i> Buổi sáng (6-9h)</h4>
                             <p style="color: #b45309; font-size: 0.9rem;">❌ Không khuyến nghị</p>
                             <small style="color: #78350f;">Cortisol cao tự nhiên</small>
                         </div>
                         
                         <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #dcfce7, #bbf7d0); border-radius: 12px;">
-                            <h4 style="color: #166534; margin-bottom: 8px;">☀️ Trưa (12-15h)</h4>
+                            <h4 style="color: #166534; margin-bottom: 8px;"><i class="fas fa-sun"></i> Trưa (12-15h)</h4>
                             <p style="color: #047857; font-size: 0.9rem;">✅ Tối ưu nhất</p>
                             <small style="color: #064e3b;">Dip tự nhiên của circadian</small>
                         </div>
                         
                         <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #fecaca, #fca5a5); border-radius: 12px;">
-                            <h4 style="color: #991b1b; margin-bottom: 8px;">🌆 Chiều (15-18h)</h4>
+                            <h4 style="color: #991b1b; margin-bottom: 8px;"><i class="fas fa-city"></i> Chiều (15-18h)</h4>
                             <p style="color: #b91c1c; font-size: 0.9rem;">⚠️ Có thể ảnh hưởng đêm</p>
                             <small style="color: #7f1d1d;">Chỉ nếu thực sự cần thiết</small>
                         </div>
@@ -1504,7 +1744,7 @@
             <!-- Tab 3: Đánh giá chất lượng giấc ngủ -->
             <div id="sleep-quality" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">📊</span>
+                    <span class="icon"><i class="fas fa-chart-line"></i></span>
                     <h2>Đánh giá chất lượng giấc ngủ toàn diện</h2>
                     <button class="info-btn" onclick="toggleInfo('quality-info')">i</button>
                 </div>
@@ -1524,7 +1764,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>📝 Nhập dữ liệu giấc ngủ</h3>
+                        <h3><i class="fas fa-edit"></i> Nhập dữ liệu giấc ngủ</h3>
                         
                         <div class="grid grid-2">
                             <div class="form-group">
@@ -1594,7 +1834,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>📈 Kết quả đánh giá chi tiết</h3>
+                        <h3><i class="fas fa-chart-line"></i> Kết quả đánh giá chi tiết</h3>
                         <div id="qualityResultAdvanced"></div>
                         
                         <div id="qualityFactors" style="margin-top: 20px;"></div>
@@ -1605,7 +1845,7 @@
 
                 <!-- Pittsburgh Sleep Quality Index (PSQI) -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🏥 Bảng đánh giá PSQI (Pittsburgh sleep quality index)</h3>
+                    <h3><i class="fas fa-hospital"></i> Bảng đánh giá PSQI (Pittsburgh sleep quality index)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Công cụ đánh giá được sử dụng rộng rãi trong y học. Điểm ≤5: giấc ngủ tốt, >5: cần cải thiện, >10: có thể cần tư vấn chuyên gia.</p>
                     
                     <div class="grid grid-2">
@@ -1678,7 +1918,7 @@
             <!-- Tab 4: Môi trường ngủ -->
             <div id="sleep-environment" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">🏠</span>
+                    <span class="icon"><i class="fas fa-home"></i></span>
                     <h2>Tối ưu hóa môi trường ngủ</h2>
                     <button class="info-btn" onclick="toggleInfo('environment-info')">i</button>
                 </div>
@@ -1697,7 +1937,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>🌡️ Kiểm tra môi trường hiện tại</h3>
+                        <h3><i class="fas fa-thermometer-half"></i> Kiểm tra môi trường hiện tại</h3>
                         
                         <div class="form-group">
                             <label>Nhiệt độ phòng ngủ (°C)</label>
@@ -1763,7 +2003,7 @@
                 <!-- Hướng dẫn tối ưu cụ thể -->
                 <div class="grid grid-3" style="margin-top: 25px;">
                     <div class="card">
-                        <h3>🌡️ Tối ưu nhiệt độ</h3>
+                        <h3><i class="fas fa-thermometer-half"></i> Tối ưu nhiệt độ</h3>
                         <div class="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
@@ -1792,7 +2032,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>💡 Quản lý ánh sáng</h3>
+                        <h3><i class="fas fa-lightbulb"></i> Quản lý ánh sáng</h3>
                         <div class="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
@@ -1822,7 +2062,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>🔇 Kiểm soát âm thanh</h3>
+                        <h3><i class="fas fa-volume-mute"></i> Kiểm soát âm thanh</h3>
                         <div class="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header" onclick="toggleAccordion(this)">
@@ -1853,7 +2093,7 @@
 
                 <!-- Sleep Hygiene Checklist -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>✅ Checklist vệ sinh giấc ngủ toàn diện</h3>
+                    <h3><i class="fas fa-check-circle"></i> Checklist vệ sinh giấc ngủ toàn diện</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #1e293b; margin-bottom: 12px;">🏠 Môi trường phòng ngủ</h4>
@@ -1911,7 +2151,7 @@
             <!-- Tab 5: Kỹ thuật thư giãn -->
             <div id="relaxation" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">🧘</span>
+                    <span class="icon"><i class="fas fa-spa"></i></span>
                     <h2>Kỹ thuật thư giãn và thiền định</h2>
                     <button class="info-btn" onclick="toggleInfo('relaxation-info')">i</button>
                 </div>
@@ -1930,7 +2170,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>🫁 Kỹ thuật hô hấp</h3>
+                        <h3><i class="fas fa-lungs"></i> Kỹ thuật hô hấp</h3>
                         
                         <div class="accordion">
                             <div class="accordion-item">
@@ -1995,7 +2235,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>💆 Progressive Muscle Relaxation (PMR)</h3>
+                        <h3><i class="fas fa-hand-sparkles"></i> Progressive Muscle Relaxation (PMR)</h3>
                         
                         <div style="margin-bottom: 20px;">
                             <p style="color: #6b7280; line-height: 1.6;">Kỹ thuật căng và thả lỏng từng nhóm cơ một cách có hệ thống, được phát triển bởi Edmund Jacobson năm 1929.</p>
@@ -2099,7 +2339,7 @@
                     </div>
 
                     <div class="card">
-                        <h3>🎵 Âm thanh trị liệu</h3>
+                        <h3><i class="fas fa-music"></i> Âm thanh trị liệu</h3>
                         
                         <div class="form-group">
                             <label>Loại âm thanh thư giãn</label>
@@ -2153,7 +2393,7 @@
 
                 <!-- Guided Sleep Stories -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📖 Sleep Stories và Guided Imagery</h3>
+                    <h3><i class="fas fa-book-open"></i> Sleep Stories và Guided Imagery</h3>
                     <div class="grid grid-3">
                         <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #eff6ff, #dbeafe); border-radius: 12px;">
                             <h4 style="color: #1e40af; margin-bottom: 8px;">🏖️ Bãi Biển Hoàng Hôn</h4>
@@ -2179,7 +2419,7 @@
             <!-- Tab 6: Chronotype -->
             <div id="chronotype" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">🎯</span>
+                    <span class="icon"><i class="fas fa-bullseye"></i></span>
                     <h2>Xác định và tối ưu chronotype</h2>
                     <button class="info-btn" onclick="toggleInfo('chronotype-info')">i</button>
                 </div>
@@ -2198,7 +2438,7 @@
 
                 <!-- MEQ Test (Morningness-Eveningness Questionnaire) -->
                 <div class="card">
-                    <h3>📋 Bài test MEQ (Morningness-eveningness questionnaire)</h3>
+                    <h3><i class="fas fa-clipboard-list"></i> Bài test MEQ (Morningness-eveningness questionnaire)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Bài test chuẩn quốc tế được phát triển bởi Horne & Östberg (1976), được sử dụng trong nghiên cứu khoa học.</p>
                     
                     <div id="meqQuestions">
@@ -2325,12 +2565,12 @@
 
                 <!-- Chiến lược tối ưu theo Chronotype -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🎯 Chiến lược tối ưu hóa theo chronotype</h3>
+                    <h3><i class="fas fa-bullseye"></i> Chiến lược tối ưu hóa theo chronotype</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #1e293b; margin-bottom: 15px;">🌅 Nhóm Sáng (Lion & Bear)</h4>
                             <div style="background: linear-gradient(135deg, #fef3c7, #fde68a); padding: 20px; border-radius: 12px;">
-                                <h5 style="color: #92400e; margin-bottom: 10px;">⏰ Lịch trình tối ưu</h5>
+                                <h5 style="color: #92400e; margin-bottom: 10px;"><i class="fas fa-clock"></i> Lịch trình tối ưu</h5>
                                 <ul style="color: #b45309; line-height: 1.7; margin-left: 20px;">
                                     <li>Công việc quan trọng: 8:00-12:00</li>
                                     <li>Tập thể dục: 6:00-8:00 hoặc 12:00-15:00</li>
@@ -2351,7 +2591,7 @@
                         <div>
                             <h4 style="color: #1e293b; margin-bottom: 15px;">🌙 Nhóm Tối (Wolf & Dolphin)</h4>
                             <div style="background: linear-gradient(135deg, #e0e7ff, #c7d2fe); padding: 20px; border-radius: 12px;">
-                                <h5 style="color: #3730a3; margin-bottom: 10px;">⏰ Lịch trình tối ưu</h5>
+                                <h5 style="color: #3730a3; margin-bottom: 10px;"><i class="fas fa-clock"></i> Lịch trình tối ưu</h5>
                                 <ul style="color: #4338ca; line-height: 1.7; margin-left: 20px;">
                                     <li>Công việc quan trọng: 14:00-18:00, 19:00-22:00</li>
                                     <li>Tập thể dục: 18:00-20:00</li>
@@ -2373,7 +2613,7 @@
 
                 <!-- Social Jet Lag Calculator -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>✈️ Máy tính social jet lag</h3>
+                    <h3><i class="fas fa-plane"></i> Máy tính social jet lag</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Social Jet Lag là sự chênh lệch giữa đồng hồ sinh học và lịch trình xã hội. >2 giờ có thể gây tác hại sức khỏe.</p>
                     
                     <div class="grid grid-2">
@@ -2409,7 +2649,7 @@
             <!-- Tab 7: Nhật ký giấc ngủ -->
             <div id="sleep-journal" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">📔</span>
+                    <span class="icon"><i class="fas fa-book"></i></span>
                     <h2>Nhật ký giấc ngủ khoa học</h2>
                     <button class="info-btn" onclick="toggleInfo('journal-info')">i</button>
                 </div>
@@ -2428,7 +2668,7 @@
 
                 <div class="grid grid-2">
                     <div class="card">
-                        <h3>📝 Nhập dữ liệu hôm nay</h3>
+                        <h3><i class="fas fa-edit"></i> Nhập dữ liệu hôm nay</h3>
                         
                         <div class="form-group">
                             <label>Ngày</label>
@@ -2553,7 +2793,7 @@
                         </div>
 
                         <button class="btn btn-success" onclick="saveAdvancedJournalEntry()">
-                            💾 Lưu nhật ký
+                            <i class="fas fa-save"></i> Lưu nhật ký
                         </button>
                     </div>
 
@@ -2567,23 +2807,23 @@
 
                 <!-- Advanced Analytics -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📈 Phân tích xu hướng và tương quan</h3>
+                    <h3><i class="fas fa-chart-line"></i> Phân tích xu hướng và tương quan</h3>
                     <div id="journalAnalytics"></div>
                 </div>
 
                 <!-- Export/Import -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>💾 Xuất/nhập dữ liệu</h3>
+                    <h3><i class="fas fa-save"></i> Xuất/nhập dữ liệu</h3>
                     <div class="grid grid-2">
                         <div>
-                            <h4>📤 Xuất dữ liệu</h4>
+                            <h4><i class="fas fa-file-export"></i> Xuất dữ liệu</h4>
                             <p style="color: #6b7280; margin-bottom: 15px;">Xuất nhật ký để chia sẻ với bác sĩ hoặc sao lưu</p>
                             <button class="btn btn-primary" onclick="exportJournal()">📋 Xuất CSV</button>
                             <button class="btn btn-primary" onclick="exportJournalPDF()">📄 Xuất PDF</button>
                         </div>
                         
                         <div>
-                            <h4>📥 Nhập dữ liệu</h4>
+                            <h4><i class="fas fa-file-import"></i> Nhập dữ liệu</h4>
                             <p style="color: #6b7280; margin-bottom: 15px;">Nhập dữ liệu từ file CSV đã xuất trước đó</p>
                             <input type="file" id="importFile" accept=".csv" style="margin-bottom: 10px;">
                             <button class="btn btn-warning" onclick="importJournal()">📁 Nhập CSV</button>
@@ -2595,13 +2835,13 @@
             <!-- Tab 8: Rối loạn giấc ngủ -->
             <div id="sleep-disorders" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">⚕️</span>
+                    <span class="icon"><i class="fas fa-heartbeat"></i></span>
                     <h2>Rối loạn giấc ngủ và chẩn đoán</h2>
                     <button class="info-btn" onclick="toggleInfo('disorders-info')">i</button>
                 </div>
 
                 <div id="disorders-info" class="info-box">
-                    <h4>⚠️ Lưu ý quan trọng về chẩn đoán y khoa</h4>
+                    <h4><i class="fas fa-exclamation-triangle"></i> Lưu ý quan trọng về chẩn đoán y khoa</h4>
                     <p><strong>Công cụ này chỉ mang tính tham khảo và giáo dục, không thể thay thế chẩn đoán y khoa chuyên nghiệp.</strong></p>
                     <p>Nếu bạn có triệu chứng kéo dài >1 tháng, ảnh hưởng nghiêm trọng đến cuộc sống, hãy tham khảo:</p>
                     <ul>
@@ -2614,7 +2854,7 @@
 
                 <!-- Insomnia Assessment -->
                 <div class="card">
-                    <h3>😴 Đánh giá mất ngủ (Insomnia severity index - ISI)</h3>
+                    <h3><i class="fas fa-bed"></i> Đánh giá mất ngủ (Insomnia severity index - ISI)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Công cụ đánh giá mức độ nghiêm trọng của chứng mất ngủ, được sử dụng rộng rãi trong lâm sàng.</p>
                     
                     <div class="accordion">
@@ -2711,7 +2951,7 @@
 
                 <!-- Sleep Apnea Screening -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>😤 Sàng lọc ngưng thở khi ngủ (STOP-BANG)</h3>
+                    <h3><i class="fas fa-wind"></i> Sàng lọc ngưng thở khi ngủ (STOP-BANG)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Công cụ sàng lọc ngưng thở khi ngủ - rối loạn nghiêm trọng ảnh hưởng 4% nam và 2% nữ trưởng thành.</p>
                     
                     <div class="grid grid-2">
@@ -2786,14 +3026,14 @@
                         </div>
                     </div>
                     
-                    <button class="btn btn-warning" onclick="calculateStopBang()">⚠️ Đánh giá nguy cơ</button>
+                    <button class="btn btn-warning" onclick="calculateStopBang()"><i class="fas fa-exclamation-triangle"></i> Đánh giá nguy cơ</button>
                     
                     <div id="stopBangResult" style="margin-top: 20px;"></div>
                 </div>
 
                 <!-- Restless Legs Syndrome -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🦵 Hội chứng chân không yên (Restless legs syndrome)</h3>
+                    <h3><i class="fas fa-walking"></i> Hội chứng chân không yên (Restless legs syndrome)</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Rối loạn thần kinh ảnh hưởng 7-10% dân số, đặc trưng bởi cảm giác khó chịu ở chân và thôi thúc phải di chuyển.</p>
                     
                     <div class="accordion">
@@ -2847,14 +3087,14 @@
                         </select>
                     </div>
                     
-                    <button class="btn btn-primary" onclick="assessRLS()">🔍 Đánh giá RLS</button>
+                    <button class="btn btn-primary" onclick="assessRLS()"><i class="fas fa-search"></i> Đánh giá RLS</button>
                     
                     <div id="rlsResult" style="margin-top: 20px;"></div>
                 </div>
 
                 <!-- Narcolepsy Screening -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>😴 Sàng lọc chứng ngủ rũ (Narcolepsy) - Epworth sleepiness scale</h3>
+                    <h3><i class="fas fa-bed"></i> Sàng lọc chứng ngủ rũ (Narcolepsy) - Epworth sleepiness scale</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">ESS đánh giá xu hướng ngủ gật trong các tình huống hàng ngày. Điểm >10 cần được đánh giá thêm.</p>
                     
                     <div class="accordion">
@@ -2957,7 +3197,7 @@
 
                 <!-- When to see a doctor -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🏥 Khi nào cần gặp chuyên gia</h3>
+                    <h3><i class="fas fa-hospital"></i> Khi nào cần gặp chuyên gia</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #dc2626; margin-bottom: 12px;">🚨 Cần Gặp Ngay</h4>
@@ -2998,7 +3238,7 @@
             <!-- Tab 9: Khuyến nghị -->
             <div id="recommendations" class="tab-content">
                 <div class="section-header">
-                    <span class="icon">💡</span>
+                    <span class="icon"><i class="fas fa-lightbulb"></i></span>
                     <h2>Khuyến nghị cải thiện toàn diện</h2>
                 </div>
 
@@ -3006,7 +3246,7 @@
 
                 <!-- Evidence-based interventions -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🔬 Can thiệp dựa trên bằng chứng khoa học</h3>
+                    <h3><i class="fas fa-microscope"></i> Can thiệp dựa trên bằng chứng khoa học</h3>
                     <div class="grid grid-2">
                         <div>
                             <h4 style="color: #166534; margin-bottom: 12px;">✅ Hiệu Quả Cao (Level A Evidence)</h4>
@@ -3034,11 +3274,11 @@
 
                 <!-- Personalized recommendations engine -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>🎯 Khuyến nghị cá nhân hóa</h3>
+                    <h3><i class="fas fa-bullseye"></i> Khuyến nghị cá nhân hóa</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Dựa trên dữ liệu bạn đã nhập, hệ thống sẽ đưa ra khuyến nghị ưu tiên theo mức độ quan trọng và khả thi.</p>
                     
                     <button class="btn btn-success" onclick="generatePersonalizedRecommendations()">
-                        🔄 Tạo khuyến nghị cá nhân
+                        <i class="fas fa-sync"></i> Tạo khuyến nghị cá nhân
                     </button>
                     
                     <div id="personalizedRecommendations" style="margin-top: 20px;"></div>
@@ -3046,13 +3286,13 @@
 
                 <!-- Implementation guide -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📋 Hướng dẫn thực hiện 4 tuần</h3>
+                    <h3><i class="fas fa-clipboard-list"></i> Hướng dẫn thực hiện 4 tuần</h3>
                     <p style="color: #6b7280; margin-bottom: 20px;">Lộ trình từng bước để tối ưu hóa giấc ngủ một cách bền vững và hiệu quả.</p>
                     
                     <div class="accordion">
                         <div class="accordion-item">
                             <div class="accordion-header" onclick="toggleAccordion(this)">
-                                🔍 Tuần 1: Đánh giá và thiết lập nền tảng
+                                <i class="fas fa-search"></i> Tuần 1: Đánh giá và thiết lập nền tảng
                                 <span>▼</span>
                             </div>
                             <div class="accordion-content">
@@ -3079,7 +3319,7 @@
                         
                         <div class="accordion-item">
                             <div class="accordion-header" onclick="toggleAccordion(this)">
-                                ⏰ Tuần 2: Thiết lập lịch trình nhất quán
+                                <i class="fas fa-clock"></i> Tuần 2: Thiết lập lịch trình nhất quán
                                 <span>▼</span>
                             </div>
                             <div class="accordion-content">
@@ -3154,7 +3394,7 @@
 
                 <!-- Progress tracking -->
                 <div class="card" style="margin-top: 25px;">
-                    <h3>📈 Theo dõi tiến độ</h3>
+                    <h3><i class="fas fa-chart-line"></i> Theo dõi tiến độ</h3>
                     <div class="grid grid-3">
                         <div class="stat-card">
                             <div class="stat-value" id="progressWeek">1</div>
@@ -3185,7 +3425,7 @@
             <h3 style="text-align: center; margin-bottom: 20px;">💡 Mẹo Sử Dụng Ứng Dụng Hiệu Quả</h3>
             <div class="tips-grid">
                 <div class="tips-card">
-                    <h4>🕐 Chu kỳ giấc ngủ</h4>
+                    <h4><i class="fas fa-clock"></i> Chu kỳ giấc ngủ</h4>
                     <ul>
                         <li>Điều chỉnh thời gian chìm vào giấc ngủ theo thực tế của bạn (5-60 phút)</li>
                         <li>Chu kỳ cá nhân có thể dao động 70-120 phút, quan sát để tìm ra pattern</li>
@@ -3195,7 +3435,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>☀️ Ngủ trưa</h4>
+                    <h4><i class="fas fa-sun"></i> Ngủ trưa</h4>
                     <ul>
                         <li>Nên ngủ trước 15:00 để không ảnh hưởng giấc ngủ đêm</li>
                         <li>Chọn thời lượng phù hợp với mục đích: năng lượng (10-20p), trí nhớ (60p), phục hồi (90p)</li>
@@ -3205,7 +3445,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>📊 Đánh giá chất lượng</h4>
+                    <h4><i class="fas fa-chart-line"></i> Đánh giá chất lượng</h4>
                     <ul>
                         <li>Nhập dữ liệu trung thực để có kết quả chính xác</li>
                         <li>Theo dõi xu hướng theo thời gian thay vì ám ảnh con số hàng ngày</li>
@@ -3215,7 +3455,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>🏠 Môi trường ngủ</h4>
+                    <h4><i class="fas fa-home"></i> Môi trường ngủ</h4>
                     <ul>
                         <li>Đầu tư vào rèm cản sáng chất lượng cao, tối hơn cả mặt nạ ngủ</li>
                         <li>Nhiệt độ 16-19°C là lý tưởng, có thể điều chỉnh theo mùa</li>
@@ -3225,7 +3465,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>🧘 Kỹ thuật thư giãn</h4>
+                    <h4><i class="fas fa-spa"></i> Kỹ thuật thư giãn</h4>
                     <ul>
                         <li>Bắt đầu với 5-10 phút/ngày, tăng dần theo thời gian</li>
                         <li>Thực hành đều đặn quan trọng hơn thực hành lâu</li>
@@ -3235,7 +3475,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>🎯 Chronotype</h4>
+                    <h4><i class="fas fa-bullseye"></i> Chronotype</h4>
                     <ul>
                         <li>Sử dụng kết quả để điều chỉnh lịch làm việc và nghỉ ngơi</li>
                         <li>Chronotype có thể thay đổi theo tuổi tác</li>
@@ -3245,7 +3485,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>📔 Nhật ký giấc ngủ</h4>
+                    <h4><i class="fas fa-book"></i> Nhật ký giấc ngủ</h4>
                     <ul>
                         <li>Ghi chép ít nhất 14 ngày liên tục để có dữ liệu đáng tin cậy</li>
                         <li>Tìm kiếm các mối tương quan giữa hoạt động ban ngày và giấc ngủ</li>
@@ -3255,7 +3495,7 @@
                 </div>
                 
                 <div class="tips-card">
-                    <h4>⚕️ Rối loạn giấc ngủ</h4>
+                    <h4><i class="fas fa-heartbeat"></i> Rối loạn giấc ngủ</h4>
                     <ul>
                         <li>Các test sàng lọc chỉ mang tính tham khảo</li>
                         <li>Nếu có triệu chứng kéo dài >1 tháng, hãy gặp chuyên gia</li>
@@ -3611,7 +3851,7 @@
             
             if (recommendedNap.type === 'avoid') {
                 html += `
-                    <h4 style="color: #dc2626; margin-bottom: 15px;">❌ Không khuyến nghị ngủ trưa</h4>
+                    <h4 style="color: #dc2626; margin-bottom: 15px;"><i class="fas fa-times-circle"></i> Không khuyến nghị ngủ trưa</h4>
                     <p style="color: #991b1b; font-size: 1.1rem; line-height: 1.6;">
                         Với tình trạng mất ngủ hiện tại, việc ngủ trưa sẽ làm giảm "áp lực ngủ" 
                         cần thiết cho giấc ngủ đêm. Hãy tập trung vào việc cải thiện giấc ngủ chính.
@@ -3746,7 +3986,7 @@
             // Display recommendations
             let recHtml = '';
             if (recommendations.length > 0) {
-                recHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;">🔧 Khuyến nghị cải thiện:</h4>';
+                recHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;"><i class="fas fa-wrench"></i> Khuyến nghị cải thiện:</h4>';
                 recommendations.forEach(rec => {
                     recHtml += `
                         <div style="margin-bottom: 10px; padding: 10px; background: #f8fafc; border-radius: 8px; border-left: 4px solid #667eea;">
@@ -3947,7 +4187,7 @@
             document.getElementById('qualityResultAdvanced').innerHTML = html;
             
             // Display factors
-            let factorsHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;">📊 Phân tích chi tiết:</h4>';
+            let factorsHtml = '<h4 style="color: #1e293b; margin-bottom: 12px;"><i class="fas fa-chart-line"></i> Phân tích chi tiết:</h4>';
             factors.forEach(factor => {
                 factorsHtml += `
                     <div class="factor-item ${factor.status}">
@@ -4865,7 +5105,7 @@
             if (essTotal > 15) {
                 personalizedRecs.push({
                     priority: 1,
-                    title: '🚨 Vấn đề an toàn cấp thiết',
+                    title: '<i class="fas fa-exclamation-circle"></i> Vấn đề an toàn cấp thiết',
                     actions: [
                         'Ngừng lái xe cho đến khi giải quyết được vấn đề buồn ngủ',
                         'Gặp bác sĩ chuyên khoa giấc ngủ trong tuần này',
@@ -4895,7 +5135,7 @@
             if (sleepLatency > 30) {
                 personalizedRecs.push({
                     priority: 3,
-                    title: '🧘 Can thiệp thư giãn',
+                    title: '<i class="fas fa-spa"></i> Can thiệp thư giãn',
                     actions: [
                         'Thực hành CBT-I (Cognitive Behavioral Therapy for Insomnia)',
                         'Bắt đầu với kỹ thuật thở 4-7-8 mỗi tối',
@@ -4911,7 +5151,7 @@
                 const isEvening = meqTotal < 42;
                 personalizedRecs.push({
                     priority: 4,
-                    title: '🕐 Tối ưu nhịp sinh học',
+                    title: '<i class="fas fa-clock"></i> Tối ưu nhịp sinh học',
                     actions: isEvening ? [
                         'Sử dụng bright light therapy 10,000 lux buổi sáng',
                         'Tránh ánh sáng xanh 2-3 giờ trước ngủ',
@@ -4930,7 +5170,7 @@
             // Priority 5: General optimization
             personalizedRecs.push({
                 priority: 5,
-                title: '⚡ Tối ưu tổng thể',
+                title: '<i class="fas fa-bolt"></i> Tối ưu tổng thể',
                 actions: [
                     'Duy trì lịch ngủ-thức cố định 7 ngày/tuần',
                     'Kiểm soát nhiệt độ phòng ngủ 16-19°C',
@@ -4941,7 +5181,7 @@
             });
             
             // Render recommendations
-            let html = '<h4 style="color: #1e293b; margin-bottom: 20px;">🎯 Kế hoạch hành động cá nhân</h4>';
+            let html = '<h4 style="color: #1e293b; margin-bottom: 20px;"><i class="fas fa-bullseye"></i> Kế hoạch hành động cá nhân</h4>';
             
             personalizedRecs.forEach(rec => {
                 const priorityColors = ['#dc2626', '#f59e0b', '#3b82f6', '#8b5cf6', '#10b981'];
@@ -4987,6 +5227,49 @@
         document.getElementById('progressWeek').textContent = currentWeek;
 
         console.log('Sleep Optimizer Pro loaded successfully! 🌙✨');
+
+        // Mobile menu toggle
+        function toggleMobileSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const overlay = document.getElementById('sidebarOverlay');
+            sidebar.classList.toggle('active');
+            overlay.classList.toggle('active');
+        }
+
+        // Update switchTab function to handle sidebar active state
+        const originalSwitchTab = switchTab;
+        switchTab = function(tabId) {
+            // Call original function
+            originalSwitchTab(tabId);
+
+            // Update sidebar active state
+            const sidebarButtons = document.querySelectorAll('.sidebar-menu button');
+            sidebarButtons.forEach(btn => {
+                const btnOnclick = btn.getAttribute('onclick');
+                if (btnOnclick && btnOnclick.includes(tabId)) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            // Close mobile menu after selection
+            if (window.innerWidth <= 768) {
+                const sidebar = document.getElementById('sidebar');
+                const overlay = document.getElementById('sidebarOverlay');
+                sidebar.classList.remove('active');
+                overlay.classList.remove('active');
+            }
+        };
     </script>
+                </div><!-- .content -->
+            </div><!-- .container -->
+        </main><!-- .main-content -->
+    </div><!-- .main-wrapper -->
+
+    <!-- Footer -->
+    <footer class="bottom-footer">
+        <p>Bản quyền 2025 Định Danh - <a href="https://dinhdanh.com" target="_blank">DINHDANH.COM</a></p>
+    </footer>
 </body>
 </html>
