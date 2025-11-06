@@ -1928,7 +1928,7 @@
 
                     <div class="card">
                         <h3><i class="fas fa-chart-line"></i> Kết quả đánh giá chi tiết</h3>
-                        <div id="qualityResultAdvanced" style="max-width: 500px; margin: 0 auto;">
+                        <div id="qualityResultAdvanced" style="max-width: 700px; margin: 0 auto; padding: 20px 0;">
                             <canvas id="qualityChart"></canvas>
                         </div>
 
@@ -2089,7 +2089,7 @@
 
                     <div class="card">
                         <h3><i class="fas fa-chart-pie"></i> Đánh giá môi trường</h3>
-                        <div id="environmentScore" style="max-width: 400px; margin: 0 auto;">
+                        <div id="environmentScore" style="max-width: 500px; margin: 0 auto; padding: 20px 0;">
                             <canvas id="environmentChart"></canvas>
                         </div>
 
@@ -2241,7 +2241,7 @@
                         </div>
                     </div>
                     
-                    <div id="hygieneScore" style="margin-top: 20px; text-align: center; max-width: 400px; margin: 20px auto 0;">
+                    <div id="hygieneScore" style="margin-top: 20px; text-align: center; max-width: 500px; margin: 20px auto 0; padding: 20px 0;">
                         <canvas id="hygieneChart"></canvas>
                     </div>
                 </div>
@@ -4453,10 +4453,11 @@
                                 },
                                 pointLabels: {
                                     font: {
-                                        size: 12,
+                                        size: 13,
                                         weight: '600'
                                     },
-                                    color: '#4b5563'
+                                    color: '#1e293b',
+                                    padding: 10
                                 },
                                 ticks: {
                                     display: false,
@@ -4481,11 +4482,16 @@
                     }
                 });
 
-                // Add score display below chart
+                // Add score badge below chart
                 container.insertAdjacentHTML('beforeend', `
-                    <div style="text-align: center; margin-top: 20px;">
-                        <div class="quality-score ${scoreClass}">${score}</div>
-                        <p style="font-size: 1.1rem; font-weight: 600; margin-top: 10px;">${scoreLabel}</p>
+                    <div style="text-align: center; margin-top: 25px;">
+                        <div style="display: inline-flex; align-items: center; gap: 15px; padding: 15px 30px; background: linear-gradient(135deg, ${score >= 80 ? '#ecfdf5, #d1fae5' : score >= 60 ? '#fef3c7, #fde68a' : '#fee2e2, #fecaca'}); border-radius: 50px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+                            <div style="font-size: 2.5rem; font-weight: 700; color: ${score >= 80 ? '#059669' : score >= 60 ? '#d97706' : '#dc2626'};">${score}</div>
+                            <div style="text-align: left;">
+                                <div style="font-size: 0.85rem; color: #6b7280; text-transform: uppercase; letter-spacing: 0.5px;">Điểm chất lượng</div>
+                                <div style="font-size: 1.2rem; font-weight: 600; color: #1e293b;">${scoreLabel}</div>
+                            </div>
+                        </div>
                     </div>
                 `);
             }
