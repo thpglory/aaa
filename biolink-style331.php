@@ -3706,6 +3706,7 @@
             generateRecommendations();
             updateJournalHistory();
             updateJournalStats();
+            updateJournalAnalytics();
             updateWeeklyTasks();
             calculateSocialJetLag();
             calculatePSQI();
@@ -5049,7 +5050,8 @@
             // Update displays
             updateJournalHistory();
             updateJournalStats();
-            
+            updateJournalAnalytics();
+
             alert('Đã lưu nhật ký thành công! 📝');
         }
 
@@ -5113,6 +5115,202 @@
                         <div class="stat-value">${avgLatency.toFixed(0)}</div>
                         <div class="stat-label">Độ trễ TB (phút)</div>
                     </div>
+                </div>
+            `;
+        }
+
+        function updateJournalAnalytics() {
+            const analyticsDiv = document.getElementById('journalAnalytics');
+
+            if (journalEntries.length < 3) {
+                analyticsDiv.innerHTML = '<p style="text-align: center; color: #6b7280; padding: 40px 0;">Cần ít nhất 3 ngày dữ liệu để phân tích xu hướng</p>';
+                return;
+            }
+
+            // Get recent entries (up to 30 days)
+            const recentEntries = journalEntries.slice(0, 30).reverse();
+
+            // Prepare data for trend chart
+            const dates = recentEntries.map(e => {
+                const d = new Date(e.date);
+                return `${d.getDate()}/${d.getMonth() + 1}`;
+            });
+            const sleepQuality = recentEntries.map(e => e.sleepQuality);
+            const morningFeeling = recentEntries.map(e => e.morningFeeling);
+            const stressLevels = recentEntries.map(e => e.stress);
+
+            // Create analytics HTML
+            analyticsDiv.innerHTML = `
+                <div style="margin-bottom: 30px;">
+                    <h4 style="color: #1e293b; margin-bottom: 15px;"><i class="fas fa-chart-line"></i> Xu hướng chất lượng giấc ngủ</h4>
+                    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                        <canvas id="trendChart" style="max-height: 300px;"></canvas>
+                    </div>
+                </div>
+
+                <div style="margin-bottom: 30px;">
+                    <h4 style="color: #1e293b; margin-bottom: 15px;"><i class="fas fa-lightbulb"></i> Phân tích tương quan</h4>
+                    <div class="stats-grid" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));">
+                        ${analyzeCorrelation(recentEntries, 'caffeine', 'Caffeine')}
+                        ${analyzeCorrelation(recentEntries, 'exercise', 'Tập thể dục')}
+                        ${analyzeCorrelation(recentEntries, 'alcohol', 'Rượu/bia')}
+                    </div>
+                </div>
+
+                <div>
+                    <h4 style="color: #1e293b; margin-bottom: 15px;"><i class="fas fa-star"></i> Những ngày ngủ tốt nhất</h4>
+                    ${getBestSleepDays(recentEntries)}
+                </div>
+            `;
+
+            // Create trend chart
+            const trendCanvas = document.getElementById('trendChart');
+            if (trendCanvas) {
+                if (window.trendChartInstance) {
+                    window.trendChartInstance.destroy();
+                }
+
+                window.trendChartInstance = new Chart(trendCanvas, {
+                    type: 'line',
+                    data: {
+                        labels: dates,
+                        datasets: [
+                            {
+                                label: 'Chất lượng giấc ngủ',
+                                data: sleepQuality,
+                                borderColor: '#667eea',
+                                backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                                tension: 0.3,
+                                fill: true,
+                                borderWidth: 3,
+                                pointRadius: 4,
+                                pointHoverRadius: 6
+                            },
+                            {
+                                label: 'Cảm giác sáng',
+                                data: morningFeeling,
+                                borderColor: '#f093fb',
+                                backgroundColor: 'rgba(240, 147, 251, 0.1)',
+                                tension: 0.3,
+                                fill: true,
+                                borderWidth: 3,
+                                pointRadius: 4,
+                                pointHoverRadius: 6
+                            },
+                            {
+                                label: 'Căng thẳng (đảo ngược)',
+                                data: stressLevels.map(s => 6 - s), // Inverse stress (lower is better)
+                                borderColor: '#ffa726',
+                                backgroundColor: 'rgba(255, 167, 38, 0.1)',
+                                tension: 0.3,
+                                fill: false,
+                                borderWidth: 2,
+                                borderDash: [5, 5],
+                                pointRadius: 3,
+                                pointHoverRadius: 5
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: true,
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top',
+                                labels: {
+                                    usePointStyle: true,
+                                    padding: 15
+                                }
+                            },
+                            tooltip: {
+                                mode: 'index',
+                                intersect: false
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                max: 5,
+                                ticks: {
+                                    stepSize: 1
+                                },
+                                title: {
+                                    display: true,
+                                    text: 'Điểm đánh giá (1-5)'
+                                }
+                            },
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: 'Ngày'
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        }
+
+        function analyzeCorrelation(entries, factor, label) {
+            const withFactor = entries.filter(e => e[factor] && e[factor].trim() !== '');
+            const withoutFactor = entries.filter(e => !e[factor] || e[factor].trim() === '');
+
+            if (withFactor.length === 0 && withoutFactor.length === 0) {
+                return `
+                    <div class="stat-card" style="background: #f8fafc;">
+                        <div class="stat-label">${label}</div>
+                        <div style="color: #94a3b8; font-size: 0.9rem;">Chưa có dữ liệu</div>
+                    </div>
+                `;
+            }
+
+            const avgWith = withFactor.length > 0
+                ? withFactor.reduce((sum, e) => sum + e.sleepQuality, 0) / withFactor.length
+                : 0;
+            const avgWithout = withoutFactor.length > 0
+                ? withoutFactor.reduce((sum, e) => sum + e.sleepQuality, 0) / withoutFactor.length
+                : 0;
+
+            const diff = avgWith - avgWithout;
+            const impact = Math.abs(diff) > 0.3
+                ? (diff > 0 ? 'Tích cực' : 'Tiêu cực')
+                : 'Không rõ ràng';
+            const icon = diff > 0.3 ? '📈' : diff < -0.3 ? '📉' : '➖';
+            const color = diff > 0.3 ? '#10b981' : diff < -0.3 ? '#ef4444' : '#94a3b8';
+
+            return `
+                <div class="stat-card" style="background: linear-gradient(135deg, #ffffff, #f8fafc); border-left: 4px solid ${color};">
+                    <div class="stat-label">${label}</div>
+                    <div style="font-size: 1.5rem; margin: 8px 0;">${icon}</div>
+                    <div style="color: ${color}; font-weight: 600; font-size: 0.95rem;">${impact}</div>
+                    <div style="color: #64748b; font-size: 0.85rem; margin-top: 5px;">
+                        Có: ${avgWith.toFixed(1)} | Không: ${avgWithout.toFixed(1)}
+                    </div>
+                </div>
+            `;
+        }
+
+        function getBestSleepDays(entries) {
+            const sorted = [...entries].sort((a, b) => b.sleepQuality - a.sleepQuality);
+            const top3 = sorted.slice(0, 3);
+
+            if (top3.length === 0) {
+                return '<p style="color: #6b7280;">Chưa có dữ liệu</p>';
+            }
+
+            return `
+                <div style="background: linear-gradient(135deg, #ecfdf5, #d1fae5); padding: 20px; border-radius: 12px; border-left: 5px solid #10b981;">
+                    ${top3.map((entry, index) => `
+                        <div style="display: flex; align-items: center; gap: 15px; padding: 10px 0; ${index < top3.length - 1 ? 'border-bottom: 1px solid #a7f3d0;' : ''}">
+                            <div style="font-size: 2rem;">${index === 0 ? '🥇' : index === 1 ? '🥈' : '🥉'}</div>
+                            <div style="flex: 1;">
+                                <div style="font-weight: 600; color: #065f46;">${entry.date}</div>
+                                <div style="color: #047857; font-size: 0.9rem;">Chất lượng: ${entry.sleepQuality}/5 | Cảm giác sáng: ${entry.morningFeeling}/5</div>
+                                ${entry.notes ? `<div style="color: #059669; font-size: 0.85rem; margin-top: 3px;">💡 ${entry.notes}</div>` : ''}
+                            </div>
+                        </div>
+                    `).join('')}
                 </div>
             `;
         }
