@@ -1,0 +1,1067 @@
+[
+  {
+    "id": 1854,
+    "content_en": "I'd like to buy a one-way ticket to London.",
+    "content_vi": "Tôi muốn mua một vé một chiều đi London.",
+    "phonetic": "aɪd laɪk tu baɪ ə wʌn-weɪ ˈtɪkɪt tu ˈlʌndən",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1855,
+    "content_en": "The bus was delayed for thirty minutes.",
+    "content_vi": "Xe buýt đã bị trễ ba mươi phút.",
+    "phonetic": "ðə bʌs wɑz dɪˈleɪd fɔr ˈθɜrti ˈmɪnɪts",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1856,
+    "content_en": "Could you tell me where platform 5 is?",
+    "content_vi": "Bạn có thể cho tôi biết sân ga số 5 ở đâu không?",
+    "phonetic": "kʊd ju tɛl mi wɛr ˈplætfɔrm faɪv ɪz",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "location"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1857,
+    "content_en": "I prefer taking the subway during rush hour.",
+    "content_vi": "Tôi thích đi tàu điện ngầm trong giờ cao điểm.",
+    "phonetic": "aɪ prɪˈfɜr ˈteɪkɪŋ ðə ˈsʌbweɪ ˈdʊrɪŋ rʌʃ aʊr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "preference",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1858,
+    "content_en": "The taxi driver was very helpful.",
+    "content_vi": "Tài xế taxi rất hữu ích.",
+    "phonetic": "ðə ˈtæksi ˈdraɪvər wɑz ˈvɛri ˈhɛlpfəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "past",
+      "description"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1859,
+    "content_en": "I've never traveled by ferry before.",
+    "content_vi": "Tôi chưa bao giờ đi phà.",
+    "phonetic": "aɪv ˈnɛvər ˈtrævəld baɪ ˈfɛri bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "experience",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1860,
+    "content_en": "The train schedule has changed.",
+    "content_vi": "Lịch trình tàu hỏa đã thay đổi.",
+    "phonetic": "ðə treɪn ˈskɛdʒul hæz ʧeɪnʤd",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "change",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1861,
+    "content_en": "I'd like to reserve a seat on the 3 PM train.",
+    "content_vi": "Tôi muốn đặt một chỗ trên chuyến tàu 3 giờ chiều.",
+    "phonetic": "aɪd laɪk tu rɪˈzɜrv ə sit ɑn ðə θri pi ɛm treɪn",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "reservation",
+      "polite"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1862,
+    "content_en": "The traffic was heavier than usual today.",
+    "content_vi": "Giao thông hôm nay đông hơn bình thường.",
+    "phonetic": "ðə ˈtræfɪk wɑz ˈhɛviər ðæn ˈjuʒuəl təˈdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "comparison",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1863,
+    "content_en": "Could you recommend a reliable taxi service?",
+    "content_vi": "Bạn có thể giới thiệu một dịch vụ taxi đáng tin cậy không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə rɪˈlaɪəbəl ˈtæksi ˈsɜrvɪs",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1864,
+    "content_en": "I'd like to buy a one-way ticket to London.",
+    "content_vi": "Tôi muốn mua một vé một chiều đi London.",
+    "phonetic": "aɪd laɪk tu baɪ ə wʌn-weɪ ˈtɪkɪt tu ˈlʌndən",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1865,
+    "content_en": "The bus was delayed for thirty minutes.",
+    "content_vi": "Xe buýt đã bị trễ ba mươi phút.",
+    "phonetic": "ðə bʌs wɑz dɪˈleɪd fɔr ˈθɜrti ˈmɪnɪts",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1866,
+    "content_en": "Could you tell me where platform 5 is?",
+    "content_vi": "Bạn có thể cho tôi biết sân ga số 5 ở đâu không?",
+    "phonetic": "kʊd ju tɛl mi wɛr ˈplætfɔrm faɪv ɪz",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "location"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1867,
+    "content_en": "I prefer taking the subway during rush hour.",
+    "content_vi": "Tôi thích đi tàu điện ngầm trong giờ cao điểm.",
+    "phonetic": "aɪ prɪˈfɜr ˈteɪkɪŋ ðə ˈsʌbweɪ ˈdʊrɪŋ rʌʃ aʊr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "preference",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1868,
+    "content_en": "The taxi driver was very helpful.",
+    "content_vi": "Tài xế taxi rất hữu ích.",
+    "phonetic": "ðə ˈtæksi ˈdraɪvər wɑz ˈvɛri ˈhɛlpfəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "past",
+      "description"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1869,
+    "content_en": "I've never traveled by ferry before.",
+    "content_vi": "Tôi chưa bao giờ đi phà.",
+    "phonetic": "aɪv ˈnɛvər ˈtrævəld baɪ ˈfɛri bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "experience",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1870,
+    "content_en": "The train schedule has changed.",
+    "content_vi": "Lịch trình tàu hỏa đã thay đổi.",
+    "phonetic": "ðə treɪn ˈskɛdʒul hæz ʧeɪnʤd",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "change",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1871,
+    "content_en": "I'd like to reserve a seat on the 3 PM train.",
+    "content_vi": "Tôi muốn đặt một chỗ trên chuyến tàu 3 giờ chiều.",
+    "phonetic": "aɪd laɪk tu rɪˈzɜrv ə sit ɑn ðə θri pi ɛm treɪn",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "reservation",
+      "polite"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1872,
+    "content_en": "The traffic was heavier than usual today.",
+    "content_vi": "Giao thông hôm nay đông hơn bình thường.",
+    "phonetic": "ðə ˈtræfɪk wɑz ˈhɛviər ðæn ˈjuʒuəl təˈdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "comparison",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1873,
+    "content_en": "Could you recommend a reliable taxi service?",
+    "content_vi": "Bạn có thể giới thiệu một dịch vụ taxi đáng tin cậy không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə rɪˈlaɪəbəl ˈtæksi ˈsɜrvɪs",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1874,
+    "content_en": "I'd like to buy a one-way ticket to London.",
+    "content_vi": "Tôi muốn mua một vé một chiều đi London.",
+    "phonetic": "aɪd laɪk tu baɪ ə wʌn-weɪ ˈtɪkɪt tu ˈlʌndən",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1875,
+    "content_en": "The bus was delayed for thirty minutes.",
+    "content_vi": "Xe buýt đã bị trễ ba mươi phút.",
+    "phonetic": "ðə bʌs wɑz dɪˈleɪd fɔr ˈθɜrti ˈmɪnɪts",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1876,
+    "content_en": "Could you tell me where platform 5 is?",
+    "content_vi": "Bạn có thể cho tôi biết sân ga số 5 ở đâu không?",
+    "phonetic": "kʊd ju tɛl mi wɛr ˈplætfɔrm faɪv ɪz",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "location"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1877,
+    "content_en": "I prefer taking the subway during rush hour.",
+    "content_vi": "Tôi thích đi tàu điện ngầm trong giờ cao điểm.",
+    "phonetic": "aɪ prɪˈfɜr ˈteɪkɪŋ ðə ˈsʌbweɪ ˈdʊrɪŋ rʌʃ aʊr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "preference",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1878,
+    "content_en": "The taxi driver was very helpful.",
+    "content_vi": "Tài xế taxi rất hữu ích.",
+    "phonetic": "ðə ˈtæksi ˈdraɪvər wɑz ˈvɛri ˈhɛlpfəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "past",
+      "description"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1879,
+    "content_en": "I've never traveled by ferry before.",
+    "content_vi": "Tôi chưa bao giờ đi phà.",
+    "phonetic": "aɪv ˈnɛvər ˈtrævəld baɪ ˈfɛri bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "experience",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1880,
+    "content_en": "The train schedule has changed.",
+    "content_vi": "Lịch trình tàu hỏa đã thay đổi.",
+    "phonetic": "ðə treɪn ˈskɛdʒul hæz ʧeɪnʤd",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "change",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1881,
+    "content_en": "I'd like to reserve a seat on the 3 PM train.",
+    "content_vi": "Tôi muốn đặt một chỗ trên chuyến tàu 3 giờ chiều.",
+    "phonetic": "aɪd laɪk tu rɪˈzɜrv ə sit ɑn ðə θri pi ɛm treɪn",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "reservation",
+      "polite"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1882,
+    "content_en": "The traffic was heavier than usual today.",
+    "content_vi": "Giao thông hôm nay đông hơn bình thường.",
+    "phonetic": "ðə ˈtræfɪk wɑz ˈhɛviər ðæn ˈjuʒuəl təˈdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "comparison",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1883,
+    "content_en": "Could you recommend a reliable taxi service?",
+    "content_vi": "Bạn có thể giới thiệu một dịch vụ taxi đáng tin cậy không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə rɪˈlaɪəbəl ˈtæksi ˈsɜrvɪs",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1884,
+    "content_en": "I'd like to buy a one-way ticket to London.",
+    "content_vi": "Tôi muốn mua một vé một chiều đi London.",
+    "phonetic": "aɪd laɪk tu baɪ ə wʌn-weɪ ˈtɪkɪt tu ˈlʌndən",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1885,
+    "content_en": "The bus was delayed for thirty minutes.",
+    "content_vi": "Xe buýt đã bị trễ ba mươi phút.",
+    "phonetic": "ðə bʌs wɑz dɪˈleɪd fɔr ˈθɜrti ˈmɪnɪts",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1886,
+    "content_en": "Could you tell me where platform 5 is?",
+    "content_vi": "Bạn có thể cho tôi biết sân ga số 5 ở đâu không?",
+    "phonetic": "kʊd ju tɛl mi wɛr ˈplætfɔrm faɪv ɪz",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "location"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1887,
+    "content_en": "I prefer taking the subway during rush hour.",
+    "content_vi": "Tôi thích đi tàu điện ngầm trong giờ cao điểm.",
+    "phonetic": "aɪ prɪˈfɜr ˈteɪkɪŋ ðə ˈsʌbweɪ ˈdʊrɪŋ rʌʃ aʊr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "preference",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1888,
+    "content_en": "The taxi driver was very helpful.",
+    "content_vi": "Tài xế taxi rất hữu ích.",
+    "phonetic": "ðə ˈtæksi ˈdraɪvər wɑz ˈvɛri ˈhɛlpfəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "past",
+      "description"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1889,
+    "content_en": "I've never traveled by ferry before.",
+    "content_vi": "Tôi chưa bao giờ đi phà.",
+    "phonetic": "aɪv ˈnɛvər ˈtrævəld baɪ ˈfɛri bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "experience",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1890,
+    "content_en": "The train schedule has changed.",
+    "content_vi": "Lịch trình tàu hỏa đã thay đổi.",
+    "phonetic": "ðə treɪn ˈskɛdʒul hæz ʧeɪnʤd",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "change",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1891,
+    "content_en": "I'd like to reserve a seat on the 3 PM train.",
+    "content_vi": "Tôi muốn đặt một chỗ trên chuyến tàu 3 giờ chiều.",
+    "phonetic": "aɪd laɪk tu rɪˈzɜrv ə sit ɑn ðə θri pi ɛm treɪn",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "reservation",
+      "polite"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1892,
+    "content_en": "The traffic was heavier than usual today.",
+    "content_vi": "Giao thông hôm nay đông hơn bình thường.",
+    "phonetic": "ðə ˈtræfɪk wɑz ˈhɛviər ðæn ˈjuʒuəl təˈdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "comparison",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1893,
+    "content_en": "Could you recommend a reliable taxi service?",
+    "content_vi": "Bạn có thể giới thiệu một dịch vụ taxi đáng tin cậy không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə rɪˈlaɪəbəl ˈtæksi ˈsɜrvɪs",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1894,
+    "content_en": "I'd like to buy a one-way ticket to London.",
+    "content_vi": "Tôi muốn mua một vé một chiều đi London.",
+    "phonetic": "aɪd laɪk tu baɪ ə wʌn-weɪ ˈtɪkɪt tu ˈlʌndən",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1895,
+    "content_en": "The bus was delayed for thirty minutes.",
+    "content_vi": "Xe buýt đã bị trễ ba mươi phút.",
+    "phonetic": "ðə bʌs wɑz dɪˈleɪd fɔr ˈθɜrti ˈmɪnɪts",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1896,
+    "content_en": "Could you tell me where platform 5 is?",
+    "content_vi": "Bạn có thể cho tôi biết sân ga số 5 ở đâu không?",
+    "phonetic": "kʊd ju tɛl mi wɛr ˈplætfɔrm faɪv ɪz",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "location"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1897,
+    "content_en": "I prefer taking the subway during rush hour.",
+    "content_vi": "Tôi thích đi tàu điện ngầm trong giờ cao điểm.",
+    "phonetic": "aɪ prɪˈfɜr ˈteɪkɪŋ ðə ˈsʌbweɪ ˈdʊrɪŋ rʌʃ aʊr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "preference",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1898,
+    "content_en": "The taxi driver was very helpful.",
+    "content_vi": "Tài xế taxi rất hữu ích.",
+    "phonetic": "ðə ˈtæksi ˈdraɪvər wɑz ˈvɛri ˈhɛlpfəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "past",
+      "description"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1899,
+    "content_en": "I've never traveled by ferry before.",
+    "content_vi": "Tôi chưa bao giờ đi phà.",
+    "phonetic": "aɪv ˈnɛvər ˈtrævəld baɪ ˈfɛri bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "experience",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1900,
+    "content_en": "The train schedule has changed.",
+    "content_vi": "Lịch trình tàu hỏa đã thay đổi.",
+    "phonetic": "ðə treɪn ˈskɛdʒul hæz ʧeɪnʤd",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "change",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1901,
+    "content_en": "I'd like to reserve a seat on the 3 PM train.",
+    "content_vi": "Tôi muốn đặt một chỗ trên chuyến tàu 3 giờ chiều.",
+    "phonetic": "aɪd laɪk tu rɪˈzɜrv ə sit ɑn ðə θri pi ɛm treɪn",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "reservation",
+      "polite"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1902,
+    "content_en": "The traffic was heavier than usual today.",
+    "content_vi": "Giao thông hôm nay đông hơn bình thường.",
+    "phonetic": "ðə ˈtræfɪk wɑz ˈhɛviər ðæn ˈjuʒuəl təˈdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "comparison",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1903,
+    "content_en": "Could you recommend a reliable taxi service?",
+    "content_vi": "Bạn có thể giới thiệu một dịch vụ taxi đáng tin cậy không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə rɪˈlaɪəbəl ˈtæksi ˈsɜrvɪs",
+    "level_id": "A2",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống giao thông (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

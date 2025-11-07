@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1804,
+    "content_en": "I take the bus.",
+    "content_vi": "Tôi đi xe buýt.",
+    "phonetic": "aɪ teɪk ðə bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1805,
+    "content_en": "Where is the bus stop?",
+    "content_vi": "Trạm xe buýt ở đâu?",
+    "phonetic": "wɛr ɪz ðə bʌs stɑp",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1806,
+    "content_en": "I go by train.",
+    "content_vi": "Tôi đi bằng tàu hỏa.",
+    "phonetic": "aɪ ɡoʊ baɪ treɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1807,
+    "content_en": "The taxi is here.",
+    "content_vi": "Taxi đã đến.",
+    "phonetic": "ðə ˈtæksi ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "taxi",
+      "present"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1808,
+    "content_en": "I walk to work.",
+    "content_vi": "Tôi đi bộ đến cơ quan.",
+    "phonetic": "aɪ wɔk tu wɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "walking",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1809,
+    "content_en": "Is this the right bus?",
+    "content_vi": "Đây có phải xe buýt đúng không?",
+    "phonetic": "ɪz ðɪs ðə raɪt bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "question",
+      "confirmation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1810,
+    "content_en": "I need a ticket.",
+    "content_vi": "Tôi cần một vé.",
+    "phonetic": "aɪ nid ə ˈtɪkɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1811,
+    "content_en": "The train is late.",
+    "content_vi": "Tàu hỏa bị trễ.",
+    "phonetic": "ðə treɪn ɪz leɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1812,
+    "content_en": "How much is the fare?",
+    "content_vi": "Giá vé bao nhiêu?",
+    "phonetic": "haʊ mʌʧ ɪz ðə fɛr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "price",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1813,
+    "content_en": "I ride a bicycle.",
+    "content_vi": "Tôi đi xe đạp.",
+    "phonetic": "aɪ raɪd ə ˈbaɪsɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "bicycle",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1814,
+    "content_en": "I take the bus.",
+    "content_vi": "Tôi đi xe buýt.",
+    "phonetic": "aɪ teɪk ðə bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1815,
+    "content_en": "Where is the bus stop?",
+    "content_vi": "Trạm xe buýt ở đâu?",
+    "phonetic": "wɛr ɪz ðə bʌs stɑp",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1816,
+    "content_en": "I go by train.",
+    "content_vi": "Tôi đi bằng tàu hỏa.",
+    "phonetic": "aɪ ɡoʊ baɪ treɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1817,
+    "content_en": "The taxi is here.",
+    "content_vi": "Taxi đã đến.",
+    "phonetic": "ðə ˈtæksi ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "taxi",
+      "present"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1818,
+    "content_en": "I walk to work.",
+    "content_vi": "Tôi đi bộ đến cơ quan.",
+    "phonetic": "aɪ wɔk tu wɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "walking",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1819,
+    "content_en": "Is this the right bus?",
+    "content_vi": "Đây có phải xe buýt đúng không?",
+    "phonetic": "ɪz ðɪs ðə raɪt bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "question",
+      "confirmation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1820,
+    "content_en": "I need a ticket.",
+    "content_vi": "Tôi cần một vé.",
+    "phonetic": "aɪ nid ə ˈtɪkɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1821,
+    "content_en": "The train is late.",
+    "content_vi": "Tàu hỏa bị trễ.",
+    "phonetic": "ðə treɪn ɪz leɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1822,
+    "content_en": "How much is the fare?",
+    "content_vi": "Giá vé bao nhiêu?",
+    "phonetic": "haʊ mʌʧ ɪz ðə fɛr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "price",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1823,
+    "content_en": "I ride a bicycle.",
+    "content_vi": "Tôi đi xe đạp.",
+    "phonetic": "aɪ raɪd ə ˈbaɪsɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "bicycle",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1824,
+    "content_en": "I take the bus.",
+    "content_vi": "Tôi đi xe buýt.",
+    "phonetic": "aɪ teɪk ðə bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1825,
+    "content_en": "Where is the bus stop?",
+    "content_vi": "Trạm xe buýt ở đâu?",
+    "phonetic": "wɛr ɪz ðə bʌs stɑp",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1826,
+    "content_en": "I go by train.",
+    "content_vi": "Tôi đi bằng tàu hỏa.",
+    "phonetic": "aɪ ɡoʊ baɪ treɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1827,
+    "content_en": "The taxi is here.",
+    "content_vi": "Taxi đã đến.",
+    "phonetic": "ðə ˈtæksi ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "taxi",
+      "present"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1828,
+    "content_en": "I walk to work.",
+    "content_vi": "Tôi đi bộ đến cơ quan.",
+    "phonetic": "aɪ wɔk tu wɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "walking",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1829,
+    "content_en": "Is this the right bus?",
+    "content_vi": "Đây có phải xe buýt đúng không?",
+    "phonetic": "ɪz ðɪs ðə raɪt bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "question",
+      "confirmation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1830,
+    "content_en": "I need a ticket.",
+    "content_vi": "Tôi cần một vé.",
+    "phonetic": "aɪ nid ə ˈtɪkɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1831,
+    "content_en": "The train is late.",
+    "content_vi": "Tàu hỏa bị trễ.",
+    "phonetic": "ðə treɪn ɪz leɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1832,
+    "content_en": "How much is the fare?",
+    "content_vi": "Giá vé bao nhiêu?",
+    "phonetic": "haʊ mʌʧ ɪz ðə fɛr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "price",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1833,
+    "content_en": "I ride a bicycle.",
+    "content_vi": "Tôi đi xe đạp.",
+    "phonetic": "aɪ raɪd ə ˈbaɪsɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "bicycle",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1834,
+    "content_en": "I take the bus.",
+    "content_vi": "Tôi đi xe buýt.",
+    "phonetic": "aɪ teɪk ðə bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1835,
+    "content_en": "Where is the bus stop?",
+    "content_vi": "Trạm xe buýt ở đâu?",
+    "phonetic": "wɛr ɪz ðə bʌs stɑp",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1836,
+    "content_en": "I go by train.",
+    "content_vi": "Tôi đi bằng tàu hỏa.",
+    "phonetic": "aɪ ɡoʊ baɪ treɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1837,
+    "content_en": "The taxi is here.",
+    "content_vi": "Taxi đã đến.",
+    "phonetic": "ðə ˈtæksi ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "taxi",
+      "present"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1838,
+    "content_en": "I walk to work.",
+    "content_vi": "Tôi đi bộ đến cơ quan.",
+    "phonetic": "aɪ wɔk tu wɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "walking",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1839,
+    "content_en": "Is this the right bus?",
+    "content_vi": "Đây có phải xe buýt đúng không?",
+    "phonetic": "ɪz ðɪs ðə raɪt bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "question",
+      "confirmation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1840,
+    "content_en": "I need a ticket.",
+    "content_vi": "Tôi cần một vé.",
+    "phonetic": "aɪ nid ə ˈtɪkɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1841,
+    "content_en": "The train is late.",
+    "content_vi": "Tàu hỏa bị trễ.",
+    "phonetic": "ðə treɪn ɪz leɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1842,
+    "content_en": "How much is the fare?",
+    "content_vi": "Giá vé bao nhiêu?",
+    "phonetic": "haʊ mʌʧ ɪz ðə fɛr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "price",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1843,
+    "content_en": "I ride a bicycle.",
+    "content_vi": "Tôi đi xe đạp.",
+    "phonetic": "aɪ raɪd ə ˈbaɪsɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "bicycle",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1844,
+    "content_en": "I take the bus.",
+    "content_vi": "Tôi đi xe buýt.",
+    "phonetic": "aɪ teɪk ðə bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1845,
+    "content_en": "Where is the bus stop?",
+    "content_vi": "Trạm xe buýt ở đâu?",
+    "phonetic": "wɛr ɪz ðə bʌs stɑp",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1846,
+    "content_en": "I go by train.",
+    "content_vi": "Tôi đi bằng tàu hỏa.",
+    "phonetic": "aɪ ɡoʊ baɪ treɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "transportation",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1847,
+    "content_en": "The taxi is here.",
+    "content_vi": "Taxi đã đến.",
+    "phonetic": "ðə ˈtæksi ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "taxi",
+      "present"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1848,
+    "content_en": "I walk to work.",
+    "content_vi": "Tôi đi bộ đến cơ quan.",
+    "phonetic": "aɪ wɔk tu wɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "walking",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1849,
+    "content_en": "Is this the right bus?",
+    "content_vi": "Đây có phải xe buýt đúng không?",
+    "phonetic": "ɪz ðɪs ðə raɪt bʌs",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "question",
+      "confirmation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1850,
+    "content_en": "I need a ticket.",
+    "content_vi": "Tôi cần một vé.",
+    "phonetic": "aɪ nid ə ˈtɪkɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "ticket",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1851,
+    "content_en": "The train is late.",
+    "content_vi": "Tàu hỏa bị trễ.",
+    "phonetic": "ðə treɪn ɪz leɪt",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "delay",
+      "observation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1852,
+    "content_en": "How much is the fare?",
+    "content_vi": "Giá vé bao nhiêu?",
+    "phonetic": "haʊ mʌʧ ɪz ðə fɛr",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "price",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 1853,
+    "content_en": "I ride a bicycle.",
+    "content_vi": "Tôi đi xe đạp.",
+    "phonetic": "aɪ raɪd ə ˈbaɪsɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "transport"
+    ],
+    "tags": [
+      "bicycle",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giao thông cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
