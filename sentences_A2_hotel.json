@@ -1,0 +1,1003 @@
+[
+    {
+        "id": 1054,
+        "content_en": "I'd like to check in, please.",
+        "content_vi": "Tôi muốn làm thủ tục nhận phòng, làm ơn.",
+        "phonetic": "aɪd laɪk tə ʧɛk ɪn pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "check-in",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nhận phòng lịch sự",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1055,
+        "content_en": "Elementary A2 hotel sentence 2.",
+        "content_vi": "Câu A2 khách sạn 2.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 2",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1056,
+        "content_en": "Elementary A2 hotel sentence 3.",
+        "content_vi": "Câu A2 khách sạn 3.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 3",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1057,
+        "content_en": "Elementary A2 hotel sentence 4.",
+        "content_vi": "Câu A2 khách sạn 4.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 4",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1058,
+        "content_en": "Elementary A2 hotel sentence 5.",
+        "content_vi": "Câu A2 khách sạn 5.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 5",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1059,
+        "content_en": "Elementary A2 hotel sentence 6.",
+        "content_vi": "Câu A2 khách sạn 6.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 6",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1060,
+        "content_en": "Elementary A2 hotel sentence 7.",
+        "content_vi": "Câu A2 khách sạn 7.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 7",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1061,
+        "content_en": "Elementary A2 hotel sentence 8.",
+        "content_vi": "Câu A2 khách sạn 8.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 8",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1062,
+        "content_en": "Elementary A2 hotel sentence 9.",
+        "content_vi": "Câu A2 khách sạn 9.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 9",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1063,
+        "content_en": "Elementary A2 hotel sentence 10.",
+        "content_vi": "Câu A2 khách sạn 10.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 10",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1064,
+        "content_en": "Elementary A2 hotel sentence 11.",
+        "content_vi": "Câu A2 khách sạn 11.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 11",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1065,
+        "content_en": "Elementary A2 hotel sentence 12.",
+        "content_vi": "Câu A2 khách sạn 12.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 12",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1066,
+        "content_en": "Elementary A2 hotel sentence 13.",
+        "content_vi": "Câu A2 khách sạn 13.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 13",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1067,
+        "content_en": "Elementary A2 hotel sentence 14.",
+        "content_vi": "Câu A2 khách sạn 14.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 14",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1068,
+        "content_en": "Elementary A2 hotel sentence 15.",
+        "content_vi": "Câu A2 khách sạn 15.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 15",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1069,
+        "content_en": "Elementary A2 hotel sentence 16.",
+        "content_vi": "Câu A2 khách sạn 16.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 16",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1070,
+        "content_en": "Elementary A2 hotel sentence 17.",
+        "content_vi": "Câu A2 khách sạn 17.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 17",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1071,
+        "content_en": "Elementary A2 hotel sentence 18.",
+        "content_vi": "Câu A2 khách sạn 18.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 18",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1072,
+        "content_en": "Elementary A2 hotel sentence 19.",
+        "content_vi": "Câu A2 khách sạn 19.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 19",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1073,
+        "content_en": "Elementary A2 hotel sentence 20.",
+        "content_vi": "Câu A2 khách sạn 20.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 20",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1074,
+        "content_en": "Elementary A2 hotel sentence 21.",
+        "content_vi": "Câu A2 khách sạn 21.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 21",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1075,
+        "content_en": "Elementary A2 hotel sentence 22.",
+        "content_vi": "Câu A2 khách sạn 22.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 22",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1076,
+        "content_en": "Elementary A2 hotel sentence 23.",
+        "content_vi": "Câu A2 khách sạn 23.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 23",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1077,
+        "content_en": "Elementary A2 hotel sentence 24.",
+        "content_vi": "Câu A2 khách sạn 24.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 24",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1078,
+        "content_en": "Elementary A2 hotel sentence 25.",
+        "content_vi": "Câu A2 khách sạn 25.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 25",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1079,
+        "content_en": "Elementary A2 hotel sentence 26.",
+        "content_vi": "Câu A2 khách sạn 26.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 26",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1080,
+        "content_en": "Elementary A2 hotel sentence 27.",
+        "content_vi": "Câu A2 khách sạn 27.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 27",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1081,
+        "content_en": "Elementary A2 hotel sentence 28.",
+        "content_vi": "Câu A2 khách sạn 28.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 28",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1082,
+        "content_en": "Elementary A2 hotel sentence 29.",
+        "content_vi": "Câu A2 khách sạn 29.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 29",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1083,
+        "content_en": "Elementary A2 hotel sentence 30.",
+        "content_vi": "Câu A2 khách sạn 30.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 30",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1084,
+        "content_en": "Elementary A2 hotel sentence 31.",
+        "content_vi": "Câu A2 khách sạn 31.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 31",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1085,
+        "content_en": "Elementary A2 hotel sentence 32.",
+        "content_vi": "Câu A2 khách sạn 32.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 32",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1086,
+        "content_en": "Elementary A2 hotel sentence 33.",
+        "content_vi": "Câu A2 khách sạn 33.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 33",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1087,
+        "content_en": "Elementary A2 hotel sentence 34.",
+        "content_vi": "Câu A2 khách sạn 34.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 34",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1088,
+        "content_en": "Elementary A2 hotel sentence 35.",
+        "content_vi": "Câu A2 khách sạn 35.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 35",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1089,
+        "content_en": "Elementary A2 hotel sentence 36.",
+        "content_vi": "Câu A2 khách sạn 36.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 36",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1090,
+        "content_en": "Elementary A2 hotel sentence 37.",
+        "content_vi": "Câu A2 khách sạn 37.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 37",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1091,
+        "content_en": "Elementary A2 hotel sentence 38.",
+        "content_vi": "Câu A2 khách sạn 38.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 38",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1092,
+        "content_en": "Elementary A2 hotel sentence 39.",
+        "content_vi": "Câu A2 khách sạn 39.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 39",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1093,
+        "content_en": "Elementary A2 hotel sentence 40.",
+        "content_vi": "Câu A2 khách sạn 40.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 40",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1094,
+        "content_en": "Elementary A2 hotel sentence 41.",
+        "content_vi": "Câu A2 khách sạn 41.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 41",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1095,
+        "content_en": "Elementary A2 hotel sentence 42.",
+        "content_vi": "Câu A2 khách sạn 42.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 42",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1096,
+        "content_en": "Elementary A2 hotel sentence 43.",
+        "content_vi": "Câu A2 khách sạn 43.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 43",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1097,
+        "content_en": "Elementary A2 hotel sentence 44.",
+        "content_vi": "Câu A2 khách sạn 44.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 44",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1098,
+        "content_en": "Elementary A2 hotel sentence 45.",
+        "content_vi": "Câu A2 khách sạn 45.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 45",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1099,
+        "content_en": "Elementary A2 hotel sentence 46.",
+        "content_vi": "Câu A2 khách sạn 46.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 46",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1100,
+        "content_en": "Elementary A2 hotel sentence 47.",
+        "content_vi": "Câu A2 khách sạn 47.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 47",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1101,
+        "content_en": "Elementary A2 hotel sentence 48.",
+        "content_vi": "Câu A2 khách sạn 48.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 48",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1102,
+        "content_en": "Elementary A2 hotel sentence 49.",
+        "content_vi": "Câu A2 khách sạn 49.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 49",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1103,
+        "content_en": "Elementary A2 hotel sentence 50.",
+        "content_vi": "Câu A2 khách sạn 50.",
+        "phonetic": "placeholder",
+        "level_id": "A2",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "elementary"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 hotel 50",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]

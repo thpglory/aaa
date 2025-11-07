@@ -1,0 +1,1004 @@
+[
+    {
+        "id": 1004,
+        "content_en": "I need a room.",
+        "content_vi": "Tôi cần phòng.",
+        "phonetic": "aɪ nid ə rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu cơ bản",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1005,
+        "content_en": "Where is my room?",
+        "content_vi": "Phòng tôi ở đâu?",
+        "phonetic": "wɛr ɪz maɪ rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1006,
+        "content_en": "Simple A1 hotel English 3.",
+        "content_vi": "Câu A1 khách sạn 3.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 3",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1007,
+        "content_en": "Simple A1 hotel English 4.",
+        "content_vi": "Câu A1 khách sạn 4.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 4",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1008,
+        "content_en": "Simple A1 hotel English 5.",
+        "content_vi": "Câu A1 khách sạn 5.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 5",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1009,
+        "content_en": "Simple A1 hotel English 6.",
+        "content_vi": "Câu A1 khách sạn 6.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 6",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1010,
+        "content_en": "Simple A1 hotel English 7.",
+        "content_vi": "Câu A1 khách sạn 7.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 7",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1011,
+        "content_en": "Simple A1 hotel English 8.",
+        "content_vi": "Câu A1 khách sạn 8.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 8",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1012,
+        "content_en": "Simple A1 hotel English 9.",
+        "content_vi": "Câu A1 khách sạn 9.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 9",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1013,
+        "content_en": "Simple A1 hotel English 10.",
+        "content_vi": "Câu A1 khách sạn 10.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 10",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1014,
+        "content_en": "Simple A1 hotel English 11.",
+        "content_vi": "Câu A1 khách sạn 11.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 11",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1015,
+        "content_en": "Simple A1 hotel English 12.",
+        "content_vi": "Câu A1 khách sạn 12.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 12",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1016,
+        "content_en": "Simple A1 hotel English 13.",
+        "content_vi": "Câu A1 khách sạn 13.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 13",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1017,
+        "content_en": "Simple A1 hotel English 14.",
+        "content_vi": "Câu A1 khách sạn 14.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 14",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1018,
+        "content_en": "Simple A1 hotel English 15.",
+        "content_vi": "Câu A1 khách sạn 15.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 15",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1019,
+        "content_en": "Simple A1 hotel English 16.",
+        "content_vi": "Câu A1 khách sạn 16.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 16",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1020,
+        "content_en": "Simple A1 hotel English 17.",
+        "content_vi": "Câu A1 khách sạn 17.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 17",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1021,
+        "content_en": "Simple A1 hotel English 18.",
+        "content_vi": "Câu A1 khách sạn 18.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 18",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1022,
+        "content_en": "Simple A1 hotel English 19.",
+        "content_vi": "Câu A1 khách sạn 19.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 19",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1023,
+        "content_en": "Simple A1 hotel English 20.",
+        "content_vi": "Câu A1 khách sạn 20.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 20",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1024,
+        "content_en": "Simple A1 hotel English 21.",
+        "content_vi": "Câu A1 khách sạn 21.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 21",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1025,
+        "content_en": "Simple A1 hotel English 22.",
+        "content_vi": "Câu A1 khách sạn 22.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 22",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1026,
+        "content_en": "Simple A1 hotel English 23.",
+        "content_vi": "Câu A1 khách sạn 23.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 23",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1027,
+        "content_en": "Simple A1 hotel English 24.",
+        "content_vi": "Câu A1 khách sạn 24.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 24",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1028,
+        "content_en": "Simple A1 hotel English 25.",
+        "content_vi": "Câu A1 khách sạn 25.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 25",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1029,
+        "content_en": "Simple A1 hotel English 26.",
+        "content_vi": "Câu A1 khách sạn 26.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 26",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1030,
+        "content_en": "Simple A1 hotel English 27.",
+        "content_vi": "Câu A1 khách sạn 27.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 27",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1031,
+        "content_en": "Simple A1 hotel English 28.",
+        "content_vi": "Câu A1 khách sạn 28.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 28",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1032,
+        "content_en": "Simple A1 hotel English 29.",
+        "content_vi": "Câu A1 khách sạn 29.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 29",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1033,
+        "content_en": "Simple A1 hotel English 30.",
+        "content_vi": "Câu A1 khách sạn 30.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 30",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1034,
+        "content_en": "Simple A1 hotel English 31.",
+        "content_vi": "Câu A1 khách sạn 31.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 31",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1035,
+        "content_en": "Simple A1 hotel English 32.",
+        "content_vi": "Câu A1 khách sạn 32.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 32",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1036,
+        "content_en": "Simple A1 hotel English 33.",
+        "content_vi": "Câu A1 khách sạn 33.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 33",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1037,
+        "content_en": "Simple A1 hotel English 34.",
+        "content_vi": "Câu A1 khách sạn 34.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 34",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1038,
+        "content_en": "Simple A1 hotel English 35.",
+        "content_vi": "Câu A1 khách sạn 35.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 35",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1039,
+        "content_en": "Simple A1 hotel English 36.",
+        "content_vi": "Câu A1 khách sạn 36.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 36",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1040,
+        "content_en": "Simple A1 hotel English 37.",
+        "content_vi": "Câu A1 khách sạn 37.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 37",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1041,
+        "content_en": "Simple A1 hotel English 38.",
+        "content_vi": "Câu A1 khách sạn 38.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 38",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1042,
+        "content_en": "Simple A1 hotel English 39.",
+        "content_vi": "Câu A1 khách sạn 39.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 39",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1043,
+        "content_en": "Simple A1 hotel English 40.",
+        "content_vi": "Câu A1 khách sạn 40.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 40",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1044,
+        "content_en": "Simple A1 hotel English 41.",
+        "content_vi": "Câu A1 khách sạn 41.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 41",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1045,
+        "content_en": "Simple A1 hotel English 42.",
+        "content_vi": "Câu A1 khách sạn 42.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 42",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1046,
+        "content_en": "Simple A1 hotel English 43.",
+        "content_vi": "Câu A1 khách sạn 43.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 43",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1047,
+        "content_en": "Simple A1 hotel English 44.",
+        "content_vi": "Câu A1 khách sạn 44.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 44",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1048,
+        "content_en": "Simple A1 hotel English 45.",
+        "content_vi": "Câu A1 khách sạn 45.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 45",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1049,
+        "content_en": "Simple A1 hotel English 46.",
+        "content_vi": "Câu A1 khách sạn 46.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 46",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1050,
+        "content_en": "Simple A1 hotel English 47.",
+        "content_vi": "Câu A1 khách sạn 47.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 47",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1051,
+        "content_en": "Simple A1 hotel English 48.",
+        "content_vi": "Câu A1 khách sạn 48.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 48",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1052,
+        "content_en": "Simple A1 hotel English 49.",
+        "content_vi": "Câu A1 khách sạn 49.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 49",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1053,
+        "content_en": "Simple A1 hotel English 50.",
+        "content_vi": "Câu A1 khách sạn 50.",
+        "phonetic": "placeholder",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A1 hotel 50",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]
