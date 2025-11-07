@@ -528,5 +528,535 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20421,
+    "title": "Medical Talk 11",
+    "title_vi": "Trò chuyện thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20422,
+    "title": "Medical Talk 12",
+    "title_vi": "Trò chuyện thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20423,
+    "title": "Medical Talk 13",
+    "title_vi": "Trò chuyện thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20424,
+    "title": "Medical Talk 14",
+    "title_vi": "Trò chuyện thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20425,
+    "title": "Medical Talk 15",
+    "title_vi": "Trò chuyện thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20426,
+    "title": "Medical Talk 16",
+    "title_vi": "Trò chuyện thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20427,
+    "title": "Medical Talk 17",
+    "title_vi": "Trò chuyện thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20428,
+    "title": "Medical Talk 18",
+    "title_vi": "Trò chuyện thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20429,
+    "title": "Medical Talk 19",
+    "title_vi": "Trò chuyện thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20430,
+    "title": "Medical Talk 20",
+    "title_vi": "Trò chuyện thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about medical.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about medical. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]

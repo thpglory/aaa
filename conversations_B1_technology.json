@@ -478,5 +478,485 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20631,
+    "title": "Technology Discussion 11",
+    "title_vi": "Thảo luận thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20632,
+    "title": "Technology Discussion 12",
+    "title_vi": "Thảo luận thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20633,
+    "title": "Technology Discussion 13",
+    "title_vi": "Thảo luận thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20634,
+    "title": "Technology Discussion 14",
+    "title_vi": "Thảo luận thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20635,
+    "title": "Technology Discussion 15",
+    "title_vi": "Thảo luận thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20636,
+    "title": "Technology Discussion 16",
+    "title_vi": "Thảo luận thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20637,
+    "title": "Technology Discussion 17",
+    "title_vi": "Thảo luận thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20638,
+    "title": "Technology Discussion 18",
+    "title_vi": "Thảo luận thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20639,
+    "title": "Technology Discussion 19",
+    "title_vi": "Thảo luận thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20640,
+    "title": "Technology Discussion 20",
+    "title_vi": "Thảo luận thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on technology?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, technology would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about technology, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on technology projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]

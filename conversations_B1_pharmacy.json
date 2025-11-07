@@ -478,5 +478,485 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20231,
+    "title": "Pharmacy Discussion 11",
+    "title_vi": "Thảo luận thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20232,
+    "title": "Pharmacy Discussion 12",
+    "title_vi": "Thảo luận thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20233,
+    "title": "Pharmacy Discussion 13",
+    "title_vi": "Thảo luận thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20234,
+    "title": "Pharmacy Discussion 14",
+    "title_vi": "Thảo luận thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20235,
+    "title": "Pharmacy Discussion 15",
+    "title_vi": "Thảo luận thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20236,
+    "title": "Pharmacy Discussion 16",
+    "title_vi": "Thảo luận thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20237,
+    "title": "Pharmacy Discussion 17",
+    "title_vi": "Thảo luận thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20238,
+    "title": "Pharmacy Discussion 18",
+    "title_vi": "Thảo luận thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20239,
+    "title": "Pharmacy Discussion 19",
+    "title_vi": "Thảo luận thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20240,
+    "title": "Pharmacy Discussion 20",
+    "title_vi": "Thảo luận thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pharmacy?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pharmacy would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pharmacy, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pharmacy projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]

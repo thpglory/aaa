@@ -218,5 +218,225 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10851,
+    "title": "Hobbies 11",
+    "title_vi": "sở thích cơ bản 11",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10852,
+    "title": "Hobbies 12",
+    "title_vi": "sở thích cơ bản 12",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10853,
+    "title": "Hobbies 13",
+    "title_vi": "sở thích cơ bản 13",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10854,
+    "title": "Hobbies 14",
+    "title_vi": "sở thích cơ bản 14",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10855,
+    "title": "Hobbies 15",
+    "title_vi": "sở thích cơ bản 15",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10856,
+    "title": "Hobbies 16",
+    "title_vi": "sở thích cơ bản 16",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10857,
+    "title": "Hobbies 17",
+    "title_vi": "sở thích cơ bản 17",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10858,
+    "title": "Hobbies 18",
+    "title_vi": "sở thích cơ bản 18",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10859,
+    "title": "Hobbies 19",
+    "title_vi": "sở thích cơ bản 19",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10860,
+    "title": "Hobbies 20",
+    "title_vi": "sở thích cơ bản 20",
+    "content_en": "I like hobbies. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích sở thích cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "hobbies"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "sở thích cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]

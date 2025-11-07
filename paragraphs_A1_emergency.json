@@ -218,5 +218,225 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10291,
+    "title": "Emergency 11",
+    "title_vi": "khẩn cấp cơ bản 11",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10292,
+    "title": "Emergency 12",
+    "title_vi": "khẩn cấp cơ bản 12",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10293,
+    "title": "Emergency 13",
+    "title_vi": "khẩn cấp cơ bản 13",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10294,
+    "title": "Emergency 14",
+    "title_vi": "khẩn cấp cơ bản 14",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10295,
+    "title": "Emergency 15",
+    "title_vi": "khẩn cấp cơ bản 15",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10296,
+    "title": "Emergency 16",
+    "title_vi": "khẩn cấp cơ bản 16",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10297,
+    "title": "Emergency 17",
+    "title_vi": "khẩn cấp cơ bản 17",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10298,
+    "title": "Emergency 18",
+    "title_vi": "khẩn cấp cơ bản 18",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10299,
+    "title": "Emergency 19",
+    "title_vi": "khẩn cấp cơ bản 19",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10300,
+    "title": "Emergency 20",
+    "title_vi": "khẩn cấp cơ bản 20",
+    "content_en": "I like emergency. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích khẩn cấp cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "basic",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "khẩn cấp cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]

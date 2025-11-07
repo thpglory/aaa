@@ -478,5 +478,485 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20471,
+    "title": "Education Discussion 11",
+    "title_vi": "Thảo luận thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20472,
+    "title": "Education Discussion 12",
+    "title_vi": "Thảo luận thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20473,
+    "title": "Education Discussion 13",
+    "title_vi": "Thảo luận thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20474,
+    "title": "Education Discussion 14",
+    "title_vi": "Thảo luận thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20475,
+    "title": "Education Discussion 15",
+    "title_vi": "Thảo luận thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20476,
+    "title": "Education Discussion 16",
+    "title_vi": "Thảo luận thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20477,
+    "title": "Education Discussion 17",
+    "title_vi": "Thảo luận thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20478,
+    "title": "Education Discussion 18",
+    "title_vi": "Thảo luận thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20479,
+    "title": "Education Discussion 19",
+    "title_vi": "Thảo luận thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20480,
+    "title": "Education Discussion 20",
+    "title_vi": "Thảo luận thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on education?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, education would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about education, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on education projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]

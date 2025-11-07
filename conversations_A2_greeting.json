@@ -528,5 +528,535 @@
     "status": "active",
     "created_at": "2025-11-07 10:00:00",
     "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20021,
+    "title": "Greeting Talk 11",
+    "title_vi": "Trò chuyện thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20022,
+    "title": "Greeting Talk 12",
+    "title_vi": "Trò chuyện thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20023,
+    "title": "Greeting Talk 13",
+    "title_vi": "Trò chuyện thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20024,
+    "title": "Greeting Talk 14",
+    "title_vi": "Trò chuyện thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20025,
+    "title": "Greeting Talk 15",
+    "title_vi": "Trò chuyện thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20026,
+    "title": "Greeting Talk 16",
+    "title_vi": "Trò chuyện thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20027,
+    "title": "Greeting Talk 17",
+    "title_vi": "Trò chuyện thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20028,
+    "title": "Greeting Talk 18",
+    "title_vi": "Trò chuyện thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20029,
+    "title": "Greeting Talk 19",
+    "title_vi": "Trò chuyện thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20030,
+    "title": "Greeting Talk 20",
+    "title_vi": "Trò chuyện thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about greeting.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about greeting. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
   }
 ]
