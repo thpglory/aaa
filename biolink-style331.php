@@ -2387,7 +2387,7 @@
                                         <li><strong>Cổ:</strong> Cúi đầu về phía trước</li>
                                         <li><strong>Mặt:</strong> Căng tất cả cơ mặt</li>
                                     </ol>
-                                    <button class="btn btn-success" onclick="startPMRGuide()">  <i class="fas fa-sync"></i> Bắt đầu PMR có hướng dẫn</button>
+                                    <button class="btn btn-success" onclick="startPMR()">  <i class="fas fa-sync"></i> Bắt đầu PMR có hướng dẫn</button>
                                 </div>
                             </div>
                             
@@ -3746,23 +3746,25 @@
         });
 
         // Tab switching with animation
-        function switchTab(tabName) {
+        window.switchTab = function switchTab(tabName) {
             // Hide all tabs
             const tabs = document.querySelectorAll('.tab-content');
             tabs.forEach(tab => {
                 tab.classList.remove('active');
             });
-            
+
             // Show selected tab with animation
             setTimeout(() => {
                 document.getElementById(tabName).classList.add('active');
             }, 100);
-            
+
             // Update nav buttons
             const navTabs = document.querySelectorAll('.nav-tab');
             navTabs.forEach(tab => tab.classList.remove('active'));
-            event.target.classList.add('active');
-        }
+            if (event && event.target) {
+                event.target.classList.add('active');
+            }
+        };
 
         // Info box toggle
         function toggleInfo(infoId) {
@@ -4848,18 +4850,118 @@
             const modal = document.getElementById('exerciseModal');
             const title = document.getElementById('modalTitle');
             const body = document.getElementById('modalBody');
-            
+
+            // ============================================
+            // 🎵 BODY SCAN AUDIO URL - THAY THẾ Ở ĐÂY
+            // ============================================
+            const bodyScanAudioUrl = 'https://example.com/body-scan-meditation-10min.mp3'; // ← THAY URL mp3 Body Scan vào đây
+            // ============================================
+
+            const isPlaceholder = bodyScanAudioUrl.includes('example.com');
+
             title.textContent = 'Body Scan Meditation';
             body.innerHTML = `
                 <div style="text-align: center;">
-                    <p style="color: #4b5563; margin-bottom: 20px;">Thiền quét cơ thể trong 10 phút</p>
-                    <div id="bodyScanInstruction" style="font-size: 1.2rem; font-weight: 600; color: #1e293b; margin: 20px 0;">
-                        Nằm thoải mái, nhắm mắt nhẹ
-                    </div>
-                    <button class="btn btn-primary" onclick="startBodyScanGuide()">🔍 Bắt Đầu</button>
+                    <p style="color: #4b5563; margin-bottom: 20px;">Thiền quét cơ thể trong 10 phút - Tập trung vào từng phần cơ thể từ đầu đến chân</p>
+
+                    ${isPlaceholder ? `
+                        <div style="background: #fef3c7; border: 2px solid #f59e0b; border-radius: 12px; padding: 20px; margin: 20px 0;">
+                            <p style="color: #92400e; margin-bottom: 10px;"><strong>⚠️ Chưa có audio hướng dẫn</strong></p>
+                            <p style="color: #b45309; font-size: 0.9rem; line-height: 1.6;">
+                                Để thêm audio:<br>
+                                1. Mở file biolink-style331.php<br>
+                                2. Tìm function startBodyScan() (dòng ~4849)<br>
+                                3. Thay URL trong bodyScanAudioUrl<br>
+                                4. Lưu file và refresh lại trang
+                            </p>
+                        </div>
+                        <div style="text-align: left; max-width: 500px; margin: 20px auto; padding: 20px; background: #f8fafc; border-radius: 12px;">
+                            <h4 style="color: #1e293b; margin-bottom: 15px;">📝 Hướng dẫn tạm (không có audio):</h4>
+                            <ol style="color: #475569; line-height: 1.8;">
+                                <li>Nằm thoải mái, nhắm mắt nhẹ</li>
+                                <li>Tập trung vào đầu, cảm nhận căng thẳng</li>
+                                <li>Từ từ di chuyển xuống vai, cánh tay</li>
+                                <li>Quét qua ngực, bụng, lưng</li>
+                                <li>Đến hông, đùi, bắp chân, bàn chân</li>
+                                <li>Thả lỏng từng vùng cơ thể</li>
+                            </ol>
+                        </div>
+                    ` : `
+                        <audio controls style="width: 100%; max-width: 500px; margin: 20px auto;">
+                            <source src="${bodyScanAudioUrl}" type="audio/mpeg">
+                            Trình duyệt của bạn không hỗ trợ phát audio.
+                        </audio>
+                        <p style="font-size: 0.85rem; color: #6b7280; margin-top: 15px;">
+                            💡 Tip: Nằm ngửa, tay để hai bên, lòng bàn tay ngửa lên, chân hơi dang ra
+                        </p>
+                    `}
                 </div>
             `;
-            
+
+            modal.classList.add('show');
+        }
+
+        function startBodyScanGuide() {
+            // This function is called when user has audio
+            // Just plays the audio from startBodyScan
+            alert('Hãy nhấn Play trên audio player để bắt đầu!');
+        }
+
+        function startPMR() {
+            const modal = document.getElementById('exerciseModal');
+            const title = document.getElementById('modalTitle');
+            const body = document.getElementById('modalBody');
+
+            // ============================================
+            // 🎵 PMR AUDIO URL - THAY THẾ Ở ĐÂY
+            // ============================================
+            const pmrAudioUrl = 'https://example.com/progressive-muscle-relaxation.mp3'; // ← THAY URL mp3 PMR vào đây
+            // ============================================
+
+            const isPlaceholder = pmrAudioUrl.includes('example.com');
+
+            title.textContent = 'Progressive Muscle Relaxation (PMR)';
+            body.innerHTML = `
+                <div style="text-align: center;">
+                    <p style="color: #4b5563; margin-bottom: 20px;">Thư giãn cơ bắp lũy tiến - Căng cơ 5 giây, sau đó thả lỏng 10 giây</p>
+
+                    ${isPlaceholder ? `
+                        <div style="background: #fef3c7; border: 2px solid #f59e0b; border-radius: 12px; padding: 20px; margin: 20px 0;">
+                            <p style="color: #92400e; margin-bottom: 10px;"><strong>⚠️ Chưa có audio hướng dẫn</strong></p>
+                            <p style="color: #b45309; font-size: 0.9rem; line-height: 1.6;">
+                                Để thêm audio:<br>
+                                1. Mở file biolink-style331.php<br>
+                                2. Tìm function startPMR() (dòng ~4900)<br>
+                                3. Thay URL trong pmrAudioUrl<br>
+                                4. Lưu file và refresh lại trang
+                            </p>
+                        </div>
+                        <div style="text-align: left; max-width: 500px; margin: 20px auto; padding: 20px; background: #f8fafc; border-radius: 12px;">
+                            <h4 style="color: #1e293b; margin-bottom: 15px;">📝 Hướng dẫn tạm (không có audio):</h4>
+                            <ol style="color: #475569; line-height: 1.8;">
+                                <li><strong>Tay:</strong> Nắm chặt → thả lỏng (×2)</li>
+                                <li><strong>Cánh tay:</strong> Căng cơ nhị đầu → thả</li>
+                                <li><strong>Vai:</strong> Nhún vai lên tai → thả</li>
+                                <li><strong>Mặt:</strong> Nhăn mặt → thả</li>
+                                <li><strong>Bụng:</strong> Căng cơ bụng → thả</li>
+                                <li><strong>Chân:</strong> Duỗi thẳng, gập ngón → thả</li>
+                            </ol>
+                            <p style="color: #6b7280; font-size: 0.9rem; margin-top: 15px;">
+                                Mỗi nhóm cơ: căng 5 giây, thả 10 giây. Cảm nhận sự khác biệt.
+                            </p>
+                        </div>
+                    ` : `
+                        <audio controls style="width: 100%; max-width: 500px; margin: 20px auto;">
+                            <source src="${pmrAudioUrl}" type="audio/mpeg">
+                            Trình duyệt của bạn không hỗ trợ phát audio.
+                        </audio>
+                        <p style="font-size: 0.85rem; color: #6b7280; margin-top: 15px;">
+                            💡 Tip: Ngồi hoặc nằm thoải mái, không gian yên tĩnh
+                        </p>
+                    `}
+                </div>
+            `;
+
             modal.classList.add('show');
         }
 
@@ -4867,27 +4969,66 @@
             const modal = document.getElementById('exerciseModal');
             const title = document.getElementById('modalTitle');
             const body = document.getElementById('modalBody');
-            
+
+            // ============================================
+            // 🎵 AUDIO URLs - THAY THẾ URL MP3 Ở ĐÂY
+            // ============================================
+            // Copy/paste URL mp3 của bạn vào các biến bên dưới
+            const audioUrls = {
+                beach: 'https://example.com/beach-sunset.mp3',     // ← THAY URL mp3 bãi biển vào đây
+                forest: 'https://example.com/fairy-forest.mp3',   // ← THAY URL mp3 rừng thần tiên vào đây
+                mountain: 'https://example.com/mountain-stars.mp3' // ← THAY URL mp3 núi đầy sao vào đây
+            };
+            // ============================================
+
             const stories = {
                 beach: 'Bãi Biển Hoàng Hôn',
-                forest: 'Rừng Thần Tiên', 
+                forest: 'Rừng Thần Tiên',
                 mountain: 'Núi Đầy Sao'
             };
-            
+
+            const storyDescriptions = {
+                beach: 'Hãy tưởng tượng bạn đang nằm trên bãi biển vào lúc hoàng hôn. Sóng biển nhẹ nhàng vỗ về bờ, gió mát lành thổi qua...',
+                forest: 'Bạn đang đi dạo trong khu rừng cổ tích yên bình. Ánh sáng lấp lánh xuyên qua tán lá, tiếng chim hót líu lo...',
+                mountain: 'Bạn nằm trên đồng cỏ mềm mại, ngắm bầu trời đầy sao. Không khí mát lạnh, trong lành, vũ trụ bao la...'
+            };
+
             title.textContent = stories[type];
+
+            // Check if URL is placeholder or real
+            const audioUrl = audioUrls[type];
+            const isPlaceholder = audioUrl.includes('example.com');
+
             body.innerHTML = `
                 <div style="text-align: center;">
-                    <p style="color: #4b5563; margin-bottom: 20px;">Sleep story được thiết kế để dẫn dắt bạn vào giấc ngủ tự nhiên</p>
-                    <div style="font-style: italic; color: #6b7280; margin: 20px 0;">
-                        "Hãy thoải mái, nhắm mắt, và để tâm trí theo dõi câu chuyện..."
-                    </div>
-                    <button class="btn btn-success">🎧 Phát Audio (Demo)</button>
-                    <p style="font-size: 0.8rem; color: #9ca3af; margin-top: 10px;">
-                        Tính năng này sẽ tích hợp audio trong phiên bản đầy đủ
-                    </p>
+                    <p style="color: #4b5563; margin-bottom: 20px;">${storyDescriptions[type]}</p>
+
+                    ${isPlaceholder ? `
+                        <div style="background: #fef3c7; border: 2px solid #f59e0b; border-radius: 12px; padding: 20px; margin: 20px 0;">
+                            <p style="color: #92400e; margin-bottom: 10px;"><strong>⚠️ Chưa có audio</strong></p>
+                            <p style="color: #b45309; font-size: 0.9rem; line-height: 1.6;">
+                                Để thêm audio, vui lòng:<br>
+                                1. Mở file biolink-style331.php<br>
+                                2. Tìm function startStory() (dòng ~4868)<br>
+                                3. Thay URL trong audioUrls.${type}<br>
+                                4. Lưu file và refresh lại trang
+                            </p>
+                        </div>
+                        <div style="font-style: italic; color: #6b7280; margin: 20px 0;">
+                            "Hãy thoải mái, nhắm mắt, và để tâm trí theo dõi câu chuyện..."
+                        </div>
+                    ` : `
+                        <audio controls style="width: 100%; max-width: 500px; margin: 20px auto;">
+                            <source src="${audioUrl}" type="audio/mpeg">
+                            Trình duyệt của bạn không hỗ trợ phát audio.
+                        </audio>
+                        <p style="font-size: 0.85rem; color: #6b7280; margin-top: 15px;">
+                            💡 Tip: Đeo tai nghe, nằm thoải mái, nhắm mắt và để tâm trí thả lỏng
+                        </p>
+                    `}
                 </div>
             `;
-            
+
             modal.classList.add('show');
         }
 
@@ -5091,8 +5232,8 @@
             console.log('=== KẾT THÚC LƯU NHẬT KÝ ===');
 
             // Clear form
-            const today = new Date().toISOString().split('T')[0];
-            document.getElementById('journalDate').value = today;
+            const todayStr = new Date().toISOString().split('T')[0];
+            document.getElementById('journalDate').value = todayStr;
             document.getElementById('journalBedTime').value = '';
             document.getElementById('journalLightsOut').value = '';
             document.getElementById('journalSleepLatency').value = '';
@@ -6006,8 +6147,8 @@
         }
 
         // Update switchTab function to handle sidebar active state
-        const originalSwitchTab = switchTab;
-        switchTab = function(tabId) {
+        const originalSwitchTab = window.switchTab;
+        window.switchTab = function(tabId) {
             // Call original function
             originalSwitchTab(tabId);
 
@@ -6026,8 +6167,8 @@
             if (window.innerWidth <= 768) {
                 const sidebar = document.getElementById('sidebar');
                 const overlay = document.getElementById('sidebarOverlay');
-                sidebar.classList.remove('active');
-                overlay.classList.remove('active');
+                if (sidebar) sidebar.classList.remove('active');
+                if (overlay) overlay.classList.remove('active');
             }
         };
     </script>
