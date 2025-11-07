@@ -1,0 +1,442 @@
+[
+  {
+    "id": 10441,
+    "title": "Education 1",
+    "title_vi": "giáo dục 1",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10442,
+    "title": "Education 2",
+    "title_vi": "giáo dục 2",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10443,
+    "title": "Education 3",
+    "title_vi": "giáo dục 3",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10444,
+    "title": "Education 4",
+    "title_vi": "giáo dục 4",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10445,
+    "title": "Education 5",
+    "title_vi": "giáo dục 5",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10446,
+    "title": "Education 6",
+    "title_vi": "giáo dục 6",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10447,
+    "title": "Education 7",
+    "title_vi": "giáo dục 7",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10448,
+    "title": "Education 8",
+    "title_vi": "giáo dục 8",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10449,
+    "title": "Education 9",
+    "title_vi": "giáo dục 9",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10450,
+    "title": "Education 10",
+    "title_vi": "giáo dục 10",
+    "content_en": "I use education service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ giáo dục. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10451,
+    "title": "Education 11",
+    "title_vi": "giáo dục cơ bản 11",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10452,
+    "title": "Education 12",
+    "title_vi": "giáo dục cơ bản 12",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10453,
+    "title": "Education 13",
+    "title_vi": "giáo dục cơ bản 13",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10454,
+    "title": "Education 14",
+    "title_vi": "giáo dục cơ bản 14",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10455,
+    "title": "Education 15",
+    "title_vi": "giáo dục cơ bản 15",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10456,
+    "title": "Education 16",
+    "title_vi": "giáo dục cơ bản 16",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10457,
+    "title": "Education 17",
+    "title_vi": "giáo dục cơ bản 17",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10458,
+    "title": "Education 18",
+    "title_vi": "giáo dục cơ bản 18",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10459,
+    "title": "Education 19",
+    "title_vi": "giáo dục cơ bản 19",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10460,
+    "title": "Education 20",
+    "title_vi": "giáo dục cơ bản 20",
+    "content_en": "I like education. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích giáo dục cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "giáo dục cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

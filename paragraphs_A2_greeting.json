@@ -1,0 +1,452 @@
+[
+  {
+    "id": 10011,
+    "title": "Introducing Myself at a Conference",
+    "title_vi": "Giới thiệu bản thân tại hội nghị",
+    "content_en": "Good afternoon, everyone. I'd like to introduce myself. My name is Jennifer Brown, and I'm a marketing manager from Boston. I've been working in digital marketing for about five years now. I'm really excited to be here today because I've heard great things about this conference. I hope to learn more about the latest trends in social media marketing and network with other professionals in the field. Thank you for having me!",
+    "content_vi": "Chào buổi chiều, mọi người. Tôi muốn giới thiệu bản thân. Tên tôi là Jennifer Brown, và tôi là một quản lý marketing từ Boston. Tôi đã làm việc trong lĩnh vực marketing kỹ thuật số được khoảng năm năm rồi. Tôi thực sự rất phấn khích được ở đây hôm nay vì tôi đã nghe nhiều điều tốt đẹp về hội nghị này. Tôi hy vọng sẽ học hỏi thêm về các xu hướng mới nhất trong marketing truyền thông xã hội và kết nối với các chuyên gia khác trong lĩnh vực này. Cảm ơn vì đã có tôi!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "professional",
+      "introduction",
+      "conference"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn giới thiệu bản thân chuyên nghiệp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10012,
+    "title": "Welcoming a New Neighbor",
+    "title_vi": "Chào đón hàng xóm mới",
+    "content_en": "Hello! I saw you moving in yesterday. Welcome to the neighborhood! My name is Robert, and I live in the house next door. I've been living here for about three years, and it's a really nice area. There's a great park nearby where you can take walks, and the local grocery store is just five minutes away. If you need any help or have questions about the neighborhood, please don't hesitate to ask. I hope you'll enjoy living here!",
+    "content_vi": "Xin chào! Tôi thấy bạn chuyển vào hôm qua. Chào mừng đến khu phố! Tên tôi là Robert, và tôi sống ở ngôi nhà bên cạnh. Tôi đã sống ở đây khoảng ba năm rồi, và đây là một khu vực thực sự tuyệt vời. Có một công viên tuyệt vời gần đây nơi bạn có thể đi dạo, và cửa hàng tạp hóa địa phương chỉ cách năm phút. Nếu bạn cần giúp đỡ hoặc có câu hỏi về khu phố, đừng ngần ngại hỏi. Tôi hy vọng bạn sẽ thích sống ở đây!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "neighbor",
+      "welcome",
+      "community"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào đón hàng xóm mới",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10013,
+    "title": "Catching Up with an Old Friend",
+    "title_vi": "Gặp lại bạn cũ",
+    "content_en": "Hey Sarah! I can't believe it's been five years since we last saw each other! How have you been? You look great! I heard you moved to California. How do you like it there? I'm still living in Chicago, working as a graphic designer. We should definitely catch up properly. Are you free for coffee sometime this week? It would be wonderful to hear about everything that's happened in your life!",
+    "content_vi": "Chào Sarah! Tôi không thể tin được đã năm năm kể từ lần cuối chúng ta gặp nhau! Bạn khỏe không? Bạn trông tuyệt vời! Tôi nghe nói bạn đã chuyển đến California. Bạn thích nó như thế nào? Tôi vẫn sống ở Chicago, làm thiết kế đồ họa. Chúng ta chắc chắn nên gặp nhau đàng hoàng. Bạn có rảnh để uống cà phê vào lúc nào đó trong tuần này không? Sẽ thật tuyệt vời khi nghe về mọi thứ đã xảy ra trong cuộc sống của bạn!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "old_friend",
+      "reunion",
+      "catch_up"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn gặp lại bạn cũ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10014,
+    "title": "Starting a New Job",
+    "title_vi": "Bắt đầu công việc mới",
+    "content_en": "Good morning, everyone. I'm Alex Chen, and today is my first day here at Tech Solutions. I'm joining the software development team as a junior developer. I recently graduated from State University with a degree in Computer Science. I'm really excited about this opportunity and eager to learn from all of you. I've heard this is a great place to work with a supportive team. I look forward to contributing to the projects and getting to know everyone better!",
+    "content_vi": "Chào buổi sáng, mọi người. Tôi là Alex Chen, và hôm nay là ngày đầu tiên của tôi ở đây tại Tech Solutions. Tôi tham gia đội phát triển phần mềm với tư cách là một nhà phát triển cấp dưới. Tôi vừa tốt nghiệp Đại học Tiểu bang với bằng Khoa học Máy tính. Tôi thực sự hào hứng về cơ hội này và háo hức học hỏi từ tất cả các bạn. Tôi đã nghe đây là một nơi tuyệt vời để làm việc với một đội ngũ hỗ trợ. Tôi mong được đóng góp vào các dự án và tìm hiểu mọi người tốt hơn!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "new_job",
+      "first_day",
+      "workplace"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn ngày đầu làm việc",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10015,
+    "title": "Apologizing for Being Late",
+    "title_vi": "Xin lỗi vì đến muộn",
+    "content_en": "Hi everyone, I'm so sorry I'm late! The traffic was terrible this morning. There was an accident on the highway, and I was stuck for almost an hour. I left home early, but I couldn't have predicted this. I apologize for missing the beginning of the meeting. Could someone please fill me in on what I've missed? I promise I'll be on time for our next meeting. Thank you for your understanding!",
+    "content_vi": "Chào mọi người, tôi rất xin lỗi vì đến muộn! Giao thông sáng nay thật tệ. Có một vụ tai nạn trên đường cao tốc, và tôi bị kẹt gần một giờ. Tôi đã rời nhà sớm, nhưng tôi không thể dự đoán trước điều này. Tôi xin lỗi vì đã bỏ lỡ phần đầu của cuộc họp. Ai đó có thể vui lòng cập nhật cho tôi về những gì tôi đã bỏ lỡ không? Tôi hứa sẽ đúng giờ cho cuộc họp tiếp theo của chúng ta. Cảm ơn sự thông cảm của các bạn!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "apology",
+      "late",
+      "meeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn xin lỗi vì đến muộn",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10016,
+    "title": "Thanking Someone for Help",
+    "title_vi": "Cảm ơn ai đó đã giúp đỡ",
+    "content_en": "Thank you so much for helping me yesterday! I really appreciate you taking the time to show me how to use the new software system. It was quite confusing at first, but your explanations made everything much clearer. I've already started using it for my project, and it's working perfectly. If there's ever anything I can do to return the favor, please let me know. Thanks again for your patience and kindness!",
+    "content_vi": "Cảm ơn rất nhiều vì đã giúp tôi hôm qua! Tôi thực sự đánh giá cao việc bạn dành thời gian để chỉ cho tôi cách sử dụng hệ thống phần mềm mới. Lúc đầu nó khá khó hiểu, nhưng giải thích của bạn đã làm cho mọi thứ rõ ràng hơn nhiều. Tôi đã bắt đầu sử dụng nó cho dự án của mình, và nó đang hoạt động hoàn hảo. Nếu có bất cứ điều gì tôi có thể làm để đền đáp, xin vui lòng cho tôi biết. Cảm ơn một lần nữa vì sự kiên nhẫn và lòng tốt của bạn!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "gratitude",
+      "thank_you",
+      "help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn cảm ơn",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10017,
+    "title": "Weekend Plans",
+    "title_vi": "Kế hoạch cuối tuần",
+    "content_en": "Hey, do you have any plans for the weekend? I was thinking about going hiking in the mountains on Saturday. The weather forecast says it's going to be sunny and warm. Would you like to join me? We could pack some sandwiches and make a day of it. I haven't been hiking in months, and I really need to get some fresh air and exercise. Let me know if you're interested!",
+    "content_vi": "Này, bạn có kế hoạch gì cho cuối tuần không? Tôi đang nghĩ đến việc đi leo núi vào thứ Bảy. Dự báo thời tiết nói rằng trời sẽ nắng và ấm. Bạn có muốn tham gia cùng tôi không? Chúng ta có thể đóng gói một số bánh mì và dành cả ngày cho nó. Tôi đã không đi leo núi trong nhiều tháng, và tôi thực sự cần có chút không khí trong lành và tập thể dục. Cho tôi biết nếu bạn quan tâm!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "weekend",
+      "plans",
+      "invitation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn về kế hoạch cuối tuần",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10018,
+    "title": "Congratulating a Colleague",
+    "title_vi": "Chúc mừng đồng nghiệp",
+    "content_en": "Congratulations on your promotion, Maria! I just heard the news, and I'm so happy for you! You've worked really hard this past year, and you definitely deserve this. I've always admired your dedication and professionalism. I'm sure you'll do an excellent job in your new role as team leader. We should celebrate soon! How about we go out for lunch next week?",
+    "content_vi": "Chúc mừng về việc thăng chức của bạn, Maria! Tôi vừa nghe tin, và tôi rất vui cho bạn! Bạn đã làm việc thực sự chăm chỉ trong năm qua, và bạn chắc chắn xứng đáng với điều này. Tôi luôn ngưỡng mộ sự cống hiến và tính chuyên nghiệp của bạn. Tôi chắc chắn bạn sẽ làm một công việc xuất sắc trong vai trò mới của bạn như người lãnh đạo nhóm. Chúng ta nên ăn mừng sớm! Còn chúng ta đi ăn trưa tuần sau thì sao?",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "congratulations",
+      "promotion",
+      "workplace"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10019,
+    "title": "Checking In on a Friend",
+    "title_vi": "Hỏi thăm bạn bè",
+    "content_en": "Hi Jessica, I haven't heard from you in a while. How have you been? I know you mentioned you were going through a difficult time at work. I just wanted to check in and see how you're doing. If you need someone to talk to or if you'd like to meet up for coffee, I'm here for you. Sometimes it helps to have a friend to listen. Take care, and let me know if there's anything I can do to help!",
+    "content_vi": "Chào Jessica, tôi đã không nghe tin gì từ bạn trong một thời gian. Bạn khỏe không? Tôi biết bạn đã đề cập rằng bạn đang trải qua một thời gian khó khăn trong công việc. Tôi chỉ muốn hỏi thăm và xem bạn thế nào. Nếu bạn cần ai đó để nói chuyện hoặc nếu bạn muốn gặp nhau uống cà phê, tôi ở đây cho bạn. Đôi khi nó giúp có một người bạn để lắng nghe. Bảo trọng, và cho tôi biết nếu có bất cứ điều gì tôi có thể làm để giúp đỡ!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "checking_in",
+      "support",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn hỏi thăm bạn bè",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10020,
+    "title": "Holiday Greetings",
+    "title_vi": "Lời chúc ngày lễ",
+    "content_en": "Season's greetings to you and your family! I hope you have a wonderful holiday season filled with joy, laughter, and good times with loved ones. Thank you for all your friendship and support throughout the year. As we look forward to the new year, I wish you good health, happiness, and success in all your endeavors. Have a fantastic celebration, and I'll see you in the new year!",
+    "content_vi": "Lời chúc mùa lễ đến bạn và gia đình! Tôi hy vọng bạn có một mùa lễ tuyệt vời tràn ngập niềm vui, tiếng cười và thời gian tốt đẹp với những người thân yêu. Cảm ơn vì tất cả tình bạn và sự hỗ trợ của bạn trong suốt năm. Khi chúng ta mong đợi năm mới, tôi chúc bạn sức khỏe tốt, hạnh phúc và thành công trong tất cả những nỗ lực của bạn. Có một lễ kỷ niệm tuyệt vời, và tôi sẽ gặp bạn trong năm mới!",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "holiday",
+      "celebration",
+      "wishes"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10021,
+    "title": "Greeting Experience 11",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 11",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10022,
+    "title": "Greeting Experience 12",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 12",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10023,
+    "title": "Greeting Experience 13",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 13",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10024,
+    "title": "Greeting Experience 14",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 14",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10025,
+    "title": "Greeting Experience 15",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 15",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10026,
+    "title": "Greeting Experience 16",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 16",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10027,
+    "title": "Greeting Experience 17",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 17",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10028,
+    "title": "Greeting Experience 18",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 18",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10029,
+    "title": "Greeting Experience 19",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 19",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10030,
+    "title": "Greeting Experience 20",
+    "title_vi": "Trải nghiệm Đoạn văn chúc mừng ngày lễ 20",
+    "content_en": "I'd like to tell you more about greeting. I've been practicing this regularly. It's become much better than before. I really enjoy doing it. Could you share your thoughts on this? I think the experience has been very positive and rewarding.",
+    "content_vi": "Tôi muốn nói thêm về Đoạn văn chúc mừng ngày lễ. Tôi đã thực hành điều này thường xuyên. Nó đã tốt hơn nhiều so với trước. Tôi thực sự thích làm điều đó. Bạn có thể chia sẻ suy nghĩ của bạn về điều này không? Tôi nghĩ trải nghiệm rất tích cực và bổ ích.",
+    "level_id": "A2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "elementary",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng ngày lễ sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

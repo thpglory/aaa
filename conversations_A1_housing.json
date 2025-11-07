@@ -1,0 +1,962 @@
+[
+  {
+    "id": 20561,
+    "title": "Housing Conversation 1",
+    "title_vi": "Hội thoại nhà ở 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20562,
+    "title": "Housing Conversation 2",
+    "title_vi": "Hội thoại nhà ở 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20563,
+    "title": "Housing Conversation 3",
+    "title_vi": "Hội thoại nhà ở 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20564,
+    "title": "Housing Conversation 4",
+    "title_vi": "Hội thoại nhà ở 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20565,
+    "title": "Housing Conversation 5",
+    "title_vi": "Hội thoại nhà ở 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20566,
+    "title": "Housing Conversation 6",
+    "title_vi": "Hội thoại nhà ở 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20567,
+    "title": "Housing Conversation 7",
+    "title_vi": "Hội thoại nhà ở 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20568,
+    "title": "Housing Conversation 8",
+    "title_vi": "Hội thoại nhà ở 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20569,
+    "title": "Housing Conversation 9",
+    "title_vi": "Hội thoại nhà ở 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20570,
+    "title": "Housing Conversation 10",
+    "title_vi": "Hội thoại nhà ở 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like housing.",
+        "text_vi": "Tôi khỏe. Tôi thích nhà ở."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20571,
+    "title": "Housing Conversation 11",
+    "title_vi": "Hội thoại thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20572,
+    "title": "Housing Conversation 12",
+    "title_vi": "Hội thoại thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20573,
+    "title": "Housing Conversation 13",
+    "title_vi": "Hội thoại thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20574,
+    "title": "Housing Conversation 14",
+    "title_vi": "Hội thoại thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20575,
+    "title": "Housing Conversation 15",
+    "title_vi": "Hội thoại thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20576,
+    "title": "Housing Conversation 16",
+    "title_vi": "Hội thoại thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20577,
+    "title": "Housing Conversation 17",
+    "title_vi": "Hội thoại thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20578,
+    "title": "Housing Conversation 18",
+    "title_vi": "Hội thoại thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20579,
+    "title": "Housing Conversation 19",
+    "title_vi": "Hội thoại thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20580,
+    "title": "Housing Conversation 20",
+    "title_vi": "Hội thoại thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like housing?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like housing. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "housing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

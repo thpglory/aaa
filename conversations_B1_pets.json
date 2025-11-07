@@ -1,0 +1,962 @@
+[
+  {
+    "id": 20941,
+    "title": "Pets Discussion 1",
+    "title_vi": "Thảo luận thú cưng 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20942,
+    "title": "Pets Discussion 2",
+    "title_vi": "Thảo luận thú cưng 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20943,
+    "title": "Pets Discussion 3",
+    "title_vi": "Thảo luận thú cưng 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20944,
+    "title": "Pets Discussion 4",
+    "title_vi": "Thảo luận thú cưng 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20945,
+    "title": "Pets Discussion 5",
+    "title_vi": "Thảo luận thú cưng 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20946,
+    "title": "Pets Discussion 6",
+    "title_vi": "Thảo luận thú cưng 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20947,
+    "title": "Pets Discussion 7",
+    "title_vi": "Thảo luận thú cưng 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20948,
+    "title": "Pets Discussion 8",
+    "title_vi": "Thảo luận thú cưng 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20949,
+    "title": "Pets Discussion 9",
+    "title_vi": "Thảo luận thú cưng 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20950,
+    "title": "Pets Discussion 10",
+    "title_vi": "Thảo luận thú cưng 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pets earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về thú cưng sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pets, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về thú cưng, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thú cưng trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20951,
+    "title": "Pets Discussion 11",
+    "title_vi": "Thảo luận thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20952,
+    "title": "Pets Discussion 12",
+    "title_vi": "Thảo luận thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20953,
+    "title": "Pets Discussion 13",
+    "title_vi": "Thảo luận thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20954,
+    "title": "Pets Discussion 14",
+    "title_vi": "Thảo luận thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20955,
+    "title": "Pets Discussion 15",
+    "title_vi": "Thảo luận thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20956,
+    "title": "Pets Discussion 16",
+    "title_vi": "Thảo luận thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20957,
+    "title": "Pets Discussion 17",
+    "title_vi": "Thảo luận thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20958,
+    "title": "Pets Discussion 18",
+    "title_vi": "Thảo luận thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20959,
+    "title": "Pets Discussion 19",
+    "title_vi": "Thảo luận thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20960,
+    "title": "Pets Discussion 20",
+    "title_vi": "Thảo luận thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on pets?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, pets would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about pets, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on pets projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pets"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

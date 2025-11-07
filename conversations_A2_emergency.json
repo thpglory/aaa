@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 20291,
+    "title": "Emergency Talk 1",
+    "title_vi": "Trò chuyện khẩn cấp 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20292,
+    "title": "Emergency Talk 2",
+    "title_vi": "Trò chuyện khẩn cấp 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20293,
+    "title": "Emergency Talk 3",
+    "title_vi": "Trò chuyện khẩn cấp 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20294,
+    "title": "Emergency Talk 4",
+    "title_vi": "Trò chuyện khẩn cấp 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20295,
+    "title": "Emergency Talk 5",
+    "title_vi": "Trò chuyện khẩn cấp 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20296,
+    "title": "Emergency Talk 6",
+    "title_vi": "Trò chuyện khẩn cấp 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20297,
+    "title": "Emergency Talk 7",
+    "title_vi": "Trò chuyện khẩn cấp 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20298,
+    "title": "Emergency Talk 8",
+    "title_vi": "Trò chuyện khẩn cấp 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20299,
+    "title": "Emergency Talk 9",
+    "title_vi": "Trò chuyện khẩn cấp 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20300,
+    "title": "Emergency Talk 10",
+    "title_vi": "Trò chuyện khẩn cấp 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about emergency.",
+        "text_vi": "Chào! Tôi muốn nói về khẩn cấp."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in emergency for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến khẩn cấp một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại khẩn cấp sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20301,
+    "title": "Emergency Talk 11",
+    "title_vi": "Trò chuyện thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20302,
+    "title": "Emergency Talk 12",
+    "title_vi": "Trò chuyện thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20303,
+    "title": "Emergency Talk 13",
+    "title_vi": "Trò chuyện thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20304,
+    "title": "Emergency Talk 14",
+    "title_vi": "Trò chuyện thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20305,
+    "title": "Emergency Talk 15",
+    "title_vi": "Trò chuyện thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20306,
+    "title": "Emergency Talk 16",
+    "title_vi": "Trò chuyện thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20307,
+    "title": "Emergency Talk 17",
+    "title_vi": "Trò chuyện thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20308,
+    "title": "Emergency Talk 18",
+    "title_vi": "Trò chuyện thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20309,
+    "title": "Emergency Talk 19",
+    "title_vi": "Trò chuyện thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20310,
+    "title": "Emergency Talk 20",
+    "title_vi": "Trò chuyện thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about emergency.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about emergency. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "emergency"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "emergency"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

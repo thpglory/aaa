@@ -1,0 +1,442 @@
+[
+  {
+    "id": 10881,
+    "title": "Legal 1",
+    "title_vi": "pháp lý 1",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10882,
+    "title": "Legal 2",
+    "title_vi": "pháp lý 2",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10883,
+    "title": "Legal 3",
+    "title_vi": "pháp lý 3",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10884,
+    "title": "Legal 4",
+    "title_vi": "pháp lý 4",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10885,
+    "title": "Legal 5",
+    "title_vi": "pháp lý 5",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10886,
+    "title": "Legal 6",
+    "title_vi": "pháp lý 6",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10887,
+    "title": "Legal 7",
+    "title_vi": "pháp lý 7",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10888,
+    "title": "Legal 8",
+    "title_vi": "pháp lý 8",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10889,
+    "title": "Legal 9",
+    "title_vi": "pháp lý 9",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10890,
+    "title": "Legal 10",
+    "title_vi": "pháp lý 10",
+    "content_en": "I talk about legal. It is good. I like it. I do it often. It is nice. Thank you.",
+    "content_vi": "Tôi nói về pháp lý. Nó tốt. Tôi thích. Tôi làm thường xuyên. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10891,
+    "title": "Legal 11",
+    "title_vi": "pháp lý cơ bản 11",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10892,
+    "title": "Legal 12",
+    "title_vi": "pháp lý cơ bản 12",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10893,
+    "title": "Legal 13",
+    "title_vi": "pháp lý cơ bản 13",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10894,
+    "title": "Legal 14",
+    "title_vi": "pháp lý cơ bản 14",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10895,
+    "title": "Legal 15",
+    "title_vi": "pháp lý cơ bản 15",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10896,
+    "title": "Legal 16",
+    "title_vi": "pháp lý cơ bản 16",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10897,
+    "title": "Legal 17",
+    "title_vi": "pháp lý cơ bản 17",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10898,
+    "title": "Legal 18",
+    "title_vi": "pháp lý cơ bản 18",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10899,
+    "title": "Legal 19",
+    "title_vi": "pháp lý cơ bản 19",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10900,
+    "title": "Legal 20",
+    "title_vi": "pháp lý cơ bản 20",
+    "content_en": "I like legal. It is very good. I do it every day. I enjoy it. It is easy for me. I am happy. Thank you.",
+    "content_vi": "Tôi thích pháp lý cơ bản. Nó rất tốt. Tôi làm nó mỗi ngày. Tôi thích nó. Nó dễ với tôi. Tôi hạnh phúc. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "pháp lý cơ bản cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

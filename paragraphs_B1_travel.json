@@ -1,0 +1,442 @@
+[
+  {
+    "id": 10101,
+    "title": "Travel Scenario 1",
+    "title_vi": "Tình huống du lịch 1",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10102,
+    "title": "Travel Scenario 2",
+    "title_vi": "Tình huống du lịch 2",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10103,
+    "title": "Travel Scenario 3",
+    "title_vi": "Tình huống du lịch 3",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10104,
+    "title": "Travel Scenario 4",
+    "title_vi": "Tình huống du lịch 4",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10105,
+    "title": "Travel Scenario 5",
+    "title_vi": "Tình huống du lịch 5",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10106,
+    "title": "Travel Scenario 6",
+    "title_vi": "Tình huống du lịch 6",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10107,
+    "title": "Travel Scenario 7",
+    "title_vi": "Tình huống du lịch 7",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10108,
+    "title": "Travel Scenario 8",
+    "title_vi": "Tình huống du lịch 8",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10109,
+    "title": "Travel Scenario 9",
+    "title_vi": "Tình huống du lịch 9",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10110,
+    "title": "Travel Scenario 10",
+    "title_vi": "Tình huống du lịch 10",
+    "content_en": "Had I known about this travel opportunity earlier, I would have planned differently. If I were to choose again, I'd approach it another way. Unless circumstances change, I'll continue with my current strategy. Should you need advice about travel, I'd be happy to share my experience. Were I in your position, I would consider all options carefully. The situation regarding travel has been quite interesting lately.",
+    "content_vi": "Nếu tôi biết về cơ hội du lịch này sớm hơn, tôi đã lên kế hoạch khác. Nếu tôi chọn lại, tôi sẽ tiếp cận theo cách khác. Trừ khi hoàn cảnh thay đổi, tôi sẽ tiếp tục với chiến lược hiện tại của mình. Nếu bạn cần lời khuyên về du lịch, tôi sẽ vui lòng chia sẻ kinh nghiệm của mình. Nếu tôi ở vị trí của bạn, tôi sẽ xem xét tất cả các lựa chọn một cách cẩn thận. Tình hình về du lịch gần đây khá thú vị.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10111,
+    "title": "Travel Scenario 11",
+    "title_vi": "Tình huống du lịch trung cấp 11",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10112,
+    "title": "Travel Scenario 12",
+    "title_vi": "Tình huống du lịch trung cấp 12",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10113,
+    "title": "Travel Scenario 13",
+    "title_vi": "Tình huống du lịch trung cấp 13",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10114,
+    "title": "Travel Scenario 14",
+    "title_vi": "Tình huống du lịch trung cấp 14",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10115,
+    "title": "Travel Scenario 15",
+    "title_vi": "Tình huống du lịch trung cấp 15",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10116,
+    "title": "Travel Scenario 16",
+    "title_vi": "Tình huống du lịch trung cấp 16",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10117,
+    "title": "Travel Scenario 17",
+    "title_vi": "Tình huống du lịch trung cấp 17",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10118,
+    "title": "Travel Scenario 18",
+    "title_vi": "Tình huống du lịch trung cấp 18",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10119,
+    "title": "Travel Scenario 19",
+    "title_vi": "Tình huống du lịch trung cấp 19",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10120,
+    "title": "Travel Scenario 20",
+    "title_vi": "Tình huống du lịch trung cấp 20",
+    "content_en": "Had I understood travel better initially, I would have made different choices. If I were to give advice, I'd suggest thorough research first. Unless you have prior experience, it's wise to seek guidance. Should you encounter difficulties, don't hesitate to ask for help. Were I starting over, I'd take a more systematic approach to learning about travel.",
+    "content_vi": "Nếu tôi hiểu du lịch trung cấp tốt hơn ban đầu, tôi đã có những lựa chọn khác. Nếu tôi đưa ra lời khuyên, tôi sẽ đề xuất nghiên cứu kỹ trước. Trừ khi bạn có kinh nghiệm trước, khôn ngoan là tìm hướng dẫn. Nếu bạn gặp khó khăn, đừng ngần ngại hỏi. Nếu bắt đầu lại, tôi sẽ có cách tiếp cận có hệ thống hơn.",
+    "level_id": "B1",
+    "topic_ids": [
+      "travel"
+    ],
+    "tags": [
+      "intermediate",
+      "travel"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "du lịch trung cấp trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

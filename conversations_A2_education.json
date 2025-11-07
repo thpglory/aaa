@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 20451,
+    "title": "Education Talk 1",
+    "title_vi": "Trò chuyện giáo dục 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20452,
+    "title": "Education Talk 2",
+    "title_vi": "Trò chuyện giáo dục 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20453,
+    "title": "Education Talk 3",
+    "title_vi": "Trò chuyện giáo dục 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20454,
+    "title": "Education Talk 4",
+    "title_vi": "Trò chuyện giáo dục 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20455,
+    "title": "Education Talk 5",
+    "title_vi": "Trò chuyện giáo dục 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20456,
+    "title": "Education Talk 6",
+    "title_vi": "Trò chuyện giáo dục 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20457,
+    "title": "Education Talk 7",
+    "title_vi": "Trò chuyện giáo dục 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20458,
+    "title": "Education Talk 8",
+    "title_vi": "Trò chuyện giáo dục 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20459,
+    "title": "Education Talk 9",
+    "title_vi": "Trò chuyện giáo dục 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20460,
+    "title": "Education Talk 10",
+    "title_vi": "Trò chuyện giáo dục 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about education.",
+        "text_vi": "Chào! Tôi muốn nói về giáo dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in education for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến giáo dục một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giáo dục sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20461,
+    "title": "Education Talk 11",
+    "title_vi": "Trò chuyện thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20462,
+    "title": "Education Talk 12",
+    "title_vi": "Trò chuyện thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20463,
+    "title": "Education Talk 13",
+    "title_vi": "Trò chuyện thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20464,
+    "title": "Education Talk 14",
+    "title_vi": "Trò chuyện thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20465,
+    "title": "Education Talk 15",
+    "title_vi": "Trò chuyện thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20466,
+    "title": "Education Talk 16",
+    "title_vi": "Trò chuyện thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20467,
+    "title": "Education Talk 17",
+    "title_vi": "Trò chuyện thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20468,
+    "title": "Education Talk 18",
+    "title_vi": "Trò chuyện thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20469,
+    "title": "Education Talk 19",
+    "title_vi": "Trò chuyện thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20470,
+    "title": "Education Talk 20",
+    "title_vi": "Trò chuyện thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! I'd like to ask you about education.",
+        "text_vi": "Xin chào! Tôi muốn hỏi bạn về thoại."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've heard good things about education. Could you tell me more?",
+        "text_vi": "Tôi đã nghe những điều tốt về thoại. Bạn có thể nói thêm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! It's really interesting and quite useful.",
+        "text_vi": "Tất nhiên! Nó thực sự thú vị và khá hữu ích."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That sounds great! I'd like to learn more about it.",
+        "text_vi": "Nghe hay đấy! Tôi muốn tìm hiểu thêm về nó."
+      },
+      {
+        "speaker": "B",
+        "text_en": "I'll be happy to help you. Let's talk more next time.",
+        "text_vi": "Tôi sẽ vui lòng giúp bạn. Hãy nói chuyện thêm lần sau."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "education"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

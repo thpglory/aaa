@@ -1,0 +1,962 @@
+[
+  {
+    "id": 20901,
+    "title": "Legal Discussion 1",
+    "title_vi": "Thảo luận pháp lý 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20902,
+    "title": "Legal Discussion 2",
+    "title_vi": "Thảo luận pháp lý 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20903,
+    "title": "Legal Discussion 3",
+    "title_vi": "Thảo luận pháp lý 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20904,
+    "title": "Legal Discussion 4",
+    "title_vi": "Thảo luận pháp lý 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20905,
+    "title": "Legal Discussion 5",
+    "title_vi": "Thảo luận pháp lý 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20906,
+    "title": "Legal Discussion 6",
+    "title_vi": "Thảo luận pháp lý 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20907,
+    "title": "Legal Discussion 7",
+    "title_vi": "Thảo luận pháp lý 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20908,
+    "title": "Legal Discussion 8",
+    "title_vi": "Thảo luận pháp lý 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20909,
+    "title": "Legal Discussion 9",
+    "title_vi": "Thảo luận pháp lý 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20910,
+    "title": "Legal Discussion 10",
+    "title_vi": "Thảo luận pháp lý 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about legal earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về pháp lý sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about legal, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về pháp lý, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại pháp lý trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20911,
+    "title": "Legal Discussion 11",
+    "title_vi": "Thảo luận thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20912,
+    "title": "Legal Discussion 12",
+    "title_vi": "Thảo luận thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20913,
+    "title": "Legal Discussion 13",
+    "title_vi": "Thảo luận thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20914,
+    "title": "Legal Discussion 14",
+    "title_vi": "Thảo luận thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20915,
+    "title": "Legal Discussion 15",
+    "title_vi": "Thảo luận thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20916,
+    "title": "Legal Discussion 16",
+    "title_vi": "Thảo luận thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20917,
+    "title": "Legal Discussion 17",
+    "title_vi": "Thảo luận thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20918,
+    "title": "Legal Discussion 18",
+    "title_vi": "Thảo luận thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20919,
+    "title": "Legal Discussion 19",
+    "title_vi": "Thảo luận thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20920,
+    "title": "Legal Discussion 20",
+    "title_vi": "Thảo luận thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had more time, would you spend it on legal?",
+        "text_vi": "Nếu bạn có nhiều thời gian hơn, bạn có dành nó cho thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known its benefits earlier, I certainly would have. Were I to prioritize now, legal would be at the top.",
+        "text_vi": "Nếu tôi biết lợi ích của nó sớm hơn, tôi chắc chắn sẽ có. Nếu tôi ưu tiên bây giờ, thoại sẽ ở đầu."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any resources about legal, I can recommend some excellent ones.",
+        "text_vi": "Nếu bạn cần tài nguyên về thoại, tôi có thể giới thiệu một số cái xuất sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That would be wonderful. Unless there are major obstacles, I plan to pursue this seriously.",
+        "text_vi": "Điều đó sẽ tuyệt vời. Trừ khi có trở ngại lớn, tôi dự định theo đuổi điều này một cách nghiêm túc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "If circumstances allow, we could collaborate on legal projects.",
+        "text_vi": "Nếu hoàn cảnh cho phép, chúng ta có thể hợp tác về các dự án thoại."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "legal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

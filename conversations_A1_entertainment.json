@@ -1,0 +1,962 @@
+[
+  {
+    "id": 20481,
+    "title": "Entertainment Conversation 1",
+    "title_vi": "Hội thoại giải trí 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20482,
+    "title": "Entertainment Conversation 2",
+    "title_vi": "Hội thoại giải trí 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20483,
+    "title": "Entertainment Conversation 3",
+    "title_vi": "Hội thoại giải trí 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20484,
+    "title": "Entertainment Conversation 4",
+    "title_vi": "Hội thoại giải trí 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20485,
+    "title": "Entertainment Conversation 5",
+    "title_vi": "Hội thoại giải trí 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20486,
+    "title": "Entertainment Conversation 6",
+    "title_vi": "Hội thoại giải trí 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20487,
+    "title": "Entertainment Conversation 7",
+    "title_vi": "Hội thoại giải trí 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20488,
+    "title": "Entertainment Conversation 8",
+    "title_vi": "Hội thoại giải trí 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20489,
+    "title": "Entertainment Conversation 9",
+    "title_vi": "Hội thoại giải trí 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20490,
+    "title": "Entertainment Conversation 10",
+    "title_vi": "Hội thoại giải trí 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like entertainment.",
+        "text_vi": "Tôi khỏe. Tôi thích giải trí."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại giải trí cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20491,
+    "title": "Entertainment Conversation 11",
+    "title_vi": "Hội thoại thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20492,
+    "title": "Entertainment Conversation 12",
+    "title_vi": "Hội thoại thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20493,
+    "title": "Entertainment Conversation 13",
+    "title_vi": "Hội thoại thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20494,
+    "title": "Entertainment Conversation 14",
+    "title_vi": "Hội thoại thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20495,
+    "title": "Entertainment Conversation 15",
+    "title_vi": "Hội thoại thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20496,
+    "title": "Entertainment Conversation 16",
+    "title_vi": "Hội thoại thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20497,
+    "title": "Entertainment Conversation 17",
+    "title_vi": "Hội thoại thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20498,
+    "title": "Entertainment Conversation 18",
+    "title_vi": "Hội thoại thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20499,
+    "title": "Entertainment Conversation 19",
+    "title_vi": "Hội thoại thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20500,
+    "title": "Entertainment Conversation 20",
+    "title_vi": "Hội thoại thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like entertainment?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like entertainment. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "entertainment"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "entertainment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "id": 20681,
+    "title": "Fitness Conversation 1",
+    "title_vi": "Hội thoại thể dục 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20682,
+    "title": "Fitness Conversation 2",
+    "title_vi": "Hội thoại thể dục 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20683,
+    "title": "Fitness Conversation 3",
+    "title_vi": "Hội thoại thể dục 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20684,
+    "title": "Fitness Conversation 4",
+    "title_vi": "Hội thoại thể dục 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20685,
+    "title": "Fitness Conversation 5",
+    "title_vi": "Hội thoại thể dục 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20686,
+    "title": "Fitness Conversation 6",
+    "title_vi": "Hội thoại thể dục 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20687,
+    "title": "Fitness Conversation 7",
+    "title_vi": "Hội thoại thể dục 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20688,
+    "title": "Fitness Conversation 8",
+    "title_vi": "Hội thoại thể dục 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20689,
+    "title": "Fitness Conversation 9",
+    "title_vi": "Hội thoại thể dục 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20690,
+    "title": "Fitness Conversation 10",
+    "title_vi": "Hội thoại thể dục 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like fitness.",
+        "text_vi": "Tôi khỏe. Tôi thích thể dục."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thể dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20691,
+    "title": "Fitness Conversation 11",
+    "title_vi": "Hội thoại thoại 11",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20692,
+    "title": "Fitness Conversation 12",
+    "title_vi": "Hội thoại thoại 12",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20693,
+    "title": "Fitness Conversation 13",
+    "title_vi": "Hội thoại thoại 13",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20694,
+    "title": "Fitness Conversation 14",
+    "title_vi": "Hội thoại thoại 14",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20695,
+    "title": "Fitness Conversation 15",
+    "title_vi": "Hội thoại thoại 15",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20696,
+    "title": "Fitness Conversation 16",
+    "title_vi": "Hội thoại thoại 16",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20697,
+    "title": "Fitness Conversation 17",
+    "title_vi": "Hội thoại thoại 17",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20698,
+    "title": "Fitness Conversation 18",
+    "title_vi": "Hội thoại thoại 18",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20699,
+    "title": "Fitness Conversation 19",
+    "title_vi": "Hội thoại thoại 19",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20700,
+    "title": "Fitness Conversation 20",
+    "title_vi": "Hội thoại thoại 20",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! Do you like fitness?",
+        "text_vi": "Chào! Bạn có thích thoại không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, I do. I like it very much.",
+        "text_vi": "Có, tôi thích. Tôi thích nó rất nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "I also like fitness. It is good.",
+        "text_vi": "Tôi cũng thích thoại. Nó tốt."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Yes, it is very nice. I am happy.",
+        "text_vi": "Vâng, nó rất đẹp. Tôi hạnh phúc."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Goodbye! See you later!",
+        "text_vi": "Tạm biệt! Hẹn gặp lại!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "fitness"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "fitness"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại thoại cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
