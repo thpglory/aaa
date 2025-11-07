@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 3004,
+    "content_en": "I have a house.",
+    "content_vi": "Tôi có một ngôi nhà.",
+    "phonetic": "aɪ hæv ə haʊs",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "house"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3005,
+    "content_en": "I live in an apartment.",
+    "content_vi": "Tôi sống trong một căn hộ.",
+    "phonetic": "aɪ lɪv ɪn ən əˈpɑrtmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3006,
+    "content_en": "My room is small.",
+    "content_vi": "Phòng của tôi nhỏ.",
+    "phonetic": "maɪ rum ɪz smɔl",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3007,
+    "content_en": "Where is the kitchen?",
+    "content_vi": "Nhà bếp ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈkɪʧən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3008,
+    "content_en": "I need a bed.",
+    "content_vi": "Tôi cần một cái giường.",
+    "phonetic": "aɪ nid ə bɛd",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "furniture"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3009,
+    "content_en": "The house is big.",
+    "content_vi": "Ngôi nhà lớn.",
+    "phonetic": "ðə haʊs ɪz bɪɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3010,
+    "content_en": "I pay rent.",
+    "content_vi": "Tôi trả tiền thuê.",
+    "phonetic": "aɪ peɪ rɛnt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "rent"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3011,
+    "content_en": "I clean my room.",
+    "content_vi": "Tôi dọn phòng.",
+    "phonetic": "aɪ klin maɪ rum",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "housework"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3012,
+    "content_en": "The door is open.",
+    "content_vi": "Cửa đang mở.",
+    "phonetic": "ðə dɔr ɪz ˈoʊpən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3013,
+    "content_en": "I like my home.",
+    "content_vi": "Tôi thích nhà của mình.",
+    "phonetic": "aɪ laɪk maɪ hoʊm",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3014,
+    "content_en": "I have a house.",
+    "content_vi": "Tôi có một ngôi nhà.",
+    "phonetic": "aɪ hæv ə haʊs",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "house"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3015,
+    "content_en": "I live in an apartment.",
+    "content_vi": "Tôi sống trong một căn hộ.",
+    "phonetic": "aɪ lɪv ɪn ən əˈpɑrtmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3016,
+    "content_en": "My room is small.",
+    "content_vi": "Phòng của tôi nhỏ.",
+    "phonetic": "maɪ rum ɪz smɔl",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3017,
+    "content_en": "Where is the kitchen?",
+    "content_vi": "Nhà bếp ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈkɪʧən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3018,
+    "content_en": "I need a bed.",
+    "content_vi": "Tôi cần một cái giường.",
+    "phonetic": "aɪ nid ə bɛd",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "furniture"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3019,
+    "content_en": "The house is big.",
+    "content_vi": "Ngôi nhà lớn.",
+    "phonetic": "ðə haʊs ɪz bɪɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3020,
+    "content_en": "I pay rent.",
+    "content_vi": "Tôi trả tiền thuê.",
+    "phonetic": "aɪ peɪ rɛnt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "rent"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3021,
+    "content_en": "I clean my room.",
+    "content_vi": "Tôi dọn phòng.",
+    "phonetic": "aɪ klin maɪ rum",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "housework"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3022,
+    "content_en": "The door is open.",
+    "content_vi": "Cửa đang mở.",
+    "phonetic": "ðə dɔr ɪz ˈoʊpən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3023,
+    "content_en": "I like my home.",
+    "content_vi": "Tôi thích nhà của mình.",
+    "phonetic": "aɪ laɪk maɪ hoʊm",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3024,
+    "content_en": "I have a house.",
+    "content_vi": "Tôi có một ngôi nhà.",
+    "phonetic": "aɪ hæv ə haʊs",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "house"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3025,
+    "content_en": "I live in an apartment.",
+    "content_vi": "Tôi sống trong một căn hộ.",
+    "phonetic": "aɪ lɪv ɪn ən əˈpɑrtmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3026,
+    "content_en": "My room is small.",
+    "content_vi": "Phòng của tôi nhỏ.",
+    "phonetic": "maɪ rum ɪz smɔl",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3027,
+    "content_en": "Where is the kitchen?",
+    "content_vi": "Nhà bếp ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈkɪʧən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3028,
+    "content_en": "I need a bed.",
+    "content_vi": "Tôi cần một cái giường.",
+    "phonetic": "aɪ nid ə bɛd",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "furniture"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3029,
+    "content_en": "The house is big.",
+    "content_vi": "Ngôi nhà lớn.",
+    "phonetic": "ðə haʊs ɪz bɪɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3030,
+    "content_en": "I pay rent.",
+    "content_vi": "Tôi trả tiền thuê.",
+    "phonetic": "aɪ peɪ rɛnt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "rent"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3031,
+    "content_en": "I clean my room.",
+    "content_vi": "Tôi dọn phòng.",
+    "phonetic": "aɪ klin maɪ rum",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "housework"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3032,
+    "content_en": "The door is open.",
+    "content_vi": "Cửa đang mở.",
+    "phonetic": "ðə dɔr ɪz ˈoʊpən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3033,
+    "content_en": "I like my home.",
+    "content_vi": "Tôi thích nhà của mình.",
+    "phonetic": "aɪ laɪk maɪ hoʊm",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3034,
+    "content_en": "I have a house.",
+    "content_vi": "Tôi có một ngôi nhà.",
+    "phonetic": "aɪ hæv ə haʊs",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "house"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3035,
+    "content_en": "I live in an apartment.",
+    "content_vi": "Tôi sống trong một căn hộ.",
+    "phonetic": "aɪ lɪv ɪn ən əˈpɑrtmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3036,
+    "content_en": "My room is small.",
+    "content_vi": "Phòng của tôi nhỏ.",
+    "phonetic": "maɪ rum ɪz smɔl",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3037,
+    "content_en": "Where is the kitchen?",
+    "content_vi": "Nhà bếp ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈkɪʧən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3038,
+    "content_en": "I need a bed.",
+    "content_vi": "Tôi cần một cái giường.",
+    "phonetic": "aɪ nid ə bɛd",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "furniture"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3039,
+    "content_en": "The house is big.",
+    "content_vi": "Ngôi nhà lớn.",
+    "phonetic": "ðə haʊs ɪz bɪɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3040,
+    "content_en": "I pay rent.",
+    "content_vi": "Tôi trả tiền thuê.",
+    "phonetic": "aɪ peɪ rɛnt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "rent"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3041,
+    "content_en": "I clean my room.",
+    "content_vi": "Tôi dọn phòng.",
+    "phonetic": "aɪ klin maɪ rum",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "housework"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3042,
+    "content_en": "The door is open.",
+    "content_vi": "Cửa đang mở.",
+    "phonetic": "ðə dɔr ɪz ˈoʊpən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3043,
+    "content_en": "I like my home.",
+    "content_vi": "Tôi thích nhà của mình.",
+    "phonetic": "aɪ laɪk maɪ hoʊm",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3044,
+    "content_en": "I have a house.",
+    "content_vi": "Tôi có một ngôi nhà.",
+    "phonetic": "aɪ hæv ə haʊs",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "house"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3045,
+    "content_en": "I live in an apartment.",
+    "content_vi": "Tôi sống trong một căn hộ.",
+    "phonetic": "aɪ lɪv ɪn ən əˈpɑrtmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3046,
+    "content_en": "My room is small.",
+    "content_vi": "Phòng của tôi nhỏ.",
+    "phonetic": "maɪ rum ɪz smɔl",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3047,
+    "content_en": "Where is the kitchen?",
+    "content_vi": "Nhà bếp ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈkɪʧən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3048,
+    "content_en": "I need a bed.",
+    "content_vi": "Tôi cần một cái giường.",
+    "phonetic": "aɪ nid ə bɛd",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "furniture"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3049,
+    "content_en": "The house is big.",
+    "content_vi": "Ngôi nhà lớn.",
+    "phonetic": "ðə haʊs ɪz bɪɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3050,
+    "content_en": "I pay rent.",
+    "content_vi": "Tôi trả tiền thuê.",
+    "phonetic": "aɪ peɪ rɛnt",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "rent"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3051,
+    "content_en": "I clean my room.",
+    "content_vi": "Tôi dọn phòng.",
+    "phonetic": "aɪ klin maɪ rum",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "basic",
+      "housework"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3052,
+    "content_en": "The door is open.",
+    "content_vi": "Cửa đang mở.",
+    "phonetic": "ðə dɔr ɪz ˈoʊpən",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3053,
+    "content_en": "I like my home.",
+    "content_vi": "Tôi thích nhà của mình.",
+    "phonetic": "aɪ laɪk maɪ hoʊm",
+    "level_id": "A1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

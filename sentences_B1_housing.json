@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 3104,
+    "content_en": "If I had known about the noise, I wouldn't have rented this apartment.",
+    "content_vi": "Nếu tôi biết về tiếng ồn, tôi đã không thuê căn hộ này.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə nɔɪz, aɪ ˈwʊdənt hæv ˈrɛntəd ðɪs əˈpɑrtmənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3105,
+    "content_en": "Had I inspected the property thoroughly, I would have noticed the problems.",
+    "content_vi": "Nếu tôi kiểm tra kỹ lưỡng bất động sản, tôi đã nhận thấy các vấn đề.",
+    "phonetic": "hæd aɪ ɪnˈspɛktəd ðə ˈprɑpərti ˈθɜroʊli, aɪ wʊd hæv ˈnoʊtəst ðə ˈprɑbləmz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "inspection"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3106,
+    "content_en": "The building, which had been renovated recently, attracted many tenants.",
+    "content_vi": "Tòa nhà, được cải tạo gần đây, đã thu hút nhiều người thuê.",
+    "phonetic": "ðə ˈbɪldɪŋ, wɪʧ hæd bɪn ˈrɛnəˌveɪtəd ˈrisəntli, əˈtræktəd ˈmɛni ˈtɛnənts",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "renovation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3107,
+    "content_en": "Should you experience any maintenance issues, contact the property manager.",
+    "content_vi": "Nếu bạn gặp bất kỳ vấn đề bảo trì nào, hãy liên hệ quản lý tài sản.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni ˈmeɪntənəns ˈɪʃuz, ˈkɑntækt ðə ˈprɑpərti ˈmænəʤər",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "maintenance",
+      "advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3108,
+    "content_en": "The tenant who had paid rent on time received lease renewal priority.",
+    "content_vi": "Người thuê trả tiền thuê đúng hạn đã nhận được ưu tiên gia hạn hợp đồng.",
+    "phonetic": "ðə ˈtɛnənt hu hæd peɪd rɛnt ɑn taɪm rəˈsivd lis rɪˈnuəl praɪˈɔrəti",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3109,
+    "content_en": "If housing were more affordable, homeownership would be accessible to more people.",
+    "content_vi": "Nếu nhà ở phải chăng hơn, quyền sở hữu nhà sẽ dễ tiếp cận hơn với nhiều người.",
+    "phonetic": "ɪf ˈhaʊzɪŋ wɜr mɔr əˈfɔrdəbəl, ˈhoʊmoʊnərˌʃɪp wʊd bi əkˈsɛsəbəl tu mɔr ˈpipəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "affordability"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3110,
+    "content_en": "Were rental regulations enforced strictly, tenant rights would be better protected.",
+    "content_vi": "Nếu các quy định cho thuê được thực thi nghiêm ngặt, quyền của người thuê sẽ được bảo vệ tốt hơn.",
+    "phonetic": "wɜr ˈrɛntəl ˌrɛɡjəˈleɪʃənz ɪnˈfɔrst ˈstrɪktli, ˈtɛnənt raɪts wʊd bi ˈbɛtər prəˈtɛktəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "regulation",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3111,
+    "content_en": "The neighborhood, which offered excellent amenities, commanded premium prices.",
+    "content_vi": "Khu phố, cung cấp tiện nghi tuyệt vời, có giá cao cấp.",
+    "phonetic": "ðə ˈneɪbərˌhʊd, wɪʧ ˈɔfərd ˈɛksələnt əˈmɛnətiz, kəˈmændəd ˈprimiəm ˈpraɪsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "amenities",
+      "pricing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3112,
+    "content_en": "Had I negotiated the lease terms, I would have secured better conditions.",
+    "content_vi": "Nếu tôi đàm phán các điều khoản thuê, tôi đã đảm bảo điều kiện tốt hơn.",
+    "phonetic": "hæd aɪ nɪˈɡoʊʃiˌeɪtəd ðə lis tɜrmz, aɪ wʊd hæv sɪˈkjʊrd ˈbɛtər kənˈdɪʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "negotiation",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3113,
+    "content_en": "Unless you provide proper notice, you'll forfeit your security deposit.",
+    "content_vi": "Trừ khi bạn thông báo đúng cách, bạn sẽ mất tiền đặt cọc.",
+    "phonetic": "ənˈlɛs ju prəˈvaɪd ˈprɑpər ˈnoʊtəs, jul ˈfɔrfət jʊr sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "deposit"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3114,
+    "content_en": "If I had known about the noise, I wouldn't have rented this apartment.",
+    "content_vi": "Nếu tôi biết về tiếng ồn, tôi đã không thuê căn hộ này.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə nɔɪz, aɪ ˈwʊdənt hæv ˈrɛntəd ðɪs əˈpɑrtmənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3115,
+    "content_en": "Had I inspected the property thoroughly, I would have noticed the problems.",
+    "content_vi": "Nếu tôi kiểm tra kỹ lưỡng bất động sản, tôi đã nhận thấy các vấn đề.",
+    "phonetic": "hæd aɪ ɪnˈspɛktəd ðə ˈprɑpərti ˈθɜroʊli, aɪ wʊd hæv ˈnoʊtəst ðə ˈprɑbləmz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "inspection"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3116,
+    "content_en": "The building, which had been renovated recently, attracted many tenants.",
+    "content_vi": "Tòa nhà, được cải tạo gần đây, đã thu hút nhiều người thuê.",
+    "phonetic": "ðə ˈbɪldɪŋ, wɪʧ hæd bɪn ˈrɛnəˌveɪtəd ˈrisəntli, əˈtræktəd ˈmɛni ˈtɛnənts",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "renovation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3117,
+    "content_en": "Should you experience any maintenance issues, contact the property manager.",
+    "content_vi": "Nếu bạn gặp bất kỳ vấn đề bảo trì nào, hãy liên hệ quản lý tài sản.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni ˈmeɪntənəns ˈɪʃuz, ˈkɑntækt ðə ˈprɑpərti ˈmænəʤər",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "maintenance",
+      "advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3118,
+    "content_en": "The tenant who had paid rent on time received lease renewal priority.",
+    "content_vi": "Người thuê trả tiền thuê đúng hạn đã nhận được ưu tiên gia hạn hợp đồng.",
+    "phonetic": "ðə ˈtɛnənt hu hæd peɪd rɛnt ɑn taɪm rəˈsivd lis rɪˈnuəl praɪˈɔrəti",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3119,
+    "content_en": "If housing were more affordable, homeownership would be accessible to more people.",
+    "content_vi": "Nếu nhà ở phải chăng hơn, quyền sở hữu nhà sẽ dễ tiếp cận hơn với nhiều người.",
+    "phonetic": "ɪf ˈhaʊzɪŋ wɜr mɔr əˈfɔrdəbəl, ˈhoʊmoʊnərˌʃɪp wʊd bi əkˈsɛsəbəl tu mɔr ˈpipəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "affordability"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3120,
+    "content_en": "Were rental regulations enforced strictly, tenant rights would be better protected.",
+    "content_vi": "Nếu các quy định cho thuê được thực thi nghiêm ngặt, quyền của người thuê sẽ được bảo vệ tốt hơn.",
+    "phonetic": "wɜr ˈrɛntəl ˌrɛɡjəˈleɪʃənz ɪnˈfɔrst ˈstrɪktli, ˈtɛnənt raɪts wʊd bi ˈbɛtər prəˈtɛktəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "regulation",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3121,
+    "content_en": "The neighborhood, which offered excellent amenities, commanded premium prices.",
+    "content_vi": "Khu phố, cung cấp tiện nghi tuyệt vời, có giá cao cấp.",
+    "phonetic": "ðə ˈneɪbərˌhʊd, wɪʧ ˈɔfərd ˈɛksələnt əˈmɛnətiz, kəˈmændəd ˈprimiəm ˈpraɪsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "amenities",
+      "pricing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3122,
+    "content_en": "Had I negotiated the lease terms, I would have secured better conditions.",
+    "content_vi": "Nếu tôi đàm phán các điều khoản thuê, tôi đã đảm bảo điều kiện tốt hơn.",
+    "phonetic": "hæd aɪ nɪˈɡoʊʃiˌeɪtəd ðə lis tɜrmz, aɪ wʊd hæv sɪˈkjʊrd ˈbɛtər kənˈdɪʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "negotiation",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3123,
+    "content_en": "Unless you provide proper notice, you'll forfeit your security deposit.",
+    "content_vi": "Trừ khi bạn thông báo đúng cách, bạn sẽ mất tiền đặt cọc.",
+    "phonetic": "ənˈlɛs ju prəˈvaɪd ˈprɑpər ˈnoʊtəs, jul ˈfɔrfət jʊr sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "deposit"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3124,
+    "content_en": "If I had known about the noise, I wouldn't have rented this apartment.",
+    "content_vi": "Nếu tôi biết về tiếng ồn, tôi đã không thuê căn hộ này.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə nɔɪz, aɪ ˈwʊdənt hæv ˈrɛntəd ðɪs əˈpɑrtmənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3125,
+    "content_en": "Had I inspected the property thoroughly, I would have noticed the problems.",
+    "content_vi": "Nếu tôi kiểm tra kỹ lưỡng bất động sản, tôi đã nhận thấy các vấn đề.",
+    "phonetic": "hæd aɪ ɪnˈspɛktəd ðə ˈprɑpərti ˈθɜroʊli, aɪ wʊd hæv ˈnoʊtəst ðə ˈprɑbləmz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "inspection"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3126,
+    "content_en": "The building, which had been renovated recently, attracted many tenants.",
+    "content_vi": "Tòa nhà, được cải tạo gần đây, đã thu hút nhiều người thuê.",
+    "phonetic": "ðə ˈbɪldɪŋ, wɪʧ hæd bɪn ˈrɛnəˌveɪtəd ˈrisəntli, əˈtræktəd ˈmɛni ˈtɛnənts",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "renovation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3127,
+    "content_en": "Should you experience any maintenance issues, contact the property manager.",
+    "content_vi": "Nếu bạn gặp bất kỳ vấn đề bảo trì nào, hãy liên hệ quản lý tài sản.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni ˈmeɪntənəns ˈɪʃuz, ˈkɑntækt ðə ˈprɑpərti ˈmænəʤər",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "maintenance",
+      "advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3128,
+    "content_en": "The tenant who had paid rent on time received lease renewal priority.",
+    "content_vi": "Người thuê trả tiền thuê đúng hạn đã nhận được ưu tiên gia hạn hợp đồng.",
+    "phonetic": "ðə ˈtɛnənt hu hæd peɪd rɛnt ɑn taɪm rəˈsivd lis rɪˈnuəl praɪˈɔrəti",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3129,
+    "content_en": "If housing were more affordable, homeownership would be accessible to more people.",
+    "content_vi": "Nếu nhà ở phải chăng hơn, quyền sở hữu nhà sẽ dễ tiếp cận hơn với nhiều người.",
+    "phonetic": "ɪf ˈhaʊzɪŋ wɜr mɔr əˈfɔrdəbəl, ˈhoʊmoʊnərˌʃɪp wʊd bi əkˈsɛsəbəl tu mɔr ˈpipəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "affordability"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3130,
+    "content_en": "Were rental regulations enforced strictly, tenant rights would be better protected.",
+    "content_vi": "Nếu các quy định cho thuê được thực thi nghiêm ngặt, quyền của người thuê sẽ được bảo vệ tốt hơn.",
+    "phonetic": "wɜr ˈrɛntəl ˌrɛɡjəˈleɪʃənz ɪnˈfɔrst ˈstrɪktli, ˈtɛnənt raɪts wʊd bi ˈbɛtər prəˈtɛktəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "regulation",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3131,
+    "content_en": "The neighborhood, which offered excellent amenities, commanded premium prices.",
+    "content_vi": "Khu phố, cung cấp tiện nghi tuyệt vời, có giá cao cấp.",
+    "phonetic": "ðə ˈneɪbərˌhʊd, wɪʧ ˈɔfərd ˈɛksələnt əˈmɛnətiz, kəˈmændəd ˈprimiəm ˈpraɪsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "amenities",
+      "pricing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3132,
+    "content_en": "Had I negotiated the lease terms, I would have secured better conditions.",
+    "content_vi": "Nếu tôi đàm phán các điều khoản thuê, tôi đã đảm bảo điều kiện tốt hơn.",
+    "phonetic": "hæd aɪ nɪˈɡoʊʃiˌeɪtəd ðə lis tɜrmz, aɪ wʊd hæv sɪˈkjʊrd ˈbɛtər kənˈdɪʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "negotiation",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3133,
+    "content_en": "Unless you provide proper notice, you'll forfeit your security deposit.",
+    "content_vi": "Trừ khi bạn thông báo đúng cách, bạn sẽ mất tiền đặt cọc.",
+    "phonetic": "ənˈlɛs ju prəˈvaɪd ˈprɑpər ˈnoʊtəs, jul ˈfɔrfət jʊr sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "deposit"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3134,
+    "content_en": "If I had known about the noise, I wouldn't have rented this apartment.",
+    "content_vi": "Nếu tôi biết về tiếng ồn, tôi đã không thuê căn hộ này.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə nɔɪz, aɪ ˈwʊdənt hæv ˈrɛntəd ðɪs əˈpɑrtmənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3135,
+    "content_en": "Had I inspected the property thoroughly, I would have noticed the problems.",
+    "content_vi": "Nếu tôi kiểm tra kỹ lưỡng bất động sản, tôi đã nhận thấy các vấn đề.",
+    "phonetic": "hæd aɪ ɪnˈspɛktəd ðə ˈprɑpərti ˈθɜroʊli, aɪ wʊd hæv ˈnoʊtəst ðə ˈprɑbləmz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "inspection"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3136,
+    "content_en": "The building, which had been renovated recently, attracted many tenants.",
+    "content_vi": "Tòa nhà, được cải tạo gần đây, đã thu hút nhiều người thuê.",
+    "phonetic": "ðə ˈbɪldɪŋ, wɪʧ hæd bɪn ˈrɛnəˌveɪtəd ˈrisəntli, əˈtræktəd ˈmɛni ˈtɛnənts",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "renovation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3137,
+    "content_en": "Should you experience any maintenance issues, contact the property manager.",
+    "content_vi": "Nếu bạn gặp bất kỳ vấn đề bảo trì nào, hãy liên hệ quản lý tài sản.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni ˈmeɪntənəns ˈɪʃuz, ˈkɑntækt ðə ˈprɑpərti ˈmænəʤər",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "maintenance",
+      "advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3138,
+    "content_en": "The tenant who had paid rent on time received lease renewal priority.",
+    "content_vi": "Người thuê trả tiền thuê đúng hạn đã nhận được ưu tiên gia hạn hợp đồng.",
+    "phonetic": "ðə ˈtɛnənt hu hæd peɪd rɛnt ɑn taɪm rəˈsivd lis rɪˈnuəl praɪˈɔrəti",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3139,
+    "content_en": "If housing were more affordable, homeownership would be accessible to more people.",
+    "content_vi": "Nếu nhà ở phải chăng hơn, quyền sở hữu nhà sẽ dễ tiếp cận hơn với nhiều người.",
+    "phonetic": "ɪf ˈhaʊzɪŋ wɜr mɔr əˈfɔrdəbəl, ˈhoʊmoʊnərˌʃɪp wʊd bi əkˈsɛsəbəl tu mɔr ˈpipəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "affordability"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3140,
+    "content_en": "Were rental regulations enforced strictly, tenant rights would be better protected.",
+    "content_vi": "Nếu các quy định cho thuê được thực thi nghiêm ngặt, quyền của người thuê sẽ được bảo vệ tốt hơn.",
+    "phonetic": "wɜr ˈrɛntəl ˌrɛɡjəˈleɪʃənz ɪnˈfɔrst ˈstrɪktli, ˈtɛnənt raɪts wʊd bi ˈbɛtər prəˈtɛktəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "regulation",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3141,
+    "content_en": "The neighborhood, which offered excellent amenities, commanded premium prices.",
+    "content_vi": "Khu phố, cung cấp tiện nghi tuyệt vời, có giá cao cấp.",
+    "phonetic": "ðə ˈneɪbərˌhʊd, wɪʧ ˈɔfərd ˈɛksələnt əˈmɛnətiz, kəˈmændəd ˈprimiəm ˈpraɪsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "amenities",
+      "pricing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3142,
+    "content_en": "Had I negotiated the lease terms, I would have secured better conditions.",
+    "content_vi": "Nếu tôi đàm phán các điều khoản thuê, tôi đã đảm bảo điều kiện tốt hơn.",
+    "phonetic": "hæd aɪ nɪˈɡoʊʃiˌeɪtəd ðə lis tɜrmz, aɪ wʊd hæv sɪˈkjʊrd ˈbɛtər kənˈdɪʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "negotiation",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3143,
+    "content_en": "Unless you provide proper notice, you'll forfeit your security deposit.",
+    "content_vi": "Trừ khi bạn thông báo đúng cách, bạn sẽ mất tiền đặt cọc.",
+    "phonetic": "ənˈlɛs ju prəˈvaɪd ˈprɑpər ˈnoʊtəs, jul ˈfɔrfət jʊr sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "deposit"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3144,
+    "content_en": "If I had known about the noise, I wouldn't have rented this apartment.",
+    "content_vi": "Nếu tôi biết về tiếng ồn, tôi đã không thuê căn hộ này.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə nɔɪz, aɪ ˈwʊdənt hæv ˈrɛntəd ðɪs əˈpɑrtmənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3145,
+    "content_en": "Had I inspected the property thoroughly, I would have noticed the problems.",
+    "content_vi": "Nếu tôi kiểm tra kỹ lưỡng bất động sản, tôi đã nhận thấy các vấn đề.",
+    "phonetic": "hæd aɪ ɪnˈspɛktəd ðə ˈprɑpərti ˈθɜroʊli, aɪ wʊd hæv ˈnoʊtəst ðə ˈprɑbləmz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "inspection"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3146,
+    "content_en": "The building, which had been renovated recently, attracted many tenants.",
+    "content_vi": "Tòa nhà, được cải tạo gần đây, đã thu hút nhiều người thuê.",
+    "phonetic": "ðə ˈbɪldɪŋ, wɪʧ hæd bɪn ˈrɛnəˌveɪtəd ˈrisəntli, əˈtræktəd ˈmɛni ˈtɛnənts",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "renovation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3147,
+    "content_en": "Should you experience any maintenance issues, contact the property manager.",
+    "content_vi": "Nếu bạn gặp bất kỳ vấn đề bảo trì nào, hãy liên hệ quản lý tài sản.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni ˈmeɪntənəns ˈɪʃuz, ˈkɑntækt ðə ˈprɑpərti ˈmænəʤər",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "maintenance",
+      "advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3148,
+    "content_en": "The tenant who had paid rent on time received lease renewal priority.",
+    "content_vi": "Người thuê trả tiền thuê đúng hạn đã nhận được ưu tiên gia hạn hợp đồng.",
+    "phonetic": "ðə ˈtɛnənt hu hæd peɪd rɛnt ɑn taɪm rəˈsivd lis rɪˈnuəl praɪˈɔrəti",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3149,
+    "content_en": "If housing were more affordable, homeownership would be accessible to more people.",
+    "content_vi": "Nếu nhà ở phải chăng hơn, quyền sở hữu nhà sẽ dễ tiếp cận hơn với nhiều người.",
+    "phonetic": "ɪf ˈhaʊzɪŋ wɜr mɔr əˈfɔrdəbəl, ˈhoʊmoʊnərˌʃɪp wʊd bi əkˈsɛsəbəl tu mɔr ˈpipəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "affordability"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3150,
+    "content_en": "Were rental regulations enforced strictly, tenant rights would be better protected.",
+    "content_vi": "Nếu các quy định cho thuê được thực thi nghiêm ngặt, quyền của người thuê sẽ được bảo vệ tốt hơn.",
+    "phonetic": "wɜr ˈrɛntəl ˌrɛɡjəˈleɪʃənz ɪnˈfɔrst ˈstrɪktli, ˈtɛnənt raɪts wʊd bi ˈbɛtər prəˈtɛktəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional inversion",
+      "regulation",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3151,
+    "content_en": "The neighborhood, which offered excellent amenities, commanded premium prices.",
+    "content_vi": "Khu phố, cung cấp tiện nghi tuyệt vời, có giá cao cấp.",
+    "phonetic": "ðə ˈneɪbərˌhʊd, wɪʧ ˈɔfərd ˈɛksələnt əˈmɛnətiz, kəˈmændəd ˈprimiəm ˈpraɪsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "relative clause",
+      "amenities",
+      "pricing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3152,
+    "content_en": "Had I negotiated the lease terms, I would have secured better conditions.",
+    "content_vi": "Nếu tôi đàm phán các điều khoản thuê, tôi đã đảm bảo điều kiện tốt hơn.",
+    "phonetic": "hæd aɪ nɪˈɡoʊʃiˌeɪtəd ðə lis tɜrmz, aɪ wʊd hæv sɪˈkjʊrd ˈbɛtər kənˈdɪʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "negotiation",
+      "lease"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3153,
+    "content_en": "Unless you provide proper notice, you'll forfeit your security deposit.",
+    "content_vi": "Trừ khi bạn thông báo đúng cách, bạn sẽ mất tiền đặt cọc.",
+    "phonetic": "ənˈlɛs ju prəˈvaɪd ˈprɑpər ˈnoʊtəs, jul ˈfɔrfət jʊr sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "B1",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "deposit"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Nhà ở trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

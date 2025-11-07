@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 3904,
+    "content_en": "If I had prepared better, I would have performed well in the interview.",
+    "content_vi": "Nếu tôi chuẩn bị tốt hơn, tôi đã thể hiện tốt trong cuộc phỏng vấn.",
+    "phonetic": "ɪf aɪ hæd prɪˈpɛrd ˈbɛtər, aɪ wʊd hæv pərˈfɔrmd wɛl ɪn ði ˈɪntərˌvju",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3905,
+    "content_en": "Had I customized my resume, I would have received more responses.",
+    "content_vi": "Nếu tôi tùy chỉnh lý lịch, tôi đã nhận được nhiều phản hồi hơn.",
+    "phonetic": "hæd aɪ ˈkʌstəˌmaɪzd maɪ ˈrɛzəˌmeɪ, aɪ wʊd hæv rəˈsivd mɔr rɪˈspɑnsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3906,
+    "content_en": "The candidate, who had demonstrated strong skills, received the offer.",
+    "content_vi": "Ứng viên, đã thể hiện kỹ năng mạnh, đã nhận được lời mời.",
+    "phonetic": "ðə ˈkændəˌdeɪt, hu hæd ˈdɛmənˌstreɪtəd strɔŋ skɪlz, rəˈsivd ði ˈɔfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "candidate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3907,
+    "content_en": "Should you receive multiple offers, compare them carefully.",
+    "content_vi": "Nếu bạn nhận được nhiều lời mời, hãy so sánh chúng cẩn thận.",
+    "phonetic": "ʃʊd ju rəˈsiv ˈmʌltəpəl ˈɔfərz, kəmˈpɛr ðɛm ˈkɛrfəli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "advice",
+      "offers"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3908,
+    "content_en": "The applicant who had researched the company impressed the interviewer.",
+    "content_vi": "Ứng viên đã nghiên cứu về công ty đã gây ấn tượng với người phỏng vấn.",
+    "phonetic": "ði ˈæpləkənt hu hæd ˈrisɜrʧt ðə ˈkʌmpəni ɪmˈprɛst ði ˈɪntərˌvjuər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3909,
+    "content_en": "If networking opportunities were more accessible, job seekers would benefit greatly.",
+    "content_vi": "Nếu cơ hội kết nối dễ tiếp cận hơn, người tìm việc sẽ được lợi rất nhiều.",
+    "phonetic": "ɪf ˈnɛtˌwɜrkɪŋ ˌɑpərˈtunətiz wɜr mɔr əkˈsɛsəbəl, ʤɑb ˈsikərz wʊd ˈbɛnəfɪt ˈɡreɪtli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "networking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3910,
+    "content_en": "Were interview processes more transparent, candidates would prepare more effectively.",
+    "content_vi": "Nếu quy trình phỏng vấn minh bạch hơn, ứng viên sẽ chuẩn bị hiệu quả hơn.",
+    "phonetic": "wɜr ˈɪntərˌvju ˈprɑˌsɛsəz mɔr trænsˈpɛrənt, ˈkændəˌdeɪts wʊd prɪˈpɛr mɔr ɪˈfɛktɪvli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "transparency",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3911,
+    "content_en": "The job posting, which specified clear requirements, attracted qualified candidates.",
+    "content_vi": "Bài đăng tuyển dụng, nêu rõ yêu cầu, đã thu hút ứng viên có trình độ.",
+    "phonetic": "ðə ʤɑb ˈpoʊstɪŋ, wɪʧ ˈspɛsəˌfaɪd klɪr rɪˈkwaɪrmənts, əˈtræktəd ˈkwɑləˌfaɪd ˈkændəˌdeɪts",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "requirements",
+      "posting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3912,
+    "content_en": "Had I followed up after the interview, I might have gotten the position.",
+    "content_vi": "Nếu tôi theo dõi sau cuộc phỏng vấn, tôi có thể đã nhận được vị trí.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ʌp ˈæftər ði ˈɪntərˌvju, aɪ maɪt hæv ˈɡɑtən ðə pəˈzɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "follow-up",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3913,
+    "content_en": "Unless you highlight relevant achievements, your resume won't stand out.",
+    "content_vi": "Trừ khi bạn làm nổi bật thành tích liên quan, lý lịch của bạn sẽ không nổi bật.",
+    "phonetic": "ənˈlɛs ju ˈhaɪˌlaɪt ˈrɛləvənt əˈʧivmənts, jʊr ˈrɛzəˌmeɪ woʊnt stænd aʊt",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3914,
+    "content_en": "If I had prepared better, I would have performed well in the interview.",
+    "content_vi": "Nếu tôi chuẩn bị tốt hơn, tôi đã thể hiện tốt trong cuộc phỏng vấn.",
+    "phonetic": "ɪf aɪ hæd prɪˈpɛrd ˈbɛtər, aɪ wʊd hæv pərˈfɔrmd wɛl ɪn ði ˈɪntərˌvju",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3915,
+    "content_en": "Had I customized my resume, I would have received more responses.",
+    "content_vi": "Nếu tôi tùy chỉnh lý lịch, tôi đã nhận được nhiều phản hồi hơn.",
+    "phonetic": "hæd aɪ ˈkʌstəˌmaɪzd maɪ ˈrɛzəˌmeɪ, aɪ wʊd hæv rəˈsivd mɔr rɪˈspɑnsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3916,
+    "content_en": "The candidate, who had demonstrated strong skills, received the offer.",
+    "content_vi": "Ứng viên, đã thể hiện kỹ năng mạnh, đã nhận được lời mời.",
+    "phonetic": "ðə ˈkændəˌdeɪt, hu hæd ˈdɛmənˌstreɪtəd strɔŋ skɪlz, rəˈsivd ði ˈɔfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "candidate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3917,
+    "content_en": "Should you receive multiple offers, compare them carefully.",
+    "content_vi": "Nếu bạn nhận được nhiều lời mời, hãy so sánh chúng cẩn thận.",
+    "phonetic": "ʃʊd ju rəˈsiv ˈmʌltəpəl ˈɔfərz, kəmˈpɛr ðɛm ˈkɛrfəli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "advice",
+      "offers"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3918,
+    "content_en": "The applicant who had researched the company impressed the interviewer.",
+    "content_vi": "Ứng viên đã nghiên cứu về công ty đã gây ấn tượng với người phỏng vấn.",
+    "phonetic": "ði ˈæpləkənt hu hæd ˈrisɜrʧt ðə ˈkʌmpəni ɪmˈprɛst ði ˈɪntərˌvjuər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3919,
+    "content_en": "If networking opportunities were more accessible, job seekers would benefit greatly.",
+    "content_vi": "Nếu cơ hội kết nối dễ tiếp cận hơn, người tìm việc sẽ được lợi rất nhiều.",
+    "phonetic": "ɪf ˈnɛtˌwɜrkɪŋ ˌɑpərˈtunətiz wɜr mɔr əkˈsɛsəbəl, ʤɑb ˈsikərz wʊd ˈbɛnəfɪt ˈɡreɪtli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "networking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3920,
+    "content_en": "Were interview processes more transparent, candidates would prepare more effectively.",
+    "content_vi": "Nếu quy trình phỏng vấn minh bạch hơn, ứng viên sẽ chuẩn bị hiệu quả hơn.",
+    "phonetic": "wɜr ˈɪntərˌvju ˈprɑˌsɛsəz mɔr trænsˈpɛrənt, ˈkændəˌdeɪts wʊd prɪˈpɛr mɔr ɪˈfɛktɪvli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "transparency",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3921,
+    "content_en": "The job posting, which specified clear requirements, attracted qualified candidates.",
+    "content_vi": "Bài đăng tuyển dụng, nêu rõ yêu cầu, đã thu hút ứng viên có trình độ.",
+    "phonetic": "ðə ʤɑb ˈpoʊstɪŋ, wɪʧ ˈspɛsəˌfaɪd klɪr rɪˈkwaɪrmənts, əˈtræktəd ˈkwɑləˌfaɪd ˈkændəˌdeɪts",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "requirements",
+      "posting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3922,
+    "content_en": "Had I followed up after the interview, I might have gotten the position.",
+    "content_vi": "Nếu tôi theo dõi sau cuộc phỏng vấn, tôi có thể đã nhận được vị trí.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ʌp ˈæftər ði ˈɪntərˌvju, aɪ maɪt hæv ˈɡɑtən ðə pəˈzɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "follow-up",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3923,
+    "content_en": "Unless you highlight relevant achievements, your resume won't stand out.",
+    "content_vi": "Trừ khi bạn làm nổi bật thành tích liên quan, lý lịch của bạn sẽ không nổi bật.",
+    "phonetic": "ənˈlɛs ju ˈhaɪˌlaɪt ˈrɛləvənt əˈʧivmənts, jʊr ˈrɛzəˌmeɪ woʊnt stænd aʊt",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3924,
+    "content_en": "If I had prepared better, I would have performed well in the interview.",
+    "content_vi": "Nếu tôi chuẩn bị tốt hơn, tôi đã thể hiện tốt trong cuộc phỏng vấn.",
+    "phonetic": "ɪf aɪ hæd prɪˈpɛrd ˈbɛtər, aɪ wʊd hæv pərˈfɔrmd wɛl ɪn ði ˈɪntərˌvju",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3925,
+    "content_en": "Had I customized my resume, I would have received more responses.",
+    "content_vi": "Nếu tôi tùy chỉnh lý lịch, tôi đã nhận được nhiều phản hồi hơn.",
+    "phonetic": "hæd aɪ ˈkʌstəˌmaɪzd maɪ ˈrɛzəˌmeɪ, aɪ wʊd hæv rəˈsivd mɔr rɪˈspɑnsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3926,
+    "content_en": "The candidate, who had demonstrated strong skills, received the offer.",
+    "content_vi": "Ứng viên, đã thể hiện kỹ năng mạnh, đã nhận được lời mời.",
+    "phonetic": "ðə ˈkændəˌdeɪt, hu hæd ˈdɛmənˌstreɪtəd strɔŋ skɪlz, rəˈsivd ði ˈɔfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "candidate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3927,
+    "content_en": "Should you receive multiple offers, compare them carefully.",
+    "content_vi": "Nếu bạn nhận được nhiều lời mời, hãy so sánh chúng cẩn thận.",
+    "phonetic": "ʃʊd ju rəˈsiv ˈmʌltəpəl ˈɔfərz, kəmˈpɛr ðɛm ˈkɛrfəli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "advice",
+      "offers"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3928,
+    "content_en": "The applicant who had researched the company impressed the interviewer.",
+    "content_vi": "Ứng viên đã nghiên cứu về công ty đã gây ấn tượng với người phỏng vấn.",
+    "phonetic": "ði ˈæpləkənt hu hæd ˈrisɜrʧt ðə ˈkʌmpəni ɪmˈprɛst ði ˈɪntərˌvjuər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3929,
+    "content_en": "If networking opportunities were more accessible, job seekers would benefit greatly.",
+    "content_vi": "Nếu cơ hội kết nối dễ tiếp cận hơn, người tìm việc sẽ được lợi rất nhiều.",
+    "phonetic": "ɪf ˈnɛtˌwɜrkɪŋ ˌɑpərˈtunətiz wɜr mɔr əkˈsɛsəbəl, ʤɑb ˈsikərz wʊd ˈbɛnəfɪt ˈɡreɪtli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "networking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3930,
+    "content_en": "Were interview processes more transparent, candidates would prepare more effectively.",
+    "content_vi": "Nếu quy trình phỏng vấn minh bạch hơn, ứng viên sẽ chuẩn bị hiệu quả hơn.",
+    "phonetic": "wɜr ˈɪntərˌvju ˈprɑˌsɛsəz mɔr trænsˈpɛrənt, ˈkændəˌdeɪts wʊd prɪˈpɛr mɔr ɪˈfɛktɪvli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "transparency",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3931,
+    "content_en": "The job posting, which specified clear requirements, attracted qualified candidates.",
+    "content_vi": "Bài đăng tuyển dụng, nêu rõ yêu cầu, đã thu hút ứng viên có trình độ.",
+    "phonetic": "ðə ʤɑb ˈpoʊstɪŋ, wɪʧ ˈspɛsəˌfaɪd klɪr rɪˈkwaɪrmənts, əˈtræktəd ˈkwɑləˌfaɪd ˈkændəˌdeɪts",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "requirements",
+      "posting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3932,
+    "content_en": "Had I followed up after the interview, I might have gotten the position.",
+    "content_vi": "Nếu tôi theo dõi sau cuộc phỏng vấn, tôi có thể đã nhận được vị trí.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ʌp ˈæftər ði ˈɪntərˌvju, aɪ maɪt hæv ˈɡɑtən ðə pəˈzɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "follow-up",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3933,
+    "content_en": "Unless you highlight relevant achievements, your resume won't stand out.",
+    "content_vi": "Trừ khi bạn làm nổi bật thành tích liên quan, lý lịch của bạn sẽ không nổi bật.",
+    "phonetic": "ənˈlɛs ju ˈhaɪˌlaɪt ˈrɛləvənt əˈʧivmənts, jʊr ˈrɛzəˌmeɪ woʊnt stænd aʊt",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3934,
+    "content_en": "If I had prepared better, I would have performed well in the interview.",
+    "content_vi": "Nếu tôi chuẩn bị tốt hơn, tôi đã thể hiện tốt trong cuộc phỏng vấn.",
+    "phonetic": "ɪf aɪ hæd prɪˈpɛrd ˈbɛtər, aɪ wʊd hæv pərˈfɔrmd wɛl ɪn ði ˈɪntərˌvju",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3935,
+    "content_en": "Had I customized my resume, I would have received more responses.",
+    "content_vi": "Nếu tôi tùy chỉnh lý lịch, tôi đã nhận được nhiều phản hồi hơn.",
+    "phonetic": "hæd aɪ ˈkʌstəˌmaɪzd maɪ ˈrɛzəˌmeɪ, aɪ wʊd hæv rəˈsivd mɔr rɪˈspɑnsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3936,
+    "content_en": "The candidate, who had demonstrated strong skills, received the offer.",
+    "content_vi": "Ứng viên, đã thể hiện kỹ năng mạnh, đã nhận được lời mời.",
+    "phonetic": "ðə ˈkændəˌdeɪt, hu hæd ˈdɛmənˌstreɪtəd strɔŋ skɪlz, rəˈsivd ði ˈɔfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "candidate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3937,
+    "content_en": "Should you receive multiple offers, compare them carefully.",
+    "content_vi": "Nếu bạn nhận được nhiều lời mời, hãy so sánh chúng cẩn thận.",
+    "phonetic": "ʃʊd ju rəˈsiv ˈmʌltəpəl ˈɔfərz, kəmˈpɛr ðɛm ˈkɛrfəli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "advice",
+      "offers"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3938,
+    "content_en": "The applicant who had researched the company impressed the interviewer.",
+    "content_vi": "Ứng viên đã nghiên cứu về công ty đã gây ấn tượng với người phỏng vấn.",
+    "phonetic": "ði ˈæpləkənt hu hæd ˈrisɜrʧt ðə ˈkʌmpəni ɪmˈprɛst ði ˈɪntərˌvjuər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3939,
+    "content_en": "If networking opportunities were more accessible, job seekers would benefit greatly.",
+    "content_vi": "Nếu cơ hội kết nối dễ tiếp cận hơn, người tìm việc sẽ được lợi rất nhiều.",
+    "phonetic": "ɪf ˈnɛtˌwɜrkɪŋ ˌɑpərˈtunətiz wɜr mɔr əkˈsɛsəbəl, ʤɑb ˈsikərz wʊd ˈbɛnəfɪt ˈɡreɪtli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "networking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3940,
+    "content_en": "Were interview processes more transparent, candidates would prepare more effectively.",
+    "content_vi": "Nếu quy trình phỏng vấn minh bạch hơn, ứng viên sẽ chuẩn bị hiệu quả hơn.",
+    "phonetic": "wɜr ˈɪntərˌvju ˈprɑˌsɛsəz mɔr trænsˈpɛrənt, ˈkændəˌdeɪts wʊd prɪˈpɛr mɔr ɪˈfɛktɪvli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "transparency",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3941,
+    "content_en": "The job posting, which specified clear requirements, attracted qualified candidates.",
+    "content_vi": "Bài đăng tuyển dụng, nêu rõ yêu cầu, đã thu hút ứng viên có trình độ.",
+    "phonetic": "ðə ʤɑb ˈpoʊstɪŋ, wɪʧ ˈspɛsəˌfaɪd klɪr rɪˈkwaɪrmənts, əˈtræktəd ˈkwɑləˌfaɪd ˈkændəˌdeɪts",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "requirements",
+      "posting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3942,
+    "content_en": "Had I followed up after the interview, I might have gotten the position.",
+    "content_vi": "Nếu tôi theo dõi sau cuộc phỏng vấn, tôi có thể đã nhận được vị trí.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ʌp ˈæftər ði ˈɪntərˌvju, aɪ maɪt hæv ˈɡɑtən ðə pəˈzɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "follow-up",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3943,
+    "content_en": "Unless you highlight relevant achievements, your resume won't stand out.",
+    "content_vi": "Trừ khi bạn làm nổi bật thành tích liên quan, lý lịch của bạn sẽ không nổi bật.",
+    "phonetic": "ənˈlɛs ju ˈhaɪˌlaɪt ˈrɛləvənt əˈʧivmənts, jʊr ˈrɛzəˌmeɪ woʊnt stænd aʊt",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3944,
+    "content_en": "If I had prepared better, I would have performed well in the interview.",
+    "content_vi": "Nếu tôi chuẩn bị tốt hơn, tôi đã thể hiện tốt trong cuộc phỏng vấn.",
+    "phonetic": "ɪf aɪ hæd prɪˈpɛrd ˈbɛtər, aɪ wʊd hæv pərˈfɔrmd wɛl ɪn ði ˈɪntərˌvju",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3945,
+    "content_en": "Had I customized my resume, I would have received more responses.",
+    "content_vi": "Nếu tôi tùy chỉnh lý lịch, tôi đã nhận được nhiều phản hồi hơn.",
+    "phonetic": "hæd aɪ ˈkʌstəˌmaɪzd maɪ ˈrɛzəˌmeɪ, aɪ wʊd hæv rəˈsivd mɔr rɪˈspɑnsəz",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3946,
+    "content_en": "The candidate, who had demonstrated strong skills, received the offer.",
+    "content_vi": "Ứng viên, đã thể hiện kỹ năng mạnh, đã nhận được lời mời.",
+    "phonetic": "ðə ˈkændəˌdeɪt, hu hæd ˈdɛmənˌstreɪtəd strɔŋ skɪlz, rəˈsivd ði ˈɔfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "candidate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3947,
+    "content_en": "Should you receive multiple offers, compare them carefully.",
+    "content_vi": "Nếu bạn nhận được nhiều lời mời, hãy so sánh chúng cẩn thận.",
+    "phonetic": "ʃʊd ju rəˈsiv ˈmʌltəpəl ˈɔfərz, kəmˈpɛr ðɛm ˈkɛrfəli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "advice",
+      "offers"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3948,
+    "content_en": "The applicant who had researched the company impressed the interviewer.",
+    "content_vi": "Ứng viên đã nghiên cứu về công ty đã gây ấn tượng với người phỏng vấn.",
+    "phonetic": "ði ˈæpləkənt hu hæd ˈrisɜrʧt ðə ˈkʌmpəni ɪmˈprɛst ði ˈɪntərˌvjuər",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3949,
+    "content_en": "If networking opportunities were more accessible, job seekers would benefit greatly.",
+    "content_vi": "Nếu cơ hội kết nối dễ tiếp cận hơn, người tìm việc sẽ được lợi rất nhiều.",
+    "phonetic": "ɪf ˈnɛtˌwɜrkɪŋ ˌɑpərˈtunətiz wɜr mɔr əkˈsɛsəbəl, ʤɑb ˈsikərz wʊd ˈbɛnəfɪt ˈɡreɪtli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "networking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3950,
+    "content_en": "Were interview processes more transparent, candidates would prepare more effectively.",
+    "content_vi": "Nếu quy trình phỏng vấn minh bạch hơn, ứng viên sẽ chuẩn bị hiệu quả hơn.",
+    "phonetic": "wɜr ˈɪntərˌvju ˈprɑˌsɛsəz mɔr trænsˈpɛrənt, ˈkændəˌdeɪts wʊd prɪˈpɛr mɔr ɪˈfɛktɪvli",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional inversion",
+      "transparency",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3951,
+    "content_en": "The job posting, which specified clear requirements, attracted qualified candidates.",
+    "content_vi": "Bài đăng tuyển dụng, nêu rõ yêu cầu, đã thu hút ứng viên có trình độ.",
+    "phonetic": "ðə ʤɑb ˈpoʊstɪŋ, wɪʧ ˈspɛsəˌfaɪd klɪr rɪˈkwaɪrmənts, əˈtræktəd ˈkwɑləˌfaɪd ˈkændəˌdeɪts",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "relative clause",
+      "requirements",
+      "posting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3952,
+    "content_en": "Had I followed up after the interview, I might have gotten the position.",
+    "content_vi": "Nếu tôi theo dõi sau cuộc phỏng vấn, tôi có thể đã nhận được vị trí.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ʌp ˈæftər ði ˈɪntərˌvju, aɪ maɪt hæv ˈɡɑtən ðə pəˈzɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "follow-up",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3953,
+    "content_en": "Unless you highlight relevant achievements, your resume won't stand out.",
+    "content_vi": "Trừ khi bạn làm nổi bật thành tích liên quan, lý lịch của bạn sẽ không nổi bật.",
+    "phonetic": "ənˈlɛs ju ˈhaɪˌlaɪt ˈrɛləvənt əˈʧivmənts, jʊr ˈrɛzəˌmeɪ woʊnt stænd aʊt",
+    "level_id": "B1",
+    "topic_ids": [
+      "job"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "resume"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tìm việc trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

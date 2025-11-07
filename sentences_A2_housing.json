@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 3054,
+    "content_en": "I'd like to rent a two-bedroom apartment.",
+    "content_vi": "Tôi muốn thuê một căn hộ hai phòng ngủ.",
+    "phonetic": "aɪd laɪk tu rɛnt ə tu-ˈbɛdˌrum əˈpɑrtmənt",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3055,
+    "content_en": "I've been living here for two years.",
+    "content_vi": "Tôi sống ở đây được hai năm rồi.",
+    "phonetic": "aɪv bɪn ˈlɪvɪŋ hɪr fɔr tu jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "duration",
+      "residence"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3056,
+    "content_en": "Could you show me the available units?",
+    "content_vi": "Bạn có thể cho tôi xem các căn hộ còn trống không?",
+    "phonetic": "kʊd ju ʃoʊ mi ði əˈveɪləbəl ˈjunəts",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "viewing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3057,
+    "content_en": "The rent is higher than I expected.",
+    "content_vi": "Tiền thuê cao hơn tôi mong đợi.",
+    "phonetic": "ðə rɛnt ɪz ˈhaɪər ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "rent",
+      "expectation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3058,
+    "content_en": "I need to fix the leaking faucet.",
+    "content_vi": "Tôi cần sửa vòi nước bị rò rỉ.",
+    "phonetic": "aɪ nid tu fɪks ðə ˈlikɪŋ ˈfɔsət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "necessity",
+      "repair",
+      "plumbing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3059,
+    "content_en": "I've already paid the security deposit.",
+    "content_vi": "Tôi đã trả tiền đặt cọc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi peɪd ðə sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "payment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3060,
+    "content_en": "I prefer apartments with parking spaces.",
+    "content_vi": "Tôi thích căn hộ có chỗ đậu xe.",
+    "phonetic": "aɪ prɪˈfɜr əˈpɑrtmənts wɪð ˈpɑrkɪŋ ˈspeɪsəz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "amenities",
+      "parking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3061,
+    "content_en": "The landlord repaired the heater last week.",
+    "content_vi": "Chủ nhà đã sửa máy sưởi tuần trước.",
+    "phonetic": "ðə ˈlændˌlɔrd rɪˈpɛrd ðə ˈhitər læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "maintenance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3062,
+    "content_en": "My apartment is closer to work than before.",
+    "content_vi": "Căn hộ của tôi gần nơi làm việc hơn trước.",
+    "phonetic": "maɪ əˈpɑrtmənt ɪz ˈkloʊsər tu wɜrk ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "location",
+      "commute"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3063,
+    "content_en": "I've been searching for a new place for months.",
+    "content_vi": "Tôi tìm kiếm chỗ ở mới nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈsɜrʧɪŋ fɔr ə nu pleɪs fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "search",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3064,
+    "content_en": "I'd like to rent a two-bedroom apartment.",
+    "content_vi": "Tôi muốn thuê một căn hộ hai phòng ngủ.",
+    "phonetic": "aɪd laɪk tu rɛnt ə tu-ˈbɛdˌrum əˈpɑrtmənt",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3065,
+    "content_en": "I've been living here for two years.",
+    "content_vi": "Tôi sống ở đây được hai năm rồi.",
+    "phonetic": "aɪv bɪn ˈlɪvɪŋ hɪr fɔr tu jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "duration",
+      "residence"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3066,
+    "content_en": "Could you show me the available units?",
+    "content_vi": "Bạn có thể cho tôi xem các căn hộ còn trống không?",
+    "phonetic": "kʊd ju ʃoʊ mi ði əˈveɪləbəl ˈjunəts",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "viewing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3067,
+    "content_en": "The rent is higher than I expected.",
+    "content_vi": "Tiền thuê cao hơn tôi mong đợi.",
+    "phonetic": "ðə rɛnt ɪz ˈhaɪər ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "rent",
+      "expectation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3068,
+    "content_en": "I need to fix the leaking faucet.",
+    "content_vi": "Tôi cần sửa vòi nước bị rò rỉ.",
+    "phonetic": "aɪ nid tu fɪks ðə ˈlikɪŋ ˈfɔsət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "necessity",
+      "repair",
+      "plumbing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3069,
+    "content_en": "I've already paid the security deposit.",
+    "content_vi": "Tôi đã trả tiền đặt cọc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi peɪd ðə sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "payment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3070,
+    "content_en": "I prefer apartments with parking spaces.",
+    "content_vi": "Tôi thích căn hộ có chỗ đậu xe.",
+    "phonetic": "aɪ prɪˈfɜr əˈpɑrtmənts wɪð ˈpɑrkɪŋ ˈspeɪsəz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "amenities",
+      "parking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3071,
+    "content_en": "The landlord repaired the heater last week.",
+    "content_vi": "Chủ nhà đã sửa máy sưởi tuần trước.",
+    "phonetic": "ðə ˈlændˌlɔrd rɪˈpɛrd ðə ˈhitər læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "maintenance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3072,
+    "content_en": "My apartment is closer to work than before.",
+    "content_vi": "Căn hộ của tôi gần nơi làm việc hơn trước.",
+    "phonetic": "maɪ əˈpɑrtmənt ɪz ˈkloʊsər tu wɜrk ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "location",
+      "commute"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3073,
+    "content_en": "I've been searching for a new place for months.",
+    "content_vi": "Tôi tìm kiếm chỗ ở mới nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈsɜrʧɪŋ fɔr ə nu pleɪs fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "search",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3074,
+    "content_en": "I'd like to rent a two-bedroom apartment.",
+    "content_vi": "Tôi muốn thuê một căn hộ hai phòng ngủ.",
+    "phonetic": "aɪd laɪk tu rɛnt ə tu-ˈbɛdˌrum əˈpɑrtmənt",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3075,
+    "content_en": "I've been living here for two years.",
+    "content_vi": "Tôi sống ở đây được hai năm rồi.",
+    "phonetic": "aɪv bɪn ˈlɪvɪŋ hɪr fɔr tu jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "duration",
+      "residence"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3076,
+    "content_en": "Could you show me the available units?",
+    "content_vi": "Bạn có thể cho tôi xem các căn hộ còn trống không?",
+    "phonetic": "kʊd ju ʃoʊ mi ði əˈveɪləbəl ˈjunəts",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "viewing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3077,
+    "content_en": "The rent is higher than I expected.",
+    "content_vi": "Tiền thuê cao hơn tôi mong đợi.",
+    "phonetic": "ðə rɛnt ɪz ˈhaɪər ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "rent",
+      "expectation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3078,
+    "content_en": "I need to fix the leaking faucet.",
+    "content_vi": "Tôi cần sửa vòi nước bị rò rỉ.",
+    "phonetic": "aɪ nid tu fɪks ðə ˈlikɪŋ ˈfɔsət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "necessity",
+      "repair",
+      "plumbing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3079,
+    "content_en": "I've already paid the security deposit.",
+    "content_vi": "Tôi đã trả tiền đặt cọc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi peɪd ðə sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "payment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3080,
+    "content_en": "I prefer apartments with parking spaces.",
+    "content_vi": "Tôi thích căn hộ có chỗ đậu xe.",
+    "phonetic": "aɪ prɪˈfɜr əˈpɑrtmənts wɪð ˈpɑrkɪŋ ˈspeɪsəz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "amenities",
+      "parking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3081,
+    "content_en": "The landlord repaired the heater last week.",
+    "content_vi": "Chủ nhà đã sửa máy sưởi tuần trước.",
+    "phonetic": "ðə ˈlændˌlɔrd rɪˈpɛrd ðə ˈhitər læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "maintenance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3082,
+    "content_en": "My apartment is closer to work than before.",
+    "content_vi": "Căn hộ của tôi gần nơi làm việc hơn trước.",
+    "phonetic": "maɪ əˈpɑrtmənt ɪz ˈkloʊsər tu wɜrk ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "location",
+      "commute"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3083,
+    "content_en": "I've been searching for a new place for months.",
+    "content_vi": "Tôi tìm kiếm chỗ ở mới nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈsɜrʧɪŋ fɔr ə nu pleɪs fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "search",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3084,
+    "content_en": "I'd like to rent a two-bedroom apartment.",
+    "content_vi": "Tôi muốn thuê một căn hộ hai phòng ngủ.",
+    "phonetic": "aɪd laɪk tu rɛnt ə tu-ˈbɛdˌrum əˈpɑrtmənt",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3085,
+    "content_en": "I've been living here for two years.",
+    "content_vi": "Tôi sống ở đây được hai năm rồi.",
+    "phonetic": "aɪv bɪn ˈlɪvɪŋ hɪr fɔr tu jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "duration",
+      "residence"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3086,
+    "content_en": "Could you show me the available units?",
+    "content_vi": "Bạn có thể cho tôi xem các căn hộ còn trống không?",
+    "phonetic": "kʊd ju ʃoʊ mi ði əˈveɪləbəl ˈjunəts",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "viewing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3087,
+    "content_en": "The rent is higher than I expected.",
+    "content_vi": "Tiền thuê cao hơn tôi mong đợi.",
+    "phonetic": "ðə rɛnt ɪz ˈhaɪər ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "rent",
+      "expectation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3088,
+    "content_en": "I need to fix the leaking faucet.",
+    "content_vi": "Tôi cần sửa vòi nước bị rò rỉ.",
+    "phonetic": "aɪ nid tu fɪks ðə ˈlikɪŋ ˈfɔsət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "necessity",
+      "repair",
+      "plumbing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3089,
+    "content_en": "I've already paid the security deposit.",
+    "content_vi": "Tôi đã trả tiền đặt cọc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi peɪd ðə sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "payment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3090,
+    "content_en": "I prefer apartments with parking spaces.",
+    "content_vi": "Tôi thích căn hộ có chỗ đậu xe.",
+    "phonetic": "aɪ prɪˈfɜr əˈpɑrtmənts wɪð ˈpɑrkɪŋ ˈspeɪsəz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "amenities",
+      "parking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3091,
+    "content_en": "The landlord repaired the heater last week.",
+    "content_vi": "Chủ nhà đã sửa máy sưởi tuần trước.",
+    "phonetic": "ðə ˈlændˌlɔrd rɪˈpɛrd ðə ˈhitər læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "maintenance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3092,
+    "content_en": "My apartment is closer to work than before.",
+    "content_vi": "Căn hộ của tôi gần nơi làm việc hơn trước.",
+    "phonetic": "maɪ əˈpɑrtmənt ɪz ˈkloʊsər tu wɜrk ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "location",
+      "commute"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3093,
+    "content_en": "I've been searching for a new place for months.",
+    "content_vi": "Tôi tìm kiếm chỗ ở mới nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈsɜrʧɪŋ fɔr ə nu pleɪs fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "search",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3094,
+    "content_en": "I'd like to rent a two-bedroom apartment.",
+    "content_vi": "Tôi muốn thuê một căn hộ hai phòng ngủ.",
+    "phonetic": "aɪd laɪk tu rɛnt ə tu-ˈbɛdˌrum əˈpɑrtmənt",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "apartment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3095,
+    "content_en": "I've been living here for two years.",
+    "content_vi": "Tôi sống ở đây được hai năm rồi.",
+    "phonetic": "aɪv bɪn ˈlɪvɪŋ hɪr fɔr tu jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "duration",
+      "residence"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3096,
+    "content_en": "Could you show me the available units?",
+    "content_vi": "Bạn có thể cho tôi xem các căn hộ còn trống không?",
+    "phonetic": "kʊd ju ʃoʊ mi ði əˈveɪləbəl ˈjunəts",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "viewing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3097,
+    "content_en": "The rent is higher than I expected.",
+    "content_vi": "Tiền thuê cao hơn tôi mong đợi.",
+    "phonetic": "ðə rɛnt ɪz ˈhaɪər ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "rent",
+      "expectation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3098,
+    "content_en": "I need to fix the leaking faucet.",
+    "content_vi": "Tôi cần sửa vòi nước bị rò rỉ.",
+    "phonetic": "aɪ nid tu fɪks ðə ˈlikɪŋ ˈfɔsət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "necessity",
+      "repair",
+      "plumbing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3099,
+    "content_en": "I've already paid the security deposit.",
+    "content_vi": "Tôi đã trả tiền đặt cọc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi peɪd ðə sɪˈkjʊrəti dɪˈpɑzət",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "payment"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3100,
+    "content_en": "I prefer apartments with parking spaces.",
+    "content_vi": "Tôi thích căn hộ có chỗ đậu xe.",
+    "phonetic": "aɪ prɪˈfɜr əˈpɑrtmənts wɪð ˈpɑrkɪŋ ˈspeɪsəz",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "preference",
+      "amenities",
+      "parking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3101,
+    "content_en": "The landlord repaired the heater last week.",
+    "content_vi": "Chủ nhà đã sửa máy sưởi tuần trước.",
+    "phonetic": "ðə ˈlændˌlɔrd rɪˈpɛrd ðə ˈhitər læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "maintenance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3102,
+    "content_en": "My apartment is closer to work than before.",
+    "content_vi": "Căn hộ của tôi gần nơi làm việc hơn trước.",
+    "phonetic": "maɪ əˈpɑrtmənt ɪz ˈkloʊsər tu wɜrk ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "comparison",
+      "location",
+      "commute"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3103,
+    "content_en": "I've been searching for a new place for months.",
+    "content_vi": "Tôi tìm kiếm chỗ ở mới nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈsɜrʧɪŋ fɔr ə nu pleɪs fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "housing"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "search",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống nhà ở (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

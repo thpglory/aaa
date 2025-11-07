@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 2854,
+    "content_en": "I'd like to open a savings account.",
+    "content_vi": "Tôi muốn mở một tài khoản tiết kiệm.",
+    "phonetic": "aɪd laɪk tu ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "account"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2855,
+    "content_en": "I've been saving money for six months.",
+    "content_vi": "Tôi tiết kiệm tiền được sáu tháng rồi.",
+    "phonetic": "aɪv bɪn ˈseɪvɪŋ ˈmʌni fɔr sɪks mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "savings",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2856,
+    "content_en": "Could you help me transfer money to another account?",
+    "content_vi": "Bạn có thể giúp tôi chuyển tiền sang tài khoản khác không?",
+    "phonetic": "kʊd ju hɛlp mi trænsˈfɜr ˈmʌni tu əˈnʌðər əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "transfer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2857,
+    "content_en": "The interest rate is higher than last year.",
+    "content_vi": "Lãi suất cao hơn năm ngoái.",
+    "phonetic": "ði ˈɪntrəst reɪt ɪz ˈhaɪər ðæn læst jɪr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "interest",
+      "rate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2858,
+    "content_en": "I need to withdraw $200 from my account.",
+    "content_vi": "Tôi cần rút $200 từ tài khoản của tôi.",
+    "phonetic": "aɪ nid tu wɪðˈdrɔ tu ˈhʌndrəd ˈdɑlərz frʌm maɪ əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "necessity",
+      "withdrawal",
+      "amount"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2859,
+    "content_en": "I've already deposited the check.",
+    "content_vi": "Tôi đã gửi séc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi dɪˈpɑzətəd ðə ʧɛk",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "check"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2860,
+    "content_en": "I'd like to apply for a credit card.",
+    "content_vi": "Tôi muốn đăng ký thẻ tín dụng.",
+    "phonetic": "aɪd laɪk tu əˈplaɪ fɔr ə ˈkrɛdət kɑrd",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "application",
+      "credit card"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2861,
+    "content_en": "The transaction was completed yesterday.",
+    "content_vi": "Giao dịch đã hoàn thành hôm qua.",
+    "phonetic": "ðə trænˈzækʃən wɑz kəmˈplitəd ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "past",
+      "transaction",
+      "completion"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2862,
+    "content_en": "My monthly fees are lower than before.",
+    "content_vi": "Phí hàng tháng của tôi thấp hơn trước.",
+    "phonetic": "maɪ ˈmʌnθli fiz ɑr ˈloʊər ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "fees",
+      "monthly"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2863,
+    "content_en": "I've been using online banking for years.",
+    "content_vi": "Tôi sử dụng ngân hàng trực tuyến nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ˈɑnˌlaɪn ˈbæŋkɪŋ fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "online banking",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2864,
+    "content_en": "I'd like to open a savings account.",
+    "content_vi": "Tôi muốn mở một tài khoản tiết kiệm.",
+    "phonetic": "aɪd laɪk tu ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "account"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2865,
+    "content_en": "I've been saving money for six months.",
+    "content_vi": "Tôi tiết kiệm tiền được sáu tháng rồi.",
+    "phonetic": "aɪv bɪn ˈseɪvɪŋ ˈmʌni fɔr sɪks mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "savings",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2866,
+    "content_en": "Could you help me transfer money to another account?",
+    "content_vi": "Bạn có thể giúp tôi chuyển tiền sang tài khoản khác không?",
+    "phonetic": "kʊd ju hɛlp mi trænsˈfɜr ˈmʌni tu əˈnʌðər əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "transfer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2867,
+    "content_en": "The interest rate is higher than last year.",
+    "content_vi": "Lãi suất cao hơn năm ngoái.",
+    "phonetic": "ði ˈɪntrəst reɪt ɪz ˈhaɪər ðæn læst jɪr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "interest",
+      "rate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2868,
+    "content_en": "I need to withdraw $200 from my account.",
+    "content_vi": "Tôi cần rút $200 từ tài khoản của tôi.",
+    "phonetic": "aɪ nid tu wɪðˈdrɔ tu ˈhʌndrəd ˈdɑlərz frʌm maɪ əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "necessity",
+      "withdrawal",
+      "amount"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2869,
+    "content_en": "I've already deposited the check.",
+    "content_vi": "Tôi đã gửi séc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi dɪˈpɑzətəd ðə ʧɛk",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "check"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2870,
+    "content_en": "I'd like to apply for a credit card.",
+    "content_vi": "Tôi muốn đăng ký thẻ tín dụng.",
+    "phonetic": "aɪd laɪk tu əˈplaɪ fɔr ə ˈkrɛdət kɑrd",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "application",
+      "credit card"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2871,
+    "content_en": "The transaction was completed yesterday.",
+    "content_vi": "Giao dịch đã hoàn thành hôm qua.",
+    "phonetic": "ðə trænˈzækʃən wɑz kəmˈplitəd ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "past",
+      "transaction",
+      "completion"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2872,
+    "content_en": "My monthly fees are lower than before.",
+    "content_vi": "Phí hàng tháng của tôi thấp hơn trước.",
+    "phonetic": "maɪ ˈmʌnθli fiz ɑr ˈloʊər ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "fees",
+      "monthly"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2873,
+    "content_en": "I've been using online banking for years.",
+    "content_vi": "Tôi sử dụng ngân hàng trực tuyến nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ˈɑnˌlaɪn ˈbæŋkɪŋ fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "online banking",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2874,
+    "content_en": "I'd like to open a savings account.",
+    "content_vi": "Tôi muốn mở một tài khoản tiết kiệm.",
+    "phonetic": "aɪd laɪk tu ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "account"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2875,
+    "content_en": "I've been saving money for six months.",
+    "content_vi": "Tôi tiết kiệm tiền được sáu tháng rồi.",
+    "phonetic": "aɪv bɪn ˈseɪvɪŋ ˈmʌni fɔr sɪks mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "savings",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2876,
+    "content_en": "Could you help me transfer money to another account?",
+    "content_vi": "Bạn có thể giúp tôi chuyển tiền sang tài khoản khác không?",
+    "phonetic": "kʊd ju hɛlp mi trænsˈfɜr ˈmʌni tu əˈnʌðər əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "transfer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2877,
+    "content_en": "The interest rate is higher than last year.",
+    "content_vi": "Lãi suất cao hơn năm ngoái.",
+    "phonetic": "ði ˈɪntrəst reɪt ɪz ˈhaɪər ðæn læst jɪr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "interest",
+      "rate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2878,
+    "content_en": "I need to withdraw $200 from my account.",
+    "content_vi": "Tôi cần rút $200 từ tài khoản của tôi.",
+    "phonetic": "aɪ nid tu wɪðˈdrɔ tu ˈhʌndrəd ˈdɑlərz frʌm maɪ əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "necessity",
+      "withdrawal",
+      "amount"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2879,
+    "content_en": "I've already deposited the check.",
+    "content_vi": "Tôi đã gửi séc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi dɪˈpɑzətəd ðə ʧɛk",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "check"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2880,
+    "content_en": "I'd like to apply for a credit card.",
+    "content_vi": "Tôi muốn đăng ký thẻ tín dụng.",
+    "phonetic": "aɪd laɪk tu əˈplaɪ fɔr ə ˈkrɛdət kɑrd",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "application",
+      "credit card"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2881,
+    "content_en": "The transaction was completed yesterday.",
+    "content_vi": "Giao dịch đã hoàn thành hôm qua.",
+    "phonetic": "ðə trænˈzækʃən wɑz kəmˈplitəd ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "past",
+      "transaction",
+      "completion"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2882,
+    "content_en": "My monthly fees are lower than before.",
+    "content_vi": "Phí hàng tháng của tôi thấp hơn trước.",
+    "phonetic": "maɪ ˈmʌnθli fiz ɑr ˈloʊər ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "fees",
+      "monthly"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2883,
+    "content_en": "I've been using online banking for years.",
+    "content_vi": "Tôi sử dụng ngân hàng trực tuyến nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ˈɑnˌlaɪn ˈbæŋkɪŋ fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "online banking",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2884,
+    "content_en": "I'd like to open a savings account.",
+    "content_vi": "Tôi muốn mở một tài khoản tiết kiệm.",
+    "phonetic": "aɪd laɪk tu ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "account"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2885,
+    "content_en": "I've been saving money for six months.",
+    "content_vi": "Tôi tiết kiệm tiền được sáu tháng rồi.",
+    "phonetic": "aɪv bɪn ˈseɪvɪŋ ˈmʌni fɔr sɪks mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "savings",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2886,
+    "content_en": "Could you help me transfer money to another account?",
+    "content_vi": "Bạn có thể giúp tôi chuyển tiền sang tài khoản khác không?",
+    "phonetic": "kʊd ju hɛlp mi trænsˈfɜr ˈmʌni tu əˈnʌðər əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "transfer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2887,
+    "content_en": "The interest rate is higher than last year.",
+    "content_vi": "Lãi suất cao hơn năm ngoái.",
+    "phonetic": "ði ˈɪntrəst reɪt ɪz ˈhaɪər ðæn læst jɪr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "interest",
+      "rate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2888,
+    "content_en": "I need to withdraw $200 from my account.",
+    "content_vi": "Tôi cần rút $200 từ tài khoản của tôi.",
+    "phonetic": "aɪ nid tu wɪðˈdrɔ tu ˈhʌndrəd ˈdɑlərz frʌm maɪ əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "necessity",
+      "withdrawal",
+      "amount"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2889,
+    "content_en": "I've already deposited the check.",
+    "content_vi": "Tôi đã gửi séc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi dɪˈpɑzətəd ðə ʧɛk",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "check"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2890,
+    "content_en": "I'd like to apply for a credit card.",
+    "content_vi": "Tôi muốn đăng ký thẻ tín dụng.",
+    "phonetic": "aɪd laɪk tu əˈplaɪ fɔr ə ˈkrɛdət kɑrd",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "application",
+      "credit card"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2891,
+    "content_en": "The transaction was completed yesterday.",
+    "content_vi": "Giao dịch đã hoàn thành hôm qua.",
+    "phonetic": "ðə trænˈzækʃən wɑz kəmˈplitəd ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "past",
+      "transaction",
+      "completion"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2892,
+    "content_en": "My monthly fees are lower than before.",
+    "content_vi": "Phí hàng tháng của tôi thấp hơn trước.",
+    "phonetic": "maɪ ˈmʌnθli fiz ɑr ˈloʊər ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "fees",
+      "monthly"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2893,
+    "content_en": "I've been using online banking for years.",
+    "content_vi": "Tôi sử dụng ngân hàng trực tuyến nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ˈɑnˌlaɪn ˈbæŋkɪŋ fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "online banking",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2894,
+    "content_en": "I'd like to open a savings account.",
+    "content_vi": "Tôi muốn mở một tài khoản tiết kiệm.",
+    "phonetic": "aɪd laɪk tu ˈoʊpən ə ˈseɪvɪŋz əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "account"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2895,
+    "content_en": "I've been saving money for six months.",
+    "content_vi": "Tôi tiết kiệm tiền được sáu tháng rồi.",
+    "phonetic": "aɪv bɪn ˈseɪvɪŋ ˈmʌni fɔr sɪks mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "savings",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2896,
+    "content_en": "Could you help me transfer money to another account?",
+    "content_vi": "Bạn có thể giúp tôi chuyển tiền sang tài khoản khác không?",
+    "phonetic": "kʊd ju hɛlp mi trænsˈfɜr ˈmʌni tu əˈnʌðər əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "transfer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2897,
+    "content_en": "The interest rate is higher than last year.",
+    "content_vi": "Lãi suất cao hơn năm ngoái.",
+    "phonetic": "ði ˈɪntrəst reɪt ɪz ˈhaɪər ðæn læst jɪr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "interest",
+      "rate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2898,
+    "content_en": "I need to withdraw $200 from my account.",
+    "content_vi": "Tôi cần rút $200 từ tài khoản của tôi.",
+    "phonetic": "aɪ nid tu wɪðˈdrɔ tu ˈhʌndrəd ˈdɑlərz frʌm maɪ əˈkaʊnt",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "necessity",
+      "withdrawal",
+      "amount"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2899,
+    "content_en": "I've already deposited the check.",
+    "content_vi": "Tôi đã gửi séc rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi dɪˈpɑzətəd ðə ʧɛk",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect",
+      "deposit",
+      "check"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2900,
+    "content_en": "I'd like to apply for a credit card.",
+    "content_vi": "Tôi muốn đăng ký thẻ tín dụng.",
+    "phonetic": "aɪd laɪk tu əˈplaɪ fɔr ə ˈkrɛdət kɑrd",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "polite",
+      "application",
+      "credit card"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2901,
+    "content_en": "The transaction was completed yesterday.",
+    "content_vi": "Giao dịch đã hoàn thành hôm qua.",
+    "phonetic": "ðə trænˈzækʃən wɑz kəmˈplitəd ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "past",
+      "transaction",
+      "completion"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2902,
+    "content_en": "My monthly fees are lower than before.",
+    "content_vi": "Phí hàng tháng của tôi thấp hơn trước.",
+    "phonetic": "maɪ ˈmʌnθli fiz ɑr ˈloʊər ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "comparison",
+      "fees",
+      "monthly"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2903,
+    "content_en": "I've been using online banking for years.",
+    "content_vi": "Tôi sử dụng ngân hàng trực tuyến nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ˈɑnˌlaɪn ˈbæŋkɪŋ fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "online banking",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống ngân hàng (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

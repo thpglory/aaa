@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1704,
+        "content_en": "If I had known there was a fire alarm, I would have evacuated sooner.",
+        "content_vi": "Nếu tôi biết có báo cháy, tôi đã sơ tán sớm hơn.",
+        "phonetic": "ɪf aɪ hæd noʊn ðɛr wʌz ə ˈfaɪər əˈlɑrm aɪ wʊd hæv ɪˈvækjuˌeɪtəd ˈsunər",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1705,
+        "content_en": "By the time the firefighters arrived, the flames had already spread to the second floor.",
+        "content_vi": "Khi lính cứu hỏa đến, ngọn lửa đã lan sang tầng hai rồi.",
+        "phonetic": "baɪ ðə taɪm ðə ˈfaɪərˌfaɪtərz əˈraɪvd ðə fleɪmz hæd ɔlˈrɛdi sprɛd tə ðə ˈsɛkənd flɔr",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "past perfect",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1706,
+        "content_en": "Should you witness any suspicious activity, report it immediately to the authorities.",
+        "content_vi": "Nếu bạn chứng kiến hoạt động đáng ngờ, hãy báo ngay cho chính quyền.",
+        "phonetic": "ʃʊd ju ˈwɪtnəs ˈɛni səˈspɪʃəs ækˈtɪvəti rɪˈpɔrt ɪt ɪˈmidiətli tə ði əˈθɔrətiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1707,
+        "content_en": "Had we been warned about the flood, we could have moved our belongings to safety.",
+        "content_vi": "Nếu chúng tôi được cảnh báo về lũ lụt, chúng tôi có thể đã chuyển đồ đạc đến nơi an toàn.",
+        "phonetic": "hæd wi bɪn wɔrnd əˈbaʊt ðə flʌd wi kʊd hæv muvd ˈaʊər bɪˈlɔŋɪŋz tə ˈseɪfti",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1708,
+        "content_en": "Unless immediate action is taken, the situation will deteriorate rapidly.",
+        "content_vi": "Trừ khi hành động ngay lập tức, tình hình sẽ xấu đi nhanh chóng.",
+        "phonetic": "ənˈlɛs ɪˈmidiət ˈækʃən ɪz ˈteɪkən ðə ˌsɪʧuˈeɪʃən wɪl dɪˈtɪriəˌreɪt ˈræpədli",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "warning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1709,
+        "content_en": "The emergency services, which responded within minutes, managed to contain the crisis.",
+        "content_vi": "Các dịch vụ khẩn cấp, phản ứng trong vài phút, đã kiểm soát được khủng hoảng.",
+        "phonetic": "ði ɪˈmɜrʤənsi ˈsɜrvəsəz wɪʧ rɪˈspɑndəd wɪˈðɪn ˈmɪnəts ˈmænəʤd tə kənˈteɪn ðə ˈkraɪsəs",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "relative clause",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1710,
+        "content_en": "I wish I had memorized the emergency contact numbers before traveling.",
+        "content_vi": "Ước gì tôi đã nhớ các số điện thoại khẩn cấp trước khi đi du lịch.",
+        "phonetic": "aɪ wɪʃ aɪ hæd ˈmɛməˌraɪzd ði ɪˈmɜrʤənsi ˈkɑnˌtækt ˈnʌmbərz bɪˈfɔr ˈtrævəlɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "wish",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1711,
+        "content_en": "No sooner had we reached the shelter than the tornado struck.",
+        "content_vi": "Vừa đến nơi trú ẩn thì lốc xoáy ập đến.",
+        "phonetic": "noʊ ˈsunər hæd wi riʧt ðə ˈʃɛltər ðæn ðə tɔrˈneɪdoʊ strʌk",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1712,
+        "content_en": "It's crucial that everyone remain calm during emergency evacuations.",
+        "content_vi": "Điều quan trọng là mọi người giữ bình tĩnh trong khi sơ tán khẩn cấp.",
+        "phonetic": "ɪts ˈkruʃəl ðæt ˈɛvriˌwʌn rɪˈmeɪn kɑm ˈdʊrɪŋ ɪˈmɜrʤənsi ɪˌvækjuˈeɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "subjunctive",
+            "important"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1713,
+        "content_en": "Having experienced earthquakes before, I knew exactly what to do when the tremors began.",
+        "content_vi": "Sau khi trải qua động đất trước đây, tôi biết chính xác phải làm gì khi rung chuyển bắt đầu.",
+        "phonetic": "ˈhævɪŋ ɪkˈspɪriənst ˈɜrθˌkweɪks bɪˈfɔr aɪ nju ɪɡˈzæktli wʌt tə du wɛn ðə ˈtrɛmərz bɪˈɡæn",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "perfect participle",
+            "experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1714,
+        "content_en": "If I had known there was a fire alarm, I would have evacuated sooner. (situation 1)",
+        "content_vi": "Nếu tôi biết có báo cháy, tôi đã sơ tán sớm hơn. (tình huống 1)",
+        "phonetic": "ɪf aɪ hæd noʊn ðɛr wʌz ə ˈfaɪər əˈlɑrm aɪ wʊd hæv ɪˈvækjuˌeɪtəd ˈsunər",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1715,
+        "content_en": "By the time the firefighters arrived, the flames had already spread to the second floor. (situation 2)",
+        "content_vi": "Khi lính cứu hỏa đến, ngọn lửa đã lan sang tầng hai rồi. (tình huống 2)",
+        "phonetic": "baɪ ðə taɪm ðə ˈfaɪərˌfaɪtərz əˈraɪvd ðə fleɪmz hæd ɔlˈrɛdi sprɛd tə ðə ˈsɛkənd flɔr",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "past perfect",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1716,
+        "content_en": "Should you witness any suspicious activity, report it immediately to the authorities. (situation 3)",
+        "content_vi": "Nếu bạn chứng kiến hoạt động đáng ngờ, hãy báo ngay cho chính quyền. (tình huống 3)",
+        "phonetic": "ʃʊd ju ˈwɪtnəs ˈɛni səˈspɪʃəs ækˈtɪvəti rɪˈpɔrt ɪt ɪˈmidiətli tə ði əˈθɔrətiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1717,
+        "content_en": "Had we been warned about the flood, we could have moved our belongings to safety. (situation 4)",
+        "content_vi": "Nếu chúng tôi được cảnh báo về lũ lụt, chúng tôi có thể đã chuyển đồ đạc đến nơi an toàn. (tình huống 4)",
+        "phonetic": "hæd wi bɪn wɔrnd əˈbaʊt ðə flʌd wi kʊd hæv muvd ˈaʊər bɪˈlɔŋɪŋz tə ˈseɪfti",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1718,
+        "content_en": "Unless immediate action is taken, the situation will deteriorate rapidly. (situation 5)",
+        "content_vi": "Trừ khi hành động ngay lập tức, tình hình sẽ xấu đi nhanh chóng. (tình huống 5)",
+        "phonetic": "ənˈlɛs ɪˈmidiət ˈækʃən ɪz ˈteɪkən ðə ˌsɪʧuˈeɪʃən wɪl dɪˈtɪriəˌreɪt ˈræpədli",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "warning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1719,
+        "content_en": "The emergency services, which responded within minutes, managed to contain the crisis. (situation 6)",
+        "content_vi": "Các dịch vụ khẩn cấp, phản ứng trong vài phút, đã kiểm soát được khủng hoảng. (tình huống 6)",
+        "phonetic": "ði ɪˈmɜrʤənsi ˈsɜrvəsəz wɪʧ rɪˈspɑndəd wɪˈðɪn ˈmɪnəts ˈmænəʤd tə kənˈteɪn ðə ˈkraɪsəs",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "relative clause",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1720,
+        "content_en": "I wish I had memorized the emergency contact numbers before traveling. (situation 7)",
+        "content_vi": "Ước gì tôi đã nhớ các số điện thoại khẩn cấp trước khi đi du lịch. (tình huống 7)",
+        "phonetic": "aɪ wɪʃ aɪ hæd ˈmɛməˌraɪzd ði ɪˈmɜrʤənsi ˈkɑnˌtækt ˈnʌmbərz bɪˈfɔr ˈtrævəlɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "wish",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1721,
+        "content_en": "No sooner had we reached the shelter than the tornado struck. (situation 8)",
+        "content_vi": "Vừa đến nơi trú ẩn thì lốc xoáy ập đến. (tình huống 8)",
+        "phonetic": "noʊ ˈsunər hæd wi riʧt ðə ˈʃɛltər ðæn ðə tɔrˈneɪdoʊ strʌk",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1722,
+        "content_en": "It's crucial that everyone remain calm during emergency evacuations. (situation 9)",
+        "content_vi": "Điều quan trọng là mọi người giữ bình tĩnh trong khi sơ tán khẩn cấp. (tình huống 9)",
+        "phonetic": "ɪts ˈkruʃəl ðæt ˈɛvriˌwʌn rɪˈmeɪn kɑm ˈdʊrɪŋ ɪˈmɜrʤənsi ɪˌvækjuˈeɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "subjunctive",
+            "important"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1723,
+        "content_en": "Having experienced earthquakes before, I knew exactly what to do when the tremors began. (situation 10)",
+        "content_vi": "Sau khi trải qua động đất trước đây, tôi biết chính xác phải làm gì khi rung chuyển bắt đầu. (tình huống 10)",
+        "phonetic": "ˈhævɪŋ ɪkˈspɪriənst ˈɜrθˌkweɪks bɪˈfɔr aɪ nju ɪɡˈzæktli wʌt tə du wɛn ðə ˈtrɛmərz bɪˈɡæn",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "perfect participle",
+            "experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1724,
+        "content_en": "If I had known there was a fire alarm, I would have evacuated sooner. (situation 11)",
+        "content_vi": "Nếu tôi biết có báo cháy, tôi đã sơ tán sớm hơn. (tình huống 11)",
+        "phonetic": "ɪf aɪ hæd noʊn ðɛr wʌz ə ˈfaɪər əˈlɑrm aɪ wʊd hæv ɪˈvækjuˌeɪtəd ˈsunər",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1725,
+        "content_en": "By the time the firefighters arrived, the flames had already spread to the second floor. (situation 12)",
+        "content_vi": "Khi lính cứu hỏa đến, ngọn lửa đã lan sang tầng hai rồi. (tình huống 12)",
+        "phonetic": "baɪ ðə taɪm ðə ˈfaɪərˌfaɪtərz əˈraɪvd ðə fleɪmz hæd ɔlˈrɛdi sprɛd tə ðə ˈsɛkənd flɔr",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "past perfect",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1726,
+        "content_en": "Should you witness any suspicious activity, report it immediately to the authorities. (situation 13)",
+        "content_vi": "Nếu bạn chứng kiến hoạt động đáng ngờ, hãy báo ngay cho chính quyền. (tình huống 13)",
+        "phonetic": "ʃʊd ju ˈwɪtnəs ˈɛni səˈspɪʃəs ækˈtɪvəti rɪˈpɔrt ɪt ɪˈmidiətli tə ði əˈθɔrətiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1727,
+        "content_en": "Had we been warned about the flood, we could have moved our belongings to safety. (situation 14)",
+        "content_vi": "Nếu chúng tôi được cảnh báo về lũ lụt, chúng tôi có thể đã chuyển đồ đạc đến nơi an toàn. (tình huống 14)",
+        "phonetic": "hæd wi bɪn wɔrnd əˈbaʊt ðə flʌd wi kʊd hæv muvd ˈaʊər bɪˈlɔŋɪŋz tə ˈseɪfti",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1728,
+        "content_en": "Unless immediate action is taken, the situation will deteriorate rapidly. (situation 15)",
+        "content_vi": "Trừ khi hành động ngay lập tức, tình hình sẽ xấu đi nhanh chóng. (tình huống 15)",
+        "phonetic": "ənˈlɛs ɪˈmidiət ˈækʃən ɪz ˈteɪkən ðə ˌsɪʧuˈeɪʃən wɪl dɪˈtɪriəˌreɪt ˈræpədli",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "warning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1729,
+        "content_en": "The emergency services, which responded within minutes, managed to contain the crisis. (situation 16)",
+        "content_vi": "Các dịch vụ khẩn cấp, phản ứng trong vài phút, đã kiểm soát được khủng hoảng. (tình huống 16)",
+        "phonetic": "ði ɪˈmɜrʤənsi ˈsɜrvəsəz wɪʧ rɪˈspɑndəd wɪˈðɪn ˈmɪnəts ˈmænəʤd tə kənˈteɪn ðə ˈkraɪsəs",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "relative clause",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1730,
+        "content_en": "I wish I had memorized the emergency contact numbers before traveling. (situation 17)",
+        "content_vi": "Ước gì tôi đã nhớ các số điện thoại khẩn cấp trước khi đi du lịch. (tình huống 17)",
+        "phonetic": "aɪ wɪʃ aɪ hæd ˈmɛməˌraɪzd ði ɪˈmɜrʤənsi ˈkɑnˌtækt ˈnʌmbərz bɪˈfɔr ˈtrævəlɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "wish",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1731,
+        "content_en": "No sooner had we reached the shelter than the tornado struck. (situation 18)",
+        "content_vi": "Vừa đến nơi trú ẩn thì lốc xoáy ập đến. (tình huống 18)",
+        "phonetic": "noʊ ˈsunər hæd wi riʧt ðə ˈʃɛltər ðæn ðə tɔrˈneɪdoʊ strʌk",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1732,
+        "content_en": "It's crucial that everyone remain calm during emergency evacuations. (situation 19)",
+        "content_vi": "Điều quan trọng là mọi người giữ bình tĩnh trong khi sơ tán khẩn cấp. (tình huống 19)",
+        "phonetic": "ɪts ˈkruʃəl ðæt ˈɛvriˌwʌn rɪˈmeɪn kɑm ˈdʊrɪŋ ɪˈmɜrʤənsi ɪˌvækjuˈeɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "subjunctive",
+            "important"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1733,
+        "content_en": "Having experienced earthquakes before, I knew exactly what to do when the tremors began. (situation 20)",
+        "content_vi": "Sau khi trải qua động đất trước đây, tôi biết chính xác phải làm gì khi rung chuyển bắt đầu. (tình huống 20)",
+        "phonetic": "ˈhævɪŋ ɪkˈspɪriənst ˈɜrθˌkweɪks bɪˈfɔr aɪ nju ɪɡˈzæktli wʌt tə du wɛn ðə ˈtrɛmərz bɪˈɡæn",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "perfect participle",
+            "experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1734,
+        "content_en": "If I had known there was a fire alarm, I would have evacuated sooner. (situation 21)",
+        "content_vi": "Nếu tôi biết có báo cháy, tôi đã sơ tán sớm hơn. (tình huống 21)",
+        "phonetic": "ɪf aɪ hæd noʊn ðɛr wʌz ə ˈfaɪər əˈlɑrm aɪ wʊd hæv ɪˈvækjuˌeɪtəd ˈsunər",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1735,
+        "content_en": "By the time the firefighters arrived, the flames had already spread to the second floor. (situation 22)",
+        "content_vi": "Khi lính cứu hỏa đến, ngọn lửa đã lan sang tầng hai rồi. (tình huống 22)",
+        "phonetic": "baɪ ðə taɪm ðə ˈfaɪərˌfaɪtərz əˈraɪvd ðə fleɪmz hæd ɔlˈrɛdi sprɛd tə ðə ˈsɛkənd flɔr",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "past perfect",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1736,
+        "content_en": "Should you witness any suspicious activity, report it immediately to the authorities. (situation 23)",
+        "content_vi": "Nếu bạn chứng kiến hoạt động đáng ngờ, hãy báo ngay cho chính quyền. (tình huống 23)",
+        "phonetic": "ʃʊd ju ˈwɪtnəs ˈɛni səˈspɪʃəs ækˈtɪvəti rɪˈpɔrt ɪt ɪˈmidiətli tə ði əˈθɔrətiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1737,
+        "content_en": "Had we been warned about the flood, we could have moved our belongings to safety. (situation 24)",
+        "content_vi": "Nếu chúng tôi được cảnh báo về lũ lụt, chúng tôi có thể đã chuyển đồ đạc đến nơi an toàn. (tình huống 24)",
+        "phonetic": "hæd wi bɪn wɔrnd əˈbaʊt ðə flʌd wi kʊd hæv muvd ˈaʊər bɪˈlɔŋɪŋz tə ˈseɪfti",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1738,
+        "content_en": "Unless immediate action is taken, the situation will deteriorate rapidly. (situation 25)",
+        "content_vi": "Trừ khi hành động ngay lập tức, tình hình sẽ xấu đi nhanh chóng. (tình huống 25)",
+        "phonetic": "ənˈlɛs ɪˈmidiət ˈækʃən ɪz ˈteɪkən ðə ˌsɪʧuˈeɪʃən wɪl dɪˈtɪriəˌreɪt ˈræpədli",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "warning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1739,
+        "content_en": "The emergency services, which responded within minutes, managed to contain the crisis. (situation 26)",
+        "content_vi": "Các dịch vụ khẩn cấp, phản ứng trong vài phút, đã kiểm soát được khủng hoảng. (tình huống 26)",
+        "phonetic": "ði ɪˈmɜrʤənsi ˈsɜrvəsəz wɪʧ rɪˈspɑndəd wɪˈðɪn ˈmɪnəts ˈmænəʤd tə kənˈteɪn ðə ˈkraɪsəs",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "relative clause",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1740,
+        "content_en": "I wish I had memorized the emergency contact numbers before traveling. (situation 27)",
+        "content_vi": "Ước gì tôi đã nhớ các số điện thoại khẩn cấp trước khi đi du lịch. (tình huống 27)",
+        "phonetic": "aɪ wɪʃ aɪ hæd ˈmɛməˌraɪzd ði ɪˈmɜrʤənsi ˈkɑnˌtækt ˈnʌmbərz bɪˈfɔr ˈtrævəlɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "wish",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1741,
+        "content_en": "No sooner had we reached the shelter than the tornado struck. (situation 28)",
+        "content_vi": "Vừa đến nơi trú ẩn thì lốc xoáy ập đến. (tình huống 28)",
+        "phonetic": "noʊ ˈsunər hæd wi riʧt ðə ˈʃɛltər ðæn ðə tɔrˈneɪdoʊ strʌk",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1742,
+        "content_en": "It's crucial that everyone remain calm during emergency evacuations. (situation 29)",
+        "content_vi": "Điều quan trọng là mọi người giữ bình tĩnh trong khi sơ tán khẩn cấp. (tình huống 29)",
+        "phonetic": "ɪts ˈkruʃəl ðæt ˈɛvriˌwʌn rɪˈmeɪn kɑm ˈdʊrɪŋ ɪˈmɜrʤənsi ɪˌvækjuˈeɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "subjunctive",
+            "important"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1743,
+        "content_en": "Having experienced earthquakes before, I knew exactly what to do when the tremors began. (situation 30)",
+        "content_vi": "Sau khi trải qua động đất trước đây, tôi biết chính xác phải làm gì khi rung chuyển bắt đầu. (tình huống 30)",
+        "phonetic": "ˈhævɪŋ ɪkˈspɪriənst ˈɜrθˌkweɪks bɪˈfɔr aɪ nju ɪɡˈzæktli wʌt tə du wɛn ðə ˈtrɛmərz bɪˈɡæn",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "perfect participle",
+            "experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1744,
+        "content_en": "If I had known there was a fire alarm, I would have evacuated sooner. (situation 31)",
+        "content_vi": "Nếu tôi biết có báo cháy, tôi đã sơ tán sớm hơn. (tình huống 31)",
+        "phonetic": "ɪf aɪ hæd noʊn ðɛr wʌz ə ˈfaɪər əˈlɑrm aɪ wʊd hæv ɪˈvækjuˌeɪtəd ˈsunər",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1745,
+        "content_en": "By the time the firefighters arrived, the flames had already spread to the second floor. (situation 32)",
+        "content_vi": "Khi lính cứu hỏa đến, ngọn lửa đã lan sang tầng hai rồi. (tình huống 32)",
+        "phonetic": "baɪ ðə taɪm ðə ˈfaɪərˌfaɪtərz əˈraɪvd ðə fleɪmz hæd ɔlˈrɛdi sprɛd tə ðə ˈsɛkənd flɔr",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "past perfect",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1746,
+        "content_en": "Should you witness any suspicious activity, report it immediately to the authorities. (situation 33)",
+        "content_vi": "Nếu bạn chứng kiến hoạt động đáng ngờ, hãy báo ngay cho chính quyền. (tình huống 33)",
+        "phonetic": "ʃʊd ju ˈwɪtnəs ˈɛni səˈspɪʃəs ækˈtɪvəti rɪˈpɔrt ɪt ɪˈmidiətli tə ði əˈθɔrətiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1747,
+        "content_en": "Had we been warned about the flood, we could have moved our belongings to safety. (situation 34)",
+        "content_vi": "Nếu chúng tôi được cảnh báo về lũ lụt, chúng tôi có thể đã chuyển đồ đạc đến nơi an toàn. (tình huống 34)",
+        "phonetic": "hæd wi bɪn wɔrnd əˈbaʊt ðə flʌd wi kʊd hæv muvd ˈaʊər bɪˈlɔŋɪŋz tə ˈseɪfti",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1748,
+        "content_en": "Unless immediate action is taken, the situation will deteriorate rapidly. (situation 35)",
+        "content_vi": "Trừ khi hành động ngay lập tức, tình hình sẽ xấu đi nhanh chóng. (tình huống 35)",
+        "phonetic": "ənˈlɛs ɪˈmidiət ˈækʃən ɪz ˈteɪkən ðə ˌsɪʧuˈeɪʃən wɪl dɪˈtɪriəˌreɪt ˈræpədli",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "conditional",
+            "warning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1749,
+        "content_en": "The emergency services, which responded within minutes, managed to contain the crisis. (situation 36)",
+        "content_vi": "Các dịch vụ khẩn cấp, phản ứng trong vài phút, đã kiểm soát được khủng hoảng. (tình huống 36)",
+        "phonetic": "ði ɪˈmɜrʤənsi ˈsɜrvəsəz wɪʧ rɪˈspɑndəd wɪˈðɪn ˈmɪnəts ˈmænəʤd tə kənˈteɪn ðə ˈkraɪsəs",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "relative clause",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1750,
+        "content_en": "I wish I had memorized the emergency contact numbers before traveling. (situation 37)",
+        "content_vi": "Ước gì tôi đã nhớ các số điện thoại khẩn cấp trước khi đi du lịch. (tình huống 37)",
+        "phonetic": "aɪ wɪʃ aɪ hæd ˈmɛməˌraɪzd ði ɪˈmɜrʤənsi ˈkɑnˌtækt ˈnʌmbərz bɪˈfɔr ˈtrævəlɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "wish",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1751,
+        "content_en": "No sooner had we reached the shelter than the tornado struck. (situation 38)",
+        "content_vi": "Vừa đến nơi trú ẩn thì lốc xoáy ập đến. (tình huống 38)",
+        "phonetic": "noʊ ˈsunər hæd wi riʧt ðə ˈʃɛltər ðæn ðə tɔrˈneɪdoʊ strʌk",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "inversion",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1752,
+        "content_en": "It's crucial that everyone remain calm during emergency evacuations. (situation 39)",
+        "content_vi": "Điều quan trọng là mọi người giữ bình tĩnh trong khi sơ tán khẩn cấp. (tình huống 39)",
+        "phonetic": "ɪts ˈkruʃəl ðæt ˈɛvriˌwʌn rɪˈmeɪn kɑm ˈdʊrɪŋ ɪˈmɜrʤənsi ɪˌvækjuˈeɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "subjunctive",
+            "important"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1753,
+        "content_en": "Having experienced earthquakes before, I knew exactly what to do when the tremors began. (situation 40)",
+        "content_vi": "Sau khi trải qua động đất trước đây, tôi biết chính xác phải làm gì khi rung chuyển bắt đầu. (tình huống 40)",
+        "phonetic": "ˈhævɪŋ ɪkˈspɪriənst ˈɜrθˌkweɪks bɪˈfɔr aɪ nju ɪɡˈzæktli wʌt tə du wɛn ðə ˈtrɛmərz bɪˈɡæn",
+        "level_id": "B1",
+        "topic_ids": [
+            "emergency"
+        ],
+        "tags": [
+            "perfect participle",
+            "experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "B1 level emergency sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    }
+]

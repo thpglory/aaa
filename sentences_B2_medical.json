@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 2354,
+    "content_en": "Never before has medical technology advanced so rapidly in diagnostic precision.",
+    "content_vi": "Chưa bao giờ công nghệ y tế tiến bộ nhanh chóng đến vậy trong độ chính xác chẩn đoán.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˈmɛdɪkəl tɛkˈnɑləʤi ədˈvænst soʊ ˈræpɪdli ɪn ˌdaɪəɡˈnɑstɪk prɪˈsɪʒən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2355,
+    "content_en": "What distinguishes preventive medicine from reactive treatment is its focus on early intervention.",
+    "content_vi": "Điều phân biệt y học phòng ngừa với điều trị phản ứng là sự tập trung vào can thiệp sớm.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz prɪˈvɛntɪv ˈmɛdəsən frʌm riˈæktɪv ˈtritmənt ɪz ɪts ˈfoʊkəs ɑn ˈɜrli ˌɪntərˈvɛnʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "medical philosophy",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2356,
+    "content_en": "Scarcely had the treatment protocol been implemented when significant improvements appeared.",
+    "content_vi": "Ngay khi quy trình điều trị được thực hiện thì những cải thiện đáng kể đã xuất hiện.",
+    "phonetic": "ˈskɛrsli hæd ðə ˈtritmənt ˈproʊtəˌkɔl bɪn ˈɪmpləˌmɛntəd wɛn sɪɡˈnɪfɪkənt ɪmˈpruvmənts əˈpɪrd",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "medical procedure",
+      "result"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2357,
+    "content_en": "It is through comprehensive health assessments that physicians identify underlying conditions.",
+    "content_vi": "Chính thông qua đánh giá sức khỏe toàn diện, bác sĩ xác định các tình trạng tiềm ẩn.",
+    "phonetic": "ɪt ɪz θru ˌkɑmprɪˈhɛnsɪv hɛlθ əˈsɛsmənts ðæt fɪˈzɪʃənz aɪˈdɛntəˌfaɪ ˌʌndərˈlaɪɪŋ kənˈdɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "diagnosis",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2358,
+    "content_en": "The healthcare sector's digital transformation necessitates sophisticated data security protocols.",
+    "content_vi": "Chuyển đổi kỹ thuật số của ngành chăm sóc sức khỏe đòi hỏi các quy trình bảo mật dữ liệu tinh vi.",
+    "phonetic": "ðə ˈhɛlθˌkɛr ˈsɛktərz ˈdɪʤətəl ˌtrænsfərˈmeɪʃən nəˈsɛsɪˌteɪts səˈfɪstɪˌkeɪtɪd ˈdeɪtə sɪˈkjʊrəti ˈproʊtəˌkɔlz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "technology",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2359,
+    "content_en": "Not until universal healthcare becomes accessible will health disparities be adequately addressed.",
+    "content_vi": "Chỉ khi chăm sóc sức khỏe toàn dân trở nên dễ tiếp cận, sự chênh lệch về sức khỏe mới được giải quyết đầy đủ.",
+    "phonetic": "nɑt ənˈtɪl ˌjunəˈvɜrsəl ˈhɛlθˌkɛr bɪˈkʌmz əkˈsɛsəbəl wɪl hɛlθ dɪˈspɛrətiz bi ˈædəkwətli əˈdrɛst",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "healthcare policy",
+      "equity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2360,
+    "content_en": "What makes personalized medicine revolutionary is its capacity to tailor treatments to individual genetics.",
+    "content_vi": "Điều làm cho y học cá nhân hóa mang tính cách mạng là khả năng điều chỉnh điều trị theo di truyền cá nhân.",
+    "phonetic": "wʌt meɪks ˈpɜrsənəˌlaɪzd ˈmɛdəsən ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈteɪlər ˈtritmənts tu ˌɪndəˈvɪʤəwəl ʤəˈnɛtɪks",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "personalized medicine",
+      "advanced"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2361,
+    "content_en": "The medical community's paradigm shift toward holistic care has fundamentally altered treatment approaches.",
+    "content_vi": "Sự thay đổi mô hình của cộng đồng y tế hướng tới chăm sóc toàn diện đã thay đổi căn bản các phương pháp điều trị.",
+    "phonetic": "ðə ˈmɛdɪkəl kəˈmjunətiz ˈpærəˌdaɪm ʃɪft təˈwɔrd hoʊˈlɪstɪk kɛr hæz ˌfʌndəˈmɛntəli ˈɔltərd ˈtritmənt əˈproʊʧɪz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "medical philosophy",
+      "transformation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2362,
+    "content_en": "Seldom have medical breakthroughs generated such profound ethical debates.",
+    "content_vi": "Hiếm khi những đột phá y tế lại tạo ra những cuộc tranh luận đạo đức sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˈmɛdɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd ˈɛθɪkəl dɪˈbeɪts",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "ethics",
+      "medical research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2363,
+    "content_en": "It is the integration of artificial intelligence and clinical expertise that enhances diagnostic accuracy.",
+    "content_vi": "Chính sự tích hợp của trí tuệ nhân tạo và chuyên môn lâm sàng nâng cao độ chính xác chẩn đoán.",
+    "phonetic": "ɪt ɪz ði ˌɪntəˈɡreɪʃən ʌv ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ænd ˈklɪnɪkəl ˌɛkspərˈtiz ðæt ɛnˈhænsɪz ˌdaɪəɡˈnɑstɪk ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "AI",
+      "medical technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2364,
+    "content_en": "Never before has medical technology advanced so rapidly in diagnostic precision.",
+    "content_vi": "Chưa bao giờ công nghệ y tế tiến bộ nhanh chóng đến vậy trong độ chính xác chẩn đoán.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˈmɛdɪkəl tɛkˈnɑləʤi ədˈvænst soʊ ˈræpɪdli ɪn ˌdaɪəɡˈnɑstɪk prɪˈsɪʒən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2365,
+    "content_en": "What distinguishes preventive medicine from reactive treatment is its focus on early intervention.",
+    "content_vi": "Điều phân biệt y học phòng ngừa với điều trị phản ứng là sự tập trung vào can thiệp sớm.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz prɪˈvɛntɪv ˈmɛdəsən frʌm riˈæktɪv ˈtritmənt ɪz ɪts ˈfoʊkəs ɑn ˈɜrli ˌɪntərˈvɛnʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "medical philosophy",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2366,
+    "content_en": "Scarcely had the treatment protocol been implemented when significant improvements appeared.",
+    "content_vi": "Ngay khi quy trình điều trị được thực hiện thì những cải thiện đáng kể đã xuất hiện.",
+    "phonetic": "ˈskɛrsli hæd ðə ˈtritmənt ˈproʊtəˌkɔl bɪn ˈɪmpləˌmɛntəd wɛn sɪɡˈnɪfɪkənt ɪmˈpruvmənts əˈpɪrd",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "medical procedure",
+      "result"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2367,
+    "content_en": "It is through comprehensive health assessments that physicians identify underlying conditions.",
+    "content_vi": "Chính thông qua đánh giá sức khỏe toàn diện, bác sĩ xác định các tình trạng tiềm ẩn.",
+    "phonetic": "ɪt ɪz θru ˌkɑmprɪˈhɛnsɪv hɛlθ əˈsɛsmənts ðæt fɪˈzɪʃənz aɪˈdɛntəˌfaɪ ˌʌndərˈlaɪɪŋ kənˈdɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "diagnosis",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2368,
+    "content_en": "The healthcare sector's digital transformation necessitates sophisticated data security protocols.",
+    "content_vi": "Chuyển đổi kỹ thuật số của ngành chăm sóc sức khỏe đòi hỏi các quy trình bảo mật dữ liệu tinh vi.",
+    "phonetic": "ðə ˈhɛlθˌkɛr ˈsɛktərz ˈdɪʤətəl ˌtrænsfərˈmeɪʃən nəˈsɛsɪˌteɪts səˈfɪstɪˌkeɪtɪd ˈdeɪtə sɪˈkjʊrəti ˈproʊtəˌkɔlz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "technology",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2369,
+    "content_en": "Not until universal healthcare becomes accessible will health disparities be adequately addressed.",
+    "content_vi": "Chỉ khi chăm sóc sức khỏe toàn dân trở nên dễ tiếp cận, sự chênh lệch về sức khỏe mới được giải quyết đầy đủ.",
+    "phonetic": "nɑt ənˈtɪl ˌjunəˈvɜrsəl ˈhɛlθˌkɛr bɪˈkʌmz əkˈsɛsəbəl wɪl hɛlθ dɪˈspɛrətiz bi ˈædəkwətli əˈdrɛst",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "healthcare policy",
+      "equity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2370,
+    "content_en": "What makes personalized medicine revolutionary is its capacity to tailor treatments to individual genetics.",
+    "content_vi": "Điều làm cho y học cá nhân hóa mang tính cách mạng là khả năng điều chỉnh điều trị theo di truyền cá nhân.",
+    "phonetic": "wʌt meɪks ˈpɜrsənəˌlaɪzd ˈmɛdəsən ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈteɪlər ˈtritmənts tu ˌɪndəˈvɪʤəwəl ʤəˈnɛtɪks",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "personalized medicine",
+      "advanced"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2371,
+    "content_en": "The medical community's paradigm shift toward holistic care has fundamentally altered treatment approaches.",
+    "content_vi": "Sự thay đổi mô hình của cộng đồng y tế hướng tới chăm sóc toàn diện đã thay đổi căn bản các phương pháp điều trị.",
+    "phonetic": "ðə ˈmɛdɪkəl kəˈmjunətiz ˈpærəˌdaɪm ʃɪft təˈwɔrd hoʊˈlɪstɪk kɛr hæz ˌfʌndəˈmɛntəli ˈɔltərd ˈtritmənt əˈproʊʧɪz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "medical philosophy",
+      "transformation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2372,
+    "content_en": "Seldom have medical breakthroughs generated such profound ethical debates.",
+    "content_vi": "Hiếm khi những đột phá y tế lại tạo ra những cuộc tranh luận đạo đức sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˈmɛdɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd ˈɛθɪkəl dɪˈbeɪts",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "ethics",
+      "medical research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2373,
+    "content_en": "It is the integration of artificial intelligence and clinical expertise that enhances diagnostic accuracy.",
+    "content_vi": "Chính sự tích hợp của trí tuệ nhân tạo và chuyên môn lâm sàng nâng cao độ chính xác chẩn đoán.",
+    "phonetic": "ɪt ɪz ði ˌɪntəˈɡreɪʃən ʌv ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ænd ˈklɪnɪkəl ˌɛkspərˈtiz ðæt ɛnˈhænsɪz ˌdaɪəɡˈnɑstɪk ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "AI",
+      "medical technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2374,
+    "content_en": "Never before has medical technology advanced so rapidly in diagnostic precision.",
+    "content_vi": "Chưa bao giờ công nghệ y tế tiến bộ nhanh chóng đến vậy trong độ chính xác chẩn đoán.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˈmɛdɪkəl tɛkˈnɑləʤi ədˈvænst soʊ ˈræpɪdli ɪn ˌdaɪəɡˈnɑstɪk prɪˈsɪʒən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2375,
+    "content_en": "What distinguishes preventive medicine from reactive treatment is its focus on early intervention.",
+    "content_vi": "Điều phân biệt y học phòng ngừa với điều trị phản ứng là sự tập trung vào can thiệp sớm.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz prɪˈvɛntɪv ˈmɛdəsən frʌm riˈæktɪv ˈtritmənt ɪz ɪts ˈfoʊkəs ɑn ˈɜrli ˌɪntərˈvɛnʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "medical philosophy",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2376,
+    "content_en": "Scarcely had the treatment protocol been implemented when significant improvements appeared.",
+    "content_vi": "Ngay khi quy trình điều trị được thực hiện thì những cải thiện đáng kể đã xuất hiện.",
+    "phonetic": "ˈskɛrsli hæd ðə ˈtritmənt ˈproʊtəˌkɔl bɪn ˈɪmpləˌmɛntəd wɛn sɪɡˈnɪfɪkənt ɪmˈpruvmənts əˈpɪrd",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "medical procedure",
+      "result"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2377,
+    "content_en": "It is through comprehensive health assessments that physicians identify underlying conditions.",
+    "content_vi": "Chính thông qua đánh giá sức khỏe toàn diện, bác sĩ xác định các tình trạng tiềm ẩn.",
+    "phonetic": "ɪt ɪz θru ˌkɑmprɪˈhɛnsɪv hɛlθ əˈsɛsmənts ðæt fɪˈzɪʃənz aɪˈdɛntəˌfaɪ ˌʌndərˈlaɪɪŋ kənˈdɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "diagnosis",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2378,
+    "content_en": "The healthcare sector's digital transformation necessitates sophisticated data security protocols.",
+    "content_vi": "Chuyển đổi kỹ thuật số của ngành chăm sóc sức khỏe đòi hỏi các quy trình bảo mật dữ liệu tinh vi.",
+    "phonetic": "ðə ˈhɛlθˌkɛr ˈsɛktərz ˈdɪʤətəl ˌtrænsfərˈmeɪʃən nəˈsɛsɪˌteɪts səˈfɪstɪˌkeɪtɪd ˈdeɪtə sɪˈkjʊrəti ˈproʊtəˌkɔlz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "technology",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2379,
+    "content_en": "Not until universal healthcare becomes accessible will health disparities be adequately addressed.",
+    "content_vi": "Chỉ khi chăm sóc sức khỏe toàn dân trở nên dễ tiếp cận, sự chênh lệch về sức khỏe mới được giải quyết đầy đủ.",
+    "phonetic": "nɑt ənˈtɪl ˌjunəˈvɜrsəl ˈhɛlθˌkɛr bɪˈkʌmz əkˈsɛsəbəl wɪl hɛlθ dɪˈspɛrətiz bi ˈædəkwətli əˈdrɛst",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "healthcare policy",
+      "equity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2380,
+    "content_en": "What makes personalized medicine revolutionary is its capacity to tailor treatments to individual genetics.",
+    "content_vi": "Điều làm cho y học cá nhân hóa mang tính cách mạng là khả năng điều chỉnh điều trị theo di truyền cá nhân.",
+    "phonetic": "wʌt meɪks ˈpɜrsənəˌlaɪzd ˈmɛdəsən ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈteɪlər ˈtritmənts tu ˌɪndəˈvɪʤəwəl ʤəˈnɛtɪks",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "personalized medicine",
+      "advanced"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2381,
+    "content_en": "The medical community's paradigm shift toward holistic care has fundamentally altered treatment approaches.",
+    "content_vi": "Sự thay đổi mô hình của cộng đồng y tế hướng tới chăm sóc toàn diện đã thay đổi căn bản các phương pháp điều trị.",
+    "phonetic": "ðə ˈmɛdɪkəl kəˈmjunətiz ˈpærəˌdaɪm ʃɪft təˈwɔrd hoʊˈlɪstɪk kɛr hæz ˌfʌndəˈmɛntəli ˈɔltərd ˈtritmənt əˈproʊʧɪz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "medical philosophy",
+      "transformation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2382,
+    "content_en": "Seldom have medical breakthroughs generated such profound ethical debates.",
+    "content_vi": "Hiếm khi những đột phá y tế lại tạo ra những cuộc tranh luận đạo đức sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˈmɛdɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd ˈɛθɪkəl dɪˈbeɪts",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "ethics",
+      "medical research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2383,
+    "content_en": "It is the integration of artificial intelligence and clinical expertise that enhances diagnostic accuracy.",
+    "content_vi": "Chính sự tích hợp của trí tuệ nhân tạo và chuyên môn lâm sàng nâng cao độ chính xác chẩn đoán.",
+    "phonetic": "ɪt ɪz ði ˌɪntəˈɡreɪʃən ʌv ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ænd ˈklɪnɪkəl ˌɛkspərˈtiz ðæt ɛnˈhænsɪz ˌdaɪəɡˈnɑstɪk ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "AI",
+      "medical technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2384,
+    "content_en": "Never before has medical technology advanced so rapidly in diagnostic precision.",
+    "content_vi": "Chưa bao giờ công nghệ y tế tiến bộ nhanh chóng đến vậy trong độ chính xác chẩn đoán.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˈmɛdɪkəl tɛkˈnɑləʤi ədˈvænst soʊ ˈræpɪdli ɪn ˌdaɪəɡˈnɑstɪk prɪˈsɪʒən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2385,
+    "content_en": "What distinguishes preventive medicine from reactive treatment is its focus on early intervention.",
+    "content_vi": "Điều phân biệt y học phòng ngừa với điều trị phản ứng là sự tập trung vào can thiệp sớm.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz prɪˈvɛntɪv ˈmɛdəsən frʌm riˈæktɪv ˈtritmənt ɪz ɪts ˈfoʊkəs ɑn ˈɜrli ˌɪntərˈvɛnʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "medical philosophy",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2386,
+    "content_en": "Scarcely had the treatment protocol been implemented when significant improvements appeared.",
+    "content_vi": "Ngay khi quy trình điều trị được thực hiện thì những cải thiện đáng kể đã xuất hiện.",
+    "phonetic": "ˈskɛrsli hæd ðə ˈtritmənt ˈproʊtəˌkɔl bɪn ˈɪmpləˌmɛntəd wɛn sɪɡˈnɪfɪkənt ɪmˈpruvmənts əˈpɪrd",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "medical procedure",
+      "result"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2387,
+    "content_en": "It is through comprehensive health assessments that physicians identify underlying conditions.",
+    "content_vi": "Chính thông qua đánh giá sức khỏe toàn diện, bác sĩ xác định các tình trạng tiềm ẩn.",
+    "phonetic": "ɪt ɪz θru ˌkɑmprɪˈhɛnsɪv hɛlθ əˈsɛsmənts ðæt fɪˈzɪʃənz aɪˈdɛntəˌfaɪ ˌʌndərˈlaɪɪŋ kənˈdɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "diagnosis",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2388,
+    "content_en": "The healthcare sector's digital transformation necessitates sophisticated data security protocols.",
+    "content_vi": "Chuyển đổi kỹ thuật số của ngành chăm sóc sức khỏe đòi hỏi các quy trình bảo mật dữ liệu tinh vi.",
+    "phonetic": "ðə ˈhɛlθˌkɛr ˈsɛktərz ˈdɪʤətəl ˌtrænsfərˈmeɪʃən nəˈsɛsɪˌteɪts səˈfɪstɪˌkeɪtɪd ˈdeɪtə sɪˈkjʊrəti ˈproʊtəˌkɔlz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "technology",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2389,
+    "content_en": "Not until universal healthcare becomes accessible will health disparities be adequately addressed.",
+    "content_vi": "Chỉ khi chăm sóc sức khỏe toàn dân trở nên dễ tiếp cận, sự chênh lệch về sức khỏe mới được giải quyết đầy đủ.",
+    "phonetic": "nɑt ənˈtɪl ˌjunəˈvɜrsəl ˈhɛlθˌkɛr bɪˈkʌmz əkˈsɛsəbəl wɪl hɛlθ dɪˈspɛrətiz bi ˈædəkwətli əˈdrɛst",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "healthcare policy",
+      "equity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2390,
+    "content_en": "What makes personalized medicine revolutionary is its capacity to tailor treatments to individual genetics.",
+    "content_vi": "Điều làm cho y học cá nhân hóa mang tính cách mạng là khả năng điều chỉnh điều trị theo di truyền cá nhân.",
+    "phonetic": "wʌt meɪks ˈpɜrsənəˌlaɪzd ˈmɛdəsən ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈteɪlər ˈtritmənts tu ˌɪndəˈvɪʤəwəl ʤəˈnɛtɪks",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "personalized medicine",
+      "advanced"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2391,
+    "content_en": "The medical community's paradigm shift toward holistic care has fundamentally altered treatment approaches.",
+    "content_vi": "Sự thay đổi mô hình của cộng đồng y tế hướng tới chăm sóc toàn diện đã thay đổi căn bản các phương pháp điều trị.",
+    "phonetic": "ðə ˈmɛdɪkəl kəˈmjunətiz ˈpærəˌdaɪm ʃɪft təˈwɔrd hoʊˈlɪstɪk kɛr hæz ˌfʌndəˈmɛntəli ˈɔltərd ˈtritmənt əˈproʊʧɪz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "medical philosophy",
+      "transformation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2392,
+    "content_en": "Seldom have medical breakthroughs generated such profound ethical debates.",
+    "content_vi": "Hiếm khi những đột phá y tế lại tạo ra những cuộc tranh luận đạo đức sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˈmɛdɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd ˈɛθɪkəl dɪˈbeɪts",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "ethics",
+      "medical research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2393,
+    "content_en": "It is the integration of artificial intelligence and clinical expertise that enhances diagnostic accuracy.",
+    "content_vi": "Chính sự tích hợp của trí tuệ nhân tạo và chuyên môn lâm sàng nâng cao độ chính xác chẩn đoán.",
+    "phonetic": "ɪt ɪz ði ˌɪntəˈɡreɪʃən ʌv ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ænd ˈklɪnɪkəl ˌɛkspərˈtiz ðæt ɛnˈhænsɪz ˌdaɪəɡˈnɑstɪk ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "AI",
+      "medical technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2394,
+    "content_en": "Never before has medical technology advanced so rapidly in diagnostic precision.",
+    "content_vi": "Chưa bao giờ công nghệ y tế tiến bộ nhanh chóng đến vậy trong độ chính xác chẩn đoán.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˈmɛdɪkəl tɛkˈnɑləʤi ədˈvænst soʊ ˈræpɪdli ɪn ˌdaɪəɡˈnɑstɪk prɪˈsɪʒən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2395,
+    "content_en": "What distinguishes preventive medicine from reactive treatment is its focus on early intervention.",
+    "content_vi": "Điều phân biệt y học phòng ngừa với điều trị phản ứng là sự tập trung vào can thiệp sớm.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz prɪˈvɛntɪv ˈmɛdəsən frʌm riˈæktɪv ˈtritmənt ɪz ɪts ˈfoʊkəs ɑn ˈɜrli ˌɪntərˈvɛnʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "medical philosophy",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2396,
+    "content_en": "Scarcely had the treatment protocol been implemented when significant improvements appeared.",
+    "content_vi": "Ngay khi quy trình điều trị được thực hiện thì những cải thiện đáng kể đã xuất hiện.",
+    "phonetic": "ˈskɛrsli hæd ðə ˈtritmənt ˈproʊtəˌkɔl bɪn ˈɪmpləˌmɛntəd wɛn sɪɡˈnɪfɪkənt ɪmˈpruvmənts əˈpɪrd",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "medical procedure",
+      "result"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2397,
+    "content_en": "It is through comprehensive health assessments that physicians identify underlying conditions.",
+    "content_vi": "Chính thông qua đánh giá sức khỏe toàn diện, bác sĩ xác định các tình trạng tiềm ẩn.",
+    "phonetic": "ɪt ɪz θru ˌkɑmprɪˈhɛnsɪv hɛlθ əˈsɛsmənts ðæt fɪˈzɪʃənz aɪˈdɛntəˌfaɪ ˌʌndərˈlaɪɪŋ kənˈdɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "diagnosis",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2398,
+    "content_en": "The healthcare sector's digital transformation necessitates sophisticated data security protocols.",
+    "content_vi": "Chuyển đổi kỹ thuật số của ngành chăm sóc sức khỏe đòi hỏi các quy trình bảo mật dữ liệu tinh vi.",
+    "phonetic": "ðə ˈhɛlθˌkɛr ˈsɛktərz ˈdɪʤətəl ˌtrænsfərˈmeɪʃən nəˈsɛsɪˌteɪts səˈfɪstɪˌkeɪtɪd ˈdeɪtə sɪˈkjʊrəti ˈproʊtəˌkɔlz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "technology",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2399,
+    "content_en": "Not until universal healthcare becomes accessible will health disparities be adequately addressed.",
+    "content_vi": "Chỉ khi chăm sóc sức khỏe toàn dân trở nên dễ tiếp cận, sự chênh lệch về sức khỏe mới được giải quyết đầy đủ.",
+    "phonetic": "nɑt ənˈtɪl ˌjunəˈvɜrsəl ˈhɛlθˌkɛr bɪˈkʌmz əkˈsɛsəbəl wɪl hɛlθ dɪˈspɛrətiz bi ˈædəkwətli əˈdrɛst",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "healthcare policy",
+      "equity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2400,
+    "content_en": "What makes personalized medicine revolutionary is its capacity to tailor treatments to individual genetics.",
+    "content_vi": "Điều làm cho y học cá nhân hóa mang tính cách mạng là khả năng điều chỉnh điều trị theo di truyền cá nhân.",
+    "phonetic": "wʌt meɪks ˈpɜrsənəˌlaɪzd ˈmɛdəsən ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈteɪlər ˈtritmənts tu ˌɪndəˈvɪʤəwəl ʤəˈnɛtɪks",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "personalized medicine",
+      "advanced"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2401,
+    "content_en": "The medical community's paradigm shift toward holistic care has fundamentally altered treatment approaches.",
+    "content_vi": "Sự thay đổi mô hình của cộng đồng y tế hướng tới chăm sóc toàn diện đã thay đổi căn bản các phương pháp điều trị.",
+    "phonetic": "ðə ˈmɛdɪkəl kəˈmjunətiz ˈpærəˌdaɪm ʃɪft təˈwɔrd hoʊˈlɪstɪk kɛr hæz ˌfʌndəˈmɛntəli ˈɔltərd ˈtritmənt əˈproʊʧɪz",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "complex",
+      "medical philosophy",
+      "transformation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2402,
+    "content_en": "Seldom have medical breakthroughs generated such profound ethical debates.",
+    "content_vi": "Hiếm khi những đột phá y tế lại tạo ra những cuộc tranh luận đạo đức sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˈmɛdɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd ˈɛθɪkəl dɪˈbeɪts",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "ethics",
+      "medical research"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2403,
+    "content_en": "It is the integration of artificial intelligence and clinical expertise that enhances diagnostic accuracy.",
+    "content_vi": "Chính sự tích hợp của trí tuệ nhân tạo và chuyên môn lâm sàng nâng cao độ chính xác chẩn đoán.",
+    "phonetic": "ɪt ɪz ði ˌɪntəˈɡreɪʃən ʌv ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ænd ˈklɪnɪkəl ˌɛkspərˈtiz ðæt ɛnˈhænsɪz ˌdaɪəɡˈnɑstɪk ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "cleft sentence",
+      "AI",
+      "medical technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

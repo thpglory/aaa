@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 4604,
+    "content_en": "I need a lawyer.",
+    "content_vi": "Tôi cần một luật sư.",
+    "phonetic": "aɪ nid ə ˈlɔjər",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "lawyer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4605,
+    "content_en": "I sign the contract.",
+    "content_vi": "Tôi ký hợp đồng.",
+    "phonetic": "aɪ saɪn ðə ˈkɑntrækt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "contract"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4606,
+    "content_en": "I read the document.",
+    "content_vi": "Tôi đọc tài liệu.",
+    "phonetic": "aɪ rɛd ðə ˈdɑkjəmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "document"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4607,
+    "content_en": "The law is important.",
+    "content_vi": "Pháp luật quan trọng.",
+    "phonetic": "ðə lɔ ɪz ɪmˈpɔrtənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "law"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4608,
+    "content_en": "I have rights.",
+    "content_vi": "Tôi có quyền.",
+    "phonetic": "aɪ hæv raɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4609,
+    "content_en": "I follow the rules.",
+    "content_vi": "Tôi tuân theo các quy tắc.",
+    "phonetic": "aɪ ˈfɑloʊ ðə rulz",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rules"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4610,
+    "content_en": "I pay a fine.",
+    "content_vi": "Tôi trả tiền phạt.",
+    "phonetic": "aɪ peɪ ə faɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "fine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4611,
+    "content_en": "I need legal help.",
+    "content_vi": "Tôi cần giúp đỡ pháp lý.",
+    "phonetic": "aɪ nid ˈliɡəl hɛlp",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4612,
+    "content_en": "The court is here.",
+    "content_vi": "Tòa án ở đây.",
+    "phonetic": "ðə kɔrt ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "court"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4613,
+    "content_en": "I tell the truth.",
+    "content_vi": "Tôi nói sự thật.",
+    "phonetic": "aɪ tɛl ðə truθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "truth"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4614,
+    "content_en": "I need a lawyer.",
+    "content_vi": "Tôi cần một luật sư.",
+    "phonetic": "aɪ nid ə ˈlɔjər",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "lawyer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4615,
+    "content_en": "I sign the contract.",
+    "content_vi": "Tôi ký hợp đồng.",
+    "phonetic": "aɪ saɪn ðə ˈkɑntrækt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "contract"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4616,
+    "content_en": "I read the document.",
+    "content_vi": "Tôi đọc tài liệu.",
+    "phonetic": "aɪ rɛd ðə ˈdɑkjəmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "document"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4617,
+    "content_en": "The law is important.",
+    "content_vi": "Pháp luật quan trọng.",
+    "phonetic": "ðə lɔ ɪz ɪmˈpɔrtənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "law"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4618,
+    "content_en": "I have rights.",
+    "content_vi": "Tôi có quyền.",
+    "phonetic": "aɪ hæv raɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4619,
+    "content_en": "I follow the rules.",
+    "content_vi": "Tôi tuân theo các quy tắc.",
+    "phonetic": "aɪ ˈfɑloʊ ðə rulz",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rules"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4620,
+    "content_en": "I pay a fine.",
+    "content_vi": "Tôi trả tiền phạt.",
+    "phonetic": "aɪ peɪ ə faɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "fine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4621,
+    "content_en": "I need legal help.",
+    "content_vi": "Tôi cần giúp đỡ pháp lý.",
+    "phonetic": "aɪ nid ˈliɡəl hɛlp",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4622,
+    "content_en": "The court is here.",
+    "content_vi": "Tòa án ở đây.",
+    "phonetic": "ðə kɔrt ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "court"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4623,
+    "content_en": "I tell the truth.",
+    "content_vi": "Tôi nói sự thật.",
+    "phonetic": "aɪ tɛl ðə truθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "truth"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4624,
+    "content_en": "I need a lawyer.",
+    "content_vi": "Tôi cần một luật sư.",
+    "phonetic": "aɪ nid ə ˈlɔjər",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "lawyer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4625,
+    "content_en": "I sign the contract.",
+    "content_vi": "Tôi ký hợp đồng.",
+    "phonetic": "aɪ saɪn ðə ˈkɑntrækt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "contract"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4626,
+    "content_en": "I read the document.",
+    "content_vi": "Tôi đọc tài liệu.",
+    "phonetic": "aɪ rɛd ðə ˈdɑkjəmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "document"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4627,
+    "content_en": "The law is important.",
+    "content_vi": "Pháp luật quan trọng.",
+    "phonetic": "ðə lɔ ɪz ɪmˈpɔrtənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "law"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4628,
+    "content_en": "I have rights.",
+    "content_vi": "Tôi có quyền.",
+    "phonetic": "aɪ hæv raɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4629,
+    "content_en": "I follow the rules.",
+    "content_vi": "Tôi tuân theo các quy tắc.",
+    "phonetic": "aɪ ˈfɑloʊ ðə rulz",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rules"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4630,
+    "content_en": "I pay a fine.",
+    "content_vi": "Tôi trả tiền phạt.",
+    "phonetic": "aɪ peɪ ə faɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "fine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4631,
+    "content_en": "I need legal help.",
+    "content_vi": "Tôi cần giúp đỡ pháp lý.",
+    "phonetic": "aɪ nid ˈliɡəl hɛlp",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4632,
+    "content_en": "The court is here.",
+    "content_vi": "Tòa án ở đây.",
+    "phonetic": "ðə kɔrt ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "court"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4633,
+    "content_en": "I tell the truth.",
+    "content_vi": "Tôi nói sự thật.",
+    "phonetic": "aɪ tɛl ðə truθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "truth"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4634,
+    "content_en": "I need a lawyer.",
+    "content_vi": "Tôi cần một luật sư.",
+    "phonetic": "aɪ nid ə ˈlɔjər",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "lawyer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4635,
+    "content_en": "I sign the contract.",
+    "content_vi": "Tôi ký hợp đồng.",
+    "phonetic": "aɪ saɪn ðə ˈkɑntrækt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "contract"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4636,
+    "content_en": "I read the document.",
+    "content_vi": "Tôi đọc tài liệu.",
+    "phonetic": "aɪ rɛd ðə ˈdɑkjəmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "document"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4637,
+    "content_en": "The law is important.",
+    "content_vi": "Pháp luật quan trọng.",
+    "phonetic": "ðə lɔ ɪz ɪmˈpɔrtənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "law"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4638,
+    "content_en": "I have rights.",
+    "content_vi": "Tôi có quyền.",
+    "phonetic": "aɪ hæv raɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4639,
+    "content_en": "I follow the rules.",
+    "content_vi": "Tôi tuân theo các quy tắc.",
+    "phonetic": "aɪ ˈfɑloʊ ðə rulz",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rules"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4640,
+    "content_en": "I pay a fine.",
+    "content_vi": "Tôi trả tiền phạt.",
+    "phonetic": "aɪ peɪ ə faɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "fine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4641,
+    "content_en": "I need legal help.",
+    "content_vi": "Tôi cần giúp đỡ pháp lý.",
+    "phonetic": "aɪ nid ˈliɡəl hɛlp",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4642,
+    "content_en": "The court is here.",
+    "content_vi": "Tòa án ở đây.",
+    "phonetic": "ðə kɔrt ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "court"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4643,
+    "content_en": "I tell the truth.",
+    "content_vi": "Tôi nói sự thật.",
+    "phonetic": "aɪ tɛl ðə truθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "truth"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4644,
+    "content_en": "I need a lawyer.",
+    "content_vi": "Tôi cần một luật sư.",
+    "phonetic": "aɪ nid ə ˈlɔjər",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "lawyer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4645,
+    "content_en": "I sign the contract.",
+    "content_vi": "Tôi ký hợp đồng.",
+    "phonetic": "aɪ saɪn ðə ˈkɑntrækt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "contract"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4646,
+    "content_en": "I read the document.",
+    "content_vi": "Tôi đọc tài liệu.",
+    "phonetic": "aɪ rɛd ðə ˈdɑkjəmənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "document"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4647,
+    "content_en": "The law is important.",
+    "content_vi": "Pháp luật quan trọng.",
+    "phonetic": "ðə lɔ ɪz ɪmˈpɔrtənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "law"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4648,
+    "content_en": "I have rights.",
+    "content_vi": "Tôi có quyền.",
+    "phonetic": "aɪ hæv raɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4649,
+    "content_en": "I follow the rules.",
+    "content_vi": "Tôi tuân theo các quy tắc.",
+    "phonetic": "aɪ ˈfɑloʊ ðə rulz",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "rules"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4650,
+    "content_en": "I pay a fine.",
+    "content_vi": "Tôi trả tiền phạt.",
+    "phonetic": "aɪ peɪ ə faɪn",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "fine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4651,
+    "content_en": "I need legal help.",
+    "content_vi": "Tôi cần giúp đỡ pháp lý.",
+    "phonetic": "aɪ nid ˈliɡəl hɛlp",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "legal help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4652,
+    "content_en": "The court is here.",
+    "content_vi": "Tòa án ở đây.",
+    "phonetic": "ðə kɔrt ɪz hɪr",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "court"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4653,
+    "content_en": "I tell the truth.",
+    "content_vi": "Tôi nói sự thật.",
+    "phonetic": "aɪ tɛl ðə truθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "legal"
+    ],
+    "tags": [
+      "basic",
+      "truth"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Pháp lý cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

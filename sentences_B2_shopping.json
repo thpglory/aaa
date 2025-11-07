@@ -1,0 +1,863 @@
+[
+    {
+        "id": 563,
+        "content_en": "How does this align with current market trends?",
+        "content_vi": "Điều này phù hợp với xu hướng thị trường hiện tại như thế nào?",
+        "phonetic": "haʊ dʌz ðɪs əˈlaɪn wɪð ˈkɜrənt ˈmɑrkət trɛndz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "trends",
+            "market"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về xu hướng thị trường",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 564,
+        "content_en": "I'm seeking a product with superior craftsmanship.",
+        "content_vi": "Tôi đang tìm sản phẩm với tay nghề thủ công vượt trội.",
+        "phonetic": "aɪm ˈsikɪŋ ə ˈprɑdəkt wɪð səˈpɪriər ˈkræftsmənˌʃɪp",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "quality",
+            "craftsmanship"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tìm sản phẩm chất lượng cao",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 565,
+        "content_en": "What distinguishes this from comparable products?",
+        "content_vi": "Điều gì phân biệt sản phẩm này với các sản phẩm tương đương?",
+        "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ðɪs frʌm ˈkɑmpərəbəl ˈprɑdəkts",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "differentiation",
+            "comparison"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về sự khác biệt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 566,
+        "content_en": "I'm prioritizing sustainability over price point.",
+        "content_vi": "Tôi ưu tiên tính bền vững hơn mức giá.",
+        "phonetic": "aɪm praɪˈɔrəˌtaɪzɪŋ səˌsteɪnəˈbɪləti ˈoʊvər praɪs pɔɪnt",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "values",
+            "sustainability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về giá trị ưu tiên",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 567,
+        "content_en": "Can you provide third-party testing results?",
+        "content_vi": "Bạn có thể cung cấp kết quả thử nghiệm của bên thứ ba không?",
+        "phonetic": "kæn ju prəˈvaɪd θɜrd-ˈpɑrti ˈtɛstɪŋ rɪˈzʌlts",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "verification",
+            "testing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin kết quả kiểm tra độc lập",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 568,
+        "content_en": "I'd appreciate a comprehensive breakdown of the pricing structure.",
+        "content_vi": "Tôi muốn có bảng phân tích toàn diện về cấu trúc giá.",
+        "phonetic": "aɪd əˈpriʃiˌeɪt ə ˌkɑmprɪˈhɛnsɪv ˈbreɪkˌdaʊn ʌv ðə ˈpraɪsɪŋ ˈstrʌkʧər",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "pricing",
+            "detail"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chi tiết về giá",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 569,
+        "content_en": "What's the resale value trajectory for this item?",
+        "content_vi": "Quỹ đạo giá trị bán lại của món hàng này là gì?",
+        "phonetic": "wʌts ðə ˈrisɛl ˈvælju trəˈdʒɛktəri fɔr ðɪs ˈaɪtəm",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "resale",
+            "value"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về giá trị bán lại",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 570,
+        "content_en": "I'm interested in the ethical sourcing of materials.",
+        "content_vi": "Tôi quan tâm đến việc tìm nguồn nguyên liệu có đạo đức.",
+        "phonetic": "aɪm ˈɪntrəstəd ɪn ði ˈɛθɪkəl ˈsɔrsɪŋ ʌv məˈtɪriəlz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "ethics",
+            "sourcing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Quan tâm về nguồn gốc đạo đức",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 571,
+        "content_en": "Does your company have a transparent supply chain?",
+        "content_vi": "Công ty bạn có chuỗi cung ứng minh bạch không?",
+        "phonetic": "dʌz jʊr ˈkʌmpəni hæv ə trænsˈpɛrənt səˈplaɪ ʧeɪn",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "transparency",
+            "supply-chain"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về tính minh bạch",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 572,
+        "content_en": "I'm evaluating the lifecycle environmental impact.",
+        "content_vi": "Tôi đang đánh giá tác động môi trường trong chu kỳ sống.",
+        "phonetic": "aɪm ɪˈvæljuˌeɪtɪŋ ðə ˈlaɪfˌsaɪkəl ɪnˌvaɪrənˈmɛntəl ˈɪmpækt",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "environment",
+            "lifecycle"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá tác động môi trường",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 573,
+        "content_en": "What certifications does this product hold?",
+        "content_vi": "Sản phẩm này có những chứng nhận gì?",
+        "phonetic": "wʌt ˌsɜrtəfəˈkeɪʃənz dʌz ðɪs ˈprɑdəkt hoʊld",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "certification",
+            "standards"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chứng nhận",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 574,
+        "content_en": "I'd like to understand the warranty coverage parameters.",
+        "content_vi": "Tôi muốn hiểu các thông số bảo hiểm bảo hành.",
+        "phonetic": "aɪd laɪk tə ˌʌndərˈstænd ðə ˈwɔrənti ˈkʌvərɪdʒ pəˈræmətərz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "warranty",
+            "detail"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chi tiết bảo hành",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 575,
+        "content_en": "Are there any latent defects I should be aware of?",
+        "content_vi": "Có khiếm khuyết tiềm ẩn nào tôi nên biết không?",
+        "phonetic": "ɑr ðɛr ˈɛni ˈleɪtənt ˈdifɛkts aɪ ʃʊd bi əˈwɛr ʌv",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "defects",
+            "disclosure"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về lỗi tiềm ẩn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 576,
+        "content_en": "I'm seeking empirical evidence of product performance.",
+        "content_vi": "Tôi đang tìm bằng chứng thực nghiệm về hiệu suất sản phẩm.",
+        "phonetic": "aɪm ˈsikɪŋ ɛmˈpɪrɪkəl ˈɛvədəns ʌv ˈprɑdəkt pərˈfɔrməns",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "evidence",
+            "performance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin bằng chứng hiệu suất",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 577,
+        "content_en": "How does this product facilitate user experience optimization?",
+        "content_vi": "Sản phẩm này tạo điều kiện cho tối ưu hóa trải nghiệm người dùng như thế nào?",
+        "phonetic": "haʊ dʌz ðɪs ˈprɑdəkt fəˈsɪləˌteɪt ˈjuzər ɪkˈspɪriəns ˌɑptəməˈzeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "UX",
+            "optimization"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về trải nghiệm người dùng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 578,
+        "content_en": "I'm conducting due diligence on this purchase.",
+        "content_vi": "Tôi đang thực hiện thẩm định cho việc mua này.",
+        "phonetic": "aɪm kənˈdʌktɪŋ du ˈdɪlədʒəns ɑn ðɪs ˈpɜrʧəs",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "research",
+            "diligence"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về việc nghiên cứu kỹ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 579,
+        "content_en": "What's the anticipated product obsolescence timeline?",
+        "content_vi": "Dự kiến thời gian sản phẩm lỗi thời là bao lâu?",
+        "phonetic": "wʌts ði ænˈtɪsəˌpeɪtɪd ˈprɑdəkt ˌɑbsəˈlɛsəns ˈtaɪmˌlaɪn",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "obsolescence",
+            "timeline"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thời gian lỗi thời",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 580,
+        "content_en": "I'm assessing the scalability of this solution.",
+        "content_vi": "Tôi đang đánh giá khả năng mở rộng của giải pháp này.",
+        "phonetic": "aɪm əˈsɛsɪŋ ðə ˌskeɪləˈbɪləti ʌv ðɪs səˈluʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "scalability",
+            "assessment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá khả năng mở rộng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 581,
+        "content_en": "Can you substantiate these performance claims?",
+        "content_vi": "Bạn có thể chứng minh những tuyên bố về hiệu suất này không?",
+        "phonetic": "kæn ju səbˈstænʃiˌeɪt ðiz pərˈfɔrməns kleɪmz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "verification",
+            "claims"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chứng minh tuyên bố",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 582,
+        "content_en": "I'm analyzing the trade-offs between competing features.",
+        "content_vi": "Tôi đang phân tích sự đánh đổi giữa các tính năng cạnh tranh.",
+        "phonetic": "aɪm ˈænəˌlaɪzɪŋ ðə treɪd-ɔfs bɪˈtwin kəmˈpitɪŋ ˈfiʧərz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "analysis",
+            "trade-offs"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phân tích đánh đổi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 583,
+        "content_en": "What contingency plans exist for supply disruptions?",
+        "content_vi": "Có kế hoạch dự phòng nào cho sự gián đoạn cung ứng không?",
+        "phonetic": "wʌt kənˈtɪndʒənsi plænz ɪɡˈzɪst fɔr səˈplaɪ dɪsˈrʌpʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "contingency",
+            "supply"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về kế hoạch dự phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 584,
+        "content_en": "I require detailed documentation for compliance purposes.",
+        "content_vi": "Tôi yêu cầu tài liệu chi tiết cho mục đích tuân thủ.",
+        "phonetic": "aɪ rɪˈkwaɪər ˈditeɪld ˌdɑkjəmɛnˈteɪʃən fɔr kəmˈplaɪəns ˈpɜrpəsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "documentation",
+            "compliance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu tài liệu tuân thủ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 585,
+        "content_en": "How does this integrate with existing infrastructure?",
+        "content_vi": "Điều này tích hợp với cơ sở hạ tầng hiện có như thế nào?",
+        "phonetic": "haʊ dʌz ðɪs ˈɪntəˌɡreɪt wɪð ɪɡˈzɪstɪŋ ˈɪnfrəˌstrʌkʧər",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "integration",
+            "infrastructure"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về tích hợp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 586,
+        "content_en": "I'm concerned about potential regulatory compliance issues.",
+        "content_vi": "Tôi lo ngại về các vấn đề tuân thủ quy định tiềm ẩn.",
+        "phonetic": "aɪm kənˈsɜrnd əˈbaʊt pəˈtɛnʃəl ˈrɛɡjələˌtɔri kəmˈplaɪəns ˈɪʃuz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "compliance",
+            "regulatory"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Quan tâm về tuân thủ pháp lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 587,
+        "content_en": "What's your approach to data privacy and security?",
+        "content_vi": "Cách tiếp cận của bạn về quyền riêng tư và bảo mật dữ liệu là gì?",
+        "phonetic": "wʌts jʊr əˈproʊʧ tə ˈdeɪtə ˈpraɪvəsi ænd sɪˈkjʊrəti",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "privacy",
+            "security"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về bảo mật dữ liệu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 588,
+        "content_en": "I'd like to negotiate volume pricing arrangements.",
+        "content_vi": "Tôi muốn đàm phán thỏa thuận giá theo số lượng.",
+        "phonetic": "aɪd laɪk tə nɪˈɡoʊʃiˌeɪt ˈvɑljum ˈpraɪsɪŋ əˈreɪndʒmənts",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "negotiation",
+            "volume"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đàm phán giá số lượng lớn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 589,
+        "content_en": "Can we establish a framework agreement?",
+        "content_vi": "Chúng ta có thể thiết lập thỏa thuận khung không?",
+        "phonetic": "kæn wi ɪˈstæblɪʃ ə ˈfreɪmˌwɜrk əˈɡrimənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "agreement",
+            "framework"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đề xuất thỏa thuận khung",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 590,
+        "content_en": "I'm evaluating the total value proposition holistically.",
+        "content_vi": "Tôi đang đánh giá tổng thể đề xuất giá trị một cách toàn diện.",
+        "phonetic": "aɪm ɪˈvæljuˌeɪtɪŋ ðə ˈtoʊtəl ˈvælju ˌprɑpəˈzɪʃən hoʊˈlɪstɪkli",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "evaluation",
+            "holistic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá toàn diện",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 591,
+        "content_en": "What are the implications for future upgradability?",
+        "content_vi": "Ý nghĩa đối với khả năng nâng cấp trong tương lai là gì?",
+        "phonetic": "wʌt ɑr ði ˌɪmpləˈkeɪʃənz fɔr ˈfjuʧər ˌʌpˌɡreɪdəˈbɪləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "upgradability",
+            "future"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về khả năng nâng cấp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 592,
+        "content_en": "I need assurance regarding post-purchase support infrastructure.",
+        "content_vi": "Tôi cần đảm bảo về cơ sở hạ tầng hỗ trợ sau mua hàng.",
+        "phonetic": "aɪ nid əˈʃʊrəns rɪˈɡɑrdɪŋ poʊst-ˈpɜrʧəs səˈpɔrt ˈɪnfrəˌstrʌkʧər",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "support",
+            "assurance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin đảm bảo về hỗ trợ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 593,
+        "content_en": "How do you benchmark against industry standards?",
+        "content_vi": "Bạn đo chuẩn so với tiêu chuẩn ngành như thế nào?",
+        "phonetic": "haʊ du ju ˈbɛnʧˌmɑrk əˈɡɛnst ˈɪndəstri ˈstændərdz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "benchmark",
+            "standards"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về so sánh chuẩn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 594,
+        "content_en": "I'm scrutinizing the risk-reward calculus of this investment.",
+        "content_vi": "Tôi đang xem xét kỹ phép tính rủi ro-lợi nhuận của khoản đầu tư này.",
+        "phonetic": "aɪm ˈskrutəˌnaɪzɪŋ ðə rɪsk-rɪˈwɔrd ˈkælkjələs ʌv ðɪs ɪnˈvɛstmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "risk",
+            "analysis"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phân tích rủi ro lợi nhuận",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 595,
+        "content_en": "What differentiation strategy underlies this product?",
+        "content_vi": "Chiến lược khác biệt hóa nào làm nền tảng cho sản phẩm này?",
+        "phonetic": "wʌt dɪˌfɛrənʃiˈeɪʃən ˈstrætədʒi ˌʌndərˈlaɪz ðɪs ˈprɑdəkt",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "strategy",
+            "differentiation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chiến lược khác biệt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 596,
+        "content_en": "I'm investigating the provenance and authenticity verification protocols.",
+        "content_vi": "Tôi đang điều tra nguồn gốc và giao thức xác minh tính xác thực.",
+        "phonetic": "aɪm ɪnˈvɛstəˌɡeɪtɪŋ ðə ˈprɑvənəns ænd ˌɔθɛnˈtɪsəti ˌvɛrəfəˈkeɪʃən ˈproʊtəˌkɔlz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "authenticity",
+            "verification"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Điều tra tính xác thực",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 597,
+        "content_en": "Can you articulate the competitive advantages more explicitly?",
+        "content_vi": "Bạn có thể diễn đạt các lợi thế cạnh tranh rõ ràng hơn không?",
+        "phonetic": "kæn ju ɑrˈtɪkjəˌleɪt ðə kəmˈpɛtətɪv ædˈvæntɪdʒɪz mɔr ɪkˈsplɪsətli",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "advantages",
+            "clarification"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin làm rõ lợi thế",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 598,
+        "content_en": "I'm assessing the alignment with our organizational objectives.",
+        "content_vi": "Tôi đang đánh giá sự phù hợp với các mục tiêu tổ chức của chúng tôi.",
+        "phonetic": "aɪm əˈsɛsɪŋ ði əˈlaɪnmənt wɪð ˈaʊər ˌɔrɡənəˈzeɪʃənəl əbˈdʒɛktɪvz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "alignment",
+            "organizational"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá phù hợp với tổ chức",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 599,
+        "content_en": "What mechanisms exist for continuous quality assurance?",
+        "content_vi": "Có cơ chế nào để đảm bảo chất lượng liên tục không?",
+        "phonetic": "wʌt ˈmɛkəˌnɪzəmz ɪɡˈzɪst fɔr kənˈtɪnjuəs ˈkwɑləti əˈʃʊrəns",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "quality",
+            "assurance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về đảm bảo chất lượng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 600,
+        "content_en": "I require transparency regarding the cost breakdown methodology.",
+        "content_vi": "Tôi yêu cầu minh bạch về phương pháp phân tích chi phí.",
+        "phonetic": "aɪ rɪˈkwaɪər trænsˈpɛrənsi rɪˈɡɑrdɪŋ ðə kɔst ˈbreɪkˌdaʊn ˌmɛθəˈdɑlədʒi",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "transparency",
+            "methodology"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu minh bạch về phương pháp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 601,
+        "content_en": "How do you mitigate potential vendor lock-in scenarios?",
+        "content_vi": "Bạn giảm thiểu các tình huống bị khóa nhà cung cấp tiềm ẩn như thế nào?",
+        "phonetic": "haʊ du ju ˈmɪtəˌɡeɪt pəˈtɛnʃəl ˈvɛndər lɑk-ɪn səˈnɛrioʊz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "risk-mitigation",
+            "vendor"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về giảm thiểu rủi ro nhà cung cấp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 602,
+        "content_en": "I'm interested in your approach to circular economy principles.",
+        "content_vi": "Tôi quan tâm đến cách tiếp cận của bạn về các nguyên tắc kinh tế tuần hoàn.",
+        "phonetic": "aɪm ˈɪntrəstəd ɪn jʊr əˈproʊʧ tə ˈsɜrkjələr ɪˈkɑnəmi ˈprɪnsəpəlz",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "sustainability",
+            "circular-economy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về kinh tế tuần hoàn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 603,
+        "content_en": "This transaction represents a significant strategic commitment for us.",
+        "content_vi": "Giao dịch này đại diện cho một cam kết chiến lược quan trọng đối với chúng tôi.",
+        "phonetic": "ðɪs trænˈzækʃən ˌrɛprɪˈzɛnts ə sɪɡˈnɪfɪkənt strəˈtidʒɪk kəˈmɪtmənt fɔr ʌs",
+        "level_id": "B2",
+        "topic_ids": [
+            "shopping"
+        ],
+        "tags": [
+            "strategic",
+            "commitment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nhấn mạnh tầm quan trọng chiến lược",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]

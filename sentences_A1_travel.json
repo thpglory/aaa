@@ -1,0 +1,863 @@
+[
+    {
+        "id": 613,
+        "content_en": "Where is the bus stop?",
+        "content_vi": "Trạm xe buýt ở đâu?",
+        "phonetic": "wɛr ɪz ðə bʌs stɑp",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "location",
+            "bus"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí trạm xe buýt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 614,
+        "content_en": "I have a reservation.",
+        "content_vi": "Tôi có đặt chỗ.",
+        "phonetic": "aɪ hæv ə ˌrɛzərˈveɪʃən",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "reservation",
+            "confirmation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xác nhận đặt chỗ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 615,
+        "content_en": "Here is my passport.",
+        "content_vi": "Đây là hộ chiếu của tôi.",
+        "phonetic": "hɪr ɪz maɪ ˈpæsˌpɔrt",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "document",
+            "passport"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xuất trình hộ chiếu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 616,
+        "content_en": "Where is my luggage?",
+        "content_vi": "Hành lý của tôi ở đâu?",
+        "phonetic": "wɛr ɪz maɪ ˈlʌɡɪdʒ",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "luggage",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về hành lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 617,
+        "content_en": "Is this the right way?",
+        "content_vi": "Đây có phải đường đúng không?",
+        "phonetic": "ɪz ðɪs ðə raɪt weɪ",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "direction",
+            "confirmation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xác nhận hướng đi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 618,
+        "content_en": "Go straight.",
+        "content_vi": "Đi thẳng.",
+        "phonetic": "ɡoʊ streɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "direction",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chỉ đường đi thẳng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 619,
+        "content_en": "Turn left.",
+        "content_vi": "Rẽ trái.",
+        "phonetic": "tɜrn lɛft",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "direction",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chỉ đường rẽ trái",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 620,
+        "content_en": "Turn right.",
+        "content_vi": "Rẽ phải.",
+        "phonetic": "tɜrn raɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "direction",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chỉ đường rẽ phải",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 621,
+        "content_en": "It's far.",
+        "content_vi": "Nó xa.",
+        "phonetic": "ɪts fɑr",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "distance",
+            "description"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về khoảng cách xa",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 622,
+        "content_en": "It's near.",
+        "content_vi": "Nó gần.",
+        "phonetic": "ɪts nɪr",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "distance",
+            "description"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về khoảng cách gần",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 623,
+        "content_en": "Can I walk there?",
+        "content_vi": "Tôi có thể đi bộ đến đó không?",
+        "phonetic": "kæn aɪ wɔk ðɛr",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "walking",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về đi bộ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 624,
+        "content_en": "Where is the hotel?",
+        "content_vi": "Khách sạn ở đâu?",
+        "phonetic": "wɛr ɪz ðə hoʊˈtɛl",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "location",
+            "hotel"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí khách sạn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 625,
+        "content_en": "I need a map.",
+        "content_vi": "Tôi cần bản đồ.",
+        "phonetic": "aɪ nid ə mæp",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "map",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin bản đồ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 626,
+        "content_en": "Where can I buy tickets?",
+        "content_vi": "Tôi có thể mua vé ở đâu?",
+        "phonetic": "wɛr kæn aɪ baɪ ˈtɪkəts",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "ticket",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi nơi mua vé",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 627,
+        "content_en": "What time does it leave?",
+        "content_vi": "Mấy giờ nó khởi hành?",
+        "phonetic": "wʌt taɪm dʌz ɪt liv",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "time",
+            "departure"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giờ khởi hành",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 628,
+        "content_en": "What time does it arrive?",
+        "content_vi": "Mấy giờ nó đến?",
+        "phonetic": "wʌt taɪm dʌz ɪt əˈraɪv",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "time",
+            "arrival"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giờ đến",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 629,
+        "content_en": "I missed my flight.",
+        "content_vi": "Tôi lỡ chuyến bay.",
+        "phonetic": "aɪ mɪst maɪ flaɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "problem",
+            "flight"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo lỡ chuyến bay",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 630,
+        "content_en": "Where is the exit?",
+        "content_vi": "Lối ra ở đâu?",
+        "phonetic": "wɛr ɪz ði ˈɛɡzɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "location",
+            "exit"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi lối ra",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 631,
+        "content_en": "Is there WiFi here?",
+        "content_vi": "Ở đây có WiFi không?",
+        "phonetic": "ɪz ðɛr ˈwaɪˌfaɪ hɪr",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "wifi",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về WiFi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 632,
+        "content_en": "I'm here for vacation.",
+        "content_vi": "Tôi đến đây để nghỉ mát.",
+        "phonetic": "aɪm hɪr fɔr veɪˈkeɪʃən",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "purpose",
+            "vacation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về mục đích du lịch",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 633,
+        "content_en": "I'm here for business.",
+        "content_vi": "Tôi đến đây công tác.",
+        "phonetic": "aɪm hɪr fɔr ˈbɪznəs",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "purpose",
+            "business"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về mục đích công việc",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 634,
+        "content_en": "How long is the flight?",
+        "content_vi": "Chuyến bay mất bao lâu?",
+        "phonetic": "haʊ lɔŋ ɪz ðə flaɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "duration",
+            "flight"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi thời gian bay",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 635,
+        "content_en": "Where is customs?",
+        "content_vi": "Hải quan ở đâu?",
+        "phonetic": "wɛr ɪz ˈkʌstəmz",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "location",
+            "customs"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí hải quan",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 636,
+        "content_en": "I have nothing to declare.",
+        "content_vi": "Tôi không có gì để khai báo.",
+        "phonetic": "aɪ hæv ˈnʌθɪŋ tə dɪˈklɛr",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "customs",
+            "declaration"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khai báo hải quan",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 637,
+        "content_en": "Is this seat taken?",
+        "content_vi": "Chỗ này có người ngồi chưa?",
+        "phonetic": "ɪz ðɪs sit ˈteɪkən",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "seat",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chỗ ngồi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 638,
+        "content_en": "This is my seat.",
+        "content_vi": "Đây là chỗ của tôi.",
+        "phonetic": "ðɪs ɪz maɪ sit",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "seat",
+            "claim"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xác nhận chỗ ngồi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 639,
+        "content_en": "Can I have water?",
+        "content_vi": "Cho tôi xin nước được không?",
+        "phonetic": "kæn aɪ hæv ˈwɔtər",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "request",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin nước",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 640,
+        "content_en": "I feel sick.",
+        "content_vi": "Tôi cảm thấy ốm.",
+        "phonetic": "aɪ fil sɪk",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "health",
+            "problem"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo bị ốm",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 641,
+        "content_en": "Where is the information desk?",
+        "content_vi": "Quầy thông tin ở đâu?",
+        "phonetic": "wɛr ɪz ði ˌɪnfərˈmeɪʃən dɛsk",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "location",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi quầy thông tin",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 642,
+        "content_en": "Can you speak English?",
+        "content_vi": "Bạn có nói tiếng Anh không?",
+        "phonetic": "kæn ju spik ˈɪŋɡlɪʃ",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "language",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về ngôn ngữ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 643,
+        "content_en": "I don't understand.",
+        "content_vi": "Tôi không hiểu.",
+        "phonetic": "aɪ doʊnt ˌʌndərˈstænd",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "communication",
+            "problem"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo không hiểu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 644,
+        "content_en": "Please speak slowly.",
+        "content_vi": "Làm ơn nói chậm lại.",
+        "phonetic": "pliz spik ˈsloʊli",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "communication",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin nói chậm",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 645,
+        "content_en": "Where can I change money?",
+        "content_vi": "Tôi có thể đổi tiền ở đâu?",
+        "phonetic": "wɛr kæn aɪ ʧeɪndʒ ˈmʌni",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "money",
+            "location"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi nơi đổi tiền",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 646,
+        "content_en": "How much does it cost?",
+        "content_vi": "Nó giá bao nhiêu?",
+        "phonetic": "haʊ mʌʧ dʌz ɪt kɔst",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "price",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giá",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 647,
+        "content_en": "Is breakfast included?",
+        "content_vi": "Có bao gồm bữa sáng không?",
+        "phonetic": "ɪz ˈbrɛkfəst ɪnˈkludəd",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "service",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về bữa sáng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 648,
+        "content_en": "Can I see the room?",
+        "content_vi": "Tôi có thể xem phòng không?",
+        "phonetic": "kæn aɪ si ðə rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "room",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin xem phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 649,
+        "content_en": "I need a different room.",
+        "content_vi": "Tôi cần một phòng khác.",
+        "phonetic": "aɪ nid ə ˈdɪfərənt rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "room",
+            "change"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu đổi phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 650,
+        "content_en": "What's the WiFi password?",
+        "content_vi": "Mật khẩu WiFi là gì?",
+        "phonetic": "wʌts ðə ˈwaɪˌfaɪ ˈpæsˌwɜrd",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "wifi",
+            "password"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi mật khẩu WiFi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 651,
+        "content_en": "Thank you for your help.",
+        "content_vi": "Cảm ơn sự giúp đỡ của bạn.",
+        "phonetic": "θæŋk ju fɔr jʊr hɛlp",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "gratitude",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cảm ơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 652,
+        "content_en": "Have a good trip!",
+        "content_vi": "Chúc chuyến đi vui vẻ!",
+        "phonetic": "hæv ə ɡʊd trɪp",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "farewell",
+            "wish"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chúc đi tốt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 653,
+        "content_en": "Safe travels!",
+        "content_vi": "Đi an toàn nhé!",
+        "phonetic": "seɪf ˈtrævəlz",
+        "level_id": "A1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "farewell",
+            "safety"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chúc đi an toàn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]

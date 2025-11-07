@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 2404,
+    "content_en": "I am a student.",
+    "content_vi": "Tôi là học sinh.",
+    "phonetic": "aɪ æm ə ˈstudənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "identity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2405,
+    "content_en": "I go to school.",
+    "content_vi": "Tôi đi học.",
+    "phonetic": "aɪ ɡoʊ tu skul",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2406,
+    "content_en": "Where is the classroom?",
+    "content_vi": "Phòng học ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈklæsˌrum",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2407,
+    "content_en": "I have homework.",
+    "content_vi": "Tôi có bài tập về nhà.",
+    "phonetic": "aɪ hæv ˈhoʊmˌwɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "school",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2408,
+    "content_en": "The teacher is nice.",
+    "content_vi": "Giáo viên tốt bụng.",
+    "phonetic": "ðə ˈtiʧər ɪz naɪs",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2409,
+    "content_en": "I like math.",
+    "content_vi": "Tôi thích toán.",
+    "phonetic": "aɪ laɪk mæθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "preference",
+      "subject"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2410,
+    "content_en": "I study English.",
+    "content_vi": "Tôi học tiếng Anh.",
+    "phonetic": "aɪ ˈstʌdi ˈɪŋɡlɪʃ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "subject",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2411,
+    "content_en": "The book is on the desk.",
+    "content_vi": "Cuốn sách ở trên bàn.",
+    "phonetic": "ðə bʊk ɪz ɑn ðə dɛsk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "object"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2412,
+    "content_en": "I need a pen.",
+    "content_vi": "Tôi cần một cây bút.",
+    "phonetic": "aɪ nid ə pɛn",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "request",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2413,
+    "content_en": "The test is tomorrow.",
+    "content_vi": "Bài kiểm tra là ngày mai.",
+    "phonetic": "ðə tɛst ɪz təˈmɑroʊ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "time",
+      "school"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2414,
+    "content_en": "I am a student.",
+    "content_vi": "Tôi là học sinh.",
+    "phonetic": "aɪ æm ə ˈstudənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "identity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2415,
+    "content_en": "I go to school.",
+    "content_vi": "Tôi đi học.",
+    "phonetic": "aɪ ɡoʊ tu skul",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2416,
+    "content_en": "Where is the classroom?",
+    "content_vi": "Phòng học ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈklæsˌrum",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2417,
+    "content_en": "I have homework.",
+    "content_vi": "Tôi có bài tập về nhà.",
+    "phonetic": "aɪ hæv ˈhoʊmˌwɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "school",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2418,
+    "content_en": "The teacher is nice.",
+    "content_vi": "Giáo viên tốt bụng.",
+    "phonetic": "ðə ˈtiʧər ɪz naɪs",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2419,
+    "content_en": "I like math.",
+    "content_vi": "Tôi thích toán.",
+    "phonetic": "aɪ laɪk mæθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "preference",
+      "subject"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2420,
+    "content_en": "I study English.",
+    "content_vi": "Tôi học tiếng Anh.",
+    "phonetic": "aɪ ˈstʌdi ˈɪŋɡlɪʃ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "subject",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2421,
+    "content_en": "The book is on the desk.",
+    "content_vi": "Cuốn sách ở trên bàn.",
+    "phonetic": "ðə bʊk ɪz ɑn ðə dɛsk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "object"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2422,
+    "content_en": "I need a pen.",
+    "content_vi": "Tôi cần một cây bút.",
+    "phonetic": "aɪ nid ə pɛn",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "request",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2423,
+    "content_en": "The test is tomorrow.",
+    "content_vi": "Bài kiểm tra là ngày mai.",
+    "phonetic": "ðə tɛst ɪz təˈmɑroʊ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "time",
+      "school"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2424,
+    "content_en": "I am a student.",
+    "content_vi": "Tôi là học sinh.",
+    "phonetic": "aɪ æm ə ˈstudənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "identity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2425,
+    "content_en": "I go to school.",
+    "content_vi": "Tôi đi học.",
+    "phonetic": "aɪ ɡoʊ tu skul",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2426,
+    "content_en": "Where is the classroom?",
+    "content_vi": "Phòng học ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈklæsˌrum",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2427,
+    "content_en": "I have homework.",
+    "content_vi": "Tôi có bài tập về nhà.",
+    "phonetic": "aɪ hæv ˈhoʊmˌwɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "school",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2428,
+    "content_en": "The teacher is nice.",
+    "content_vi": "Giáo viên tốt bụng.",
+    "phonetic": "ðə ˈtiʧər ɪz naɪs",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2429,
+    "content_en": "I like math.",
+    "content_vi": "Tôi thích toán.",
+    "phonetic": "aɪ laɪk mæθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "preference",
+      "subject"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2430,
+    "content_en": "I study English.",
+    "content_vi": "Tôi học tiếng Anh.",
+    "phonetic": "aɪ ˈstʌdi ˈɪŋɡlɪʃ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "subject",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2431,
+    "content_en": "The book is on the desk.",
+    "content_vi": "Cuốn sách ở trên bàn.",
+    "phonetic": "ðə bʊk ɪz ɑn ðə dɛsk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "object"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2432,
+    "content_en": "I need a pen.",
+    "content_vi": "Tôi cần một cây bút.",
+    "phonetic": "aɪ nid ə pɛn",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "request",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2433,
+    "content_en": "The test is tomorrow.",
+    "content_vi": "Bài kiểm tra là ngày mai.",
+    "phonetic": "ðə tɛst ɪz təˈmɑroʊ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "time",
+      "school"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2434,
+    "content_en": "I am a student.",
+    "content_vi": "Tôi là học sinh.",
+    "phonetic": "aɪ æm ə ˈstudənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "identity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2435,
+    "content_en": "I go to school.",
+    "content_vi": "Tôi đi học.",
+    "phonetic": "aɪ ɡoʊ tu skul",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2436,
+    "content_en": "Where is the classroom?",
+    "content_vi": "Phòng học ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈklæsˌrum",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2437,
+    "content_en": "I have homework.",
+    "content_vi": "Tôi có bài tập về nhà.",
+    "phonetic": "aɪ hæv ˈhoʊmˌwɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "school",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2438,
+    "content_en": "The teacher is nice.",
+    "content_vi": "Giáo viên tốt bụng.",
+    "phonetic": "ðə ˈtiʧər ɪz naɪs",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2439,
+    "content_en": "I like math.",
+    "content_vi": "Tôi thích toán.",
+    "phonetic": "aɪ laɪk mæθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "preference",
+      "subject"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2440,
+    "content_en": "I study English.",
+    "content_vi": "Tôi học tiếng Anh.",
+    "phonetic": "aɪ ˈstʌdi ˈɪŋɡlɪʃ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "subject",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2441,
+    "content_en": "The book is on the desk.",
+    "content_vi": "Cuốn sách ở trên bàn.",
+    "phonetic": "ðə bʊk ɪz ɑn ðə dɛsk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "object"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2442,
+    "content_en": "I need a pen.",
+    "content_vi": "Tôi cần một cây bút.",
+    "phonetic": "aɪ nid ə pɛn",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "request",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2443,
+    "content_en": "The test is tomorrow.",
+    "content_vi": "Bài kiểm tra là ngày mai.",
+    "phonetic": "ðə tɛst ɪz təˈmɑroʊ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "time",
+      "school"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2444,
+    "content_en": "I am a student.",
+    "content_vi": "Tôi là học sinh.",
+    "phonetic": "aɪ æm ə ˈstudənt",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "identity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2445,
+    "content_en": "I go to school.",
+    "content_vi": "Tôi đi học.",
+    "phonetic": "aɪ ɡoʊ tu skul",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "basic",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2446,
+    "content_en": "Where is the classroom?",
+    "content_vi": "Phòng học ở đâu?",
+    "phonetic": "wɛr ɪz ðə ˈklæsˌrum",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "question"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2447,
+    "content_en": "I have homework.",
+    "content_vi": "Tôi có bài tập về nhà.",
+    "phonetic": "aɪ hæv ˈhoʊmˌwɜrk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "school",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2448,
+    "content_en": "The teacher is nice.",
+    "content_vi": "Giáo viên tốt bụng.",
+    "phonetic": "ðə ˈtiʧər ɪz naɪs",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "description",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2449,
+    "content_en": "I like math.",
+    "content_vi": "Tôi thích toán.",
+    "phonetic": "aɪ laɪk mæθ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "preference",
+      "subject"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2450,
+    "content_en": "I study English.",
+    "content_vi": "Tôi học tiếng Anh.",
+    "phonetic": "aɪ ˈstʌdi ˈɪŋɡlɪʃ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "subject",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2451,
+    "content_en": "The book is on the desk.",
+    "content_vi": "Cuốn sách ở trên bàn.",
+    "phonetic": "ðə bʊk ɪz ɑn ðə dɛsk",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "location",
+      "object"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2452,
+    "content_en": "I need a pen.",
+    "content_vi": "Tôi cần một cây bút.",
+    "phonetic": "aɪ nid ə pɛn",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "request",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2453,
+    "content_en": "The test is tomorrow.",
+    "content_vi": "Bài kiểm tra là ngày mai.",
+    "phonetic": "ðə tɛst ɪz təˈmɑroʊ",
+    "level_id": "A1",
+    "topic_ids": [
+      "education"
+    ],
+    "tags": [
+      "time",
+      "school"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Giáo dục cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 704,
+        "content_en": "If I had known about the traffic, I would have left earlier.",
+        "content_vi": "Nếu tôi biết về tình trạng giao thông, tôi đã rời đi sớm hơn.",
+        "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə ˈtræfɪk aɪ wʊd hæv lɛft ˈɜrliər",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "conditional",
+            "regret"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Điều kiện loại 3 - hối tiếc về quá khứ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 705,
+        "content_en": "I'm looking for accommodation that's within walking distance of the beach.",
+        "content_vi": "Tôi đang tìm chỗ ở trong khoảng cách đi bộ đến bãi biển.",
+        "phonetic": "aɪm ˈlʊkɪŋ fɔr əˌkɑməˈdeɪʃən ðæts wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns ʌv ðə biʧ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "accommodation",
+            "relative clause"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mệnh đề quan hệ với that",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 706,
+        "content_en": "We've been waiting for our flight for over three hours now.",
+        "content_vi": "Chúng tôi đã chờ chuyến bay hơn ba giờ rồi.",
+        "phonetic": "wiv bɪn ˈweɪtɪŋ fɔr ˈaʊər flaɪt fɔr ˈoʊvər θri ˈaʊərz naʊ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "present perfect continuous",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thì hiện tại hoàn thành tiếp diễn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 707,
+        "content_en": "The hotel was supposed to have a gym, but it was closed for renovation.",
+        "content_vi": "Khách sạn được cho là có phòng tập, nhưng nó đóng cửa để cải tạo.",
+        "phonetic": "ðə hoʊˈtɛl wʌz səˈpoʊzd tə hæv ə dʒɪm bʌt ɪt wʌz kloʊzd fɔr ˌrɛnəˈveɪʃən",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "expectation",
+            "disappointment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc be supposed to",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 708,
+        "content_en": "I'd appreciate it if you could upgrade my room to a suite.",
+        "content_vi": "Tôi sẽ rất cảm kích nếu bạn có thể nâng cấp phòng của tôi lên suite.",
+        "phonetic": "aɪd əˈpriʃiˌeɪt ɪt ɪf ju kʊd ˈʌpˌɡreɪd maɪ rum tə ə swit",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "polite request",
+            "upgrade"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu lịch sự nâng cấp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 709,
+        "content_en": "By the time we arrived at the station, the train had already left.",
+        "content_vi": "Khi chúng tôi đến ga, tàu đã rời đi rồi.",
+        "phonetic": "baɪ ðə taɪm wi əˈraɪvd æt ðə ˈsteɪʃən ðə treɪn hæd ɔlˈrɛdi lɛft",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "past perfect",
+            "sequence"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thì quá khứ hoàn thành",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 710,
+        "content_en": "I wish I hadn't forgotten to pack my sunscreen.",
+        "content_vi": "Ước gì tôi đã không quên mang kem chống nắng.",
+        "phonetic": "aɪ wɪʃ aɪ ˈhædənt fərˈɡɑtən tə pæk maɪ ˈsʌnˌskrin",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "regret",
+            "wish"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc I wish về quá khứ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 711,
+        "content_en": "Despite the bad weather, we managed to enjoy our trip.",
+        "content_vi": "Mặc dù thời tiết xấu, chúng tôi vẫn tận hưởng chuyến đi.",
+        "phonetic": "dɪˈspaɪt ðə bæd ˈwɛðər wi ˈmænədʒd tə ɛnˈdʒɔɪ ˈaʊər trɪp",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "contrast",
+            "achievement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Liên từ tương phản despite",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 712,
+        "content_en": "Could you let me know if there are any cancellations?",
+        "content_vi": "Bạn có thể cho tôi biết nếu có bất kỳ hủy bỏ nào không?",
+        "phonetic": "kʊd ju lɛt mi noʊ ɪf ðɛr ɑr ˈɛni ˌkænsəˈleɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "request",
+            "conditional"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu thông báo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 713,
+        "content_en": "I'm getting used to driving on the left side of the road.",
+        "content_vi": "Tôi đang quen với việc lái xe bên trái đường.",
+        "phonetic": "aɪm ˈɡɛtɪŋ juzd tə ˈdraɪvɪŋ ɑn ðə lɛft saɪd ʌv ðə roʊd",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "adaptation",
+            "driving"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc get used to",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 714,
+        "content_en": "The tour guide recommended that we visit the castle at sunset.",
+        "content_vi": "Hướng dẫn viên khuyên chúng tôi nên thăm lâu đài lúc hoàng hôn.",
+        "phonetic": "ðə tʊr ɡaɪd ˌrɛkəˈmɛndəd ðæt wi ˈvɪzɪt ðə ˈkæsəl æt ˈsʌnˌsɛt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "subjunctive"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc recommend that",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 715,
+        "content_en": "I'd rather take the scenic route than the highway.",
+        "content_vi": "Tôi thích đi đường ngắm cảnh hơn là đường cao tốc.",
+        "phonetic": "aɪd ˈræðər teɪk ðə ˈsinɪk rut ðæn ðə ˈhaɪˌweɪ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "preference",
+            "route"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc would rather",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 716,
+        "content_en": "Unless we book now, we won't get a good deal on flights.",
+        "content_vi": "Trừ khi chúng ta đặt ngay bây giờ, chúng ta sẽ không có giá tốt cho chuyến bay.",
+        "phonetic": "ənˈlɛs wi bʊk naʊ wi woʊnt ɡɛt ə ɡʊd dil ɑn flaɪts",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "conditional",
+            "booking"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Điều kiện với unless",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 717,
+        "content_en": "My luggage was damaged during the flight.",
+        "content_vi": "Hành lý của tôi bị hư hại trong chuyến bay.",
+        "phonetic": "maɪ ˈlʌɡɪdʒ wʌz ˈdæmədʒd ˈdʊrɪŋ ðə flaɪt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "passive voice",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu bị động",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 718,
+        "content_en": "I can't believe how much the city has changed since I was last here.",
+        "content_vi": "Tôi không thể tin thành phố đã thay đổi nhiều như thế nào từ lần cuối tôi ở đây.",
+        "phonetic": "aɪ kænt bɪˈliv haʊ mʌʧ ðə ˈsɪti hæz ʧeɪndʒd sɪns aɪ wʌz læst hɪr",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "observation",
+            "change"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "So sánh với quá khứ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 719,
+        "content_en": "It's worth visiting the local market early in the morning.",
+        "content_vi": "Đáng để thăm chợ địa phương vào sáng sớm.",
+        "phonetic": "ɪts wɜrθ ˈvɪzɪtɪŋ ðə ˈloʊkəl ˈmɑrkət ˈɜrli ɪn ðə ˈmɔrnɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "worth"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc worth + V-ing",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 720,
+        "content_en": "I should have checked the weather forecast before planning outdoor activities.",
+        "content_vi": "Tôi đáng lẽ nên kiểm tra dự báo thời tiết trước khi lên kế hoạch hoạt động ngoài trời.",
+        "phonetic": "aɪ ʃʊd hæv ʧɛkt ðə ˈwɛðər ˈfɔrˌkæst bɪˈfɔr ˈplænɪŋ ˈaʊtˌdɔr ækˈtɪvətiz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "regret",
+            "advice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Should have + past participle",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 721,
+        "content_en": "The locals were extremely welcoming and helpful throughout our stay.",
+        "content_vi": "Người dân địa phương rất chào đón và hữu ích trong suốt thời gian chúng tôi ở lại.",
+        "phonetic": "ðə ˈloʊkəlz wɜr ɪkˈstrimli ˈwɛlkəmɪŋ ænd ˈhɛlpfəl θruˈaʊt ˈaʊər steɪ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "people",
+            "compliment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi người dân",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 722,
+        "content_en": "Having traveled extensively in Asia, I can say this is one of my favorite destinations.",
+        "content_vi": "Đã đi du lịch rộng rãi ở châu Á, tôi có thể nói đây là một trong những điểm đến yêu thích của tôi.",
+        "phonetic": "ˈhævɪŋ ˈtrævəld ɪkˈstɛnsɪvli ɪn ˈeɪʒə aɪ kæn seɪ ðɪs ɪz wʌn ʌv maɪ ˈfeɪvərɪt ˌdɛstəˈneɪʃənz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "experience",
+            "opinion"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phân từ hoàn thành",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 723,
+        "content_en": "I'm wondering whether to book a guided tour or explore independently.",
+        "content_vi": "Tôi đang phân vân có nên đặt tour có hướng dẫn hay khám phá độc lập.",
+        "phonetic": "aɪm ˈwʌndərɪŋ ˈwɛðər tə bʊk ə ˈɡaɪdəd tʊr ɔr ɪkˈsplɔr ˌɪndɪˈpɛndəntli",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "decision",
+            "uncertainty"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Whether to + infinitive",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 724,
+        "content_en": "The hotel charges extra for late check-out after midday.",
+        "content_vi": "Khách sạn tính phí thêm cho việc trả phòng muộn sau giữa trưa.",
+        "phonetic": "ðə hoʊˈtɛl ˈʧɑrdʒəz ˈɛkstrə fɔr leɪt ˈʧɛˌkaʊt ˈæftər ˈmɪdˌdeɪ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "fee",
+            "policy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông tin về phí",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 725,
+        "content_en": "No sooner had we checked in than the fire alarm went off.",
+        "content_vi": "Ngay sau khi chúng tôi nhận phòng thì chuông báo cháy kêu.",
+        "phonetic": "noʊ ˈsunər hæd wi ʧɛkt ɪn ðæn ðə ˈfaɪər əˈlɑrm wɛnt ɔf",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "incident",
+            "timing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc no sooner...than",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 726,
+        "content_en": "I find it difficult to communicate without knowing the local language.",
+        "content_vi": "Tôi thấy khó giao tiếp khi không biết ngôn ngữ địa phương.",
+        "phonetic": "aɪ faɪnd ɪt ˈdɪfəkəlt tə kəˈmjunəˌkeɪt wɪˈθaʊt ˈnoʊɪŋ ðə ˈloʊkəl ˈlæŋɡwədʒ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "challenge",
+            "language"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Find it + adjective + to infinitive",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 727,
+        "content_en": "We were advised to avoid traveling during the monsoon season.",
+        "content_vi": "Chúng tôi được khuyên tránh đi du lịch trong mùa gió mùa.",
+        "phonetic": "wi wɜr ədˈvaɪzd tə əˈvɔɪd ˈtrævəlɪŋ ˈdʊrɪŋ ðə mɑnˈsun ˈsizən",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "advice",
+            "passive voice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Câu bị động với advise",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 728,
+        "content_en": "The museum is so fascinating that I could spend hours there.",
+        "content_vi": "Bảo tàng hấp dẫn đến nỗi tôi có thể dành hàng giờ ở đó.",
+        "phonetic": "ðə mjuˈziəm ɪz soʊ ˈfæsəˌneɪtɪŋ ðæt aɪ kʊd spɛnd ˈaʊərz ðɛr",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "description",
+            "intensity"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cấu trúc so...that",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 729,
+        "content_en": "Provided that you arrive before 6 PM, we can arrange an airport pickup.",
+        "content_vi": "Miễn là bạn đến trước 6 giờ chiều, chúng tôi có thể sắp xếp đón tại sân bay.",
+        "phonetic": "prəˈvaɪdəd ðæt ju əˈraɪv bɪˈfɔr sɪks pi ɛm wi kæn əˈreɪndʒ ən ˈɛrˌpɔrt ˈpɪkˌʌp",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "conditional",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Điều kiện với provided that",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 730,
+        "content_en": "I've heard that the northern region is well worth exploring.",
+        "content_vi": "Tôi đã nghe nói rằng vùng phía bắc rất đáng khám phá.",
+        "phonetic": "aɪv hɜrd ðæt ðə ˈnɔrðərn ˈridʒən ɪz wɛl wɜrθ ɪkˈsplɔrɪŋ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "hearsay"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Reported speech",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 731,
+        "content_en": "Had I known the place was so far, I would have rented a car.",
+        "content_vi": "Nếu tôi biết nơi này xa như vậy, tôi đã thuê xe rồi.",
+        "phonetic": "hæd aɪ noʊn ðə pleɪs wʌz soʊ fɑr aɪ wʊd hæv ˈrɛntəd ə kɑr",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "inversion",
+            "conditional"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đảo ngữ với had",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 732,
+        "content_en": "The hiking trail turned out to be much more challenging than expected.",
+        "content_vi": "Đường mòn leo núi hóa ra thử thách hơn nhiều so với dự kiến.",
+        "phonetic": "ðə ˈhaɪkɪŋ treɪl tɜrnd aʊt tə bi mʌʧ mɔr ˈʧælənʤɪŋ ðæn ɪkˈspɛktəd",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "reality vs expectation",
+            "hiking"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Turn out to be",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 733,
+        "content_en": "I'm considering extending my visa to stay for another month.",
+        "content_vi": "Tôi đang cân nhắc gia hạn visa để ở lại thêm một tháng nữa.",
+        "phonetic": "aɪm kənˈsɪdərɪŋ ɪkˈstɛndɪŋ maɪ ˈvizə tə steɪ fɔr əˈnʌðər mʌnθ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "visa",
+            "consideration"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Consider + V-ing",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 734,
+        "content_en": "Not only was the room spacious, but it also had a balcony with an ocean view.",
+        "content_vi": "Phòng không chỉ rộng rãi mà còn có ban công với tầm nhìn ra biển.",
+        "phonetic": "nɑt ˈoʊnli wʌz ðə rum ˈspeɪʃəs bʌt ɪt ˈɔlsoʊ hæd ə ˈbælkəni wɪð ən ˈoʊʃən vju",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "description",
+            "emphasis"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Not only...but also",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 735,
+        "content_en": "Wherever you go in this country, you'll find friendly people.",
+        "content_vi": "Bất cứ nơi nào bạn đi trong đất nước này, bạn sẽ tìm thấy người thân thiện.",
+        "phonetic": "wɛrˈɛvər ju ɡoʊ ɪn ðɪs ˈkʌntri jul faɪnd ˈfrɛndli ˈpipəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "general statement",
+            "people"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Wherever clause",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 736,
+        "content_en": "I regret not having taken more photos during my trip.",
+        "content_vi": "Tôi hối hận vì đã không chụp nhiều ảnh hơn trong chuyến đi.",
+        "phonetic": "aɪ rɪˈɡrɛt nɑt ˈhævɪŋ ˈteɪkən mɔr ˈfoʊtoʊz ˈdʊrɪŋ maɪ trɪp",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "regret",
+            "perfect gerund"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Regret + perfect gerund",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 737,
+        "content_en": "The airline has offered to compensate us for the inconvenience.",
+        "content_vi": "Hãng hàng không đã đề nghị bồi thường cho chúng tôi vì sự bất tiện.",
+        "phonetic": "ði ˈɛrˌlaɪn hæz ˈɔfərd tə ˈkɑmpənˌseɪt ʌs fɔr ði ˌɪnkənˈvinjəns",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "compensation",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Offer to + infinitive",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 738,
+        "content_en": "I've got mixed feelings about returning home after such an amazing adventure.",
+        "content_vi": "Tôi có cảm xúc lẫn lộn về việc trở về nhà sau một cuộc phiêu lưu tuyệt vời như vậy.",
+        "phonetic": "aɪv ɡɑt mɪkst ˈfilɪŋz əˈbaʊt rɪˈtɜrnɪŋ hoʊm ˈæftər sʌʧ ən əˈmeɪzɪŋ ədˈvɛnʧər",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "emotion",
+            "return"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thành ngữ mixed feelings",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 739,
+        "content_en": "What matters most is that we make the most of our time here.",
+        "content_vi": "Điều quan trọng nhất là chúng ta tận dụng tối đa thời gian ở đây.",
+        "phonetic": "wʌt ˈmætərz moʊst ɪz ðæt wi meɪk ðə moʊst ʌv ˈaʊər taɪm hɪr",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "priority",
+            "philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "What matters + make the most of",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 740,
+        "content_en": "As soon as I get back, I'm going to start planning my next trip.",
+        "content_vi": "Ngay khi tôi về, tôi sẽ bắt đầu lên kế hoạch cho chuyến đi tiếp theo.",
+        "phonetic": "æz sun æz aɪ ɡɛt bæk aɪm ˈɡoʊɪŋ tə stɑrt ˈplænɪŋ maɪ nɛkst trɪp",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "future plan",
+            "enthusiasm"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "As soon as + present tense",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 741,
+        "content_en": "You might want to consider purchasing travel insurance before your departure.",
+        "content_vi": "Bạn có thể muốn cân nhắc mua bảo hiểm du lịch trước khi khởi hành.",
+        "phonetic": "ju maɪt wɑnt tə kənˈsɪdər ˈpɜrʧəsɪŋ ˈtrævəl ɪnˈʃʊrəns bɪˈfɔr jʊr dɪˈpɑrʧər",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "advice",
+            "insurance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Might want to + infinitive",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 742,
+        "content_en": "The train journey offers breathtaking views that you won't see from the plane.",
+        "content_vi": "Chuyến đi tàu mang đến những khung cảnh ngoạn mục mà bạn sẽ không thấy từ máy bay.",
+        "phonetic": "ðə treɪn ˈʤɜrni ˈɔfərz ˈbrɛθˌteɪkɪŋ vjuz ðæt ju woʊnt si frʌm ðə pleɪn",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "comparison",
+            "scenery"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "So sánh phương tiện",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 743,
+        "content_en": "I couldn't help feeling excited when I saw the pyramids for the first time.",
+        "content_vi": "Tôi không thể không cảm thấy phấn khích khi nhìn thấy kim tự tháp lần đầu tiên.",
+        "phonetic": "aɪ ˈkʊdənt hɛlp ˈfilɪŋ ɪkˈsaɪtəd wɛn aɪ sɔ ðə ˈpɪrəmɪdz fɔr ðə fɜrst taɪm",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "emotion",
+            "first experience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Can't help + V-ing",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 744,
+        "content_en": "The guidebook suggests that we allow at least three hours for the museum visit.",
+        "content_vi": "Sách hướng dẫn gợi ý rằng chúng ta nên dành ít nhất ba giờ cho chuyến thăm bảo tàng.",
+        "phonetic": "ðə ˈɡaɪdˌbʊk səɡˈʤɛsts ðæt wi əˈlaʊ æt list θri ˈaʊərz fɔr ðə mjuˈziəm ˈvɪzɪt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "recommendation",
+            "time management"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Suggest + subjunctive",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 745,
+        "content_en": "Although we were exhausted, the experience was totally worth it.",
+        "content_vi": "Mặc dù chúng tôi kiệt sức, nhưng trải nghiệm hoàn toàn đáng giá.",
+        "phonetic": "ɔlˈðoʊ wi wɜr ɪɡˈzɔstəd ðə ɪkˈspɪriəns wʌz ˈtoʊtəli wɜrθ ɪt",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "contrast",
+            "satisfaction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Although clause",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 746,
+        "content_en": "The receptionist went out of her way to help us with our special requests.",
+        "content_vi": "Nhân viên lễ tân đã cố gắng hết sức để giúp chúng tôi với những yêu cầu đặc biệt.",
+        "phonetic": "ðə rɪˈsɛpʃənəst wɛnt aʊt ʌv hɜr weɪ tə hɛlp ʌs wɪð ˈaʊər ˈspɛʃəl rɪˈkwɛsts",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "service",
+            "exceptional"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Go out of one's way",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 747,
+        "content_en": "In case of emergency, there's a 24-hour hotline you can call.",
+        "content_vi": "Trong trường hợp khẩn cấp, có đường dây nóng 24 giờ bạn có thể gọi.",
+        "phonetic": "ɪn keɪs ʌv ɪˈmɜrʤənsi ðɛrz ə ˈtwɛntiˌfɔr ˈaʊər ˈhɑˌtlaɪn ju kæn kɔl",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "emergency",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "In case of",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 748,
+        "content_en": "It took us nearly two hours to get through customs.",
+        "content_vi": "Chúng tôi mất gần hai giờ để qua hải quan.",
+        "phonetic": "ɪt tʊk ʌs ˈnɪrli tu ˈaʊərz tə ɡɛt θru ˈkʌstəmz",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "duration",
+            "customs"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "It took + time",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 749,
+        "content_en": "I've been to this city twice before, but I still discover something new each time.",
+        "content_vi": "Tôi đã đến thành phố này hai lần trước đây, nhưng tôi vẫn khám phá điều gì đó mới mỗi lần.",
+        "phonetic": "aɪv bɪn tə ðɪs ˈsɪti twaɪs bɪˈfɔr bʌt aɪ stɪl dɪˈskʌvər ˈsʌmθɪŋ nu iʧ taɪm",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "experience",
+            "discovery"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Present perfect + frequency",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 750,
+        "content_en": "The more I travel, the more I realize how little I know about the world.",
+        "content_vi": "Càng đi du lịch nhiều, tôi càng nhận ra mình biết thế giới ít như thế nào.",
+        "phonetic": "ðə mɔr aɪ ˈtrævəl ðə mɔr aɪ ˈriəˌlaɪz haʊ ˈlɪtəl aɪ noʊ əˈbaʊt ðə wɜrld",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "reflection",
+            "learning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "The more...the more",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 751,
+        "content_en": "Would you mind if I opened the window? It's getting quite stuffy in here.",
+        "content_vi": "Bạn có phiền nếu tôi mở cửa sổ không? Ở đây đang khá ngột ngạt.",
+        "phonetic": "wʊd ju maɪnd ɪf aɪ ˈoʊpənd ðə ˈwɪndoʊ ɪts ˈɡɛtɪŋ kwaɪt ˈstʌfi ɪn hɪr",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "polite request",
+            "permission"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Would you mind if",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 752,
+        "content_en": "The accommodation wasn't as luxurious as advertised, but it was clean and comfortable.",
+        "content_vi": "Chỗ ở không sang trọng như quảng cáo, nhưng nó sạch sẽ và thoải mái.",
+        "phonetic": "ði əˌkɑməˈdeɪʃən ˈwɑzənt æz lʌɡˈʒʊriəs æz ˈædvərˌtaɪzd bʌt ɪt wʌz klin ænd ˈkʌmfərtəbəl",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "comparison",
+            "reality vs expectation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Not as...as",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 753,
+        "content_en": "Given the circumstances, I think we should postpone our trip until next month.",
+        "content_vi": "Xét hoàn cảnh, tôi nghĩ chúng ta nên hoãn chuyến đi cho đến tháng sau.",
+        "phonetic": "ˈɡɪvən ðə ˈsɜrkəmˌstænsəz aɪ θɪŋk wi ʃʊd poʊstˈpoʊn ˈaʊər trɪp ənˈtɪl nɛkst mʌnθ",
+        "level_id": "B1",
+        "topic_ids": [
+            "travel"
+        ],
+        "tags": [
+            "suggestion",
+            "postponement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Given + noun",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]
