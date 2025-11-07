@@ -5091,8 +5091,8 @@
             console.log('=== KẾT THÚC LƯU NHẬT KÝ ===');
 
             // Clear form
-            const today = new Date().toISOString().split('T')[0];
-            document.getElementById('journalDate').value = today;
+            const todayStr = new Date().toISOString().split('T')[0];
+            document.getElementById('journalDate').value = todayStr;
             document.getElementById('journalBedTime').value = '';
             document.getElementById('journalLightsOut').value = '';
             document.getElementById('journalSleepLatency').value = '';
