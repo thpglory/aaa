@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 3504,
+    "content_en": "If I had known about the event, I would have attended.",
+    "content_vi": "Nếu tôi biết về sự kiện, tôi đã tham dự.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ði ɪˈvɛnt, aɪ wʊd hæv əˈtɛndəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3505,
+    "content_en": "Had I maintained better contact, our friendship wouldn't have faded.",
+    "content_vi": "Nếu tôi duy trì liên lạc tốt hơn, tình bạn của chúng tôi đã không phai nhạt.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ˈbɛtər ˈkɑntækt, ˈaʊər ˈfrɛndˌʃɪp ˈwʊdənt hæv ˈfeɪdəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3506,
+    "content_en": "The community, which had organized numerous events, fostered strong connections.",
+    "content_vi": "Cộng đồng, đã tổ chức nhiều sự kiện, đã thúc đẩy các kết nối mạnh mẽ.",
+    "phonetic": "ðə kəˈmjunəti, wɪʧ hæd ˈɔrɡəˌnaɪzd ˈnumərəs ɪˈvɛnts, ˈfɔstərd strɔŋ kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "community"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3507,
+    "content_en": "Should you need help organizing the gathering, I'm happy to assist.",
+    "content_vi": "Nếu bạn cần giúp tổ chức buổi tụ họp, tôi sẵn lòng hỗ trợ.",
+    "phonetic": "ʃʊd ju nid hɛlp ˈɔrɡəˌnaɪzɪŋ ðə ˈɡæðərɪŋ, aɪm ˈhæpi tu əˈsɪst",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "offer",
+      "help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3508,
+    "content_en": "The person who had introduced us became a close friend.",
+    "content_vi": "Người giới thiệu chúng tôi đã trở thành bạn thân.",
+    "phonetic": "ðə ˈpɜrsən hu hæd ˌɪntrəˈdust ʌs bɪˈkeɪm ə kloʊs frɛnd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3509,
+    "content_en": "If social media didn't exist, people would connect differently.",
+    "content_vi": "Nếu mạng xã hội không tồn tại, mọi người sẽ kết nối khác đi.",
+    "phonetic": "ɪf ˈsoʊʃəl ˈmidiə ˈdɪdənt ɪɡˈzɪst, ˈpipəl wʊd kəˈnɛkt ˈdɪfərəntli",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "social media"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3510,
+    "content_en": "Were community programs better funded, social cohesion would strengthen.",
+    "content_vi": "Nếu các chương trình cộng đồng được tài trợ tốt hơn, sự gắn kết xã hội sẽ mạnh mẽ hơn.",
+    "phonetic": "wɜr kəˈmjunəti ˈproʊɡræmz ˈbɛtər ˈfʌndəd, ˈsoʊʃəl koʊˈhiʒən wʊd ˈstrɛŋθən",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "community",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3511,
+    "content_en": "The friendship, which survived many challenges, remained unbreakable.",
+    "content_vi": "Tình bạn, vượt qua nhiều thách thức, vẫn không thể phá vỡ.",
+    "phonetic": "ðə ˈfrɛndˌʃɪp, wɪʧ sərˈvaɪvd ˈmɛni ˈʧælənʤɪz, rɪˈmeɪnd ˌʌnˈbreɪkəbəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "friendship",
+      "endurance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3512,
+    "content_en": "Had I been more outgoing, I would have made more connections.",
+    "content_vi": "Nếu tôi hướng ngoại hơn, tôi đã tạo được nhiều kết nối hơn.",
+    "phonetic": "hæd aɪ bɪn mɔr ˈaʊtˌɡoʊɪŋ, aɪ wʊd hæv meɪd mɔr kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "personality",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3513,
+    "content_en": "Unless you engage actively, meaningful relationships won't develop.",
+    "content_vi": "Trừ khi bạn tham gia tích cực, các mối quan hệ có ý nghĩa sẽ không phát triển.",
+    "phonetic": "ənˈlɛs ju ɪnˈɡeɪʤ ˈæktɪvli, ˈminɪŋfəl rɪˈleɪʃənˌʃɪps woʊnt dɪˈvɛləp",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "relationships"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3514,
+    "content_en": "If I had known about the event, I would have attended.",
+    "content_vi": "Nếu tôi biết về sự kiện, tôi đã tham dự.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ði ɪˈvɛnt, aɪ wʊd hæv əˈtɛndəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3515,
+    "content_en": "Had I maintained better contact, our friendship wouldn't have faded.",
+    "content_vi": "Nếu tôi duy trì liên lạc tốt hơn, tình bạn của chúng tôi đã không phai nhạt.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ˈbɛtər ˈkɑntækt, ˈaʊər ˈfrɛndˌʃɪp ˈwʊdənt hæv ˈfeɪdəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3516,
+    "content_en": "The community, which had organized numerous events, fostered strong connections.",
+    "content_vi": "Cộng đồng, đã tổ chức nhiều sự kiện, đã thúc đẩy các kết nối mạnh mẽ.",
+    "phonetic": "ðə kəˈmjunəti, wɪʧ hæd ˈɔrɡəˌnaɪzd ˈnumərəs ɪˈvɛnts, ˈfɔstərd strɔŋ kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "community"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3517,
+    "content_en": "Should you need help organizing the gathering, I'm happy to assist.",
+    "content_vi": "Nếu bạn cần giúp tổ chức buổi tụ họp, tôi sẵn lòng hỗ trợ.",
+    "phonetic": "ʃʊd ju nid hɛlp ˈɔrɡəˌnaɪzɪŋ ðə ˈɡæðərɪŋ, aɪm ˈhæpi tu əˈsɪst",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "offer",
+      "help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3518,
+    "content_en": "The person who had introduced us became a close friend.",
+    "content_vi": "Người giới thiệu chúng tôi đã trở thành bạn thân.",
+    "phonetic": "ðə ˈpɜrsən hu hæd ˌɪntrəˈdust ʌs bɪˈkeɪm ə kloʊs frɛnd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3519,
+    "content_en": "If social media didn't exist, people would connect differently.",
+    "content_vi": "Nếu mạng xã hội không tồn tại, mọi người sẽ kết nối khác đi.",
+    "phonetic": "ɪf ˈsoʊʃəl ˈmidiə ˈdɪdənt ɪɡˈzɪst, ˈpipəl wʊd kəˈnɛkt ˈdɪfərəntli",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "social media"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3520,
+    "content_en": "Were community programs better funded, social cohesion would strengthen.",
+    "content_vi": "Nếu các chương trình cộng đồng được tài trợ tốt hơn, sự gắn kết xã hội sẽ mạnh mẽ hơn.",
+    "phonetic": "wɜr kəˈmjunəti ˈproʊɡræmz ˈbɛtər ˈfʌndəd, ˈsoʊʃəl koʊˈhiʒən wʊd ˈstrɛŋθən",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "community",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3521,
+    "content_en": "The friendship, which survived many challenges, remained unbreakable.",
+    "content_vi": "Tình bạn, vượt qua nhiều thách thức, vẫn không thể phá vỡ.",
+    "phonetic": "ðə ˈfrɛndˌʃɪp, wɪʧ sərˈvaɪvd ˈmɛni ˈʧælənʤɪz, rɪˈmeɪnd ˌʌnˈbreɪkəbəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "friendship",
+      "endurance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3522,
+    "content_en": "Had I been more outgoing, I would have made more connections.",
+    "content_vi": "Nếu tôi hướng ngoại hơn, tôi đã tạo được nhiều kết nối hơn.",
+    "phonetic": "hæd aɪ bɪn mɔr ˈaʊtˌɡoʊɪŋ, aɪ wʊd hæv meɪd mɔr kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "personality",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3523,
+    "content_en": "Unless you engage actively, meaningful relationships won't develop.",
+    "content_vi": "Trừ khi bạn tham gia tích cực, các mối quan hệ có ý nghĩa sẽ không phát triển.",
+    "phonetic": "ənˈlɛs ju ɪnˈɡeɪʤ ˈæktɪvli, ˈminɪŋfəl rɪˈleɪʃənˌʃɪps woʊnt dɪˈvɛləp",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "relationships"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3524,
+    "content_en": "If I had known about the event, I would have attended.",
+    "content_vi": "Nếu tôi biết về sự kiện, tôi đã tham dự.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ði ɪˈvɛnt, aɪ wʊd hæv əˈtɛndəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3525,
+    "content_en": "Had I maintained better contact, our friendship wouldn't have faded.",
+    "content_vi": "Nếu tôi duy trì liên lạc tốt hơn, tình bạn của chúng tôi đã không phai nhạt.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ˈbɛtər ˈkɑntækt, ˈaʊər ˈfrɛndˌʃɪp ˈwʊdənt hæv ˈfeɪdəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3526,
+    "content_en": "The community, which had organized numerous events, fostered strong connections.",
+    "content_vi": "Cộng đồng, đã tổ chức nhiều sự kiện, đã thúc đẩy các kết nối mạnh mẽ.",
+    "phonetic": "ðə kəˈmjunəti, wɪʧ hæd ˈɔrɡəˌnaɪzd ˈnumərəs ɪˈvɛnts, ˈfɔstərd strɔŋ kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "community"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3527,
+    "content_en": "Should you need help organizing the gathering, I'm happy to assist.",
+    "content_vi": "Nếu bạn cần giúp tổ chức buổi tụ họp, tôi sẵn lòng hỗ trợ.",
+    "phonetic": "ʃʊd ju nid hɛlp ˈɔrɡəˌnaɪzɪŋ ðə ˈɡæðərɪŋ, aɪm ˈhæpi tu əˈsɪst",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "offer",
+      "help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3528,
+    "content_en": "The person who had introduced us became a close friend.",
+    "content_vi": "Người giới thiệu chúng tôi đã trở thành bạn thân.",
+    "phonetic": "ðə ˈpɜrsən hu hæd ˌɪntrəˈdust ʌs bɪˈkeɪm ə kloʊs frɛnd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3529,
+    "content_en": "If social media didn't exist, people would connect differently.",
+    "content_vi": "Nếu mạng xã hội không tồn tại, mọi người sẽ kết nối khác đi.",
+    "phonetic": "ɪf ˈsoʊʃəl ˈmidiə ˈdɪdənt ɪɡˈzɪst, ˈpipəl wʊd kəˈnɛkt ˈdɪfərəntli",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "social media"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3530,
+    "content_en": "Were community programs better funded, social cohesion would strengthen.",
+    "content_vi": "Nếu các chương trình cộng đồng được tài trợ tốt hơn, sự gắn kết xã hội sẽ mạnh mẽ hơn.",
+    "phonetic": "wɜr kəˈmjunəti ˈproʊɡræmz ˈbɛtər ˈfʌndəd, ˈsoʊʃəl koʊˈhiʒən wʊd ˈstrɛŋθən",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "community",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3531,
+    "content_en": "The friendship, which survived many challenges, remained unbreakable.",
+    "content_vi": "Tình bạn, vượt qua nhiều thách thức, vẫn không thể phá vỡ.",
+    "phonetic": "ðə ˈfrɛndˌʃɪp, wɪʧ sərˈvaɪvd ˈmɛni ˈʧælənʤɪz, rɪˈmeɪnd ˌʌnˈbreɪkəbəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "friendship",
+      "endurance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3532,
+    "content_en": "Had I been more outgoing, I would have made more connections.",
+    "content_vi": "Nếu tôi hướng ngoại hơn, tôi đã tạo được nhiều kết nối hơn.",
+    "phonetic": "hæd aɪ bɪn mɔr ˈaʊtˌɡoʊɪŋ, aɪ wʊd hæv meɪd mɔr kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "personality",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3533,
+    "content_en": "Unless you engage actively, meaningful relationships won't develop.",
+    "content_vi": "Trừ khi bạn tham gia tích cực, các mối quan hệ có ý nghĩa sẽ không phát triển.",
+    "phonetic": "ənˈlɛs ju ɪnˈɡeɪʤ ˈæktɪvli, ˈminɪŋfəl rɪˈleɪʃənˌʃɪps woʊnt dɪˈvɛləp",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "relationships"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3534,
+    "content_en": "If I had known about the event, I would have attended.",
+    "content_vi": "Nếu tôi biết về sự kiện, tôi đã tham dự.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ði ɪˈvɛnt, aɪ wʊd hæv əˈtɛndəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3535,
+    "content_en": "Had I maintained better contact, our friendship wouldn't have faded.",
+    "content_vi": "Nếu tôi duy trì liên lạc tốt hơn, tình bạn của chúng tôi đã không phai nhạt.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ˈbɛtər ˈkɑntækt, ˈaʊər ˈfrɛndˌʃɪp ˈwʊdənt hæv ˈfeɪdəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3536,
+    "content_en": "The community, which had organized numerous events, fostered strong connections.",
+    "content_vi": "Cộng đồng, đã tổ chức nhiều sự kiện, đã thúc đẩy các kết nối mạnh mẽ.",
+    "phonetic": "ðə kəˈmjunəti, wɪʧ hæd ˈɔrɡəˌnaɪzd ˈnumərəs ɪˈvɛnts, ˈfɔstərd strɔŋ kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "community"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3537,
+    "content_en": "Should you need help organizing the gathering, I'm happy to assist.",
+    "content_vi": "Nếu bạn cần giúp tổ chức buổi tụ họp, tôi sẵn lòng hỗ trợ.",
+    "phonetic": "ʃʊd ju nid hɛlp ˈɔrɡəˌnaɪzɪŋ ðə ˈɡæðərɪŋ, aɪm ˈhæpi tu əˈsɪst",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "offer",
+      "help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3538,
+    "content_en": "The person who had introduced us became a close friend.",
+    "content_vi": "Người giới thiệu chúng tôi đã trở thành bạn thân.",
+    "phonetic": "ðə ˈpɜrsən hu hæd ˌɪntrəˈdust ʌs bɪˈkeɪm ə kloʊs frɛnd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3539,
+    "content_en": "If social media didn't exist, people would connect differently.",
+    "content_vi": "Nếu mạng xã hội không tồn tại, mọi người sẽ kết nối khác đi.",
+    "phonetic": "ɪf ˈsoʊʃəl ˈmidiə ˈdɪdənt ɪɡˈzɪst, ˈpipəl wʊd kəˈnɛkt ˈdɪfərəntli",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "social media"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3540,
+    "content_en": "Were community programs better funded, social cohesion would strengthen.",
+    "content_vi": "Nếu các chương trình cộng đồng được tài trợ tốt hơn, sự gắn kết xã hội sẽ mạnh mẽ hơn.",
+    "phonetic": "wɜr kəˈmjunəti ˈproʊɡræmz ˈbɛtər ˈfʌndəd, ˈsoʊʃəl koʊˈhiʒən wʊd ˈstrɛŋθən",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "community",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3541,
+    "content_en": "The friendship, which survived many challenges, remained unbreakable.",
+    "content_vi": "Tình bạn, vượt qua nhiều thách thức, vẫn không thể phá vỡ.",
+    "phonetic": "ðə ˈfrɛndˌʃɪp, wɪʧ sərˈvaɪvd ˈmɛni ˈʧælənʤɪz, rɪˈmeɪnd ˌʌnˈbreɪkəbəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "friendship",
+      "endurance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3542,
+    "content_en": "Had I been more outgoing, I would have made more connections.",
+    "content_vi": "Nếu tôi hướng ngoại hơn, tôi đã tạo được nhiều kết nối hơn.",
+    "phonetic": "hæd aɪ bɪn mɔr ˈaʊtˌɡoʊɪŋ, aɪ wʊd hæv meɪd mɔr kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "personality",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3543,
+    "content_en": "Unless you engage actively, meaningful relationships won't develop.",
+    "content_vi": "Trừ khi bạn tham gia tích cực, các mối quan hệ có ý nghĩa sẽ không phát triển.",
+    "phonetic": "ənˈlɛs ju ɪnˈɡeɪʤ ˈæktɪvli, ˈminɪŋfəl rɪˈleɪʃənˌʃɪps woʊnt dɪˈvɛləp",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "relationships"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3544,
+    "content_en": "If I had known about the event, I would have attended.",
+    "content_vi": "Nếu tôi biết về sự kiện, tôi đã tham dự.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ði ɪˈvɛnt, aɪ wʊd hæv əˈtɛndəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3545,
+    "content_en": "Had I maintained better contact, our friendship wouldn't have faded.",
+    "content_vi": "Nếu tôi duy trì liên lạc tốt hơn, tình bạn của chúng tôi đã không phai nhạt.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ˈbɛtər ˈkɑntækt, ˈaʊər ˈfrɛndˌʃɪp ˈwʊdənt hæv ˈfeɪdəd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3546,
+    "content_en": "The community, which had organized numerous events, fostered strong connections.",
+    "content_vi": "Cộng đồng, đã tổ chức nhiều sự kiện, đã thúc đẩy các kết nối mạnh mẽ.",
+    "phonetic": "ðə kəˈmjunəti, wɪʧ hæd ˈɔrɡəˌnaɪzd ˈnumərəs ɪˈvɛnts, ˈfɔstərd strɔŋ kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "community"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3547,
+    "content_en": "Should you need help organizing the gathering, I'm happy to assist.",
+    "content_vi": "Nếu bạn cần giúp tổ chức buổi tụ họp, tôi sẵn lòng hỗ trợ.",
+    "phonetic": "ʃʊd ju nid hɛlp ˈɔrɡəˌnaɪzɪŋ ðə ˈɡæðərɪŋ, aɪm ˈhæpi tu əˈsɪst",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "offer",
+      "help"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3548,
+    "content_en": "The person who had introduced us became a close friend.",
+    "content_vi": "Người giới thiệu chúng tôi đã trở thành bạn thân.",
+    "phonetic": "ðə ˈpɜrsən hu hæd ˌɪntrəˈdust ʌs bɪˈkeɪm ə kloʊs frɛnd",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "friendship"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3549,
+    "content_en": "If social media didn't exist, people would connect differently.",
+    "content_vi": "Nếu mạng xã hội không tồn tại, mọi người sẽ kết nối khác đi.",
+    "phonetic": "ɪf ˈsoʊʃəl ˈmidiə ˈdɪdənt ɪɡˈzɪst, ˈpipəl wʊd kəˈnɛkt ˈdɪfərəntli",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "social media"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3550,
+    "content_en": "Were community programs better funded, social cohesion would strengthen.",
+    "content_vi": "Nếu các chương trình cộng đồng được tài trợ tốt hơn, sự gắn kết xã hội sẽ mạnh mẽ hơn.",
+    "phonetic": "wɜr kəˈmjunəti ˈproʊɡræmz ˈbɛtər ˈfʌndəd, ˈsoʊʃəl koʊˈhiʒən wʊd ˈstrɛŋθən",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional inversion",
+      "community",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3551,
+    "content_en": "The friendship, which survived many challenges, remained unbreakable.",
+    "content_vi": "Tình bạn, vượt qua nhiều thách thức, vẫn không thể phá vỡ.",
+    "phonetic": "ðə ˈfrɛndˌʃɪp, wɪʧ sərˈvaɪvd ˈmɛni ˈʧælənʤɪz, rɪˈmeɪnd ˌʌnˈbreɪkəbəl",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "relative clause",
+      "friendship",
+      "endurance"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3552,
+    "content_en": "Had I been more outgoing, I would have made more connections.",
+    "content_vi": "Nếu tôi hướng ngoại hơn, tôi đã tạo được nhiều kết nối hơn.",
+    "phonetic": "hæd aɪ bɪn mɔr ˈaʊtˌɡoʊɪŋ, aɪ wʊd hæv meɪd mɔr kəˈnɛkʃənz",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "personality",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3553,
+    "content_en": "Unless you engage actively, meaningful relationships won't develop.",
+    "content_vi": "Trừ khi bạn tham gia tích cực, các mối quan hệ có ý nghĩa sẽ không phát triển.",
+    "phonetic": "ənˈlɛs ju ɪnˈɡeɪʤ ˈæktɪvli, ˈminɪŋfəl rɪˈleɪʃənˌʃɪps woʊnt dɪˈvɛləp",
+    "level_id": "B1",
+    "topic_ids": [
+      "social"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "relationships"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Xã hội trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
