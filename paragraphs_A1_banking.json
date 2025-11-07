@@ -1,0 +1,222 @@
+[
+  {
+    "id": 10521,
+    "title": "Banking 1",
+    "title_vi": "ngân hàng 1",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10522,
+    "title": "Banking 2",
+    "title_vi": "ngân hàng 2",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10523,
+    "title": "Banking 3",
+    "title_vi": "ngân hàng 3",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10524,
+    "title": "Banking 4",
+    "title_vi": "ngân hàng 4",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10525,
+    "title": "Banking 5",
+    "title_vi": "ngân hàng 5",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10526,
+    "title": "Banking 6",
+    "title_vi": "ngân hàng 6",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10527,
+    "title": "Banking 7",
+    "title_vi": "ngân hàng 7",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10528,
+    "title": "Banking 8",
+    "title_vi": "ngân hàng 8",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10529,
+    "title": "Banking 9",
+    "title_vi": "ngân hàng 9",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10530,
+    "title": "Banking 10",
+    "title_vi": "ngân hàng 10",
+    "content_en": "I use banking service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ ngân hàng. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "basic",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "ngân hàng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": 10601,
+    "title": "Technology 1",
+    "title_vi": "công nghệ 1",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10602,
+    "title": "Technology 2",
+    "title_vi": "công nghệ 2",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10603,
+    "title": "Technology 3",
+    "title_vi": "công nghệ 3",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10604,
+    "title": "Technology 4",
+    "title_vi": "công nghệ 4",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10605,
+    "title": "Technology 5",
+    "title_vi": "công nghệ 5",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10606,
+    "title": "Technology 6",
+    "title_vi": "công nghệ 6",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10607,
+    "title": "Technology 7",
+    "title_vi": "công nghệ 7",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10608,
+    "title": "Technology 8",
+    "title_vi": "công nghệ 8",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10609,
+    "title": "Technology 9",
+    "title_vi": "công nghệ 9",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10610,
+    "title": "Technology 10",
+    "title_vi": "công nghệ 10",
+    "content_en": "I use technology service. It is good. I like it. I go there. It is nice. Thank you.",
+    "content_vi": "Tôi dùng dịch vụ công nghệ. Nó tốt. Tôi thích. Tôi đến đó. Nó đẹp. Cảm ơn.",
+    "level_id": "A1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "basic",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "công nghệ cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

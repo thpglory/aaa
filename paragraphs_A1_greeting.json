@@ -1,0 +1,222 @@
+[
+  {
+    "id": 10001,
+    "title": "Meeting Someone New",
+    "title_vi": "Gặp người mới",
+    "content_en": "Hello! My name is John. I am from America. I am a teacher. I am 25 years old. I live in New York. I speak English. Nice to meet you!",
+    "content_vi": "Xin chào! Tên tôi là John. Tôi đến từ Mỹ. Tôi là một giáo viên. Tôi 25 tuổi. Tôi sống ở New York. Tôi nói tiếng Anh. Rất vui được gặp bạn!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "introduction",
+      "basic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào hỏi cơ bản - giới thiệu bản thân",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10002,
+    "title": "First Day at School",
+    "title_vi": "Ngày đầu tiên ở trường",
+    "content_en": "Good morning! I am a new student. My name is Sarah. I am happy to be here. This is my first day. I want to learn English. I like this school. Thank you!",
+    "content_vi": "Chào buổi sáng! Tôi là học sinh mới. Tên tôi là Sarah. Tôi rất vui được ở đây. Đây là ngày đầu tiên của tôi. Tôi muốn học tiếng Anh. Tôi thích ngôi trường này. Cảm ơn!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "school",
+      "first_day"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào hỏi - ngày đầu đi học",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10003,
+    "title": "Saying Goodbye",
+    "title_vi": "Nói tạm biệt",
+    "content_en": "Goodbye! It was nice to meet you. I have to go now. See you tomorrow! Have a good day. Take care!",
+    "content_vi": "Tạm biệt! Rất vui được gặp bạn. Tôi phải đi bây giờ. Hẹn gặp lại ngày mai! Chúc bạn một ngày tốt lành. Bảo trọng!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "goodbye",
+      "farewell"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào tạm biệt",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10004,
+    "title": "Meeting a Friend",
+    "title_vi": "Gặp bạn bè",
+    "content_en": "Hi Tom! How are you? I am fine, thank you. It is a beautiful day today. Do you want to go to the park? Yes, I do. Let's go!",
+    "content_vi": "Chào Tom! Bạn khỏe không? Tôi khỏe, cảm ơn. Hôm nay là một ngày đẹp trời. Bạn có muốn đi công viên không? Có, tôi muốn. Đi thôi!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "friends",
+      "casual"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào hỏi bạn bè",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10005,
+    "title": "Morning Greeting",
+    "title_vi": "Chào buổi sáng",
+    "content_en": "Good morning! Today is Monday. I wake up at 7 o'clock. I have breakfast. I drink coffee. I am ready for work. Have a nice day!",
+    "content_vi": "Chào buổi sáng! Hôm nay là thứ Hai. Tôi thức dậy lúc 7 giờ. Tôi ăn sáng. Tôi uống cà phê. Tôi sẵn sàng đi làm. Chúc bạn một ngày tốt lành!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "morning",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào buổi sáng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10006,
+    "title": "Evening Greeting",
+    "title_vi": "Chào buổi tối",
+    "content_en": "Good evening! How was your day? My day was good. I worked today. Now I am home. I am tired. Good night!",
+    "content_vi": "Chào buổi tối! Ngày của bạn thế nào? Ngày của tôi tốt. Tôi đã làm việc hôm nay. Bây giờ tôi về nhà. Tôi mệt. Chúc ngủ ngon!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "evening",
+      "tired"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào buổi tối",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10007,
+    "title": "At the Office",
+    "title_vi": "Ở văn phòng",
+    "content_en": "Hello everyone! I am here for the meeting. My name is Mike. I work in the sales department. Nice to meet you all!",
+    "content_vi": "Xin chào mọi người! Tôi ở đây cho cuộc họp. Tên tôi là Mike. Tôi làm việc trong bộ phận bán hàng. Rất vui được gặp tất cả các bạn!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "office",
+      "formal"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào hỏi ở văn phòng",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10008,
+    "title": "Weekend Greeting",
+    "title_vi": "Chào cuối tuần",
+    "content_en": "Happy weekend! Today is Saturday. I don't work today. I am free. I want to relax. I will visit my family. Have a great weekend!",
+    "content_vi": "Cuối tuần vui vẻ! Hôm nay là thứ Bảy. Tôi không làm việc hôm nay. Tôi rảnh. Tôi muốn thư giãn. Tôi sẽ thăm gia đình. Chúc bạn một cuối tuần tuyệt vời!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "weekend",
+      "family"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào cuối tuần",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10009,
+    "title": "Phone Greeting",
+    "title_vi": "Chào qua điện thoại",
+    "content_en": "Hello? This is Anna. Who is this? Oh, hi David! How are you? I am good. Can I call you later? Okay, bye!",
+    "content_vi": "Xin chào? Đây là Anna. Ai đấy? Ồ, chào David! Bạn khỏe không? Tôi khỏe. Tôi có thể gọi lại cho bạn sau được không? Được, tạm biệt!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "phone",
+      "conversation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chào qua điện thoại",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 10010,
+    "title": "Birthday Greeting",
+    "title_vi": "Chúc mừng sinh nhật",
+    "content_en": "Happy birthday! Today is your special day. I hope you have a wonderful day. Here is a gift for you. Enjoy your party!",
+    "content_vi": "Chúc mừng sinh nhật! Hôm nay là ngày đặc biệt của bạn. Tôi hy vọng bạn có một ngày tuyệt vời. Đây là món quà cho bạn. Tận hưởng bữa tiệc của bạn!",
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "birthday",
+      "celebration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Đoạn văn chúc mừng sinh nhật",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
