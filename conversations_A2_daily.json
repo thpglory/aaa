@@ -1,0 +1,532 @@
+[
+  {
+    "id": 20371,
+    "title": "Daily Talk 1",
+    "title_vi": "Trò chuyện hàng ngày 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20372,
+    "title": "Daily Talk 2",
+    "title_vi": "Trò chuyện hàng ngày 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20373,
+    "title": "Daily Talk 3",
+    "title_vi": "Trò chuyện hàng ngày 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20374,
+    "title": "Daily Talk 4",
+    "title_vi": "Trò chuyện hàng ngày 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20375,
+    "title": "Daily Talk 5",
+    "title_vi": "Trò chuyện hàng ngày 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20376,
+    "title": "Daily Talk 6",
+    "title_vi": "Trò chuyện hàng ngày 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20377,
+    "title": "Daily Talk 7",
+    "title_vi": "Trò chuyện hàng ngày 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20378,
+    "title": "Daily Talk 8",
+    "title_vi": "Trò chuyện hàng ngày 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20379,
+    "title": "Daily Talk 9",
+    "title_vi": "Trò chuyện hàng ngày 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20380,
+    "title": "Daily Talk 10",
+    "title_vi": "Trò chuyện hàng ngày 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about daily.",
+        "text_vi": "Chào! Tôi muốn nói về hàng ngày."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in daily for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến hàng ngày một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "daily"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "daily"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại hàng ngày sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

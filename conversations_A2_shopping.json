@@ -1,0 +1,532 @@
+[
+  {
+    "id": 20051,
+    "title": "Shopping Talk 1",
+    "title_vi": "Trò chuyện mua sắm 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20052,
+    "title": "Shopping Talk 2",
+    "title_vi": "Trò chuyện mua sắm 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20053,
+    "title": "Shopping Talk 3",
+    "title_vi": "Trò chuyện mua sắm 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20054,
+    "title": "Shopping Talk 4",
+    "title_vi": "Trò chuyện mua sắm 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20055,
+    "title": "Shopping Talk 5",
+    "title_vi": "Trò chuyện mua sắm 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20056,
+    "title": "Shopping Talk 6",
+    "title_vi": "Trò chuyện mua sắm 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20057,
+    "title": "Shopping Talk 7",
+    "title_vi": "Trò chuyện mua sắm 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20058,
+    "title": "Shopping Talk 8",
+    "title_vi": "Trò chuyện mua sắm 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20059,
+    "title": "Shopping Talk 9",
+    "title_vi": "Trò chuyện mua sắm 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20060,
+    "title": "Shopping Talk 10",
+    "title_vi": "Trò chuyện mua sắm 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about shopping.",
+        "text_vi": "Chào! Tôi muốn nói về mua sắm."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in shopping for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến mua sắm một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "shopping"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "shopping"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại mua sắm sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

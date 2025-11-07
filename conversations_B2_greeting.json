@@ -1,0 +1,532 @@
+[
+  {
+    "id": 20031,
+    "title": "Advanced Greeting Dialogue 1",
+    "title_vi": "Đối thoại chào hỏi nâng cao 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20032,
+    "title": "Advanced Greeting Dialogue 2",
+    "title_vi": "Đối thoại chào hỏi nâng cao 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20033,
+    "title": "Advanced Greeting Dialogue 3",
+    "title_vi": "Đối thoại chào hỏi nâng cao 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20034,
+    "title": "Advanced Greeting Dialogue 4",
+    "title_vi": "Đối thoại chào hỏi nâng cao 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20035,
+    "title": "Advanced Greeting Dialogue 5",
+    "title_vi": "Đối thoại chào hỏi nâng cao 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20036,
+    "title": "Advanced Greeting Dialogue 6",
+    "title_vi": "Đối thoại chào hỏi nâng cao 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20037,
+    "title": "Advanced Greeting Dialogue 7",
+    "title_vi": "Đối thoại chào hỏi nâng cao 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20038,
+    "title": "Advanced Greeting Dialogue 8",
+    "title_vi": "Đối thoại chào hỏi nâng cao 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20039,
+    "title": "Advanced Greeting Dialogue 9",
+    "title_vi": "Đối thoại chào hỏi nâng cao 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20040,
+    "title": "Advanced Greeting Dialogue 10",
+    "title_vi": "Đối thoại chào hỏi nâng cao 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has greeting been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ chào hỏi lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary greeting from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt chào hỏi đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

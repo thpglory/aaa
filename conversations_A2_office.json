@@ -1,0 +1,532 @@
+[
+  {
+    "id": 20251,
+    "title": "Office Talk 1",
+    "title_vi": "Trò chuyện văn phòng 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20252,
+    "title": "Office Talk 2",
+    "title_vi": "Trò chuyện văn phòng 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20253,
+    "title": "Office Talk 3",
+    "title_vi": "Trò chuyện văn phòng 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20254,
+    "title": "Office Talk 4",
+    "title_vi": "Trò chuyện văn phòng 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20255,
+    "title": "Office Talk 5",
+    "title_vi": "Trò chuyện văn phòng 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20256,
+    "title": "Office Talk 6",
+    "title_vi": "Trò chuyện văn phòng 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20257,
+    "title": "Office Talk 7",
+    "title_vi": "Trò chuyện văn phòng 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20258,
+    "title": "Office Talk 8",
+    "title_vi": "Trò chuyện văn phòng 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20259,
+    "title": "Office Talk 9",
+    "title_vi": "Trò chuyện văn phòng 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20260,
+    "title": "Office Talk 10",
+    "title_vi": "Trò chuyện văn phòng 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hi! I'd like to talk about office.",
+        "text_vi": "Chào! Tôi muốn nói về văn phòng."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Sure! What would you like to know?",
+        "text_vi": "Chắc chắn! Bạn muốn biết gì?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I've been interested in office for a while. Could you share your experience?",
+        "text_vi": "Tôi đã quan tâm đến văn phòng một thời gian. Bạn có thể chia sẻ kinh nghiệm không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Of course! I think it's really interesting. I've learned a lot.",
+        "text_vi": "Tất nhiên! Tôi nghĩ nó thực sự thú vị. Tôi đã học được nhiều."
+      },
+      {
+        "speaker": "A",
+        "text_en": "That's great! Thank you for sharing.",
+        "text_vi": "Thật tuyệt! Cảm ơn vì đã chia sẻ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "You're welcome! Let me know if you have more questions.",
+        "text_vi": "Không có gì! Cho tôi biết nếu bạn có thêm câu hỏi."
+      }
+    ],
+    "level_id": "A2",
+    "topic_ids": [
+      "office"
+    ],
+    "tags": [
+      "elementary",
+      "conversation",
+      "office"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại văn phòng sơ cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

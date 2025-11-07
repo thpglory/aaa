@@ -1,0 +1,482 @@
+[
+  {
+    "id": 20421,
+    "title": "Medical Discussion 1",
+    "title_vi": "Thảo luận y tế 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20422,
+    "title": "Medical Discussion 2",
+    "title_vi": "Thảo luận y tế 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20423,
+    "title": "Medical Discussion 3",
+    "title_vi": "Thảo luận y tế 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20424,
+    "title": "Medical Discussion 4",
+    "title_vi": "Thảo luận y tế 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20425,
+    "title": "Medical Discussion 5",
+    "title_vi": "Thảo luận y tế 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20426,
+    "title": "Medical Discussion 6",
+    "title_vi": "Thảo luận y tế 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20427,
+    "title": "Medical Discussion 7",
+    "title_vi": "Thảo luận y tế 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20428,
+    "title": "Medical Discussion 8",
+    "title_vi": "Thảo luận y tế 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20429,
+    "title": "Medical Discussion 9",
+    "title_vi": "Thảo luận y tế 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20430,
+    "title": "Medical Discussion 10",
+    "title_vi": "Thảo luận y tế 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about medical earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về y tế sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about medical, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về y tế, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

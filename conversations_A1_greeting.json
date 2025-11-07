@@ -1,0 +1,482 @@
+[
+  {
+    "id": 20001,
+    "title": "Greeting Conversation 1",
+    "title_vi": "Hội thoại chào hỏi 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20002,
+    "title": "Greeting Conversation 2",
+    "title_vi": "Hội thoại chào hỏi 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20003,
+    "title": "Greeting Conversation 3",
+    "title_vi": "Hội thoại chào hỏi 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20004,
+    "title": "Greeting Conversation 4",
+    "title_vi": "Hội thoại chào hỏi 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20005,
+    "title": "Greeting Conversation 5",
+    "title_vi": "Hội thoại chào hỏi 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20006,
+    "title": "Greeting Conversation 6",
+    "title_vi": "Hội thoại chào hỏi 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20007,
+    "title": "Greeting Conversation 7",
+    "title_vi": "Hội thoại chào hỏi 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20008,
+    "title": "Greeting Conversation 8",
+    "title_vi": "Hội thoại chào hỏi 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20009,
+    "title": "Greeting Conversation 9",
+    "title_vi": "Hội thoại chào hỏi 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20010,
+    "title": "Greeting Conversation 10",
+    "title_vi": "Hội thoại chào hỏi 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Hello! How are you?",
+        "text_vi": "Xin chào! Bạn khỏe không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "I am fine, thank you. And you?",
+        "text_vi": "Tôi khỏe, cảm ơn. Còn bạn?"
+      },
+      {
+        "speaker": "A",
+        "text_en": "I am good. I like greeting.",
+        "text_vi": "Tôi khỏe. Tôi thích chào hỏi."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Me too. It is nice.",
+        "text_vi": "Tôi cũng vậy. Nó tuyệt."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Thank you!",
+        "text_vi": "Cảm ơn!"
+      }
+    ],
+    "level_id": "A1",
+    "topic_ids": [
+      "greeting"
+    ],
+    "tags": [
+      "basic",
+      "conversation",
+      "greeting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại chào hỏi cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": 20221,
+    "title": "Pharmacy Discussion 1",
+    "title_vi": "Thảo luận nhà thuốc 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20222,
+    "title": "Pharmacy Discussion 2",
+    "title_vi": "Thảo luận nhà thuốc 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20223,
+    "title": "Pharmacy Discussion 3",
+    "title_vi": "Thảo luận nhà thuốc 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20224,
+    "title": "Pharmacy Discussion 4",
+    "title_vi": "Thảo luận nhà thuốc 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20225,
+    "title": "Pharmacy Discussion 5",
+    "title_vi": "Thảo luận nhà thuốc 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20226,
+    "title": "Pharmacy Discussion 6",
+    "title_vi": "Thảo luận nhà thuốc 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20227,
+    "title": "Pharmacy Discussion 7",
+    "title_vi": "Thảo luận nhà thuốc 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20228,
+    "title": "Pharmacy Discussion 8",
+    "title_vi": "Thảo luận nhà thuốc 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20229,
+    "title": "Pharmacy Discussion 9",
+    "title_vi": "Thảo luận nhà thuốc 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20230,
+    "title": "Pharmacy Discussion 10",
+    "title_vi": "Thảo luận nhà thuốc 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about pharmacy earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về nhà thuốc sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about pharmacy, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về nhà thuốc, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "pharmacy"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "pharmacy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại nhà thuốc trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

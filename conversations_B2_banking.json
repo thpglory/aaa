@@ -1,0 +1,532 @@
+[
+  {
+    "id": 20551,
+    "title": "Advanced Banking Dialogue 1",
+    "title_vi": "Đối thoại ngân hàng nâng cao 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20552,
+    "title": "Advanced Banking Dialogue 2",
+    "title_vi": "Đối thoại ngân hàng nâng cao 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20553,
+    "title": "Advanced Banking Dialogue 3",
+    "title_vi": "Đối thoại ngân hàng nâng cao 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20554,
+    "title": "Advanced Banking Dialogue 4",
+    "title_vi": "Đối thoại ngân hàng nâng cao 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20555,
+    "title": "Advanced Banking Dialogue 5",
+    "title_vi": "Đối thoại ngân hàng nâng cao 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20556,
+    "title": "Advanced Banking Dialogue 6",
+    "title_vi": "Đối thoại ngân hàng nâng cao 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20557,
+    "title": "Advanced Banking Dialogue 7",
+    "title_vi": "Đối thoại ngân hàng nâng cao 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20558,
+    "title": "Advanced Banking Dialogue 8",
+    "title_vi": "Đối thoại ngân hàng nâng cao 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20559,
+    "title": "Advanced Banking Dialogue 9",
+    "title_vi": "Đối thoại ngân hàng nâng cao 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20560,
+    "title": "Advanced Banking Dialogue 10",
+    "title_vi": "Đối thoại ngân hàng nâng cao 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "Never before has banking been such a significant topic of discussion in our society.",
+        "text_vi": "Chưa bao giờ ngân hàng lại là chủ đề thảo luận quan trọng như vậy trong xã hội."
+      },
+      {
+        "speaker": "B",
+        "text_en": "What distinguishes contemporary banking from traditional approaches is the integration of modern technology.",
+        "text_vi": "Điều phân biệt ngân hàng đương đại với phương pháp truyền thống là sự tích hợp công nghệ hiện đại."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Scarcely had I begun researching this area when I realized its profound implications.",
+        "text_vi": "Vừa mới bắt đầu nghiên cứu lĩnh vực này khi tôi nhận ra tác động sâu sắc."
+      },
+      {
+        "speaker": "B",
+        "text_en": "It is through comprehensive analysis that we truly understand the complexities involved.",
+        "text_vi": "Chính qua phân tích toàn diện mà chúng ta thực sự hiểu các phức tạp liên quan."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Rarely do we encounter such transformative changes. Not until we adapt will we thrive.",
+        "text_vi": "Hiếm khi gặp thay đổi biến đổi như vậy. Chỉ khi thích ứng, chúng ta mới phát triển."
+      },
+      {
+        "speaker": "B",
+        "text_en": "Absolutely. Seldom have I seen such rapid evolution in any field.",
+        "text_vi": "Hoàn toàn đúng. Hiếm khi tôi thấy sự phát triển nhanh như vậy trong bất kỳ lĩnh vực nào."
+      }
+    ],
+    "level_id": "B2",
+    "topic_ids": [
+      "banking"
+    ],
+    "tags": [
+      "advanced",
+      "conversation",
+      "banking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại ngân hàng nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

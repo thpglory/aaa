@@ -1,0 +1,482 @@
+[
+  {
+    "id": 20621,
+    "title": "Technology Discussion 1",
+    "title_vi": "Thảo luận công nghệ 1",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20622,
+    "title": "Technology Discussion 2",
+    "title_vi": "Thảo luận công nghệ 2",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20623,
+    "title": "Technology Discussion 3",
+    "title_vi": "Thảo luận công nghệ 3",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20624,
+    "title": "Technology Discussion 4",
+    "title_vi": "Thảo luận công nghệ 4",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20625,
+    "title": "Technology Discussion 5",
+    "title_vi": "Thảo luận công nghệ 5",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20626,
+    "title": "Technology Discussion 6",
+    "title_vi": "Thảo luận công nghệ 6",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20627,
+    "title": "Technology Discussion 7",
+    "title_vi": "Thảo luận công nghệ 7",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20628,
+    "title": "Technology Discussion 8",
+    "title_vi": "Thảo luận công nghệ 8",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20629,
+    "title": "Technology Discussion 9",
+    "title_vi": "Thảo luận công nghệ 9",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 20630,
+    "title": "Technology Discussion 10",
+    "title_vi": "Thảo luận công nghệ 10",
+    "dialogue": [
+      {
+        "speaker": "A",
+        "text_en": "If you had known about technology earlier, would you have approached it differently?",
+        "text_vi": "Nếu bạn biết về công nghệ sớm hơn, bạn có tiếp cận nó khác đi không?"
+      },
+      {
+        "speaker": "B",
+        "text_en": "Had I known, I definitely would have planned better. Were I to start again, I'd do extensive research first.",
+        "text_vi": "Nếu tôi biết, tôi chắc chắn đã lên kế hoạch tốt hơn. Nếu bắt đầu lại, tôi sẽ nghiên cứu kỹ trước."
+      },
+      {
+        "speaker": "A",
+        "text_en": "Should you need any advice about technology, I'd be happy to help.",
+        "text_vi": "Nếu bạn cần lời khuyên về công nghệ, tôi vui lòng giúp đỡ."
+      },
+      {
+        "speaker": "B",
+        "text_en": "That's very kind of you. Unless something unexpected happens, I think I'll be fine now.",
+        "text_vi": "Bạn thật tử tế. Trừ khi có chuyện bất ngờ, tôi nghĩ tôi sẽ ổn."
+      },
+      {
+        "speaker": "A",
+        "text_en": "The key is to stay informed. If circumstances change, adapt accordingly.",
+        "text_vi": "Điều quan trọng là luôn được thông tin. Nếu hoàn cảnh thay đổi, hãy thích ứng."
+      }
+    ],
+    "level_id": "B1",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "intermediate",
+      "conversation",
+      "technology"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Hội thoại công nghệ trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
