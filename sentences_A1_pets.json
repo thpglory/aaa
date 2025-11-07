@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 4804,
+    "content_en": "I have a dog.",
+    "content_vi": "Tôi có một con chó.",
+    "phonetic": "aɪ hæv ə dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4805,
+    "content_en": "I have a cat.",
+    "content_vi": "Tôi có một con mèo.",
+    "phonetic": "aɪ hæv ə kæt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4806,
+    "content_en": "I feed my pet.",
+    "content_vi": "Tôi cho thú cưng ăn.",
+    "phonetic": "aɪ fid maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "feeding"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4807,
+    "content_en": "My dog is friendly.",
+    "content_vi": "Chó của tôi thân thiện.",
+    "phonetic": "maɪ dɔɡ ɪz ˈfrɛndli",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4808,
+    "content_en": "I walk my dog.",
+    "content_vi": "Tôi dắt chó đi dạo.",
+    "phonetic": "aɪ wɔk maɪ dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "walking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4809,
+    "content_en": "I love my pet.",
+    "content_vi": "Tôi yêu thú cưng của mình.",
+    "phonetic": "aɪ lʌv maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "love"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4810,
+    "content_en": "My cat sleeps a lot.",
+    "content_vi": "Mèo của tôi ngủ nhiều.",
+    "phonetic": "maɪ kæt slips ə lɑt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4811,
+    "content_en": "I play with my pet.",
+    "content_vi": "Tôi chơi với thú cưng.",
+    "phonetic": "aɪ pleɪ wɪð maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "playing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4812,
+    "content_en": "I need pet food.",
+    "content_vi": "Tôi cần thức ăn cho thú cưng.",
+    "phonetic": "aɪ nid pɛt fud",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "food"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4813,
+    "content_en": "My pet is healthy.",
+    "content_vi": "Thú cưng của tôi khỏe mạnh.",
+    "phonetic": "maɪ pɛt ɪz ˈhɛlθi",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4814,
+    "content_en": "I have a dog.",
+    "content_vi": "Tôi có một con chó.",
+    "phonetic": "aɪ hæv ə dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4815,
+    "content_en": "I have a cat.",
+    "content_vi": "Tôi có một con mèo.",
+    "phonetic": "aɪ hæv ə kæt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4816,
+    "content_en": "I feed my pet.",
+    "content_vi": "Tôi cho thú cưng ăn.",
+    "phonetic": "aɪ fid maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "feeding"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4817,
+    "content_en": "My dog is friendly.",
+    "content_vi": "Chó của tôi thân thiện.",
+    "phonetic": "maɪ dɔɡ ɪz ˈfrɛndli",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4818,
+    "content_en": "I walk my dog.",
+    "content_vi": "Tôi dắt chó đi dạo.",
+    "phonetic": "aɪ wɔk maɪ dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "walking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4819,
+    "content_en": "I love my pet.",
+    "content_vi": "Tôi yêu thú cưng của mình.",
+    "phonetic": "aɪ lʌv maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "love"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4820,
+    "content_en": "My cat sleeps a lot.",
+    "content_vi": "Mèo của tôi ngủ nhiều.",
+    "phonetic": "maɪ kæt slips ə lɑt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4821,
+    "content_en": "I play with my pet.",
+    "content_vi": "Tôi chơi với thú cưng.",
+    "phonetic": "aɪ pleɪ wɪð maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "playing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4822,
+    "content_en": "I need pet food.",
+    "content_vi": "Tôi cần thức ăn cho thú cưng.",
+    "phonetic": "aɪ nid pɛt fud",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "food"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4823,
+    "content_en": "My pet is healthy.",
+    "content_vi": "Thú cưng của tôi khỏe mạnh.",
+    "phonetic": "maɪ pɛt ɪz ˈhɛlθi",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4824,
+    "content_en": "I have a dog.",
+    "content_vi": "Tôi có một con chó.",
+    "phonetic": "aɪ hæv ə dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4825,
+    "content_en": "I have a cat.",
+    "content_vi": "Tôi có một con mèo.",
+    "phonetic": "aɪ hæv ə kæt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4826,
+    "content_en": "I feed my pet.",
+    "content_vi": "Tôi cho thú cưng ăn.",
+    "phonetic": "aɪ fid maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "feeding"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4827,
+    "content_en": "My dog is friendly.",
+    "content_vi": "Chó của tôi thân thiện.",
+    "phonetic": "maɪ dɔɡ ɪz ˈfrɛndli",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4828,
+    "content_en": "I walk my dog.",
+    "content_vi": "Tôi dắt chó đi dạo.",
+    "phonetic": "aɪ wɔk maɪ dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "walking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4829,
+    "content_en": "I love my pet.",
+    "content_vi": "Tôi yêu thú cưng của mình.",
+    "phonetic": "aɪ lʌv maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "love"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4830,
+    "content_en": "My cat sleeps a lot.",
+    "content_vi": "Mèo của tôi ngủ nhiều.",
+    "phonetic": "maɪ kæt slips ə lɑt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4831,
+    "content_en": "I play with my pet.",
+    "content_vi": "Tôi chơi với thú cưng.",
+    "phonetic": "aɪ pleɪ wɪð maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "playing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4832,
+    "content_en": "I need pet food.",
+    "content_vi": "Tôi cần thức ăn cho thú cưng.",
+    "phonetic": "aɪ nid pɛt fud",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "food"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4833,
+    "content_en": "My pet is healthy.",
+    "content_vi": "Thú cưng của tôi khỏe mạnh.",
+    "phonetic": "maɪ pɛt ɪz ˈhɛlθi",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4834,
+    "content_en": "I have a dog.",
+    "content_vi": "Tôi có một con chó.",
+    "phonetic": "aɪ hæv ə dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4835,
+    "content_en": "I have a cat.",
+    "content_vi": "Tôi có một con mèo.",
+    "phonetic": "aɪ hæv ə kæt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4836,
+    "content_en": "I feed my pet.",
+    "content_vi": "Tôi cho thú cưng ăn.",
+    "phonetic": "aɪ fid maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "feeding"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4837,
+    "content_en": "My dog is friendly.",
+    "content_vi": "Chó của tôi thân thiện.",
+    "phonetic": "maɪ dɔɡ ɪz ˈfrɛndli",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4838,
+    "content_en": "I walk my dog.",
+    "content_vi": "Tôi dắt chó đi dạo.",
+    "phonetic": "aɪ wɔk maɪ dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "walking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4839,
+    "content_en": "I love my pet.",
+    "content_vi": "Tôi yêu thú cưng của mình.",
+    "phonetic": "aɪ lʌv maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "love"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4840,
+    "content_en": "My cat sleeps a lot.",
+    "content_vi": "Mèo của tôi ngủ nhiều.",
+    "phonetic": "maɪ kæt slips ə lɑt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4841,
+    "content_en": "I play with my pet.",
+    "content_vi": "Tôi chơi với thú cưng.",
+    "phonetic": "aɪ pleɪ wɪð maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "playing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4842,
+    "content_en": "I need pet food.",
+    "content_vi": "Tôi cần thức ăn cho thú cưng.",
+    "phonetic": "aɪ nid pɛt fud",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "food"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4843,
+    "content_en": "My pet is healthy.",
+    "content_vi": "Thú cưng của tôi khỏe mạnh.",
+    "phonetic": "maɪ pɛt ɪz ˈhɛlθi",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4844,
+    "content_en": "I have a dog.",
+    "content_vi": "Tôi có một con chó.",
+    "phonetic": "aɪ hæv ə dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4845,
+    "content_en": "I have a cat.",
+    "content_vi": "Tôi có một con mèo.",
+    "phonetic": "aɪ hæv ə kæt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4846,
+    "content_en": "I feed my pet.",
+    "content_vi": "Tôi cho thú cưng ăn.",
+    "phonetic": "aɪ fid maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "feeding"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4847,
+    "content_en": "My dog is friendly.",
+    "content_vi": "Chó của tôi thân thiện.",
+    "phonetic": "maɪ dɔɡ ɪz ˈfrɛndli",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "dog"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4848,
+    "content_en": "I walk my dog.",
+    "content_vi": "Tôi dắt chó đi dạo.",
+    "phonetic": "aɪ wɔk maɪ dɔɡ",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "walking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4849,
+    "content_en": "I love my pet.",
+    "content_vi": "Tôi yêu thú cưng của mình.",
+    "phonetic": "aɪ lʌv maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "love"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4850,
+    "content_en": "My cat sleeps a lot.",
+    "content_vi": "Mèo của tôi ngủ nhiều.",
+    "phonetic": "maɪ kæt slips ə lɑt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "cat"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4851,
+    "content_en": "I play with my pet.",
+    "content_vi": "Tôi chơi với thú cưng.",
+    "phonetic": "aɪ pleɪ wɪð maɪ pɛt",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "playing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4852,
+    "content_en": "I need pet food.",
+    "content_vi": "Tôi cần thức ăn cho thú cưng.",
+    "phonetic": "aɪ nid pɛt fud",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "basic",
+      "food"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4853,
+    "content_en": "My pet is healthy.",
+    "content_vi": "Thú cưng của tôi khỏe mạnh.",
+    "phonetic": "maɪ pɛt ɪz ˈhɛlθi",
+    "level_id": "A1",
+    "topic_ids": [
+      "pets"
+    ],
+    "tags": [
+      "description",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thú cưng cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 5004,
+    "content_en": "I recycle.",
+    "content_vi": "Tôi tái chế.",
+    "phonetic": "aɪ ˌriˈsaɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "recycling"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5005,
+    "content_en": "The air is clean.",
+    "content_vi": "Không khí sạch.",
+    "phonetic": "ði ɛr ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "air"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5006,
+    "content_en": "I plant trees.",
+    "content_vi": "Tôi trồng cây.",
+    "phonetic": "aɪ plænt triz",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "trees"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5007,
+    "content_en": "The water is dirty.",
+    "content_vi": "Nước bẩn.",
+    "phonetic": "ðə ˈwɔtər ɪz ˈdɜrti",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "water"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5008,
+    "content_en": "I save energy.",
+    "content_vi": "Tôi tiết kiệm năng lượng.",
+    "phonetic": "aɪ seɪv ˈɛnərdʒi",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "energy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5009,
+    "content_en": "The forest is green.",
+    "content_vi": "Rừng xanh.",
+    "phonetic": "ðə ˈfɔrɪst ɪz grin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "forest"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5010,
+    "content_en": "I use less plastic.",
+    "content_vi": "Tôi dùng ít nhựa hơn.",
+    "phonetic": "aɪ juz lɛs ˈplæstɪk",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "plastic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5011,
+    "content_en": "The park is clean.",
+    "content_vi": "Công viên sạch.",
+    "phonetic": "ðə pɑrk ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "park"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5012,
+    "content_en": "I turn off lights.",
+    "content_vi": "Tôi tắt đèn.",
+    "phonetic": "aɪ tɜrn ɔf laɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "lights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5013,
+    "content_en": "The beach is beautiful.",
+    "content_vi": "Bãi biển đẹp.",
+    "phonetic": "ðə bitʃ ɪz ˈbjutəfəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "beach"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5014,
+    "content_en": "I recycle.",
+    "content_vi": "Tôi tái chế.",
+    "phonetic": "aɪ ˌriˈsaɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "recycling"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5015,
+    "content_en": "The air is clean.",
+    "content_vi": "Không khí sạch.",
+    "phonetic": "ði ɛr ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "air"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5016,
+    "content_en": "I plant trees.",
+    "content_vi": "Tôi trồng cây.",
+    "phonetic": "aɪ plænt triz",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "trees"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5017,
+    "content_en": "The water is dirty.",
+    "content_vi": "Nước bẩn.",
+    "phonetic": "ðə ˈwɔtər ɪz ˈdɜrti",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "water"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5018,
+    "content_en": "I save energy.",
+    "content_vi": "Tôi tiết kiệm năng lượng.",
+    "phonetic": "aɪ seɪv ˈɛnərdʒi",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "energy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5019,
+    "content_en": "The forest is green.",
+    "content_vi": "Rừng xanh.",
+    "phonetic": "ðə ˈfɔrɪst ɪz grin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "forest"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5020,
+    "content_en": "I use less plastic.",
+    "content_vi": "Tôi dùng ít nhựa hơn.",
+    "phonetic": "aɪ juz lɛs ˈplæstɪk",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "plastic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5021,
+    "content_en": "The park is clean.",
+    "content_vi": "Công viên sạch.",
+    "phonetic": "ðə pɑrk ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "park"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5022,
+    "content_en": "I turn off lights.",
+    "content_vi": "Tôi tắt đèn.",
+    "phonetic": "aɪ tɜrn ɔf laɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "lights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5023,
+    "content_en": "The beach is beautiful.",
+    "content_vi": "Bãi biển đẹp.",
+    "phonetic": "ðə bitʃ ɪz ˈbjutəfəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "beach"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5024,
+    "content_en": "I recycle.",
+    "content_vi": "Tôi tái chế.",
+    "phonetic": "aɪ ˌriˈsaɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "recycling"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5025,
+    "content_en": "The air is clean.",
+    "content_vi": "Không khí sạch.",
+    "phonetic": "ði ɛr ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "air"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5026,
+    "content_en": "I plant trees.",
+    "content_vi": "Tôi trồng cây.",
+    "phonetic": "aɪ plænt triz",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "trees"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5027,
+    "content_en": "The water is dirty.",
+    "content_vi": "Nước bẩn.",
+    "phonetic": "ðə ˈwɔtər ɪz ˈdɜrti",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "water"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5028,
+    "content_en": "I save energy.",
+    "content_vi": "Tôi tiết kiệm năng lượng.",
+    "phonetic": "aɪ seɪv ˈɛnərdʒi",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "energy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5029,
+    "content_en": "The forest is green.",
+    "content_vi": "Rừng xanh.",
+    "phonetic": "ðə ˈfɔrɪst ɪz grin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "forest"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5030,
+    "content_en": "I use less plastic.",
+    "content_vi": "Tôi dùng ít nhựa hơn.",
+    "phonetic": "aɪ juz lɛs ˈplæstɪk",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "plastic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5031,
+    "content_en": "The park is clean.",
+    "content_vi": "Công viên sạch.",
+    "phonetic": "ðə pɑrk ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "park"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5032,
+    "content_en": "I turn off lights.",
+    "content_vi": "Tôi tắt đèn.",
+    "phonetic": "aɪ tɜrn ɔf laɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "lights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5033,
+    "content_en": "The beach is beautiful.",
+    "content_vi": "Bãi biển đẹp.",
+    "phonetic": "ðə bitʃ ɪz ˈbjutəfəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "beach"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5034,
+    "content_en": "I recycle.",
+    "content_vi": "Tôi tái chế.",
+    "phonetic": "aɪ ˌriˈsaɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "recycling"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5035,
+    "content_en": "The air is clean.",
+    "content_vi": "Không khí sạch.",
+    "phonetic": "ði ɛr ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "air"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5036,
+    "content_en": "I plant trees.",
+    "content_vi": "Tôi trồng cây.",
+    "phonetic": "aɪ plænt triz",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "trees"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5037,
+    "content_en": "The water is dirty.",
+    "content_vi": "Nước bẩn.",
+    "phonetic": "ðə ˈwɔtər ɪz ˈdɜrti",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "water"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5038,
+    "content_en": "I save energy.",
+    "content_vi": "Tôi tiết kiệm năng lượng.",
+    "phonetic": "aɪ seɪv ˈɛnərdʒi",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "energy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5039,
+    "content_en": "The forest is green.",
+    "content_vi": "Rừng xanh.",
+    "phonetic": "ðə ˈfɔrɪst ɪz grin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "forest"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5040,
+    "content_en": "I use less plastic.",
+    "content_vi": "Tôi dùng ít nhựa hơn.",
+    "phonetic": "aɪ juz lɛs ˈplæstɪk",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "plastic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5041,
+    "content_en": "The park is clean.",
+    "content_vi": "Công viên sạch.",
+    "phonetic": "ðə pɑrk ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "park"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5042,
+    "content_en": "I turn off lights.",
+    "content_vi": "Tôi tắt đèn.",
+    "phonetic": "aɪ tɜrn ɔf laɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "lights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5043,
+    "content_en": "The beach is beautiful.",
+    "content_vi": "Bãi biển đẹp.",
+    "phonetic": "ðə bitʃ ɪz ˈbjutəfəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "beach"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5044,
+    "content_en": "I recycle.",
+    "content_vi": "Tôi tái chế.",
+    "phonetic": "aɪ ˌriˈsaɪkəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "recycling"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5045,
+    "content_en": "The air is clean.",
+    "content_vi": "Không khí sạch.",
+    "phonetic": "ði ɛr ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "air"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5046,
+    "content_en": "I plant trees.",
+    "content_vi": "Tôi trồng cây.",
+    "phonetic": "aɪ plænt triz",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "trees"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5047,
+    "content_en": "The water is dirty.",
+    "content_vi": "Nước bẩn.",
+    "phonetic": "ðə ˈwɔtər ɪz ˈdɜrti",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "water"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5048,
+    "content_en": "I save energy.",
+    "content_vi": "Tôi tiết kiệm năng lượng.",
+    "phonetic": "aɪ seɪv ˈɛnərdʒi",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "energy"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5049,
+    "content_en": "The forest is green.",
+    "content_vi": "Rừng xanh.",
+    "phonetic": "ðə ˈfɔrɪst ɪz grin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "forest"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5050,
+    "content_en": "I use less plastic.",
+    "content_vi": "Tôi dùng ít nhựa hơn.",
+    "phonetic": "aɪ juz lɛs ˈplæstɪk",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "plastic"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5051,
+    "content_en": "The park is clean.",
+    "content_vi": "Công viên sạch.",
+    "phonetic": "ðə pɑrk ɪz klin",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "park"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5052,
+    "content_en": "I turn off lights.",
+    "content_vi": "Tôi tắt đèn.",
+    "phonetic": "aɪ tɜrn ɔf laɪts",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "lights"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 5053,
+    "content_en": "The beach is beautiful.",
+    "content_vi": "Bãi biển đẹp.",
+    "phonetic": "ðə bitʃ ɪz ˈbjutəfəl",
+    "level_id": "A1",
+    "topic_ids": [
+      "environment"
+    ],
+    "tags": [
+      "basic",
+      "beach"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Môi trường cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
