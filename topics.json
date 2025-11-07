@@ -2,71 +2,176 @@
     {
         "id": "greeting",
         "name": "Chào hỏi & Giới thiệu",
-        "icon": "fa-handshake",
+        "icon": "fas fa-handshake",
         "color": "#10b981",
         "order": 1
     },
     {
         "id": "shopping",
         "name": "Mua sắm",
-        "icon": "fa-shopping-cart",
+        "icon": "fas fa-shopping-cart",
         "color": "#f59e0b",
         "order": 2
     },
     {
         "id": "travel",
         "name": "Du lịch",
-        "icon": "fa-plane",
+        "icon": "fas fa-plane",
         "color": "#3b82f6",
         "order": 3
     },
     {
         "id": "restaurant",
         "name": "Nhà hàng",
-        "icon": "fa-utensils",
+        "icon": "fas fa-utensils",
         "color": "#ef4444",
         "order": 4
     },
     {
         "id": "hotel",
         "name": "Khách sạn",
-        "icon": "fa-hotel",
+        "icon": "fas fa-hotel",
         "color": "#8b5cf6",
         "order": 5
     },
     {
         "id": "pharmacy",
         "name": "Hiệu thuốc",
-        "icon": "fa-pills",
+        "icon": "fas fa-pills",
         "color": "#ec4899",
         "order": 6
     },
     {
         "id": "office",
         "name": "Công sở",
-        "icon": "fa-briefcase",
+        "icon": "fas fa-briefcase",
         "color": "#6366f1",
         "order": 7
     },
     {
         "id": "emergency",
         "name": "Khẩn cấp",
-        "icon": "fa-exclamation-triangle",
+        "icon": "fas fa-exclamation-triangle",
         "color": "#dc2626",
         "order": 8
     },
     {
         "id": "transport",
         "name": "Giao thông",
-        "icon": "fa-car",
+        "icon": "fas fa-car",
         "color": "#14b8a6",
         "order": 9
     },
     {
         "id": "daily",
         "name": "Hàng ngày",
-        "icon": "fa-home",
+        "icon": "fas fa-home",
         "color": "#64748b",
         "order": 10
+    },
+    {
+        "id": "medical",
+        "name": "Y tế",
+        "icon": "fas fa-hospital",
+        "color": "#06b6d4",
+        "order": 11
+    },
+    {
+        "id": "education",
+        "name": "Giáo dục",
+        "icon": "fas fa-graduation-cap",
+        "color": "#8b5cf6",
+        "order": 12
+    },
+    {
+        "id": "entertainment",
+        "name": "Giải trí",
+        "icon": "fas fa-film",
+        "color": "#f97316",
+        "order": 13
+    },
+    {
+        "id": "banking",
+        "name": "Ngân hàng",
+        "icon": "fas fa-university",
+        "color": "#0ea5e9",
+        "order": 14
+    },
+    {
+        "id": "housing",
+        "name": "Nhà ở",
+        "icon": "fas fa-house",
+        "color": "#84cc16",
+        "order": 15
+    },
+    {
+        "id": "technology",
+        "name": "Công nghệ",
+        "icon": "fas fa-laptop",
+        "color": "#6366f1",
+        "order": 16
+    },
+    {
+        "id": "social",
+        "name": "Xã hội",
+        "icon": "fas fa-users",
+        "color": "#ec4899",
+        "order": 17
+    },
+    {
+        "id": "fitness",
+        "name": "Thể thao",
+        "icon": "fas fa-dumbbell",
+        "color": "#f59e0b",
+        "order": 18
+    },
+    {
+        "id": "job",
+        "name": "Tìm việc",
+        "icon": "fas fa-file-alt",
+        "color": "#10b981",
+        "order": 19
+    },
+    {
+        "id": "services",
+        "name": "Dịch vụ",
+        "icon": "fas fa-concierge-bell",
+        "color": "#a855f7",
+        "order": 20
+    },
+    {
+        "id": "weather",
+        "name": "Thời tiết",
+        "icon": "fas fa-cloud-sun",
+        "color": "#0ea5e9",
+        "order": 21
+    },
+    {
+        "id": "hobbies",
+        "name": "Sở thích",
+        "icon": "fas fa-palette",
+        "color": "#f43f5e",
+        "order": 22
+    },
+    {
+        "id": "legal",
+        "name": "Pháp lý",
+        "icon": "fas fa-gavel",
+        "color": "#475569",
+        "order": 23
+    },
+    {
+        "id": "pets",
+        "name": "Thú cưng",
+        "icon": "fas fa-paw",
+        "color": "#f59e0b",
+        "order": 24
+    },
+    {
+        "id": "environment",
+        "name": "Môi trường",
+        "icon": "fas fa-leaf",
+        "color": "#22c55e",
+        "order": 25
     }
 ]
