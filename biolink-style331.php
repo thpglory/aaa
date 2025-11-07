@@ -3746,23 +3746,25 @@
         });
 
         // Tab switching with animation
-        function switchTab(tabName) {
+        window.switchTab = function switchTab(tabName) {
             // Hide all tabs
             const tabs = document.querySelectorAll('.tab-content');
             tabs.forEach(tab => {
                 tab.classList.remove('active');
             });
-            
+
             // Show selected tab with animation
             setTimeout(() => {
                 document.getElementById(tabName).classList.add('active');
             }, 100);
-            
+
             // Update nav buttons
             const navTabs = document.querySelectorAll('.nav-tab');
             navTabs.forEach(tab => tab.classList.remove('active'));
-            event.target.classList.add('active');
-        }
+            if (event && event.target) {
+                event.target.classList.add('active');
+            }
+        };
 
         // Info box toggle
         function toggleInfo(infoId) {
@@ -6006,8 +6008,8 @@
         }
 
         // Update switchTab function to handle sidebar active state
-        const originalSwitchTab = switchTab;
-        switchTab = function(tabId) {
+        const originalSwitchTab = window.switchTab;
+        window.switchTab = function(tabId) {
             // Call original function
             originalSwitchTab(tabId);
 
@@ -6026,8 +6028,8 @@
             if (window.innerWidth <= 768) {
                 const sidebar = document.getElementById('sidebar');
                 const overlay = document.getElementById('sidebarOverlay');
-                sidebar.classList.remove('active');
-                overlay.classList.remove('active');
+                if (sidebar) sidebar.classList.remove('active');
+                if (overlay) overlay.classList.remove('active');
             }
         };
     </script>
