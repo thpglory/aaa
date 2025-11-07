@@ -1562,7 +1562,7 @@
                                 <span id="latencyValue" style="font-weight: 600; color: #667eea;">15 phút</span>
                                 <small>60 phút</small>
                             </div>
-                            <small>Thời gian từ lúc nằm xuống đến khi thực sự ngủ. <5 phút = thiếu ngủ nghiêm trọng, 10-20 phút = lý tưởng</small>
+                            <small>Thời gian từ lúc nằm xuống đến khi thực sự ngủ. <5 phút = có thể thiếu ngủ hoặc sleep efficiency tự nhiên cao, 10-20 phút = lý tưởng</small>
                         </div>
 
                         <div class="form-group">
@@ -1982,6 +1982,26 @@
                         
                         <div>
                             <div class="form-group">
+                                <label>Thời lượng ngủ trung bình mỗi đêm trong tháng qua:</label>
+                                <div class="rating-buttons" id="psqi-duration">
+                                    <button class="rating-btn active" onclick="setRating('psqi-duration', 0)">≥ 7 giờ</button>
+                                    <button class="rating-btn" onclick="setRating('psqi-duration', 1)">6-7 giờ</button>
+                                    <button class="rating-btn" onclick="setRating('psqi-duration', 2)">5-6 giờ</button>
+                                    <button class="rating-btn" onclick="setRating('psqi-duration', 3)">< 5 giờ</button>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Thời gian chìm vào giấc ngủ (sleep latency):</label>
+                                <div class="rating-buttons" id="psqi-latency">
+                                    <button class="rating-btn active" onclick="setRating('psqi-latency', 0)">≤ 15 phút</button>
+                                    <button class="rating-btn" onclick="setRating('psqi-latency', 1)">16-30 phút</button>
+                                    <button class="rating-btn" onclick="setRating('psqi-latency', 2)">31-60 phút</button>
+                                    <button class="rating-btn" onclick="setRating('psqi-latency', 3)">> 60 phút</button>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
                                 <label>Đánh giá tổng thể chất lượng giấc ngủ:</label>
                                 <div class="rating-buttons" id="psqi-overall">
                                     <button class="rating-btn" onclick="setRating('psqi-overall', 0)">Rất tốt</button>
@@ -1990,7 +2010,7 @@
                                     <button class="rating-btn" onclick="setRating('psqi-overall', 3)">Rất kém</button>
                                 </div>
                             </div>
-                            
+
                             <div class="form-group">
                                 <label>Tần suất cần dùng thuốc ngủ:</label>
                                 <div class="rating-buttons" id="psqi-medication">
@@ -2000,10 +2020,15 @@
                                     <button class="rating-btn" onclick="setRating('psqi-medication', 3)">≥ 3 lần/tuần</button>
                                 </div>
                             </div>
-                            
+
+                            <button class="btn btn-primary" onclick="calculatePSQI()" style="margin-top: 15px;">
+                                <i class="fas fa-calculator"></i> Tính điểm PSQI
+                            </button>
+
                             <div id="psqiResult" style="margin-top: 20px; padding: 16px; background: linear-gradient(135deg, #f1f5f9, #e2e8f0); border-radius: 12px;">
                                 <h4 style="color: #1e293b; margin-bottom: 8px;">Điểm PSQI: <span id="psqiScore">6</span>/21</h4>
                                 <p id="psqiInterpretation" style="color: #475569; font-size: 0.9rem; line-height: 1.5;"></p>
+                                <p style="color: #64748b; font-size: 0.85rem; margin-top: 8px;"><em>7 thành phần PSQI: Chất lượng chủ quan, Sleep latency, Sleep duration, Sleep disturbances, Sleep medication, Daytime dysfunction (tính từ các yếu tố khác)</em></p>
                             </div>
                         </div>
                     </div>
@@ -3684,8 +3709,9 @@
         };
         
         let psqiScores = {
-            'psqi-pain': 0, 'psqi-anxiety': 0, 'psqi-noise': 0, 
-            'psqi-overall': 2, 'psqi-medication': 0
+            'psqi-duration': 0, 'psqi-latency': 0, 'psqi-pain': 0,
+            'psqi-anxiety': 0, 'psqi-noise': 0, 'psqi-overall': 2,
+            'psqi-medication': 0
         };
 
         // Initialize app
@@ -3778,16 +3804,17 @@
         function adjustCycleByAge() {
             const ageGroup = document.getElementById('ageGroup').value;
             const cycleInput = document.getElementById('cycleLength');
-            
+
+            // Người cao tuổi có chu kỳ NGẮN HƠN do giảm deep sleep
             switch(ageGroup) {
                 case 'young':
-                    cycleInput.value = 85;
+                    cycleInput.value = 90;  // Người trẻ: chu kỳ trung bình
                     break;
                 case 'adult':
-                    cycleInput.value = 90;
+                    cycleInput.value = 90;  // Người trưởng thành: chu kỳ trung bình
                     break;
                 case 'senior':
-                    cycleInput.value = 95;
+                    cycleInput.value = 85;  // Người cao tuổi: chu kỳ ngắn hơn
                     break;
             }
             updateCycleValue();
@@ -3830,15 +3857,15 @@
 
         function generateCycleAdvice(latency, cycleLength) {
             let advice = '';
-            
+
             if (latency < 5) {
-                advice += '⚠️ Bạn ngủ quá nhanh, có thể bị thiếu ngủ nghiêm trọng. ';
+                advice += '⚠️ Bạn ngủ rất nhanh (<5 phút). Có thể là dấu hiệu thiếu ngủ, hoặc là đặc điểm tự nhiên (sleep efficiency cao). Nếu kèm buồn ngủ ban ngày, cần đánh giá thêm. ';
             } else if (latency > 30) {
                 advice += '⏰ Thời gian chìm vào giấc ngủ dài, hãy thử các kỹ thuật thư giãn. ';
             } else {
                 advice += '✅ Thời gian chìm vào giấc ngủ trong tầm bình thường. ';
             }
-            
+
             if (cycleLength < 80) {
                 advice += 'Chu kỳ ngắn có thể do tuổi trẻ hoặc stress.';
             } else if (cycleLength > 100) {
@@ -3846,7 +3873,7 @@
             } else {
                 advice += 'Chu kỳ trong tầm trung bình khỏe mạnh.';
             }
-            
+
             return advice;
         }
 
@@ -4280,23 +4307,27 @@
         function setRating(groupId, value) {
             const group = document.getElementById(groupId);
             if (!group) return;
-            
+
             const buttons = group.querySelectorAll('.rating-btn');
-            
+
             buttons.forEach((btn, index) => {
                 btn.classList.remove('active');
             });
-            
+
             // Find and activate the correct button
             buttons.forEach(btn => {
                 if (btn.onclick && btn.onclick.toString().includes(`'${groupId}', ${value}`)) {
                     btn.classList.add('active');
                 }
             });
-            
+
             // Update global variables
-            ratings[groupId] = value;
-            
+            if (groupId.startsWith('psqi-')) {
+                psqiScores[groupId] = value;
+            } else {
+                ratings[groupId] = value;
+            }
+
             // Trigger relevant calculations
             if (groupId === 'morningFeeling' || groupId === 'dayAlertness') {
                 evaluateAdvancedQuality();
@@ -4879,37 +4910,31 @@
         // MEQ calculation
         function calculateMEQResult() {
             const totalScore = Object.values(meqScores).reduce((sum, score) => sum + score, 0);
-            
+
             let chronotype, description, schedule;
-            
-            if (totalScore >= 70) {
+
+            // rMEQ (reduced MEQ) với 5 câu hỏi - thang điểm 4-25
+            if (totalScore >= 18) {
                 chronotype = 'Definitely Morning Type (Sư tử)';
                 description = 'Bạn là người sáng điển hình, năng suất cao nhất vào buổi sáng sớm.';
                 schedule = 'Ngủ: 21:00-22:00, Thức: 05:30-06:30';
-            } else if (totalScore >= 59) {
-                chronotype = 'Moderately Morning Type (Gấu sáng)';
-                description = 'Bạn thiên về buổi sáng nhưng linh hoạt hơn.';
-                schedule = 'Ngủ: 22:00-23:00, Thức: 06:00-07:00';
-            } else if (totalScore >= 42) {
-                chronotype = 'Neither Type (Gấu)';
-                description = 'Bạn không thiên về sáng hay tối, dễ thích nghi.';
+            } else if (totalScore >= 12) {
+                chronotype = 'Intermediate Type (Gấu)';
+                description = 'Bạn không thiên về sáng hay tối rõ rệt, dễ thích nghi với các lịch trình khác nhau.';
                 schedule = 'Ngủ: 22:30-23:30, Thức: 06:30-07:30';
-            } else if (totalScore >= 31) {
-                chronotype = 'Moderately Evening Type (Sói nhẹ)';
-                description = 'Bạn thiên về buổi tối nhưng vẫn thích nghi được với lịch sáng.';
-                schedule = 'Ngủ: 23:30-00:30, Thức: 07:00-08:00';
             } else {
                 chronotype = 'Definitely Evening Type (Sói)';
-                description = 'Bạn là người tối điển hình, năng suất cao nhất vào buổi tối.';
+                description = 'Bạn là người tối điển hình, năng suất cao nhất vào buổi tối và đêm.';
                 schedule = 'Ngủ: sau 00:00, Thức: sau 08:00';
             }
-            
+
             document.getElementById('meqResult').innerHTML = `
                 <div style="background: linear-gradient(135deg, #f0f9ff, #e0f2fe); padding: 20px; border-radius: 12px; border: 2px solid #0ea5e9;">
-                    <h4 style="color: #0c4a6e; margin-bottom: 10px;">Kết quả MEQ: ${totalScore}/86 điểm</h4>
+                    <h4 style="color: #0c4a6e; margin-bottom: 10px;">Kết quả rMEQ (Reduced Morningness-Eveningness Questionnaire): ${totalScore}/25 điểm</h4>
                     <h3 style="color: #0369a1; margin-bottom: 12px;">${chronotype}</h3>
                     <p style="color: #075985; margin-bottom: 10px; line-height: 1.6;">${description}</p>
                     <p style="color: #0c4a6e;"><strong>Lịch trình lý tưởng:</strong> ${schedule}</p>
+                    <p style="color: #64748b; font-size: 0.85rem; margin-top: 10px;"><em>Thang điểm: 18-25 (Morning type), 12-17 (Intermediate), 4-11 (Evening type)</em></p>
                 </div>
             `;
         }
@@ -4978,15 +5003,56 @@
         function saveAdvancedJournalEntry() {
             console.log('=== BẮT ĐẦU LƯU NHẬT KÝ ===');
 
+            // Validation
+            const date = document.getElementById('journalDate').value;
+            const bedTime = document.getElementById('journalBedTime').value;
+            const finalWake = document.getElementById('journalFinalWake').value;
+            const sleepLatency = parseInt(document.getElementById('journalSleepLatency').value);
+            const nightWakings = parseInt(document.getElementById('journalNightWakings').value);
+            const wakeTime = parseInt(document.getElementById('journalWakeTime').value);
+
+            // Validate required fields
+            if (!date) {
+                alert('Vui lòng chọn ngày!');
+                return;
+            }
+
+            // Validate date is not in the future
+            const selectedDate = new Date(date);
+            const today = new Date();
+            today.setHours(23, 59, 59, 999); // End of today
+            if (selectedDate > today) {
+                alert('Ngày không được là tương lai!');
+                return;
+            }
+
+            // Validate required times
+            if (!bedTime || !finalWake) {
+                alert('Vui lòng nhập giờ đi ngủ và giờ thức dậy!');
+                return;
+            }
+
+            // Validate numeric fields are not negative
+            if (sleepLatency < 0 || nightWakings < 0 || wakeTime < 0) {
+                alert('Các giá trị số không được âm!');
+                return;
+            }
+
+            // Validate sleep latency is reasonable (< 5 hours)
+            if (sleepLatency > 300) {
+                alert('Thời gian chìm vào giấc ngủ không hợp lý (>5 giờ). Vui lòng kiểm tra lại!');
+                return;
+            }
+
             const entry = {
                 id: Date.now(),
-                date: document.getElementById('journalDate').value,
-                bedTime: document.getElementById('journalBedTime').value,
+                date: date,
+                bedTime: bedTime,
                 lightsOut: document.getElementById('journalLightsOut').value,
-                sleepLatency: document.getElementById('journalSleepLatency').value,
-                nightWakings: document.getElementById('journalNightWakings').value,
-                wakeTime: document.getElementById('journalWakeTime').value,
-                finalWake: document.getElementById('journalFinalWake').value,
+                sleepLatency: sleepLatency,
+                nightWakings: nightWakings,
+                wakeTime: wakeTime,
+                finalWake: finalWake,
                 outOfBed: document.getElementById('journalOutOfBed').value,
                 sleepQuality: ratings.journalSleepQuality || 3,
                 morningFeeling: ratings.journalMorningFeeling || 3,
@@ -5066,12 +5132,20 @@
             let html = '';
             journalEntries.slice(0, 10).forEach(entry => {
                 const qualityClass = entry.sleepQuality >= 4 ? 'excellent' : entry.sleepQuality >= 3 ? 'good' : 'poor';
-                
+
                 html += `
                     <div class="journal-entry">
                         <div class="journal-header">
                             <span class="journal-date">${entry.date}</span>
-                            <span class="quality-badge ${qualityClass}">Chất lượng: ${entry.sleepQuality}/5</span>
+                            <div style="display: flex; gap: 8px; align-items: center;">
+                                <span class="quality-badge ${qualityClass}">Chất lượng: ${entry.sleepQuality}/5</span>
+                                <button onclick="editJournalEntry(${entry.id})" style="background: #3b82f6; color: white; border: none; padding: 4px 10px; border-radius: 6px; cursor: pointer; font-size: 0.85rem;">
+                                    <i class="fas fa-edit"></i> Sửa
+                                </button>
+                                <button onclick="deleteJournalEntry(${entry.id})" style="background: #ef4444; color: white; border: none; padding: 4px 10px; border-radius: 6px; cursor: pointer; font-size: 0.85rem;">
+                                    <i class="fas fa-trash"></i> Xóa
+                                </button>
+                            </div>
                         </div>
                         <div class="journal-details">
                             <p>🛏️ ${entry.bedTime} → 🌅 ${entry.finalWake}</p>
@@ -5085,7 +5159,7 @@
                     </div>
                 `;
             });
-            
+
             history.innerHTML = html;
         }
 
@@ -5349,6 +5423,147 @@
             a.download = `sleep-journal-${new Date().toISOString().split('T')[0]}.csv`;
             a.click();
             URL.revokeObjectURL(url);
+        }
+
+        function exportJournalPDF() {
+            // PDF export requires external library (jsPDF)
+            // For now, provide workaround
+            alert('💡 Tính năng xuất PDF:\n\n' +
+                  '1. Sử dụng nút "Xuất CSV" để xuất dữ liệu\n' +
+                  '2. Mở file CSV bằng Excel/Google Sheets\n' +
+                  '3. Sử dụng chức năng "In" hoặc "Xuất PDF" của Excel/Google Sheets\n\n' +
+                  'Hoặc chụp màn hình nhật ký để chia sẻ với bác sĩ.');
+        }
+
+        function importJournal() {
+            const fileInput = document.getElementById('importFile');
+            const file = fileInput.files[0];
+
+            if (!file) {
+                alert('Vui lòng chọn file CSV để nhập!');
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const csv = e.target.result;
+                    const lines = csv.split('\n');
+
+                    // Skip header
+                    const dataLines = lines.slice(1);
+
+                    let importCount = 0;
+                    dataLines.forEach(line => {
+                        if (line.trim() === '') return;
+
+                        const values = line.split(',').map(val => val.replace(/^"|"$/g, '').trim());
+
+                        if (values.length < 17) return;
+
+                        const entry = {
+                            id: Date.now() + importCount,
+                            date: values[0],
+                            bedTime: values[1],
+                            lightsOut: values[2],
+                            sleepLatency: values[3],
+                            nightWakings: values[4],
+                            finalWake: values[5],
+                            outOfBed: values[6],
+                            sleepQuality: parseInt(values[7]) || 3,
+                            morningFeeling: parseInt(values[8]) || 3,
+                            caffeine: values[9],
+                            alcohol: values[10],
+                            exercise: values[11],
+                            dinner: values[12],
+                            nap: values[13],
+                            stress: parseInt(values[14]) || 1,
+                            medication: values[15],
+                            notes: values[16]
+                        };
+
+                        journalEntries.push(entry);
+                        importCount++;
+                    });
+
+                    // Save to localStorage
+                    localStorage.setItem('journalEntries', JSON.stringify(journalEntries));
+
+                    // Update displays
+                    updateJournalHistory();
+                    updateJournalStats();
+                    updateJournalAnalytics();
+
+                    alert(`✅ Đã nhập thành công ${importCount} bản ghi!`);
+                    fileInput.value = '';
+
+                } catch (error) {
+                    console.error('Lỗi khi nhập file:', error);
+                    alert('❌ Lỗi khi nhập file. Vui lòng kiểm tra định dạng file CSV!');
+                }
+            };
+
+            reader.readAsText(file);
+        }
+
+        function deleteJournalEntry(entryId, skipConfirm = false) {
+            if (!skipConfirm && !confirm('Bạn có chắc muốn xóa bản ghi này?')) {
+                return;
+            }
+
+            // Remove entry from array
+            journalEntries = journalEntries.filter(entry => entry.id !== entryId);
+
+            // Save to localStorage
+            localStorage.setItem('journalEntries', JSON.stringify(journalEntries));
+
+            // Update displays
+            updateJournalHistory();
+            updateJournalStats();
+            updateJournalAnalytics();
+
+            if (!skipConfirm) {
+                alert('✅ Đã xóa bản ghi!');
+            }
+        }
+
+        function editJournalEntry(entryId) {
+            // Find the entry
+            const entry = journalEntries.find(e => e.id === entryId);
+            if (!entry) {
+                alert('Không tìm thấy bản ghi!');
+                return;
+            }
+
+            // Scroll to form
+            document.getElementById('sleep-journal').scrollIntoView({ behavior: 'smooth' });
+
+            // Populate form with entry data
+            document.getElementById('journalDate').value = entry.date;
+            document.getElementById('journalBedTime').value = entry.bedTime;
+            document.getElementById('journalLightsOut').value = entry.lightsOut || '';
+            document.getElementById('journalSleepLatency').value = entry.sleepLatency || '';
+            document.getElementById('journalNightWakings').value = entry.nightWakings || '';
+            document.getElementById('journalWakeTime').value = entry.wakeTime || '';
+            document.getElementById('journalFinalWake').value = entry.finalWake;
+            document.getElementById('journalOutOfBed').value = entry.outOfBed || '';
+            document.getElementById('journalCaffeine').value = entry.caffeine || '';
+            document.getElementById('journalAlcohol').value = entry.alcohol || '';
+            document.getElementById('journalExercise').value = entry.exercise || '';
+            document.getElementById('journalDinner').value = entry.dinner || '';
+            document.getElementById('journalNap').value = entry.nap || '';
+            document.getElementById('journalMedication').value = entry.medication || '';
+            document.getElementById('journalNotes').value = entry.notes || '';
+
+            // Set ratings
+            setRating('journalSleepQuality', entry.sleepQuality || 3);
+            setRating('journalMorningFeeling', entry.morningFeeling || 3);
+            setRating('journalStress', entry.stress || 1);
+
+            // Delete old entry when saving (without confirmation)
+            deleteJournalEntry(entryId, true);
+
+            alert('📝 Dữ liệu đã được tải vào form. Chỉnh sửa và nhấn "Lưu nhật ký" để cập nhật.');
         }
 
         // Weekly tasks
@@ -5624,9 +5839,12 @@
 
         function calculatePSQI() {
             const total = Object.values(psqiScores).reduce((sum, score) => sum + score, 0);
-            
+
+            // Update displayed score
+            document.getElementById('psqiScore').textContent = total;
+
             let interpretation, recommendation;
-            
+
             if (total <= 5) {
                 interpretation = 'Chất lượng giấc ngủ tốt';
                 recommendation = 'Giấc ngủ của bạn có chất lượng tốt. Hãy tiếp tục duy trì thói quen hiện tại.';
@@ -5637,7 +5855,7 @@
                 interpretation = 'Chất lượng giấc ngủ rất kém';
                 recommendation = 'Cần được đánh giá bởi chuyên gia về các rối loạn giấc ngủ.';
             }
-            
+
             document.getElementById('psqiInterpretation').innerHTML = `
                 <strong>${interpretation}.</strong> ${recommendation}
             `;
