@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 4254,
+    "content_en": "I'd like to check the weather forecast for tomorrow.",
+    "content_vi": "Tôi muốn kiểm tra dự báo thời tiết cho ngày mai.",
+    "phonetic": "aɪd laɪk tu ʧɛk ðə ˈwɛðər ˈfɔrˌkæst fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "forecast",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4255,
+    "content_en": "It's been raining for three days straight.",
+    "content_vi": "Trời mưa liên tục ba ngày rồi.",
+    "phonetic": "ɪts bɪn ˈreɪnɪŋ fɔr θri deɪz streɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "rain",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4256,
+    "content_en": "Could you tell me what the temperature will be?",
+    "content_vi": "Bạn có thể cho tôi biết nhiệt độ sẽ là bao nhiêu không?",
+    "phonetic": "kʊd ju tɛl mi wʌt ðə ˈtɛmprəʧər wɪl bi",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "temperature"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4257,
+    "content_en": "The weather is better than yesterday.",
+    "content_vi": "Thời tiết tốt hơn hôm qua.",
+    "phonetic": "ðə ˈwɛðər ɪz ˈbɛtər ðæn ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "improvement",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4258,
+    "content_en": "I prefer spring to winter.",
+    "content_vi": "Tôi thích mùa xuân hơn mùa đông.",
+    "phonetic": "aɪ prɪˈfɜr sprɪŋ tu ˈwɪntər",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "seasons"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4259,
+    "content_en": "The temperature has dropped significantly overnight.",
+    "content_vi": "Nhiệt độ đã giảm đáng kể qua đêm.",
+    "phonetic": "ðə ˈtɛmprəʧər hæz drɑpt sɪɡˈnɪfɪkəntli ˈoʊvərˌnaɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect",
+      "temperature",
+      "change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4260,
+    "content_en": "I'd like to plan a picnic if the weather improves.",
+    "content_vi": "Tôi muốn lên kế hoạch dã ngoại nếu thời tiết cải thiện.",
+    "phonetic": "aɪd laɪk tu plæn ə ˈpɪkˌnɪk ɪf ðə ˈwɛðər ɪmˈpruvz",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "planning",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4261,
+    "content_en": "The storm lasted longer than expected.",
+    "content_vi": "Cơn bão kéo dài lâu hơn dự kiến.",
+    "phonetic": "ðə stɔrm ˈlæstəd ˈlɔŋɡər ðæn ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "storm"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4262,
+    "content_en": "This summer has been hotter than usual.",
+    "content_vi": "Mùa hè năm nay nóng hơn bình thường.",
+    "phonetic": "ðɪs ˈsʌmər hæz bɪn ˈhɑtər ðæn ˈjuʒuəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "present perfect",
+      "summer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4263,
+    "content_en": "I've been watching the weather updates all day.",
+    "content_vi": "Tôi theo dõi cập nhật thời tiết cả ngày rồi.",
+    "phonetic": "aɪv bɪn ˈwɑʧɪŋ ðə ˈwɛðər ˈʌpˌdeɪts ɔl deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "monitoring",
+      "updates"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4264,
+    "content_en": "I'd like to check the weather forecast for tomorrow.",
+    "content_vi": "Tôi muốn kiểm tra dự báo thời tiết cho ngày mai.",
+    "phonetic": "aɪd laɪk tu ʧɛk ðə ˈwɛðər ˈfɔrˌkæst fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "forecast",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4265,
+    "content_en": "It's been raining for three days straight.",
+    "content_vi": "Trời mưa liên tục ba ngày rồi.",
+    "phonetic": "ɪts bɪn ˈreɪnɪŋ fɔr θri deɪz streɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "rain",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4266,
+    "content_en": "Could you tell me what the temperature will be?",
+    "content_vi": "Bạn có thể cho tôi biết nhiệt độ sẽ là bao nhiêu không?",
+    "phonetic": "kʊd ju tɛl mi wʌt ðə ˈtɛmprəʧər wɪl bi",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "temperature"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4267,
+    "content_en": "The weather is better than yesterday.",
+    "content_vi": "Thời tiết tốt hơn hôm qua.",
+    "phonetic": "ðə ˈwɛðər ɪz ˈbɛtər ðæn ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "improvement",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4268,
+    "content_en": "I prefer spring to winter.",
+    "content_vi": "Tôi thích mùa xuân hơn mùa đông.",
+    "phonetic": "aɪ prɪˈfɜr sprɪŋ tu ˈwɪntər",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "seasons"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4269,
+    "content_en": "The temperature has dropped significantly overnight.",
+    "content_vi": "Nhiệt độ đã giảm đáng kể qua đêm.",
+    "phonetic": "ðə ˈtɛmprəʧər hæz drɑpt sɪɡˈnɪfɪkəntli ˈoʊvərˌnaɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect",
+      "temperature",
+      "change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4270,
+    "content_en": "I'd like to plan a picnic if the weather improves.",
+    "content_vi": "Tôi muốn lên kế hoạch dã ngoại nếu thời tiết cải thiện.",
+    "phonetic": "aɪd laɪk tu plæn ə ˈpɪkˌnɪk ɪf ðə ˈwɛðər ɪmˈpruvz",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "planning",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4271,
+    "content_en": "The storm lasted longer than expected.",
+    "content_vi": "Cơn bão kéo dài lâu hơn dự kiến.",
+    "phonetic": "ðə stɔrm ˈlæstəd ˈlɔŋɡər ðæn ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "storm"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4272,
+    "content_en": "This summer has been hotter than usual.",
+    "content_vi": "Mùa hè năm nay nóng hơn bình thường.",
+    "phonetic": "ðɪs ˈsʌmər hæz bɪn ˈhɑtər ðæn ˈjuʒuəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "present perfect",
+      "summer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4273,
+    "content_en": "I've been watching the weather updates all day.",
+    "content_vi": "Tôi theo dõi cập nhật thời tiết cả ngày rồi.",
+    "phonetic": "aɪv bɪn ˈwɑʧɪŋ ðə ˈwɛðər ˈʌpˌdeɪts ɔl deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "monitoring",
+      "updates"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4274,
+    "content_en": "I'd like to check the weather forecast for tomorrow.",
+    "content_vi": "Tôi muốn kiểm tra dự báo thời tiết cho ngày mai.",
+    "phonetic": "aɪd laɪk tu ʧɛk ðə ˈwɛðər ˈfɔrˌkæst fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "forecast",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4275,
+    "content_en": "It's been raining for three days straight.",
+    "content_vi": "Trời mưa liên tục ba ngày rồi.",
+    "phonetic": "ɪts bɪn ˈreɪnɪŋ fɔr θri deɪz streɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "rain",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4276,
+    "content_en": "Could you tell me what the temperature will be?",
+    "content_vi": "Bạn có thể cho tôi biết nhiệt độ sẽ là bao nhiêu không?",
+    "phonetic": "kʊd ju tɛl mi wʌt ðə ˈtɛmprəʧər wɪl bi",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "temperature"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4277,
+    "content_en": "The weather is better than yesterday.",
+    "content_vi": "Thời tiết tốt hơn hôm qua.",
+    "phonetic": "ðə ˈwɛðər ɪz ˈbɛtər ðæn ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "improvement",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4278,
+    "content_en": "I prefer spring to winter.",
+    "content_vi": "Tôi thích mùa xuân hơn mùa đông.",
+    "phonetic": "aɪ prɪˈfɜr sprɪŋ tu ˈwɪntər",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "seasons"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4279,
+    "content_en": "The temperature has dropped significantly overnight.",
+    "content_vi": "Nhiệt độ đã giảm đáng kể qua đêm.",
+    "phonetic": "ðə ˈtɛmprəʧər hæz drɑpt sɪɡˈnɪfɪkəntli ˈoʊvərˌnaɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect",
+      "temperature",
+      "change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4280,
+    "content_en": "I'd like to plan a picnic if the weather improves.",
+    "content_vi": "Tôi muốn lên kế hoạch dã ngoại nếu thời tiết cải thiện.",
+    "phonetic": "aɪd laɪk tu plæn ə ˈpɪkˌnɪk ɪf ðə ˈwɛðər ɪmˈpruvz",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "planning",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4281,
+    "content_en": "The storm lasted longer than expected.",
+    "content_vi": "Cơn bão kéo dài lâu hơn dự kiến.",
+    "phonetic": "ðə stɔrm ˈlæstəd ˈlɔŋɡər ðæn ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "storm"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4282,
+    "content_en": "This summer has been hotter than usual.",
+    "content_vi": "Mùa hè năm nay nóng hơn bình thường.",
+    "phonetic": "ðɪs ˈsʌmər hæz bɪn ˈhɑtər ðæn ˈjuʒuəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "present perfect",
+      "summer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4283,
+    "content_en": "I've been watching the weather updates all day.",
+    "content_vi": "Tôi theo dõi cập nhật thời tiết cả ngày rồi.",
+    "phonetic": "aɪv bɪn ˈwɑʧɪŋ ðə ˈwɛðər ˈʌpˌdeɪts ɔl deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "monitoring",
+      "updates"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4284,
+    "content_en": "I'd like to check the weather forecast for tomorrow.",
+    "content_vi": "Tôi muốn kiểm tra dự báo thời tiết cho ngày mai.",
+    "phonetic": "aɪd laɪk tu ʧɛk ðə ˈwɛðər ˈfɔrˌkæst fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "forecast",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4285,
+    "content_en": "It's been raining for three days straight.",
+    "content_vi": "Trời mưa liên tục ba ngày rồi.",
+    "phonetic": "ɪts bɪn ˈreɪnɪŋ fɔr θri deɪz streɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "rain",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4286,
+    "content_en": "Could you tell me what the temperature will be?",
+    "content_vi": "Bạn có thể cho tôi biết nhiệt độ sẽ là bao nhiêu không?",
+    "phonetic": "kʊd ju tɛl mi wʌt ðə ˈtɛmprəʧər wɪl bi",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "temperature"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4287,
+    "content_en": "The weather is better than yesterday.",
+    "content_vi": "Thời tiết tốt hơn hôm qua.",
+    "phonetic": "ðə ˈwɛðər ɪz ˈbɛtər ðæn ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "improvement",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4288,
+    "content_en": "I prefer spring to winter.",
+    "content_vi": "Tôi thích mùa xuân hơn mùa đông.",
+    "phonetic": "aɪ prɪˈfɜr sprɪŋ tu ˈwɪntər",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "seasons"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4289,
+    "content_en": "The temperature has dropped significantly overnight.",
+    "content_vi": "Nhiệt độ đã giảm đáng kể qua đêm.",
+    "phonetic": "ðə ˈtɛmprəʧər hæz drɑpt sɪɡˈnɪfɪkəntli ˈoʊvərˌnaɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect",
+      "temperature",
+      "change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4290,
+    "content_en": "I'd like to plan a picnic if the weather improves.",
+    "content_vi": "Tôi muốn lên kế hoạch dã ngoại nếu thời tiết cải thiện.",
+    "phonetic": "aɪd laɪk tu plæn ə ˈpɪkˌnɪk ɪf ðə ˈwɛðər ɪmˈpruvz",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "planning",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4291,
+    "content_en": "The storm lasted longer than expected.",
+    "content_vi": "Cơn bão kéo dài lâu hơn dự kiến.",
+    "phonetic": "ðə stɔrm ˈlæstəd ˈlɔŋɡər ðæn ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "storm"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4292,
+    "content_en": "This summer has been hotter than usual.",
+    "content_vi": "Mùa hè năm nay nóng hơn bình thường.",
+    "phonetic": "ðɪs ˈsʌmər hæz bɪn ˈhɑtər ðæn ˈjuʒuəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "present perfect",
+      "summer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4293,
+    "content_en": "I've been watching the weather updates all day.",
+    "content_vi": "Tôi theo dõi cập nhật thời tiết cả ngày rồi.",
+    "phonetic": "aɪv bɪn ˈwɑʧɪŋ ðə ˈwɛðər ˈʌpˌdeɪts ɔl deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "monitoring",
+      "updates"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4294,
+    "content_en": "I'd like to check the weather forecast for tomorrow.",
+    "content_vi": "Tôi muốn kiểm tra dự báo thời tiết cho ngày mai.",
+    "phonetic": "aɪd laɪk tu ʧɛk ðə ˈwɛðər ˈfɔrˌkæst fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "forecast",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4295,
+    "content_en": "It's been raining for three days straight.",
+    "content_vi": "Trời mưa liên tục ba ngày rồi.",
+    "phonetic": "ɪts bɪn ˈreɪnɪŋ fɔr θri deɪz streɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "rain",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4296,
+    "content_en": "Could you tell me what the temperature will be?",
+    "content_vi": "Bạn có thể cho tôi biết nhiệt độ sẽ là bao nhiêu không?",
+    "phonetic": "kʊd ju tɛl mi wʌt ðə ˈtɛmprəʧər wɪl bi",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "polite",
+      "question",
+      "temperature"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4297,
+    "content_en": "The weather is better than yesterday.",
+    "content_vi": "Thời tiết tốt hơn hôm qua.",
+    "phonetic": "ðə ˈwɛðər ɪz ˈbɛtər ðæn ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "improvement",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4298,
+    "content_en": "I prefer spring to winter.",
+    "content_vi": "Tôi thích mùa xuân hơn mùa đông.",
+    "phonetic": "aɪ prɪˈfɜr sprɪŋ tu ˈwɪntər",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "seasons"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4299,
+    "content_en": "The temperature has dropped significantly overnight.",
+    "content_vi": "Nhiệt độ đã giảm đáng kể qua đêm.",
+    "phonetic": "ðə ˈtɛmprəʧər hæz drɑpt sɪɡˈnɪfɪkəntli ˈoʊvərˌnaɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect",
+      "temperature",
+      "change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4300,
+    "content_en": "I'd like to plan a picnic if the weather improves.",
+    "content_vi": "Tôi muốn lên kế hoạch dã ngoại nếu thời tiết cải thiện.",
+    "phonetic": "aɪd laɪk tu plæn ə ˈpɪkˌnɪk ɪf ðə ˈwɛðər ɪmˈpruvz",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "planning",
+      "weather"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4301,
+    "content_en": "The storm lasted longer than expected.",
+    "content_vi": "Cơn bão kéo dài lâu hơn dự kiến.",
+    "phonetic": "ðə stɔrm ˈlæstəd ˈlɔŋɡər ðæn ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "storm"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4302,
+    "content_en": "This summer has been hotter than usual.",
+    "content_vi": "Mùa hè năm nay nóng hơn bình thường.",
+    "phonetic": "ðɪs ˈsʌmər hæz bɪn ˈhɑtər ðæn ˈjuʒuəl",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "comparison",
+      "present perfect",
+      "summer"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4303,
+    "content_en": "I've been watching the weather updates all day.",
+    "content_vi": "Tôi theo dõi cập nhật thời tiết cả ngày rồi.",
+    "phonetic": "aɪv bɪn ˈwɑʧɪŋ ðə ˈwɛðər ˈʌpˌdeɪts ɔl deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "monitoring",
+      "updates"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống thời tiết (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

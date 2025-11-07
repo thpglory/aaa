@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 4304,
+    "content_en": "If I had checked the forecast, I wouldn't have forgotten my umbrella.",
+    "content_vi": "Nếu tôi kiểm tra dự báo, tôi đã không quên ô.",
+    "phonetic": "ɪf aɪ hæd ʧɛkt ðə ˈfɔrˌkæst, aɪ ˈwʊdənt hæv fərˈɡɑtən maɪ ʌmˈbrɛlə",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4305,
+    "content_en": "Had I known about the storm warning, I would have stayed home.",
+    "content_vi": "Nếu tôi biết về cảnh báo bão, tôi đã ở nhà.",
+    "phonetic": "hæd aɪ noʊn əˈbaʊt ðə stɔrm ˈwɔrnɪŋ, aɪ wʊd hæv steɪd hoʊm",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "warning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4306,
+    "content_en": "The climate pattern, which had shifted dramatically, affected crop yields.",
+    "content_vi": "Mô hình khí hậu, đã thay đổi mạnh mẽ, đã ảnh hưởng đến năng suất cây trồng.",
+    "phonetic": "ðə ˈklaɪmət ˈpætərn, wɪʧ hæd ˈʃɪftəd drəˈmætɪkli, əˈfɛktəd krɑp jildz",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4307,
+    "content_en": "Should weather conditions worsen, evacuations may be necessary.",
+    "content_vi": "Nếu điều kiện thời tiết xấu đi, sơ tán có thể cần thiết.",
+    "phonetic": "ʃʊd ˈwɛðər kənˈdɪʃənz ˈwɜrsən, ɪˌvækjuˈeɪʃənz meɪ bi ˈnɛsəˌsɛri",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "evacuation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4308,
+    "content_en": "The region that had experienced drought finally received rainfall.",
+    "content_vi": "Vùng trải qua hạn hán cuối cùng đã nhận được lượng mưa.",
+    "phonetic": "ðə ˈriʤən ðæt hæd ɪkˈspɪriənst draʊt ˈfaɪnəli rəˈsivd ˈreɪnˌfɔl",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "drought"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4309,
+    "content_en": "If climate change weren't accelerating, extreme weather events would be less frequent.",
+    "content_vi": "Nếu biến đổi khí hậu không tăng tốc, các sự kiện thời tiết cực đoan sẽ ít thường xuyên hơn.",
+    "phonetic": "ɪf ˈklaɪmət ʧeɪnʤ wɜrnt əkˈsɛləˌreɪtɪŋ, ɪkˈstrim ˈwɛðər ɪˈvɛnts wʊd bi lɛs ˈfrikwənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "climate change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4310,
+    "content_en": "Were meteorological predictions more accurate, disaster preparedness would improve.",
+    "content_vi": "Nếu dự đoán khí tượng chính xác hơn, chuẩn bị thảm họa sẽ cải thiện.",
+    "phonetic": "wɜr ˌmitiərəˈlɑʤɪkəl prɪˈdɪkʃənz mɔr ˈækjərət, dɪˈzæstər prɪˈpɛrdnəs wʊd ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "meteorology",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4311,
+    "content_en": "The hurricane, which strengthened rapidly, caused widespread damage.",
+    "content_vi": "Cơn bão, mạnh lên nhanh chóng, đã gây thiệt hại rộng rãi.",
+    "phonetic": "ðə ˈhɜrəˌkeɪn, wɪʧ ˈstrɛŋθənd ˈræpədli, kɔzd ˈwaɪdˌsprɛd ˈdæməʤ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "hurricane",
+      "damage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4312,
+    "content_en": "Had I monitored the radar, I would have anticipated the severe weather.",
+    "content_vi": "Nếu tôi theo dõi radar, tôi đã dự đoán thời tiết khắc nghiệt.",
+    "phonetic": "hæd aɪ ˈmɑnətərd ðə ˈreɪˌdɑr, aɪ wʊd hæv ænˈtɪsəˌpeɪtəd ðə səˈvɪr ˈwɛðər",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "monitoring",
+      "prediction"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4313,
+    "content_en": "Unless global temperatures stabilize, ice caps will continue melting.",
+    "content_vi": "Trừ khi nhiệt độ toàn cầu ổn định, các chỏm băng sẽ tiếp tục tan.",
+    "phonetic": "ənˈlɛs ˈɡloʊbəl ˈtɛmprəʧərz ˈsteɪbəˌlaɪz, aɪs kæps wɪl kənˈtɪnju ˈmɛltɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4314,
+    "content_en": "If I had checked the forecast, I wouldn't have forgotten my umbrella.",
+    "content_vi": "Nếu tôi kiểm tra dự báo, tôi đã không quên ô.",
+    "phonetic": "ɪf aɪ hæd ʧɛkt ðə ˈfɔrˌkæst, aɪ ˈwʊdənt hæv fərˈɡɑtən maɪ ʌmˈbrɛlə",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4315,
+    "content_en": "Had I known about the storm warning, I would have stayed home.",
+    "content_vi": "Nếu tôi biết về cảnh báo bão, tôi đã ở nhà.",
+    "phonetic": "hæd aɪ noʊn əˈbaʊt ðə stɔrm ˈwɔrnɪŋ, aɪ wʊd hæv steɪd hoʊm",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "warning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4316,
+    "content_en": "The climate pattern, which had shifted dramatically, affected crop yields.",
+    "content_vi": "Mô hình khí hậu, đã thay đổi mạnh mẽ, đã ảnh hưởng đến năng suất cây trồng.",
+    "phonetic": "ðə ˈklaɪmət ˈpætərn, wɪʧ hæd ˈʃɪftəd drəˈmætɪkli, əˈfɛktəd krɑp jildz",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4317,
+    "content_en": "Should weather conditions worsen, evacuations may be necessary.",
+    "content_vi": "Nếu điều kiện thời tiết xấu đi, sơ tán có thể cần thiết.",
+    "phonetic": "ʃʊd ˈwɛðər kənˈdɪʃənz ˈwɜrsən, ɪˌvækjuˈeɪʃənz meɪ bi ˈnɛsəˌsɛri",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "evacuation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4318,
+    "content_en": "The region that had experienced drought finally received rainfall.",
+    "content_vi": "Vùng trải qua hạn hán cuối cùng đã nhận được lượng mưa.",
+    "phonetic": "ðə ˈriʤən ðæt hæd ɪkˈspɪriənst draʊt ˈfaɪnəli rəˈsivd ˈreɪnˌfɔl",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "drought"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4319,
+    "content_en": "If climate change weren't accelerating, extreme weather events would be less frequent.",
+    "content_vi": "Nếu biến đổi khí hậu không tăng tốc, các sự kiện thời tiết cực đoan sẽ ít thường xuyên hơn.",
+    "phonetic": "ɪf ˈklaɪmət ʧeɪnʤ wɜrnt əkˈsɛləˌreɪtɪŋ, ɪkˈstrim ˈwɛðər ɪˈvɛnts wʊd bi lɛs ˈfrikwənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "climate change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4320,
+    "content_en": "Were meteorological predictions more accurate, disaster preparedness would improve.",
+    "content_vi": "Nếu dự đoán khí tượng chính xác hơn, chuẩn bị thảm họa sẽ cải thiện.",
+    "phonetic": "wɜr ˌmitiərəˈlɑʤɪkəl prɪˈdɪkʃənz mɔr ˈækjərət, dɪˈzæstər prɪˈpɛrdnəs wʊd ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "meteorology",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4321,
+    "content_en": "The hurricane, which strengthened rapidly, caused widespread damage.",
+    "content_vi": "Cơn bão, mạnh lên nhanh chóng, đã gây thiệt hại rộng rãi.",
+    "phonetic": "ðə ˈhɜrəˌkeɪn, wɪʧ ˈstrɛŋθənd ˈræpədli, kɔzd ˈwaɪdˌsprɛd ˈdæməʤ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "hurricane",
+      "damage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4322,
+    "content_en": "Had I monitored the radar, I would have anticipated the severe weather.",
+    "content_vi": "Nếu tôi theo dõi radar, tôi đã dự đoán thời tiết khắc nghiệt.",
+    "phonetic": "hæd aɪ ˈmɑnətərd ðə ˈreɪˌdɑr, aɪ wʊd hæv ænˈtɪsəˌpeɪtəd ðə səˈvɪr ˈwɛðər",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "monitoring",
+      "prediction"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4323,
+    "content_en": "Unless global temperatures stabilize, ice caps will continue melting.",
+    "content_vi": "Trừ khi nhiệt độ toàn cầu ổn định, các chỏm băng sẽ tiếp tục tan.",
+    "phonetic": "ənˈlɛs ˈɡloʊbəl ˈtɛmprəʧərz ˈsteɪbəˌlaɪz, aɪs kæps wɪl kənˈtɪnju ˈmɛltɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4324,
+    "content_en": "If I had checked the forecast, I wouldn't have forgotten my umbrella.",
+    "content_vi": "Nếu tôi kiểm tra dự báo, tôi đã không quên ô.",
+    "phonetic": "ɪf aɪ hæd ʧɛkt ðə ˈfɔrˌkæst, aɪ ˈwʊdənt hæv fərˈɡɑtən maɪ ʌmˈbrɛlə",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4325,
+    "content_en": "Had I known about the storm warning, I would have stayed home.",
+    "content_vi": "Nếu tôi biết về cảnh báo bão, tôi đã ở nhà.",
+    "phonetic": "hæd aɪ noʊn əˈbaʊt ðə stɔrm ˈwɔrnɪŋ, aɪ wʊd hæv steɪd hoʊm",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "warning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4326,
+    "content_en": "The climate pattern, which had shifted dramatically, affected crop yields.",
+    "content_vi": "Mô hình khí hậu, đã thay đổi mạnh mẽ, đã ảnh hưởng đến năng suất cây trồng.",
+    "phonetic": "ðə ˈklaɪmət ˈpætərn, wɪʧ hæd ˈʃɪftəd drəˈmætɪkli, əˈfɛktəd krɑp jildz",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4327,
+    "content_en": "Should weather conditions worsen, evacuations may be necessary.",
+    "content_vi": "Nếu điều kiện thời tiết xấu đi, sơ tán có thể cần thiết.",
+    "phonetic": "ʃʊd ˈwɛðər kənˈdɪʃənz ˈwɜrsən, ɪˌvækjuˈeɪʃənz meɪ bi ˈnɛsəˌsɛri",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "evacuation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4328,
+    "content_en": "The region that had experienced drought finally received rainfall.",
+    "content_vi": "Vùng trải qua hạn hán cuối cùng đã nhận được lượng mưa.",
+    "phonetic": "ðə ˈriʤən ðæt hæd ɪkˈspɪriənst draʊt ˈfaɪnəli rəˈsivd ˈreɪnˌfɔl",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "drought"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4329,
+    "content_en": "If climate change weren't accelerating, extreme weather events would be less frequent.",
+    "content_vi": "Nếu biến đổi khí hậu không tăng tốc, các sự kiện thời tiết cực đoan sẽ ít thường xuyên hơn.",
+    "phonetic": "ɪf ˈklaɪmət ʧeɪnʤ wɜrnt əkˈsɛləˌreɪtɪŋ, ɪkˈstrim ˈwɛðər ɪˈvɛnts wʊd bi lɛs ˈfrikwənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "climate change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4330,
+    "content_en": "Were meteorological predictions more accurate, disaster preparedness would improve.",
+    "content_vi": "Nếu dự đoán khí tượng chính xác hơn, chuẩn bị thảm họa sẽ cải thiện.",
+    "phonetic": "wɜr ˌmitiərəˈlɑʤɪkəl prɪˈdɪkʃənz mɔr ˈækjərət, dɪˈzæstər prɪˈpɛrdnəs wʊd ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "meteorology",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4331,
+    "content_en": "The hurricane, which strengthened rapidly, caused widespread damage.",
+    "content_vi": "Cơn bão, mạnh lên nhanh chóng, đã gây thiệt hại rộng rãi.",
+    "phonetic": "ðə ˈhɜrəˌkeɪn, wɪʧ ˈstrɛŋθənd ˈræpədli, kɔzd ˈwaɪdˌsprɛd ˈdæməʤ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "hurricane",
+      "damage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4332,
+    "content_en": "Had I monitored the radar, I would have anticipated the severe weather.",
+    "content_vi": "Nếu tôi theo dõi radar, tôi đã dự đoán thời tiết khắc nghiệt.",
+    "phonetic": "hæd aɪ ˈmɑnətərd ðə ˈreɪˌdɑr, aɪ wʊd hæv ænˈtɪsəˌpeɪtəd ðə səˈvɪr ˈwɛðər",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "monitoring",
+      "prediction"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4333,
+    "content_en": "Unless global temperatures stabilize, ice caps will continue melting.",
+    "content_vi": "Trừ khi nhiệt độ toàn cầu ổn định, các chỏm băng sẽ tiếp tục tan.",
+    "phonetic": "ənˈlɛs ˈɡloʊbəl ˈtɛmprəʧərz ˈsteɪbəˌlaɪz, aɪs kæps wɪl kənˈtɪnju ˈmɛltɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4334,
+    "content_en": "If I had checked the forecast, I wouldn't have forgotten my umbrella.",
+    "content_vi": "Nếu tôi kiểm tra dự báo, tôi đã không quên ô.",
+    "phonetic": "ɪf aɪ hæd ʧɛkt ðə ˈfɔrˌkæst, aɪ ˈwʊdənt hæv fərˈɡɑtən maɪ ʌmˈbrɛlə",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4335,
+    "content_en": "Had I known about the storm warning, I would have stayed home.",
+    "content_vi": "Nếu tôi biết về cảnh báo bão, tôi đã ở nhà.",
+    "phonetic": "hæd aɪ noʊn əˈbaʊt ðə stɔrm ˈwɔrnɪŋ, aɪ wʊd hæv steɪd hoʊm",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "warning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4336,
+    "content_en": "The climate pattern, which had shifted dramatically, affected crop yields.",
+    "content_vi": "Mô hình khí hậu, đã thay đổi mạnh mẽ, đã ảnh hưởng đến năng suất cây trồng.",
+    "phonetic": "ðə ˈklaɪmət ˈpætərn, wɪʧ hæd ˈʃɪftəd drəˈmætɪkli, əˈfɛktəd krɑp jildz",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4337,
+    "content_en": "Should weather conditions worsen, evacuations may be necessary.",
+    "content_vi": "Nếu điều kiện thời tiết xấu đi, sơ tán có thể cần thiết.",
+    "phonetic": "ʃʊd ˈwɛðər kənˈdɪʃənz ˈwɜrsən, ɪˌvækjuˈeɪʃənz meɪ bi ˈnɛsəˌsɛri",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "evacuation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4338,
+    "content_en": "The region that had experienced drought finally received rainfall.",
+    "content_vi": "Vùng trải qua hạn hán cuối cùng đã nhận được lượng mưa.",
+    "phonetic": "ðə ˈriʤən ðæt hæd ɪkˈspɪriənst draʊt ˈfaɪnəli rəˈsivd ˈreɪnˌfɔl",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "drought"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4339,
+    "content_en": "If climate change weren't accelerating, extreme weather events would be less frequent.",
+    "content_vi": "Nếu biến đổi khí hậu không tăng tốc, các sự kiện thời tiết cực đoan sẽ ít thường xuyên hơn.",
+    "phonetic": "ɪf ˈklaɪmət ʧeɪnʤ wɜrnt əkˈsɛləˌreɪtɪŋ, ɪkˈstrim ˈwɛðər ɪˈvɛnts wʊd bi lɛs ˈfrikwənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "climate change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4340,
+    "content_en": "Were meteorological predictions more accurate, disaster preparedness would improve.",
+    "content_vi": "Nếu dự đoán khí tượng chính xác hơn, chuẩn bị thảm họa sẽ cải thiện.",
+    "phonetic": "wɜr ˌmitiərəˈlɑʤɪkəl prɪˈdɪkʃənz mɔr ˈækjərət, dɪˈzæstər prɪˈpɛrdnəs wʊd ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "meteorology",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4341,
+    "content_en": "The hurricane, which strengthened rapidly, caused widespread damage.",
+    "content_vi": "Cơn bão, mạnh lên nhanh chóng, đã gây thiệt hại rộng rãi.",
+    "phonetic": "ðə ˈhɜrəˌkeɪn, wɪʧ ˈstrɛŋθənd ˈræpədli, kɔzd ˈwaɪdˌsprɛd ˈdæməʤ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "hurricane",
+      "damage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4342,
+    "content_en": "Had I monitored the radar, I would have anticipated the severe weather.",
+    "content_vi": "Nếu tôi theo dõi radar, tôi đã dự đoán thời tiết khắc nghiệt.",
+    "phonetic": "hæd aɪ ˈmɑnətərd ðə ˈreɪˌdɑr, aɪ wʊd hæv ænˈtɪsəˌpeɪtəd ðə səˈvɪr ˈwɛðər",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "monitoring",
+      "prediction"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4343,
+    "content_en": "Unless global temperatures stabilize, ice caps will continue melting.",
+    "content_vi": "Trừ khi nhiệt độ toàn cầu ổn định, các chỏm băng sẽ tiếp tục tan.",
+    "phonetic": "ənˈlɛs ˈɡloʊbəl ˈtɛmprəʧərz ˈsteɪbəˌlaɪz, aɪs kæps wɪl kənˈtɪnju ˈmɛltɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4344,
+    "content_en": "If I had checked the forecast, I wouldn't have forgotten my umbrella.",
+    "content_vi": "Nếu tôi kiểm tra dự báo, tôi đã không quên ô.",
+    "phonetic": "ɪf aɪ hæd ʧɛkt ðə ˈfɔrˌkæst, aɪ ˈwʊdənt hæv fərˈɡɑtən maɪ ʌmˈbrɛlə",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4345,
+    "content_en": "Had I known about the storm warning, I would have stayed home.",
+    "content_vi": "Nếu tôi biết về cảnh báo bão, tôi đã ở nhà.",
+    "phonetic": "hæd aɪ noʊn əˈbaʊt ðə stɔrm ˈwɔrnɪŋ, aɪ wʊd hæv steɪd hoʊm",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "warning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4346,
+    "content_en": "The climate pattern, which had shifted dramatically, affected crop yields.",
+    "content_vi": "Mô hình khí hậu, đã thay đổi mạnh mẽ, đã ảnh hưởng đến năng suất cây trồng.",
+    "phonetic": "ðə ˈklaɪmət ˈpætərn, wɪʧ hæd ˈʃɪftəd drəˈmætɪkli, əˈfɛktəd krɑp jildz",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4347,
+    "content_en": "Should weather conditions worsen, evacuations may be necessary.",
+    "content_vi": "Nếu điều kiện thời tiết xấu đi, sơ tán có thể cần thiết.",
+    "phonetic": "ʃʊd ˈwɛðər kənˈdɪʃənz ˈwɜrsən, ɪˌvækjuˈeɪʃənz meɪ bi ˈnɛsəˌsɛri",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "evacuation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4348,
+    "content_en": "The region that had experienced drought finally received rainfall.",
+    "content_vi": "Vùng trải qua hạn hán cuối cùng đã nhận được lượng mưa.",
+    "phonetic": "ðə ˈriʤən ðæt hæd ɪkˈspɪriənst draʊt ˈfaɪnəli rəˈsivd ˈreɪnˌfɔl",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "drought"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4349,
+    "content_en": "If climate change weren't accelerating, extreme weather events would be less frequent.",
+    "content_vi": "Nếu biến đổi khí hậu không tăng tốc, các sự kiện thời tiết cực đoan sẽ ít thường xuyên hơn.",
+    "phonetic": "ɪf ˈklaɪmət ʧeɪnʤ wɜrnt əkˈsɛləˌreɪtɪŋ, ɪkˈstrim ˈwɛðər ɪˈvɛnts wʊd bi lɛs ˈfrikwənt",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "climate change"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4350,
+    "content_en": "Were meteorological predictions more accurate, disaster preparedness would improve.",
+    "content_vi": "Nếu dự đoán khí tượng chính xác hơn, chuẩn bị thảm họa sẽ cải thiện.",
+    "phonetic": "wɜr ˌmitiərəˈlɑʤɪkəl prɪˈdɪkʃənz mɔr ˈækjərət, dɪˈzæstər prɪˈpɛrdnəs wʊd ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional inversion",
+      "meteorology",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4351,
+    "content_en": "The hurricane, which strengthened rapidly, caused widespread damage.",
+    "content_vi": "Cơn bão, mạnh lên nhanh chóng, đã gây thiệt hại rộng rãi.",
+    "phonetic": "ðə ˈhɜrəˌkeɪn, wɪʧ ˈstrɛŋθənd ˈræpədli, kɔzd ˈwaɪdˌsprɛd ˈdæməʤ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "relative clause",
+      "hurricane",
+      "damage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4352,
+    "content_en": "Had I monitored the radar, I would have anticipated the severe weather.",
+    "content_vi": "Nếu tôi theo dõi radar, tôi đã dự đoán thời tiết khắc nghiệt.",
+    "phonetic": "hæd aɪ ˈmɑnətərd ðə ˈreɪˌdɑr, aɪ wʊd hæv ænˈtɪsəˌpeɪtəd ðə səˈvɪr ˈwɛðər",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "monitoring",
+      "prediction"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4353,
+    "content_en": "Unless global temperatures stabilize, ice caps will continue melting.",
+    "content_vi": "Trừ khi nhiệt độ toàn cầu ổn định, các chỏm băng sẽ tiếp tục tan.",
+    "phonetic": "ənˈlɛs ˈɡloʊbəl ˈtɛmprəʧərz ˈsteɪbəˌlaɪz, aɪs kæps wɪl kənˈtɪnju ˈmɛltɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "weather"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "climate"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Thời tiết trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

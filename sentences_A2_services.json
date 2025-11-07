@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 4054,
+    "content_en": "I'd like to book an appointment for tomorrow.",
+    "content_vi": "Tôi muốn đặt lịch hẹn cho ngày mai.",
+    "phonetic": "aɪd laɪk tu bʊk ən əˈpɔɪntmənt fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "appointment",
+      "booking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4055,
+    "content_en": "I've been waiting for the technician for an hour.",
+    "content_vi": "Tôi đợi thợ kỹ thuật được một giờ rồi.",
+    "phonetic": "aɪv bɪn ˈweɪtɪŋ fɔr ðə tɛkˈnɪʃən fɔr ən ˈaʊər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "waiting",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4056,
+    "content_en": "Could you recommend a good dry cleaner?",
+    "content_vi": "Bạn có thể giới thiệu một tiệm giặt khô tốt không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə ɡʊd draɪ ˈklinər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4057,
+    "content_en": "The repair cost more than I expected.",
+    "content_vi": "Chi phí sửa chữa đắt hơn tôi mong đợi.",
+    "phonetic": "ðə rɪˈpɛr kɔst mɔr ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "cost",
+      "repair"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4058,
+    "content_en": "I prefer this salon to the one downtown.",
+    "content_vi": "Tôi thích salon này hơn salon ở trung tâm thành phố.",
+    "phonetic": "aɪ prɪˈfɜr ðɪs səˈlɑn tu ðə wʌn ˈdaʊnˈtaʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "salon"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4059,
+    "content_en": "I've already scheduled the car service.",
+    "content_vi": "Tôi đã lên lịch bảo dưỡng xe rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˈskɛdʒuld ðə kɑr ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect",
+      "completion",
+      "car service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4060,
+    "content_en": "I'd like to file a complaint about the service.",
+    "content_vi": "Tôi muốn nộp đơn khiếu nại về dịch vụ.",
+    "phonetic": "aɪd laɪk tu faɪl ə kəmˈpleɪnt əˈbaʊt ðə ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "complaint",
+      "customer service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4061,
+    "content_en": "The delivery arrived earlier than scheduled.",
+    "content_vi": "Giao hàng đến sớm hơn dự định.",
+    "phonetic": "ðə dɪˈlɪvəri əˈraɪvd ˈɜrliər ðæn ˈskɛdʒuld",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "delivery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4062,
+    "content_en": "The customer service was more helpful than before.",
+    "content_vi": "Dịch vụ khách hàng hữu ích hơn trước.",
+    "phonetic": "ðə ˈkʌstəmər ˈsɜrvəs wɑz mɔr ˈhɛlpfəl ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "customer service",
+      "improvement"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4063,
+    "content_en": "I've been using this laundry service for years.",
+    "content_vi": "Tôi sử dụng dịch vụ giặt là này nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈlɔndri ˈsɜrvəs fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "laundry",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4064,
+    "content_en": "I'd like to book an appointment for tomorrow.",
+    "content_vi": "Tôi muốn đặt lịch hẹn cho ngày mai.",
+    "phonetic": "aɪd laɪk tu bʊk ən əˈpɔɪntmənt fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "appointment",
+      "booking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4065,
+    "content_en": "I've been waiting for the technician for an hour.",
+    "content_vi": "Tôi đợi thợ kỹ thuật được một giờ rồi.",
+    "phonetic": "aɪv bɪn ˈweɪtɪŋ fɔr ðə tɛkˈnɪʃən fɔr ən ˈaʊər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "waiting",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4066,
+    "content_en": "Could you recommend a good dry cleaner?",
+    "content_vi": "Bạn có thể giới thiệu một tiệm giặt khô tốt không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə ɡʊd draɪ ˈklinər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4067,
+    "content_en": "The repair cost more than I expected.",
+    "content_vi": "Chi phí sửa chữa đắt hơn tôi mong đợi.",
+    "phonetic": "ðə rɪˈpɛr kɔst mɔr ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "cost",
+      "repair"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4068,
+    "content_en": "I prefer this salon to the one downtown.",
+    "content_vi": "Tôi thích salon này hơn salon ở trung tâm thành phố.",
+    "phonetic": "aɪ prɪˈfɜr ðɪs səˈlɑn tu ðə wʌn ˈdaʊnˈtaʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "salon"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4069,
+    "content_en": "I've already scheduled the car service.",
+    "content_vi": "Tôi đã lên lịch bảo dưỡng xe rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˈskɛdʒuld ðə kɑr ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect",
+      "completion",
+      "car service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4070,
+    "content_en": "I'd like to file a complaint about the service.",
+    "content_vi": "Tôi muốn nộp đơn khiếu nại về dịch vụ.",
+    "phonetic": "aɪd laɪk tu faɪl ə kəmˈpleɪnt əˈbaʊt ðə ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "complaint",
+      "customer service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4071,
+    "content_en": "The delivery arrived earlier than scheduled.",
+    "content_vi": "Giao hàng đến sớm hơn dự định.",
+    "phonetic": "ðə dɪˈlɪvəri əˈraɪvd ˈɜrliər ðæn ˈskɛdʒuld",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "delivery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4072,
+    "content_en": "The customer service was more helpful than before.",
+    "content_vi": "Dịch vụ khách hàng hữu ích hơn trước.",
+    "phonetic": "ðə ˈkʌstəmər ˈsɜrvəs wɑz mɔr ˈhɛlpfəl ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "customer service",
+      "improvement"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4073,
+    "content_en": "I've been using this laundry service for years.",
+    "content_vi": "Tôi sử dụng dịch vụ giặt là này nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈlɔndri ˈsɜrvəs fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "laundry",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4074,
+    "content_en": "I'd like to book an appointment for tomorrow.",
+    "content_vi": "Tôi muốn đặt lịch hẹn cho ngày mai.",
+    "phonetic": "aɪd laɪk tu bʊk ən əˈpɔɪntmənt fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "appointment",
+      "booking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4075,
+    "content_en": "I've been waiting for the technician for an hour.",
+    "content_vi": "Tôi đợi thợ kỹ thuật được một giờ rồi.",
+    "phonetic": "aɪv bɪn ˈweɪtɪŋ fɔr ðə tɛkˈnɪʃən fɔr ən ˈaʊər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "waiting",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4076,
+    "content_en": "Could you recommend a good dry cleaner?",
+    "content_vi": "Bạn có thể giới thiệu một tiệm giặt khô tốt không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə ɡʊd draɪ ˈklinər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4077,
+    "content_en": "The repair cost more than I expected.",
+    "content_vi": "Chi phí sửa chữa đắt hơn tôi mong đợi.",
+    "phonetic": "ðə rɪˈpɛr kɔst mɔr ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "cost",
+      "repair"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4078,
+    "content_en": "I prefer this salon to the one downtown.",
+    "content_vi": "Tôi thích salon này hơn salon ở trung tâm thành phố.",
+    "phonetic": "aɪ prɪˈfɜr ðɪs səˈlɑn tu ðə wʌn ˈdaʊnˈtaʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "salon"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4079,
+    "content_en": "I've already scheduled the car service.",
+    "content_vi": "Tôi đã lên lịch bảo dưỡng xe rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˈskɛdʒuld ðə kɑr ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect",
+      "completion",
+      "car service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4080,
+    "content_en": "I'd like to file a complaint about the service.",
+    "content_vi": "Tôi muốn nộp đơn khiếu nại về dịch vụ.",
+    "phonetic": "aɪd laɪk tu faɪl ə kəmˈpleɪnt əˈbaʊt ðə ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "complaint",
+      "customer service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4081,
+    "content_en": "The delivery arrived earlier than scheduled.",
+    "content_vi": "Giao hàng đến sớm hơn dự định.",
+    "phonetic": "ðə dɪˈlɪvəri əˈraɪvd ˈɜrliər ðæn ˈskɛdʒuld",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "delivery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4082,
+    "content_en": "The customer service was more helpful than before.",
+    "content_vi": "Dịch vụ khách hàng hữu ích hơn trước.",
+    "phonetic": "ðə ˈkʌstəmər ˈsɜrvəs wɑz mɔr ˈhɛlpfəl ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "customer service",
+      "improvement"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4083,
+    "content_en": "I've been using this laundry service for years.",
+    "content_vi": "Tôi sử dụng dịch vụ giặt là này nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈlɔndri ˈsɜrvəs fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "laundry",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4084,
+    "content_en": "I'd like to book an appointment for tomorrow.",
+    "content_vi": "Tôi muốn đặt lịch hẹn cho ngày mai.",
+    "phonetic": "aɪd laɪk tu bʊk ən əˈpɔɪntmənt fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "appointment",
+      "booking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4085,
+    "content_en": "I've been waiting for the technician for an hour.",
+    "content_vi": "Tôi đợi thợ kỹ thuật được một giờ rồi.",
+    "phonetic": "aɪv bɪn ˈweɪtɪŋ fɔr ðə tɛkˈnɪʃən fɔr ən ˈaʊər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "waiting",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4086,
+    "content_en": "Could you recommend a good dry cleaner?",
+    "content_vi": "Bạn có thể giới thiệu một tiệm giặt khô tốt không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə ɡʊd draɪ ˈklinər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4087,
+    "content_en": "The repair cost more than I expected.",
+    "content_vi": "Chi phí sửa chữa đắt hơn tôi mong đợi.",
+    "phonetic": "ðə rɪˈpɛr kɔst mɔr ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "cost",
+      "repair"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4088,
+    "content_en": "I prefer this salon to the one downtown.",
+    "content_vi": "Tôi thích salon này hơn salon ở trung tâm thành phố.",
+    "phonetic": "aɪ prɪˈfɜr ðɪs səˈlɑn tu ðə wʌn ˈdaʊnˈtaʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "salon"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4089,
+    "content_en": "I've already scheduled the car service.",
+    "content_vi": "Tôi đã lên lịch bảo dưỡng xe rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˈskɛdʒuld ðə kɑr ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect",
+      "completion",
+      "car service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4090,
+    "content_en": "I'd like to file a complaint about the service.",
+    "content_vi": "Tôi muốn nộp đơn khiếu nại về dịch vụ.",
+    "phonetic": "aɪd laɪk tu faɪl ə kəmˈpleɪnt əˈbaʊt ðə ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "complaint",
+      "customer service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4091,
+    "content_en": "The delivery arrived earlier than scheduled.",
+    "content_vi": "Giao hàng đến sớm hơn dự định.",
+    "phonetic": "ðə dɪˈlɪvəri əˈraɪvd ˈɜrliər ðæn ˈskɛdʒuld",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "delivery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4092,
+    "content_en": "The customer service was more helpful than before.",
+    "content_vi": "Dịch vụ khách hàng hữu ích hơn trước.",
+    "phonetic": "ðə ˈkʌstəmər ˈsɜrvəs wɑz mɔr ˈhɛlpfəl ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "customer service",
+      "improvement"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4093,
+    "content_en": "I've been using this laundry service for years.",
+    "content_vi": "Tôi sử dụng dịch vụ giặt là này nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈlɔndri ˈsɜrvəs fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "laundry",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4094,
+    "content_en": "I'd like to book an appointment for tomorrow.",
+    "content_vi": "Tôi muốn đặt lịch hẹn cho ngày mai.",
+    "phonetic": "aɪd laɪk tu bʊk ən əˈpɔɪntmənt fɔr təˈmɑroʊ",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "appointment",
+      "booking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4095,
+    "content_en": "I've been waiting for the technician for an hour.",
+    "content_vi": "Tôi đợi thợ kỹ thuật được một giờ rồi.",
+    "phonetic": "aɪv bɪn ˈweɪtɪŋ fɔr ðə tɛkˈnɪʃən fɔr ən ˈaʊər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "waiting",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4096,
+    "content_en": "Could you recommend a good dry cleaner?",
+    "content_vi": "Bạn có thể giới thiệu một tiệm giặt khô tốt không?",
+    "phonetic": "kʊd ju ˌrɛkəˈmɛnd ə ɡʊd draɪ ˈklinər",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "recommendation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4097,
+    "content_en": "The repair cost more than I expected.",
+    "content_vi": "Chi phí sửa chữa đắt hơn tôi mong đợi.",
+    "phonetic": "ðə rɪˈpɛr kɔst mɔr ðæn aɪ ɪkˈspɛktəd",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "cost",
+      "repair"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4098,
+    "content_en": "I prefer this salon to the one downtown.",
+    "content_vi": "Tôi thích salon này hơn salon ở trung tâm thành phố.",
+    "phonetic": "aɪ prɪˈfɜr ðɪs səˈlɑn tu ðə wʌn ˈdaʊnˈtaʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "preference",
+      "comparison",
+      "salon"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4099,
+    "content_en": "I've already scheduled the car service.",
+    "content_vi": "Tôi đã lên lịch bảo dưỡng xe rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˈskɛdʒuld ðə kɑr ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect",
+      "completion",
+      "car service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4100,
+    "content_en": "I'd like to file a complaint about the service.",
+    "content_vi": "Tôi muốn nộp đơn khiếu nại về dịch vụ.",
+    "phonetic": "aɪd laɪk tu faɪl ə kəmˈpleɪnt əˈbaʊt ðə ˈsɜrvəs",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "polite",
+      "complaint",
+      "customer service"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4101,
+    "content_en": "The delivery arrived earlier than scheduled.",
+    "content_vi": "Giao hàng đến sớm hơn dự định.",
+    "phonetic": "ðə dɪˈlɪvəri əˈraɪvd ˈɜrliər ðæn ˈskɛdʒuld",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "past",
+      "delivery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4102,
+    "content_en": "The customer service was more helpful than before.",
+    "content_vi": "Dịch vụ khách hàng hữu ích hơn trước.",
+    "phonetic": "ðə ˈkʌstəmər ˈsɜrvəs wɑz mɔr ˈhɛlpfəl ðæn bɪˈfɔr",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "comparison",
+      "customer service",
+      "improvement"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4103,
+    "content_en": "I've been using this laundry service for years.",
+    "content_vi": "Tôi sử dụng dịch vụ giặt là này nhiều năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈlɔndri ˈsɜrvəs fɔr jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "services"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "laundry",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống dịch vụ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 4404,
+    "content_en": "I like reading.",
+    "content_vi": "Tôi thích đọc sách.",
+    "phonetic": "aɪ laɪk ˈridɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "reading"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4405,
+    "content_en": "I draw pictures.",
+    "content_vi": "Tôi vẽ tranh.",
+    "phonetic": "aɪ drɔ ˈpɪkʧərz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "drawing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4406,
+    "content_en": "I play guitar.",
+    "content_vi": "Tôi chơi guitar.",
+    "phonetic": "aɪ pleɪ ɡɪˈtɑr",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "music"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4407,
+    "content_en": "I collect stamps.",
+    "content_vi": "Tôi sưu tầm tem.",
+    "phonetic": "aɪ kəˈlɛkt stæmps",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "collecting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4408,
+    "content_en": "I take photos.",
+    "content_vi": "Tôi chụp ảnh.",
+    "phonetic": "aɪ teɪk ˈfoʊtoʊz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "photography"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4409,
+    "content_en": "I like gardening.",
+    "content_vi": "Tôi thích làm vườn.",
+    "phonetic": "aɪ laɪk ˈɡɑrdənɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "gardening"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4410,
+    "content_en": "I cook for fun.",
+    "content_vi": "Tôi nấu ăn cho vui.",
+    "phonetic": "aɪ kʊk fɔr fʌn",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "cooking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4411,
+    "content_en": "I write stories.",
+    "content_vi": "Tôi viết truyện.",
+    "phonetic": "aɪ raɪt ˈstɔriz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "writing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4412,
+    "content_en": "I make crafts.",
+    "content_vi": "Tôi làm đồ thủ công.",
+    "phonetic": "aɪ meɪk kræfts",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "crafts"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4413,
+    "content_en": "I enjoy painting.",
+    "content_vi": "Tôi thích vẽ.",
+    "phonetic": "aɪ ɪnˈʤɔɪ ˈpeɪntɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "painting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4414,
+    "content_en": "I like reading.",
+    "content_vi": "Tôi thích đọc sách.",
+    "phonetic": "aɪ laɪk ˈridɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "reading"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4415,
+    "content_en": "I draw pictures.",
+    "content_vi": "Tôi vẽ tranh.",
+    "phonetic": "aɪ drɔ ˈpɪkʧərz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "drawing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4416,
+    "content_en": "I play guitar.",
+    "content_vi": "Tôi chơi guitar.",
+    "phonetic": "aɪ pleɪ ɡɪˈtɑr",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "music"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4417,
+    "content_en": "I collect stamps.",
+    "content_vi": "Tôi sưu tầm tem.",
+    "phonetic": "aɪ kəˈlɛkt stæmps",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "collecting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4418,
+    "content_en": "I take photos.",
+    "content_vi": "Tôi chụp ảnh.",
+    "phonetic": "aɪ teɪk ˈfoʊtoʊz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "photography"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4419,
+    "content_en": "I like gardening.",
+    "content_vi": "Tôi thích làm vườn.",
+    "phonetic": "aɪ laɪk ˈɡɑrdənɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "gardening"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4420,
+    "content_en": "I cook for fun.",
+    "content_vi": "Tôi nấu ăn cho vui.",
+    "phonetic": "aɪ kʊk fɔr fʌn",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "cooking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4421,
+    "content_en": "I write stories.",
+    "content_vi": "Tôi viết truyện.",
+    "phonetic": "aɪ raɪt ˈstɔriz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "writing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4422,
+    "content_en": "I make crafts.",
+    "content_vi": "Tôi làm đồ thủ công.",
+    "phonetic": "aɪ meɪk kræfts",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "crafts"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4423,
+    "content_en": "I enjoy painting.",
+    "content_vi": "Tôi thích vẽ.",
+    "phonetic": "aɪ ɪnˈʤɔɪ ˈpeɪntɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "painting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4424,
+    "content_en": "I like reading.",
+    "content_vi": "Tôi thích đọc sách.",
+    "phonetic": "aɪ laɪk ˈridɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "reading"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4425,
+    "content_en": "I draw pictures.",
+    "content_vi": "Tôi vẽ tranh.",
+    "phonetic": "aɪ drɔ ˈpɪkʧərz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "drawing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4426,
+    "content_en": "I play guitar.",
+    "content_vi": "Tôi chơi guitar.",
+    "phonetic": "aɪ pleɪ ɡɪˈtɑr",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "music"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4427,
+    "content_en": "I collect stamps.",
+    "content_vi": "Tôi sưu tầm tem.",
+    "phonetic": "aɪ kəˈlɛkt stæmps",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "collecting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4428,
+    "content_en": "I take photos.",
+    "content_vi": "Tôi chụp ảnh.",
+    "phonetic": "aɪ teɪk ˈfoʊtoʊz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "photography"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4429,
+    "content_en": "I like gardening.",
+    "content_vi": "Tôi thích làm vườn.",
+    "phonetic": "aɪ laɪk ˈɡɑrdənɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "gardening"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4430,
+    "content_en": "I cook for fun.",
+    "content_vi": "Tôi nấu ăn cho vui.",
+    "phonetic": "aɪ kʊk fɔr fʌn",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "cooking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4431,
+    "content_en": "I write stories.",
+    "content_vi": "Tôi viết truyện.",
+    "phonetic": "aɪ raɪt ˈstɔriz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "writing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4432,
+    "content_en": "I make crafts.",
+    "content_vi": "Tôi làm đồ thủ công.",
+    "phonetic": "aɪ meɪk kræfts",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "crafts"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4433,
+    "content_en": "I enjoy painting.",
+    "content_vi": "Tôi thích vẽ.",
+    "phonetic": "aɪ ɪnˈʤɔɪ ˈpeɪntɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "painting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4434,
+    "content_en": "I like reading.",
+    "content_vi": "Tôi thích đọc sách.",
+    "phonetic": "aɪ laɪk ˈridɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "reading"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4435,
+    "content_en": "I draw pictures.",
+    "content_vi": "Tôi vẽ tranh.",
+    "phonetic": "aɪ drɔ ˈpɪkʧərz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "drawing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4436,
+    "content_en": "I play guitar.",
+    "content_vi": "Tôi chơi guitar.",
+    "phonetic": "aɪ pleɪ ɡɪˈtɑr",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "music"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4437,
+    "content_en": "I collect stamps.",
+    "content_vi": "Tôi sưu tầm tem.",
+    "phonetic": "aɪ kəˈlɛkt stæmps",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "collecting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4438,
+    "content_en": "I take photos.",
+    "content_vi": "Tôi chụp ảnh.",
+    "phonetic": "aɪ teɪk ˈfoʊtoʊz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "photography"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4439,
+    "content_en": "I like gardening.",
+    "content_vi": "Tôi thích làm vườn.",
+    "phonetic": "aɪ laɪk ˈɡɑrdənɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "gardening"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4440,
+    "content_en": "I cook for fun.",
+    "content_vi": "Tôi nấu ăn cho vui.",
+    "phonetic": "aɪ kʊk fɔr fʌn",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "cooking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4441,
+    "content_en": "I write stories.",
+    "content_vi": "Tôi viết truyện.",
+    "phonetic": "aɪ raɪt ˈstɔriz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "writing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4442,
+    "content_en": "I make crafts.",
+    "content_vi": "Tôi làm đồ thủ công.",
+    "phonetic": "aɪ meɪk kræfts",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "crafts"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4443,
+    "content_en": "I enjoy painting.",
+    "content_vi": "Tôi thích vẽ.",
+    "phonetic": "aɪ ɪnˈʤɔɪ ˈpeɪntɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "painting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4444,
+    "content_en": "I like reading.",
+    "content_vi": "Tôi thích đọc sách.",
+    "phonetic": "aɪ laɪk ˈridɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "reading"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4445,
+    "content_en": "I draw pictures.",
+    "content_vi": "Tôi vẽ tranh.",
+    "phonetic": "aɪ drɔ ˈpɪkʧərz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "drawing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4446,
+    "content_en": "I play guitar.",
+    "content_vi": "Tôi chơi guitar.",
+    "phonetic": "aɪ pleɪ ɡɪˈtɑr",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "music"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4447,
+    "content_en": "I collect stamps.",
+    "content_vi": "Tôi sưu tầm tem.",
+    "phonetic": "aɪ kəˈlɛkt stæmps",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "collecting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4448,
+    "content_en": "I take photos.",
+    "content_vi": "Tôi chụp ảnh.",
+    "phonetic": "aɪ teɪk ˈfoʊtoʊz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "photography"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4449,
+    "content_en": "I like gardening.",
+    "content_vi": "Tôi thích làm vườn.",
+    "phonetic": "aɪ laɪk ˈɡɑrdənɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "gardening"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4450,
+    "content_en": "I cook for fun.",
+    "content_vi": "Tôi nấu ăn cho vui.",
+    "phonetic": "aɪ kʊk fɔr fʌn",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "cooking"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4451,
+    "content_en": "I write stories.",
+    "content_vi": "Tôi viết truyện.",
+    "phonetic": "aɪ raɪt ˈstɔriz",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "writing"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4452,
+    "content_en": "I make crafts.",
+    "content_vi": "Tôi làm đồ thủ công.",
+    "phonetic": "aɪ meɪk kræfts",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "crafts"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 4453,
+    "content_en": "I enjoy painting.",
+    "content_vi": "Tôi thích vẽ.",
+    "phonetic": "aɪ ɪnˈʤɔɪ ˈpeɪntɪŋ",
+    "level_id": "A1",
+    "topic_ids": [
+      "hobbies"
+    ],
+    "tags": [
+      "basic",
+      "painting"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Sở thích cơ bản (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
