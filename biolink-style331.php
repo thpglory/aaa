@@ -4818,8 +4818,12 @@
             breathingCycle = 0;
             const circle = document.getElementById('breathingCircle');
             const instruction = document.getElementById('breathingInstruction');
-            circle.className = 'breathing-circle';
-            instruction.textContent = 'Sẵn sàng bắt đầu';
+            if (circle) {
+                circle.className = 'breathing-circle';
+            }
+            if (instruction) {
+                instruction.textContent = 'Sẵn sàng bắt đầu';
+            }
         }
 
         function startBoxBreathing() {
