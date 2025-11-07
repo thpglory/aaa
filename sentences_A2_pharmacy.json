@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1254,
+        "content_en": "I'd like to fill this prescription, please.",
+        "content_vi": "Tôi muốn mua thuốc theo đơn này.",
+        "phonetic": "aɪd laɪk tə fɪl ðɪs prɪˈskrɪpʃən pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "prescription",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1255,
+        "content_en": "Could you recommend something for a headache?",
+        "content_vi": "Bạn có thể giới thiệu thuốc gì cho đau đầu không?",
+        "phonetic": "kʊd ju ˌrɛkəˈmɛnd ˈsʌmθɪŋ fɔr ə ˈhɛdˌeɪk",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "recommendation",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1256,
+        "content_en": "How often should I take this medicine?",
+        "content_vi": "Tôi nên uống thuốc này bao lâu một lần?",
+        "phonetic": "haʊ ˈɔfən ʃʊd aɪ teɪk ðɪs ˈmɛdəsən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "dosage",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1257,
+        "content_en": "I've been feeling unwell for three days.",
+        "content_vi": "Tôi đã cảm thấy không khỏe ba ngày rồi.",
+        "phonetic": "aɪv bɪn ˈfilɪŋ ʌnˈwɛl fɔr θri deɪz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "symptom"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1258,
+        "content_en": "The pain is worse than yesterday.",
+        "content_vi": "Cơn đau tệ hơn hôm qua.",
+        "phonetic": "ðə peɪn ɪz wɜrs ðæn ˈjɛstərˌdeɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "comparison",
+            "pain"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1259,
+        "content_en": "I'm allergic to penicillin.",
+        "content_vi": "Tôi bị dị ứng với penicillin.",
+        "phonetic": "aɪm əˈlɜrʤɪk tə ˌpɛnəˈsɪlɪn",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "allergy",
+            "important"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1260,
+        "content_en": "Do you have anything stronger?",
+        "content_vi": "Bạn có thuốc mạnh hơn không?",
+        "phonetic": "du ju hæv ˈɛniθɪŋ ˈstrɔŋɡər",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "comparison",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1261,
+        "content_en": "The doctor told me to take these twice a day.",
+        "content_vi": "Bác sĩ bảo tôi uống những viên này hai lần một ngày.",
+        "phonetic": "ðə ˈdɑktər toʊld mi tə teɪk ðiz twaɪs ə deɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "dosage",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1262,
+        "content_en": "I forgot to take my medicine this morning.",
+        "content_vi": "Tôi quên uống thuốc sáng nay.",
+        "phonetic": "aɪ fɔrˈɡɑt tə teɪk maɪ ˈmɛdəsən ðɪs ˈmɔrnɪŋ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "problem"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1263,
+        "content_en": "Can I take this with food?",
+        "content_vi": "Tôi có thể uống thuốc này cùng đồ ăn không?",
+        "phonetic": "kæn aɪ teɪk ðɪs wɪð fud",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "question",
+            "dosage"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1264,
+        "content_en": "I've never used this medication before.",
+        "content_vi": "Tôi chưa bao giờ dùng thuốc này trước đây.",
+        "phonetic": "aɪv ˈnɛvər juzd ðɪs ˌmɛdəˈkeɪʃən bɪˈfɔr",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "experience",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1265,
+        "content_en": "My symptoms started last week.",
+        "content_vi": "Triệu chứng của tôi bắt đầu từ tuần trước.",
+        "phonetic": "maɪ ˈsɪmptəmz ˈstɑrtəd læst wik",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "symptom"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1266,
+        "content_en": "I'd prefer the generic brand if it's cheaper.",
+        "content_vi": "Tôi thích thuốc generic nếu rẻ hơn.",
+        "phonetic": "aɪd prɪˈfɜr ðə ʤəˈnɛrɪk brænd ɪf ɪts ˈʧipər",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "preference",
+            "price"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1267,
+        "content_en": "The pharmacist explained how to use the inhaler.",
+        "content_vi": "Dược sĩ đã giải thích cách sử dụng bình xịt.",
+        "phonetic": "ðə ˈfɑrməsɪst ɪkˈspleɪnd haʊ tə juz ði ɪnˈheɪlər",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1268,
+        "content_en": "This cream works better than the pills.",
+        "content_vi": "Kem này hiệu quả hơn thuốc viên.",
+        "phonetic": "ðɪs krim wɜrks ˈbɛtər ðæn ðə pɪlz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "comparison",
+            "effectiveness"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1269,
+        "content_en": "I've been taking these vitamins for a month.",
+        "content_vi": "Tôi đã uống những viên vitamin này một tháng rồi.",
+        "phonetic": "aɪv bɪn ˈteɪkɪŋ ðiz ˈvaɪtəmənz fɔr ə mʌnθ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "duration",
+            "supplements"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1270,
+        "content_en": "Could you check if my prescription is ready?",
+        "content_vi": "Bạn có thể kiểm tra đơn thuốc của tôi đã sẵn sàng chưa?",
+        "phonetic": "kʊd ju ʧɛk ɪf maɪ prɪˈskrɪpʃən ɪz ˈrɛdi",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "polite",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1271,
+        "content_en": "The medicine made me feel drowsy.",
+        "content_vi": "Thuốc khiến tôi cảm thấy buồn ngủ.",
+        "phonetic": "ðə ˈmɛdəsən meɪd mi fil ˈdraʊzi",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "side effect",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1272,
+        "content_en": "I need to refill my prescription.",
+        "content_vi": "Tôi cần mua lại đơn thuốc.",
+        "phonetic": "aɪ nid tə ˈriˌfɪl maɪ prɪˈskrɪpʃən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "request",
+            "prescription"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1273,
+        "content_en": "Is this available without a prescription?",
+        "content_vi": "Thuốc này có bán không cần đơn không?",
+        "phonetic": "ɪz ðɪs əˈveɪləbəl wɪˈθaʊt ə prɪˈskrɪpʃən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "question",
+            "availability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1274,
+        "content_en": "My insurance doesn't cover this medication.",
+        "content_vi": "Bảo hiểm của tôi không chi trả cho thuốc này.",
+        "phonetic": "maɪ ɪnˈʃʊrəns ˈdʌzənt ˈkʌvər ðɪs ˌmɛdəˈkeɪʃən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "insurance",
+            "problem"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1275,
+        "content_en": "I'd like to speak with the pharmacist.",
+        "content_vi": "Tôi muốn nói chuyện với dược sĩ.",
+        "phonetic": "aɪd laɪk tə spik wɪð ðə ˈfɑrməsɪst",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "request",
+            "consultation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1276,
+        "content_en": "The pain has been getting worse.",
+        "content_vi": "Cơn đau ngày càng tệ hơn.",
+        "phonetic": "ðə peɪn hæz bɪn ˈɡɛtɪŋ wɜrs",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "progressive",
+            "symptom"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1277,
+        "content_en": "I was told to avoid alcohol with this medicine.",
+        "content_vi": "Tôi được bảo tránh rượu khi uống thuốc này.",
+        "phonetic": "aɪ wʌz toʊld tə əˈvɔɪd ˈælkəˌhɔl wɪð ðɪs ˈmɛdəsən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "warning",
+            "instruction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1278,
+        "content_en": "Do you have a cheaper alternative?",
+        "content_vi": "Bạn có thuốc thay thế rẻ hơn không?",
+        "phonetic": "du ju hæv ə ˈʧipər ɔlˈtɜrnətɪv",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "price",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1279,
+        "content_en": "I've been coughing for over a week now.",
+        "content_vi": "Tôi ho hơn một tuần rồi.",
+        "phonetic": "aɪv bɪn ˈkɔfɪŋ fɔr ˈoʊvər ə wik naʊ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "duration",
+            "symptom"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1280,
+        "content_en": "The instructions say to take it before meals.",
+        "content_vi": "Hướng dẫn nói uống trước bữa ăn.",
+        "phonetic": "ði ɪnˈstrʌkʃənz seɪ tə teɪk ɪt bɪˈfɔr milz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "instruction",
+            "dosage"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1281,
+        "content_en": "I'd like to buy some cold medicine.",
+        "content_vi": "Tôi muốn mua thuốc cảm.",
+        "phonetic": "aɪd laɪk tə baɪ sʌm koʊld ˈmɛdəsən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "purchase",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1282,
+        "content_en": "My doctor recommended this brand.",
+        "content_vi": "Bác sĩ của tôi đã giới thiệu nhãn hiệu này.",
+        "phonetic": "maɪ ˈdɑktər ˌrɛkəˈmɛndəd ðɪs brænd",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "recommendation",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1283,
+        "content_en": "I couldn't find this at other pharmacies.",
+        "content_vi": "Tôi không tìm thấy thuốc này ở hiệu thuốc khác.",
+        "phonetic": "aɪ ˈkʊdənt faɪnd ðɪs æt ˈʌðər ˈfɑrməsiz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "availability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1284,
+        "content_en": "The dosage is different from what I usually take.",
+        "content_vi": "Liều lượng khác với những gì tôi thường uống.",
+        "phonetic": "ðə ˈdoʊsɪʤ ɪz ˈdɪfərənt frʌm wʌt aɪ ˈjuʒəwəli teɪk",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "comparison",
+            "dosage"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1285,
+        "content_en": "I need something for seasonal allergies.",
+        "content_vi": "Tôi cần thuốc gì đó cho dị ứng theo mùa.",
+        "phonetic": "aɪ nid ˈsʌmθɪŋ fɔr ˈsizənəl ˈælərʤiz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "request",
+            "allergy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1286,
+        "content_en": "This medication worked well for me before.",
+        "content_vi": "Thuốc này đã hiệu quả với tôi trước đây.",
+        "phonetic": "ðɪs ˌmɛdəˈkeɪʃən wɜrkt wɛl fɔr mi bɪˈfɔr",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "effectiveness"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1287,
+        "content_en": "Could you explain the side effects?",
+        "content_vi": "Bạn có thể giải thích tác dụng phụ không?",
+        "phonetic": "kʊd ju ɪkˈspleɪn ðə saɪd ɪˈfɛkts",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "question",
+            "side effects"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1288,
+        "content_en": "I've been experiencing some dizziness.",
+        "content_vi": "Tôi bị chóng mặt.",
+        "phonetic": "aɪv bɪn ɪkˈspɪriənsɪŋ sʌm ˈdɪzinəs",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "symptom",
+            "duration"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1289,
+        "content_en": "The previous medicine didn't help much.",
+        "content_vi": "Thuốc trước không giúp được nhiều.",
+        "phonetic": "ðə ˈpriviəs ˈmɛdəsən ˈdɪdənt hɛlp mʌʧ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "ineffective"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1290,
+        "content_en": "I'm looking for something non-drowsy.",
+        "content_vi": "Tôi đang tìm thuốc không gây buồn ngủ.",
+        "phonetic": "aɪm ˈlʊkɪŋ fɔr ˈsʌmθɪŋ nɑn-ˈdraʊzi",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "preference",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1291,
+        "content_en": "My child needs children's medicine.",
+        "content_vi": "Con tôi cần thuốc trẻ em.",
+        "phonetic": "maɪ ʧaɪld nidz ˈʧɪldrənz ˈmɛdəsən",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "family",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1292,
+        "content_en": "I was prescribed this after my surgery.",
+        "content_vi": "Tôi được kê đơn thuốc này sau phẫu thuật.",
+        "phonetic": "aɪ wʌz prɪˈskraɪbd ðɪs ˈæftər maɪ ˈsɜrʤəri",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "prescription"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1293,
+        "content_en": "The expiration date is next month.",
+        "content_vi": "Hạn sử dụng là tháng sau.",
+        "phonetic": "ði ˌɛkspəˈreɪʃən deɪt ɪz nɛkst mʌnθ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "expiration",
+            "information"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1294,
+        "content_en": "I need to buy some bandages and gauze.",
+        "content_vi": "Tôi cần mua băng và gạc.",
+        "phonetic": "aɪ nid tə baɪ sʌm ˈbændɪʤəz ænd ɡɔz",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "first aid",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1295,
+        "content_en": "This is more expensive than I expected.",
+        "content_vi": "Cái này đắt hơn tôi nghĩ.",
+        "phonetic": "ðɪs ɪz mɔr ɪkˈspɛnsɪv ðæn aɪ ɪkˈspɛktəd",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "price",
+            "comparison"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1296,
+        "content_en": "I've stopped taking the medication because of side effects.",
+        "content_vi": "Tôi đã ngừng uống thuốc vì tác dụng phụ.",
+        "phonetic": "aɪv stɑpt ˈteɪkɪŋ ðə ˌmɛdəˈkeɪʃən bɪˈkɔz ʌv saɪd ɪˈfɛkts",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "side effects"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1297,
+        "content_en": "Can I get a receipt for my insurance?",
+        "content_vi": "Tôi có thể lấy hóa đơn cho bảo hiểm không?",
+        "phonetic": "kæn aɪ ɡɛt ə rɪˈsit fɔr maɪ ɪnˈʃʊrəns",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "insurance",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1298,
+        "content_en": "The medicine tastes better than the old one.",
+        "content_vi": "Thuốc này có vị ngon hơn loại cũ.",
+        "phonetic": "ðə ˈmɛdəsən teɪsts ˈbɛtər ðæn ði oʊld wʌn",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "comparison",
+            "taste"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1299,
+        "content_en": "I've been feeling much better since I started this treatment.",
+        "content_vi": "Tôi cảm thấy khỏe hơn nhiều kể từ khi bắt đầu điều trị này.",
+        "phonetic": "aɪv bɪn ˈfilɪŋ mʌʧ ˈbɛtər sɪns aɪ ˈstɑrtəd ðɪs ˈtritmənt",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "improvement",
+            "duration"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1300,
+        "content_en": "Could you double-check the dosage for me?",
+        "content_vi": "Bạn có thể kiểm tra lại liều lượng cho tôi không?",
+        "phonetic": "kʊd ju ˈdʌbəl-ʧɛk ðə ˈdoʊsɪʤ fɔr mi",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "request",
+            "safety"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1301,
+        "content_en": "I need to transfer my prescription from another pharmacy.",
+        "content_vi": "Tôi cần chuyển đơn thuốc từ hiệu thuốc khác.",
+        "phonetic": "aɪ nid tə trænsˈfɜr maɪ prɪˈskrɪpʃən frʌm əˈnʌðər ˈfɑrməsi",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "transfer",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1302,
+        "content_en": "This helped my friend with the same problem.",
+        "content_vi": "Cái này đã giúp bạn tôi với cùng vấn đề.",
+        "phonetic": "ðɪs hɛlpt maɪ frɛnd wɪð ðə seɪm ˈprɑbləm",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "recommendation",
+            "past"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    },
+    {
+        "id": 1303,
+        "content_en": "I ran out of my medication yesterday.",
+        "content_vi": "Tôi hết thuốc hôm qua.",
+        "phonetic": "aɪ ræn aʊt ʌv maɪ ˌmɛdəˈkeɪʃən ˈjɛstərˌdeɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "pharmacy"
+        ],
+        "tags": [
+            "past",
+            "urgent"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "A2 level pharmacy sentence",
+        "status": "active",
+        "created_at": "2025-11-07 10:00:00",
+        "updated_at": "2025-11-07 10:00:00"
+    }
+]
