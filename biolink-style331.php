@@ -3639,12 +3639,19 @@
         // Load journal entries from localStorage
         let journalEntries = [];
         try {
+            console.log('🔄 Đang tải dữ liệu nhật ký từ localStorage...');
             const savedEntries = localStorage.getItem('journalEntries');
+            console.log('📦 Dữ liệu localStorage lấy được:', savedEntries ? savedEntries.substring(0, 200) + '...' : 'NULL/RỖNG');
+
             if (savedEntries) {
                 journalEntries = JSON.parse(savedEntries);
+                console.log('✅ ĐÃ TẢI THÀNH CÔNG:', journalEntries.length, 'entries từ localStorage');
+                console.log('📋 Chi tiết entries:', journalEntries);
+            } else {
+                console.log('⚠️ Không có dữ liệu trong localStorage, khởi tạo mảng rỗng');
             }
         } catch (e) {
-            console.error('Lỗi khi tải dữ liệu nhật ký từ localStorage:', e);
+            console.error('❌ Lỗi khi tải dữ liệu nhật ký từ localStorage:', e);
             journalEntries = [];
         }
 
@@ -4968,6 +4975,8 @@
 
         // Journal functions
         function saveAdvancedJournalEntry() {
+            console.log('=== BẮT ĐẦU LƯU NHẬT KÝ ===');
+
             const entry = {
                 id: Date.now(),
                 date: document.getElementById('journalDate').value,
@@ -4989,15 +4998,30 @@
                 medication: document.getElementById('journalMedication').value,
                 notes: document.getElementById('journalNotes').value
             };
-            
+
+            console.log('1. Entry mới được tạo:', entry);
+            console.log('2. journalEntries TRƯỚC khi thêm:', journalEntries.length, 'entries');
+
             journalEntries.unshift(entry);
+
+            console.log('3. journalEntries SAU khi thêm:', journalEntries.length, 'entries');
+            console.log('4. Toàn bộ journalEntries:', journalEntries);
 
             // Save to localStorage
             try {
+                console.log('5. Đang lưu vào localStorage...');
                 localStorage.setItem('journalEntries', JSON.stringify(journalEntries));
+                console.log('6. ĐÃ LƯU THÀNH CÔNG vào localStorage');
+
+                // Verify what's in localStorage
+                const saved = localStorage.getItem('journalEntries');
+                console.log('7. Dữ liệu trong localStorage sau khi lưu:', saved ? JSON.parse(saved).length + ' entries' : 'RỖNG');
+                console.log('8. Chi tiết dữ liệu localStorage:', saved);
             } catch (e) {
-                console.error('Lỗi khi lưu dữ liệu nhật ký vào localStorage:', e);
+                console.error('❌ LỖI khi lưu vào localStorage:', e);
             }
+
+            console.log('=== KẾT THÚC LƯU NHẬT KÝ ===');
 
             // Clear form
             const today = new Date().toISOString().split('T')[0];
