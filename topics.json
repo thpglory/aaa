@@ -1,0 +1,72 @@
+[
+    {
+        "id": "greeting",
+        "name": "Chào hỏi & Giới thiệu",
+        "icon": "fa-handshake",
+        "color": "#10b981",
+        "order": 1
+    },
+    {
+        "id": "shopping",
+        "name": "Mua sắm",
+        "icon": "fa-shopping-cart",
+        "color": "#f59e0b",
+        "order": 2
+    },
+    {
+        "id": "travel",
+        "name": "Du lịch",
+        "icon": "fa-plane",
+        "color": "#3b82f6",
+        "order": 3
+    },
+    {
+        "id": "restaurant",
+        "name": "Nhà hàng",
+        "icon": "fa-utensils",
+        "color": "#ef4444",
+        "order": 4
+    },
+    {
+        "id": "hotel",
+        "name": "Khách sạn",
+        "icon": "fa-hotel",
+        "color": "#8b5cf6",
+        "order": 5
+    },
+    {
+        "id": "pharmacy",
+        "name": "Hiệu thuốc",
+        "icon": "fa-pills",
+        "color": "#ec4899",
+        "order": 6
+    },
+    {
+        "id": "office",
+        "name": "Công sở",
+        "icon": "fa-briefcase",
+        "color": "#6366f1",
+        "order": 7
+    },
+    {
+        "id": "emergency",
+        "name": "Khẩn cấp",
+        "icon": "fa-exclamation-triangle",
+        "color": "#dc2626",
+        "order": 8
+    },
+    {
+        "id": "transport",
+        "name": "Giao thông",
+        "icon": "fa-car",
+        "color": "#14b8a6",
+        "order": 9
+    },
+    {
+        "id": "daily",
+        "name": "Hàng ngày",
+        "icon": "fa-home",
+        "color": "#64748b",
+        "order": 10
+    }
+]

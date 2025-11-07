@@ -1,0 +1,1914 @@
+[
+    {
+        "id": 313,
+        "content_en": "A mentor's guidance fundamentally altered my perspective.",
+        "content_vi": "Sự hướng dẫn của một người thầy đã thay đổi cơ bản quan điểm của tôi.",
+        "phonetic": "ə ˈmɛnˌtɔrz ˈɡaɪdəns ˌfʌndəˈmɛntəli ˈɔltərd maɪ pərˈspɛktɪv",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "mentorship"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về ảnh hưởng của người thầy",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 314,
+        "content_en": "How do you reconcile work-life integration in such a demanding role?",
+        "content_vi": "Bạn điều hòa sự hòa nhập công việc-cuộc sống trong vai trò đầy thách thức này như thế nào?",
+        "phonetic": "haʊ du ju ˈrɛkənˌsaɪl wɜrk-laɪf ˌɪntəˈɡreɪʃən ɪn sʌʧ ə dɪˈmændɪŋ roʊl",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "work-life-balance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cân bằng phức tạp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 315,
+        "content_en": "I've cultivated deliberate boundaries and prioritization strategies.",
+        "content_vi": "Tôi đã xây dựng các ranh giới có chủ ý và chiến lược ưu tiên.",
+        "phonetic": "aɪv ˈkʌltəˌveɪtəd dɪˈlɪbərət ˈbaʊndəriz ænd praɪˌɔrətəˈzeɪʃən ˈstrætədʒiz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích phương pháp cân bằng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 316,
+        "content_en": "Your insights on emerging trends are particularly astute.",
+        "content_vi": "Những hiểu biết của bạn về xu hướng mới nổi đặc biệt sắc sảo.",
+        "phonetic": "jʊr ˈɪnˌsaɪts ɑn ɪˈmɜrdʒɪŋ trɛndz ɑr pərˈtɪkjələrli əˈstut",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "intellectual"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi sự sắc sảo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 317,
+        "content_en": "What paradigm shifts do you foresee in our industry?",
+        "content_vi": "Bạn dự báo những thay đổi mô hình nào trong ngành của chúng ta?",
+        "phonetic": "wʌt ˈpɛrəˌdaɪm ʃɪfts du ju fɔrˈsi ɪn ˈaʊər ˈɪndəstri",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "future"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về dự đoán tương lai",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 318,
+        "content_en": "I anticipate a fundamental transformation in consumer behavior patterns.",
+        "content_vi": "Tôi dự đoán một sự chuyển đổi cơ bản trong mô hình hành vi người tiêu dùng.",
+        "phonetic": "aɪ ænˈtɪsəˌpeɪt ə ˌfʌndəˈmɛntəl ˌtrænsfərˈmeɪʃən ɪn kənˈsumər bɪˈheɪvjər ˈpætərnz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "prediction"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Dự đoán chuyên sâu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 319,
+        "content_en": "I'm particularly impressed by your cross-cultural adaptability.",
+        "content_vi": "Tôi đặc biệt ấn tượng với khả năng thích ứng đa văn hóa của bạn.",
+        "phonetic": "aɪm pərˈtɪkjələrli ɪmˈprɛst baɪ jʊr krɔs-ˈkʌlʧərəl əˌdæptəˈbɪləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "cultural"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen khả năng thích ứng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 320,
+        "content_en": "How have you navigated the complexities of international business?",
+        "content_vi": "Bạn đã điều hướng sự phức tạp của kinh doanh quốc tế như thế nào?",
+        "phonetic": "haʊ hæv ju ˈnævəˌɡeɪtəd ðə kəmˈplɛksətiz ʌv ˌɪntərˈnæʃənəl ˈbɪznəs",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "international"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về kinh nghiệm quốc tế",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 321,
+        "content_en": "Cultural intelligence and continuous learning have been instrumental.",
+        "content_vi": "Trí tuệ văn hóa và học tập liên tục đã là công cụ quan trọng.",
+        "phonetic": "ˈkʌlʧərəl ɪnˈtɛlədʒəns ænd kənˈtɪnjuəs ˈlɜrnɪŋ hæv bɪn ˌɪnstrəˈmɛntəl",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích phương pháp thành công",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 322,
+        "content_en": "What distinguishes your leadership philosophy from conventional approaches?",
+        "content_vi": "Điều gì phân biệt triết lý lãnh đạo của bạn với cách tiếp cận thông thường?",
+        "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz jʊr ˈlidərˌʃɪp fəˈlɑsəfi frʌm kənˈvɛnʃənəl əˈproʊʧɪz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phong cách lãnh đạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 323,
+        "content_en": "I emphasize empowering autonomy while maintaining strategic alignment.",
+        "content_vi": "Tôi nhấn mạnh việc trao quyền tự chủ trong khi duy trì sự liên kết chiến lược.",
+        "phonetic": "aɪ ˈɛmfəˌsaɪz ɪmˈpaʊərɪŋ ɔˈtɑnəmi waɪl meɪnˈteɪnɪŋ strəˈtidʒɪk əˈlaɪnmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả triết lý lãnh đạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 324,
+        "content_en": "Your contributions to the field have been genuinely groundbreaking.",
+        "content_vi": "Những đóng góp của bạn cho lĩnh vực này thực sự mang tính đột phá.",
+        "phonetic": "jʊr ˌkɑntrəˈbjuʃənz tə ðə fild hæv bɪn ˈdʒɛnjuənli ˈɡraʊndˌbreɪkɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "achievement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen ngợi thành tựu lớn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 325,
+        "content_en": "How do you sustain innovation in an increasingly saturated market?",
+        "content_vi": "Bạn duy trì sự đổi mới trong một thị trường ngày càng bão hòa như thế nào?",
+        "phonetic": "haʊ du ju səˈsteɪn ˌɪnəˈveɪʃən ɪn ən ɪnˈkrisɪŋli ˈsæʧəˌreɪtəd ˈmɑrkət",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "innovation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chiến lược sáng tạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 326,
+        "content_en": "By fostering a culture of experimentation and calculated risk-taking.",
+        "content_vi": "Bằng cách nuôi dưỡng văn hóa thử nghiệm và chấp nhận rủi ro có tính toán.",
+        "phonetic": "baɪ ˈfɔstərɪŋ ə ˈkʌlʧər ʌv ɪkˌspɛrəmɛnˈteɪʃən ænd ˈkælkjəˌleɪtəd rɪsk-ˈteɪkɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích chiến lược",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 327,
+        "content_en": "I'm curious about your methodology for stakeholder engagement.",
+        "content_vi": "Tôi tò mò về phương pháp luận của bạn cho việc gắn kết các bên liên quan.",
+        "phonetic": "aɪm ˈkjʊriəs əˈbaʊt jʊr ˌmɛθəˈdɑlədʒi fɔr ˈsteɪkˌhoʊldər ɛnˈɡeɪdʒmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "methodology"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phương pháp làm việc",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 328,
+        "content_en": "I prioritize transparent communication and collaborative decision-making.",
+        "content_vi": "Tôi ưu tiên giao tiếp minh bạch và ra quyết định hợp tác.",
+        "phonetic": "aɪ praɪˈɔrəˌtaɪz trænsˈpɛrənt kəˌmjunəˈkeɪʃən ænd kəˈlæbəˌreɪtɪv dɪˈsɪʒən-ˈmeɪkɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "management"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả phương pháp quản lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 329,
+        "content_en": "What catalyzed your transition into entrepreneurship?",
+        "content_vi": "Điều gì đã thúc đẩy sự chuyển đổi của bạn sang làm doanh nhân?",
+        "phonetic": "wʌt ˈkætəˌlaɪzd jʊr trænˈzɪʃən ˈɪntu ˌɑntrəprəˈnɜrˌʃɪp",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "entrepreneurship"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về động lực khởi nghiệp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 330,
+        "content_en": "A confluence of market opportunities and personal aspirations.",
+        "content_vi": "Sự hợp lưu của các cơ hội thị trường và khát vọng cá nhân.",
+        "phonetic": "ə ˈkɑnfluəns ʌv ˈmɑrkət ˌɑpərˈtunətiz ænd ˈpɜrsənəl ˌæspəˈreɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "motivation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích động lực phức tạp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 331,
+        "content_en": "Your analytical acumen is evidently quite sophisticated.",
+        "content_vi": "Sự nhạy bén phân tích của bạn rõ ràng khá tinh vi.",
+        "phonetic": "jʊr ˌænəˈlɪtɪkəl əˈkjumən ɪz ˈɛvədəntli kwaɪt səˈfɪstəˌkeɪtəd",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "intellectual"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen năng lực phân tích",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 332,
+        "content_en": "How do you maintain intellectual curiosity amidst routine obligations?",
+        "content_vi": "Bạn duy trì sự tò mò trí tuệ giữa những nghĩa vụ thường ngày như thế nào?",
+        "phonetic": "haʊ du ju meɪnˈteɪn ˌɪntəˈlɛkʧuəl ˌkjʊriˈɑsəti əˈmɪdst ruˈtin ˌɑbləˈɡeɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "learning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về học hỏi liên tục",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 333,
+        "content_en": "I deliberately allocate time for diverse learning experiences.",
+        "content_vi": "Tôi cố ý phân bổ thời gian cho các trải nghiệm học tập đa dạng.",
+        "phonetic": "aɪ dɪˈlɪbərətli ˈæləˌkeɪt taɪm fɔr daɪˈvɜrs ˈlɜrnɪŋ ɪkˈspɪriənsɪz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "self-development"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách học hỏi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 334,
+        "content_en": "What ethical frameworks guide your professional decisions?",
+        "content_vi": "Những khung đạo đức nào hướng dẫn các quyết định nghề nghiệp của bạn?",
+        "phonetic": "wʌt ˈɛθɪkəl ˈfreɪmˌwɜrks ɡaɪd jʊr prəˈfɛʃənəl dɪˈsɪʒənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "ethics"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về đạo đức nghề nghiệp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 335,
+        "content_en": "I adhere to principles of integrity and sustainable value creation.",
+        "content_vi": "Tôi tuân thủ các nguyên tắc chính trực và tạo ra giá trị bền vững.",
+        "phonetic": "aɪ ædˈhɪr tə ˈprɪnsəpəlz ʌv ɪnˈtɛɡrəti ænd səˈsteɪnəbəl ˈvælju kriˈeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "values"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về giá trị cốt lõi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 336,
+        "content_en": "I'm fascinated by your nuanced understanding of regional dynamics.",
+        "content_vi": "Tôi bị mê hoặc bởi sự hiểu biết tinh tế của bạn về động lực khu vực.",
+        "phonetic": "aɪm ˈfæsəˌneɪtəd baɪ jʊr ˈnuˌɑnst ˌʌndərˈstændɪŋ ʌv ˈridʒənəl daɪˈnæmɪks",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "expertise"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen sự hiểu biết sâu sắc",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 337,
+        "content_en": "How have geopolitical factors influenced your strategic planning?",
+        "content_vi": "Các yếu tố địa chính trị đã ảnh hưởng đến hoạch định chiến lược của bạn như thế nào?",
+        "phonetic": "haʊ hæv ˌdʒioʊpəˈlɪtɪkəl ˈfæktərz ˈɪnfluənst jʊr strəˈtidʒɪk ˈplænɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về ảnh hưởng địa chính trị",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 338,
+        "content_en": "They necessitate adaptive contingency planning and diversification.",
+        "content_vi": "Chúng đòi hỏi hoạch định dự phòng linh hoạt và đa dạng hóa.",
+        "phonetic": "ðeɪ nəˈsɛsəˌteɪt əˈdæptɪv kənˈtɪndʒənsi ˈplænɪŋ ænd daɪˌvɜrsəfəˈkeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích chiến lược phức tạp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 339,
+        "content_en": "What mechanisms do you employ for continuous professional development?",
+        "content_vi": "Bạn sử dụng những cơ chế nào để phát triển nghề nghiệp liên tục?",
+        "phonetic": "wʌt ˈmɛkəˌnɪzəmz du ju ɛmˈplɔɪ fɔr kənˈtɪnjuəs prəˈfɛʃənəl dɪˈvɛləpmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "development"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phát triển bản thân",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 340,
+        "content_en": "I engage in executive coaching and interdisciplinary knowledge acquisition.",
+        "content_vi": "Tôi tham gia huấn luyện điều hành và thu nhận kiến thức liên ngành.",
+        "phonetic": "aɪ ɛnˈɡeɪdʒ ɪn ɪɡˈzɛkjətɪv ˈkoʊʧɪŋ ænd ˌɪntərdɪsəˈplɪnəri ˈnɑlədʒ ˌækwəˈzɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "learning"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả phương pháp học tập",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 341,
+        "content_en": "Your capacity for synthesizing complex information is remarkable.",
+        "content_vi": "Khả năng tổng hợp thông tin phức tạp của bạn thật đáng chú ý.",
+        "phonetic": "jʊr kəˈpæsəti fɔr ˈsɪnθəˌsaɪzɪŋ ˈkɑmplɛks ˌɪnfərˈmeɪʃən ɪz rɪˈmɑrkəbəl",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "cognitive"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen năng lực nhận thức",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 342,
+        "content_en": "How do you balance short-term pressures with long-term vision?",
+        "content_vi": "Bạn cân bằng áp lực ngắn hạn với tầm nhìn dài hạn như thế nào?",
+        "phonetic": "haʊ du ju ˈbæləns ʃɔrt-tɜrm ˈprɛʃərz wɪð lɔŋ-tɜrm ˈvɪʒən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cân bằng chiến lược",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 343,
+        "content_en": "Through disciplined resource allocation and strategic prioritization frameworks.",
+        "content_vi": "Thông qua phân bổ nguồn lực có kỷ luật và khung ưu tiên chiến lược.",
+        "phonetic": "θru ˈdɪsəplɪnd ˈrisɔrs ˌæləˈkeɪʃən ænd strəˈtidʒɪk praɪˌɔrətəˈzeɪʃən ˈfreɪmˌwɜrks",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "management"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách quản lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 344,
+        "content_en": "I'm intrigued by your holistic approach to organizational transformation.",
+        "content_vi": "Tôi bị hấp dẫn bởi cách tiếp cận toàn diện của bạn về chuyển đổi tổ chức.",
+        "phonetic": "aɪm ɪnˈtriɡd baɪ jʊr hoʊˈlɪstɪk əˈproʊʧ tə ˌɔrɡənəˈzeɪʃənəl ˌtrænsfərˈmeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "methodology"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen phương pháp tiếp cận",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 345,
+        "content_en": "What role does emotional intelligence play in your leadership style?",
+        "content_vi": "Trí tuệ cảm xúc đóng vai trò gì trong phong cách lãnh đạo của bạn?",
+        "phonetic": "wʌt roʊl dʌz ɪˈmoʊʃənəl ɪnˈtɛlədʒəns pleɪ ɪn jʊr ˈlidərˌʃɪp staɪl",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về EQ trong lãnh đạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 346,
+        "content_en": "It's fundamental to cultivating psychological safety and team cohesion.",
+        "content_vi": "Nó là nền tảng để nuôi dưỡng sự an toàn tâm lý và sự gắn kết nhóm.",
+        "phonetic": "ɪts ˌfʌndəˈmɛntəl tə ˈkʌltəˌveɪtɪŋ ˌsaɪkəˈlɑdʒɪkəl ˈseɪfti ænd tim koʊˈhiʒən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích tầm quan trọng của EQ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 347,
+        "content_en": "How do you approach the paradox of planning versus spontaneity?",
+        "content_vi": "Bạn tiếp cận nghịch lý giữa lập kế hoạch và tự phát như thế nào?",
+        "phonetic": "haʊ du ju əˈproʊʧ ðə ˈpɛrəˌdɑks ʌv ˈplænɪŋ ˈvɜrsəs ˌspɑntəˈneɪəti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cân bằng triết học",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 348,
+        "content_en": "I maintain strategic scaffolding while preserving adaptive flexibility.",
+        "content_vi": "Tôi duy trì khung chiến lược trong khi bảo tồn sự linh hoạt thích ứng.",
+        "phonetic": "aɪ meɪnˈteɪn strəˈtidʒɪk ˈskæfəldɪŋ waɪl prɪˈzɜrvɪŋ əˈdæptɪv ˌflɛksəˈbɪləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách cân bằng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 349,
+        "content_en": "Your perspective on sustainable practices is refreshingly pragmatic.",
+        "content_vi": "Quan điểm của bạn về các thực hành bền vững thật thực dụng một cách mới mẻ.",
+        "phonetic": "jʊr pərˈspɛktɪv ɑn səˈsteɪnəbəl ˈpræktəsəz ɪz rɪˈfrɛʃɪŋli præɡˈmætɪk",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "sustainability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen quan điểm thực tế",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 350,
+        "content_en": "What metrics do you find most indicative of organizational health?",
+        "content_vi": "Bạn thấy chỉ số nào chỉ báo tốt nhất về sức khỏe tổ chức?",
+        "phonetic": "wʌt ˈmɛtrɪks du ju faɪnd moʊst ɪnˈdɪkətɪv ʌv ˌɔrɡənəˈzeɪʃənəl hɛlθ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "metrics"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chỉ số đánh giá",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 351,
+        "content_en": "Employee engagement and innovation velocity are paramount indicators.",
+        "content_vi": "Sự gắn kết của nhân viên và tốc độ đổi mới là các chỉ báo tối quan trọng.",
+        "phonetic": "ɛmˈplɔɪi ɛnˈɡeɪdʒmənt ænd ˌɪnəˈveɪʃən vəˈlɑsəti ɑr ˈpɛrəˌmaʊnt ˈɪndəˌkeɪtərz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "metrics"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nêu các chỉ số quan trọng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 352,
+        "content_en": "I'm impressed by your commitment to fostering inclusive environments.",
+        "content_vi": "Tôi ấn tượng với cam kết của bạn trong việc thúc đẩy môi trường toàn diện.",
+        "phonetic": "aɪm ɪmˈprɛst baɪ jʊr kəˈmɪtmənt tə ˈfɔstərɪŋ ɪnˈklusɪv ɪnˈvaɪrənmənts",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "diversity"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về diversity & inclusion",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 353,
+        "content_en": "How do you navigate the tension between efficiency and exploration?",
+        "content_vi": "Bạn điều hướng sự căng thẳng giữa hiệu quả và khám phá như thế nào?",
+        "phonetic": "haʊ du ju ˈnævəˌɡeɪt ðə ˈtɛnʃən bɪˈtwin ɪˈfɪʃənsi ænd ˌɛkspləˈreɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "management"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cân bằng quản lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 354,
+        "content_en": "By implementing ambidextrous organizational structures and processes.",
+        "content_vi": "Bằng cách triển khai các cấu trúc và quy trình tổ chức linh hoạt hai chiều.",
+        "phonetic": "baɪ ˈɪmpləˌmɛntɪŋ æmbiˈdɛkstrəs ˌɔrɡənəˈzeɪʃənəl ˈstrʌkʧərz ænd ˈprɑsɛsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cấu trúc tổ chức",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 355,
+        "content_en": "What principles underpin your approach to conflict resolution?",
+        "content_vi": "Những nguyên tắc nào làm nền tảng cho cách tiếp cận giải quyết xung đột của bạn?",
+        "phonetic": "wʌt ˈprɪnsəpəlz ˌʌndərˈpɪn jʊr əˈproʊʧ tə ˈkɑnflɪkt ˌrɛzəˈluʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "conflict"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về giải quyết xung đột",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 356,
+        "content_en": "I emphasize dialogue, mutual understanding, and systemic perspective-taking.",
+        "content_vi": "Tôi nhấn mạnh đối thoại, hiểu biết lẫn nhau và việc lấy góc nhìn hệ thống.",
+        "phonetic": "aɪ ˈɛmfəˌsaɪz ˈdaɪəˌlɔɡ, ˈmjuʧuəl ˌʌndərˈstændɪŋ, ænd sɪˈstɛmɪk pərˈspɛktɪv-ˈteɪkɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "conflict"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả phương pháp giải quyết",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 357,
+        "content_en": "Your trajectory exemplifies resilience and strategic adaptability.",
+        "content_vi": "Quỹ đạo của bạn là hình mẫu của sự kiên cường và khả năng thích ứng chiến lược.",
+        "phonetic": "jʊr trəˈdʒɛktəri ɪɡˈzɛmpləˌfaɪz rɪˈzɪliəns ænd strəˈtidʒɪk əˌdæptəˈbɪləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "achievement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen sự kiên cường",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 358,
+        "content_en": "How do you cultivate psychological safety within your teams?",
+        "content_vi": "Bạn nuôi dưỡng sự an toàn tâm lý trong các nhóm của mình như thế nào?",
+        "phonetic": "haʊ du ju ˈkʌltəˌveɪt ˌsaɪkəˈlɑdʒɪkəl ˈseɪfti wɪˈðɪn jʊr timz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "team-building"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về xây dựng đội nhóm",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 359,
+        "content_en": "Through vulnerability modeling and celebrating constructive dissent.",
+        "content_vi": "Thông qua việc làm gương về tính dễ tổn thương và tôn vinh sự bất đồng mang tính xây dựng.",
+        "phonetic": "θru ˌvʌlnərəˈbɪləti ˈmɑdəlɪŋ ænd ˈsɛləˌbreɪtɪŋ kənˈstrʌktɪv dɪˈsɛnt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích phương pháp lãnh đạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 360,
+        "content_en": "I'm curious about your methodology for talent identification and development.",
+        "content_vi": "Tôi tò mò về phương pháp luận của bạn cho việc nhận diện và phát triển tài năng.",
+        "phonetic": "aɪm ˈkjʊriəs əˈbaʊt jʊr ˌmɛθəˈdɑlədʒi fɔr ˈtælənt aɪˌdɛntəfəˈkeɪʃən ænd dɪˈvɛləpmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "HR"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phát triển nhân tài",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 361,
+        "content_en": "I focus on potential over pedigree and provide stretch assignments.",
+        "content_vi": "Tôi tập trung vào tiềm năng hơn là lý lịch và cung cấp các nhiệm vụ mở rộng.",
+        "phonetic": "aɪ ˈfoʊkəs ɑn pəˈtɛnʃəl ˈoʊvər ˈpɛdəˌɡri ænd prəˈvaɪd strɛʧ əˈsaɪnmənts",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "HR"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích triết lý tuyển dụng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 362,
+        "content_en": "What distinguishes truly transformative leadership from mere management?",
+        "content_vi": "Điều gì phân biệt lãnh đạo chuyển đổi thực sự với quản lý đơn thuần?",
+        "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ˈtruli trænzˈfɔrmətɪv ˈlidərˌʃɪp frʌm mɪr ˈmænɪdʒmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về bản chất lãnh đạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 363,
+        "content_en": "Transformative leadership catalyzes systemic change through inspiring shared purpose.",
+        "content_vi": "Lãnh đạo chuyển đổi thúc đẩy thay đổi hệ thống thông qua việc truyền cảm hứng mục đích chung.",
+        "phonetic": "trænzˈfɔrmətɪv ˈlidərˌʃɪp ˈkætəˌlaɪzɪz sɪˈstɛmɪk ʧeɪndʒ θru ɪnˈspaɪərɪŋ ʃɛrd ˈpɜrpəs",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Định nghĩa lãnh đạo chuyển đổi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 364,
+        "content_en": "Your contributions have significantly advanced industry best practices.",
+        "content_vi": "Những đóng góp của bạn đã thúc đẩy đáng kể các thực hành tốt nhất trong ngành.",
+        "phonetic": "jʊr ˌkɑntrəˈbjuʃənz hæv sɪɡˈnɪfɪkəntli ædˈvænst ˈɪndəstri bɛst ˈpræktəsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "achievement"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về đóng góp ngành",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 365,
+        "content_en": "How do you reconcile stakeholder expectations with ethical imperatives?",
+        "content_vi": "Bạn điều hòa kỳ vọng của các bên liên quan với mệnh lệnh đạo đức như thế nào?",
+        "phonetic": "haʊ du ju ˈrɛkənˌsaɪl ˈsteɪkˌhoʊldər ˌɛkspɛkˈteɪʃənz wɪð ˈɛθɪkəl ɪmˈpɛrətɪvz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "ethics"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về đạo đức kinh doanh",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 366,
+        "content_en": "Through transparent dialogue and principled negotiation frameworks.",
+        "content_vi": "Thông qua đối thoại minh bạch và khung đàm phán có nguyên tắc.",
+        "phonetic": "θru trænsˈpɛrənt ˈdaɪəˌlɔɡ ænd ˈprɪnsəpəld nɪˌɡoʊʃiˈeɪʃən ˈfreɪmˌwɜrks",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "ethics"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách xử lý đạo đức",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 367,
+        "content_en": "I'm fascinated by your integrated approach to sustainability and profitability.",
+        "content_vi": "Tôi bị cuốn hút bởi cách tiếp cận tích hợp của bạn về tính bền vững và lợi nhuận.",
+        "phonetic": "aɪm ˈfæsəˌneɪtəd baɪ jʊr ˈɪntəˌɡreɪtəd əˈproʊʧ tə səˌsteɪnəˈbɪləti ænd ˌprɑfətəˈbɪləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "sustainability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về cân bằng bền vững",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 368,
+        "content_en": "What diagnostic tools do you employ for organizational assessment?",
+        "content_vi": "Bạn sử dụng công cụ chẩn đoán nào để đánh giá tổ chức?",
+        "phonetic": "wʌt ˌdaɪəɡˈnɑstɪk tulz du ju ɛmˈplɔɪ fɔr ˌɔrɡənəˈzeɪʃənəl əˈsɛsmənt",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "assessment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về công cụ đánh giá",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 369,
+        "content_en": "I utilize multi-dimensional frameworks incorporating qualitative and quantitative metrics.",
+        "content_vi": "Tôi sử dụng các khung đa chiều kết hợp các chỉ số định tính và định lượng.",
+        "phonetic": "aɪ ˈjutəˌlaɪz ˌmʌlti-dəˈmɛnʃənəl ˈfreɪmˌwɜrks ɪnˈkɔrpəˌreɪtɪŋ ˈkwɑlɪˌteɪtɪv ænd ˈkwɑntɪˌteɪtɪv ˈmɛtrɪks",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "methodology"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mô tả phương pháp đánh giá",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 370,
+        "content_en": "How do you balance global standardization with local customization?",
+        "content_vi": "Bạn cân bằng tiêu chuẩn hóa toàn cầu với tùy biến địa phương như thế nào?",
+        "phonetic": "haʊ du ju ˈbæləns ˈɡloʊbəl ˌstændərdəˈzeɪʃən wɪð ˈloʊkəl ˌkʌstəməˈzeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "globalization"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chiến lược toàn cầu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 371,
+        "content_en": "Through establishing core principles while empowering contextual adaptation.",
+        "content_vi": "Thông qua việc thiết lập các nguyên tắc cốt lõi trong khi trao quyền thích ứng theo bối cảnh.",
+        "phonetic": "θru ɪˈstæblɪʃɪŋ kɔr ˈprɪnsəpəlz waɪl ɪmˈpaʊərɪŋ kənˈtɛksʧuəl ˌædæpˈteɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "globalization"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích chiến lược glocalization",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 372,
+        "content_en": "Your capacity for strategic foresight is genuinely impressive.",
+        "content_vi": "Khả năng nhìn xa trông rộng chiến lược của bạn thực sự ấn tượng.",
+        "phonetic": "jʊr kəˈpæsəti fɔr strəˈtidʒɪk ˈfɔrˌsaɪt ɪz ˈdʒɛnjuənli ɪmˈprɛsɪv",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "vision"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về tầm nhìn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 373,
+        "content_en": "What frameworks guide your approach to digital transformation?",
+        "content_vi": "Những khung nào hướng dẫn cách tiếp cận chuyển đổi số của bạn?",
+        "phonetic": "wʌt ˈfreɪmˌwɜrks ɡaɪd jʊr əˈproʊʧ tə ˈdɪdʒətəl ˌtrænsfərˈmeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "digital"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chuyển đổi số",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 374,
+        "content_en": "I emphasize human-centric design principles alongside technological capabilities.",
+        "content_vi": "Tôi nhấn mạnh các nguyên tắc thiết kế lấy con người làm trung tâm cùng với khả năng công nghệ.",
+        "phonetic": "aɪ ˈɛmfəˌsaɪz ˈhjumən-ˈsɛntrɪk dɪˈzaɪn ˈprɪnsəpəlz əˈlɔŋˈsaɪd ˌtɛknəˈlɑdʒɪkəl ˌkeɪpəˈbɪlətiz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "digital"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích triết lý chuyển đổi số",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 375,
+        "content_en": "How do you navigate the inherent tensions in matrix organizations?",
+        "content_vi": "Bạn điều hướng những căng thẳng vốn có trong tổ chức ma trận như thế nào?",
+        "phonetic": "haʊ du ju ˈnævəˌɡeɪt ði ɪnˈhɛrənt ˈtɛnʃənz ɪn ˈmeɪtrɪks ˌɔrɡənəˈzeɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "organization"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cấu trúc tổ chức",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 376,
+        "content_en": "Through clarifying decision rights and fostering collaborative accountability.",
+        "content_vi": "Thông qua làm rõ quyền quyết định và thúc đẩy trách nhiệm giải trình hợp tác.",
+        "phonetic": "θru ˈklɛrəˌfaɪɪŋ dɪˈsɪʒən raɪts ænd ˈfɔstərɪŋ kəˈlæbəˌreɪtɪv əˌkaʊntəˈbɪləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "management"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách quản lý ma trận",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 377,
+        "content_en": "I'm intrigued by your unconventional perspective on value creation.",
+        "content_vi": "Tôi bị cuốn hút bởi quan điểm không theo lối mòn của bạn về tạo ra giá trị.",
+        "phonetic": "aɪm ɪnˈtriɡd baɪ jʊr ˌʌnkənˈvɛnʃənəl pərˈspɛktɪv ɑn ˈvælju kriˈeɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "innovation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về tư duy sáng tạo",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 378,
+        "content_en": "What strategies do you employ for managing organizational ambiguity?",
+        "content_vi": "Bạn sử dụng chiến lược gì để quản lý sự mơ hồ trong tổ chức?",
+        "phonetic": "wʌt ˈstrætədʒiz du ju ɛmˈplɔɪ fɔr ˈmænədʒɪŋ ˌɔrɡənəˈzeɪʃənəl ˌæmbɪˈɡjuəti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "uncertainty"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về quản lý không chắc chắn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 379,
+        "content_en": "I cultivate comfort with uncertainty through scenario planning and agile practices.",
+        "content_vi": "Tôi nuôi dưỡng sự thoải mái với bất định thông qua lập kế hoạch kịch bản và thực hành linh hoạt.",
+        "phonetic": "aɪ ˈkʌltəˌveɪt ˈkʌmfərt wɪð ʌnˈsɜrtənti θru səˈnɛrioʊ ˈplænɪŋ ænd ˈædʒəl ˈpræktəsəz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách xử lý bất định",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 380,
+        "content_en": "Your thought leadership has substantially influenced contemporary discourse.",
+        "content_vi": "Tư tưởng lãnh đạo của bạn đã ảnh hưởng đáng kể đến diễn ngôn đương đại.",
+        "phonetic": "jʊr θɔt ˈlidərˌʃɪp hæz səbˈstænʃəli ˈɪnfluənst kənˈtɛmpəˌrɛri ˈdɪskɔrs",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "influence"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về ảnh hưởng tư tưởng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 381,
+        "content_en": "How do you balance stakeholder capitalism with shareholder expectations?",
+        "content_vi": "Bạn cân bằng chủ nghĩa tư bản các bên liên quan với kỳ vọng của cổ đông như thế nào?",
+        "phonetic": "haʊ du ju ˈbæləns ˈsteɪkˌhoʊldər ˈkæpətəˌlɪzəm wɪð ˈʃɛrˌhoʊldər ˌɛkspɛkˈteɪʃənz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "business-model"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về mô hình kinh doanh",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 382,
+        "content_en": "By demonstrating that sustainable stakeholder value enhances long-term shareholder returns.",
+        "content_vi": "Bằng cách chứng minh rằng giá trị bền vững cho các bên liên quan nâng cao lợi nhuận dài hạn cho cổ đông.",
+        "phonetic": "baɪ ˈdɛmənˌstreɪtɪŋ ðæt səˈsteɪnəbəl ˈsteɪkˌhoʊldər ˈvælju ɛnˈhænsɪz lɔŋ-tɜrm ˈʃɛrˌhoʊldər rɪˈtɜrnz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "business-strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích chiến lược kinh doanh",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 383,
+        "content_en": "I'm genuinely impressed by your commitment to continuous reinvention.",
+        "content_vi": "Tôi thực sự ấn tượng với cam kết của bạn đối với việc tái tạo liên tục.",
+        "phonetic": "aɪm ˈdʒɛnjuənli ɪmˈprɛst baɪ jʊr kəˈmɪtmənt tə kənˈtɪnjuəs ˌriɪnˈvɛnʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "adaptability"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về khả năng thay đổi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 384,
+        "content_en": "What principles guide your approach to succession planning?",
+        "content_vi": "Những nguyên tắc nào hướng dẫn cách tiếp cận của bạn đối với kế hoạch kế nhiệm?",
+        "phonetic": "wʌt ˈprɪnsəpəlz ɡaɪd jʊr əˈproʊʧ tə səkˈsɛʃən ˈplænɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về kế hoạch kế nhiệm",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 385,
+        "content_en": "I prioritize developing multiple candidates and ensuring knowledge transfer.",
+        "content_vi": "Tôi ưu tiên phát triển nhiều ứng viên và đảm bảo chuyển giao kiến thức.",
+        "phonetic": "aɪ praɪˈɔrəˌtaɪz dɪˈvɛləpɪŋ ˈmʌltəpəl ˈkændəˌdeɪts ænd ɛnˈʃʊrɪŋ ˈnɑlədʒ ˈtrænsfɜr",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "leadership"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích chiến lược kế nhiệm",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 386,
+        "content_en": "How do you foster innovation while maintaining operational excellence?",
+        "content_vi": "Bạn thúc đẩy đổi mới trong khi duy trì sự xuất sắc trong hoạt động như thế nào?",
+        "phonetic": "haʊ du ju ˈfɔstər ˌɪnəˈveɪʃən waɪl meɪnˈteɪnɪŋ ˌɑpəˈreɪʃənəl ˈɛksələns",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "innovation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cân bằng đổi mới và hiệu suất",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 387,
+        "content_en": "By creating parallel structures for exploration and exploitation activities.",
+        "content_vi": "Bằng cách tạo ra các cấu trúc song song cho các hoạt động khám phá và khai thác.",
+        "phonetic": "baɪ kriˈeɪtɪŋ ˈpɛrəˌlɛl ˈstrʌkʧərz fɔr ˌɛkspləˈreɪʃən ænd ˌɛksplɔɪˈteɪʃən ækˈtɪvətiz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "innovation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cấu trúc tổ chức đổi mới",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 388,
+        "content_en": "Your ability to articulate complex concepts with clarity is exceptional.",
+        "content_vi": "Khả năng diễn đạt các khái niệm phức tạp một cách rõ ràng của bạn thật đặc biệt.",
+        "phonetic": "jʊr əˈbɪləti tə ɑrˈtɪkjəˌleɪt ˈkɑmplɛks ˈkɑnsɛpts wɪð ˈklɛrəti ɪz ɪkˈsɛpʃənəl",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "communication"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về kỹ năng giao tiếp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 389,
+        "content_en": "What role does vulnerability play in authentic leadership?",
+        "content_vi": "Tính dễ tổn thương đóng vai trò gì trong lãnh đạo chân thực?",
+        "phonetic": "wʌt roʊl dʌz ˌvʌlnərəˈbɪləti pleɪ ɪn ɔˈθɛntɪk ˈlidərˌʃɪp",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "leadership-philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về triết lý lãnh đạo sâu sắc",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 390,
+        "content_en": "It's essential for building trust and modeling adaptive learning behavior.",
+        "content_vi": "Nó rất cần thiết để xây dựng lòng tin và làm gương hành vi học tập thích ứng.",
+        "phonetic": "ɪts ɪˈsɛnʃəl fɔr ˈbɪldɪŋ trʌst ænd ˈmɑdəlɪŋ əˈdæptɪv ˈlɜrnɪŋ bɪˈheɪvjər",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "leadership-philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích vai trò của vulnerability",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 391,
+        "content_en": "I'm particularly drawn to your emphasis on systemic thinking.",
+        "content_vi": "Tôi đặc biệt bị thu hút bởi sự nhấn mạnh của bạn về tư duy hệ thống.",
+        "phonetic": "aɪm pərˈtɪkjələrli drɔn tə jʊr ˈɛmfəsɪs ɑn sɪˈstɛmɪk ˈθɪŋkɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "methodology"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về phương pháp tư duy",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 392,
+        "content_en": "How do you maintain strategic coherence across diverse business units?",
+        "content_vi": "Bạn duy trì sự mạch lạc chiến lược trên các đơn vị kinh doanh đa dạng như thế nào?",
+        "phonetic": "haʊ du ju meɪnˈteɪn strəˈtidʒɪk koʊˈhɪrəns əˈkrɔs daɪˈvɜrs ˈbɪznəs ˈjunəts",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "corporate-strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chiến lược công ty",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 393,
+        "content_en": "Through articulating clear strategic intent while allowing tactical autonomy.",
+        "content_vi": "Thông qua việc diễn đạt rõ ràng ý định chiến lược trong khi cho phép tự chủ chiến thuật.",
+        "phonetic": "θru ɑrˈtɪkjəˌleɪtɪŋ klɪr strəˈtidʒɪk ɪnˈtɛnt waɪl əˈlaʊɪŋ ˈtæktɪkəl ɔˈtɑnəmi",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "corporate-strategy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cách duy trì mạch lạc",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 394,
+        "content_en": "Your contributions exemplify the intersection of theory and practice.",
+        "content_vi": "Những đóng góp của bạn minh họa giao điểm giữa lý thuyết và thực hành.",
+        "phonetic": "jʊr ˌkɑntrəˈbjuʃənz ɪɡˈzɛmpləˌfaɪ ði ˌɪntərˈsɛkʃən ʌv ˈθiəri ænd ˈpræktəs",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "academic-practitioner"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về kết hợp lý thuyết và thực tiễn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 395,
+        "content_en": "What mechanisms ensure accountability without stifling creativity?",
+        "content_vi": "Những cơ chế nào đảm bảo trách nhiệm giải trình mà không kìm hãm sáng tạo?",
+        "phonetic": "wʌt ˈmɛkəˌnɪzəmz ɛnˈʃʊr əˌkaʊntəˈbɪləti wɪˈθaʊt ˈstaɪflɪŋ ˌkrieɪˈtɪvəti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "management-philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về cân bằng quản lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 396,
+        "content_en": "Outcome-based accountability paired with process flexibility and learning orientation.",
+        "content_vi": "Trách nhiệm dựa trên kết quả kết hợp với sự linh hoạt quy trình và định hướng học hỏi.",
+        "phonetic": "ˈaʊtˌkʌm-beɪst əˌkaʊntəˈbɪləti pɛrd wɪð ˈprɑsɛs ˌflɛksəˈbɪləti ænd ˈlɜrnɪŋ ˌɔriɛnˈteɪʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "management-philosophy"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích cơ chế cân bằng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 397,
+        "content_en": "I deeply appreciate your willingness to challenge conventional wisdom.",
+        "content_vi": "Tôi đánh giá cao sự sẵn lòng thách thức trí tuệ thông thường của bạn.",
+        "phonetic": "aɪ ˈdipli əˈpriʃiˌeɪt jʊr ˈwɪlɪŋnəs tə ˈʧælɪndʒ kənˈvɛnʃənəl ˈwɪzdəm",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "compliment",
+            "intellectual-courage"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen về lòng dũng cảm trí tuệ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 398,
+        "content_en": "How do you cultivate resilience in the face of systemic disruption?",
+        "content_vi": "Bạn nuôi dưỡng khả năng phục hồi trước sự gián đoạn hệ thống như thế nào?",
+        "phonetic": "haʊ du ju ˈkʌltəˌveɪt rɪˈzɪliəns ɪn ðə feɪs ʌv sɪˈstɛmɪk dɪsˈrʌpʃən",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "question",
+            "resilience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về khả năng phục hồi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 399,
+        "content_en": "Through building adaptive capacity and maintaining strategic optionality.",
+        "content_vi": "Thông qua xây dựng năng lực thích ứng và duy trì tính tùy chọn chiến lược.",
+        "phonetic": "θru ˈbɪldɪŋ əˈdæptɪv kəˈpæsəti ænd meɪnˈteɪnɪŋ strəˈtidʒɪk ˌɑpʃəˈnæləti",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "response",
+            "resilience"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giải thích phương pháp xây dựng resilience",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 400,
+        "content_en": "This conversation has been extraordinarily enriching and thought-provoking.",
+        "content_vi": "Cuộc trò chuyện này thực sự làm phong phú và kích thích tư duy đặc biệt.",
+        "phonetic": "ðɪs ˌkɑnvərˈseɪʃən hæz bɪn ɪkˈstrɔrdəˌnɛrəli ɛnˈrɪʧɪŋ ænd θɔt-prəˈvoʊkɪŋ",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "farewell",
+            "appreciation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá cao cuộc trò chuyện",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 401,
+        "content_en": "I look forward to continuing this dialogue in future engagements.",
+        "content_vi": "Tôi mong được tiếp tục cuộc đối thoại này trong các tương tác tương lai.",
+        "phonetic": "aɪ lʊk ˈfɔrwərd tə kənˈtɪnjuɪŋ ðɪs ˈdaɪəˌlɔɡ ɪn ˈfjuʧər ɛnˈɡeɪdʒmənts",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "farewell",
+            "anticipation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Mong chờ gặp lại",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 402,
+        "content_en": "Your insights will undoubtedly influence my strategic thinking going forward.",
+        "content_vi": "Những hiểu biết của bạn chắc chắn sẽ ảnh hưởng đến tư duy chiến lược của tôi về sau.",
+        "phonetic": "jʊr ˈɪnˌsaɪts wɪl ʌnˈdaʊtɪdli ˈɪnfluəns maɪ strəˈtidʒɪk ˈθɪŋkɪŋ ˈɡoʊɪŋ ˈfɔrwərd",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "farewell",
+            "impact"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thừa nhận ảnh hưởng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 403,
+        "content_en": "I trust our paths will converge again under propitious circumstances.",
+        "content_vi": "Tôi tin rằng con đường của chúng ta sẽ gặp lại trong hoàn cảnh thuận lợi.",
+        "phonetic": "aɪ trʌst ˈaʊər pæðz wɪl kənˈvɜrdʒ əˈɡɛn ˈʌndər prəˈpɪʃəs ˈsɜrkəmˌstænsɪz",
+        "level_id": "B2",
+        "topic_ids": [
+            "greeting"
+        ],
+        "tags": [
+            "farewell",
+            "formal",
+            "optimistic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chào tạm biệt trang trọng và lạc quan",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]
