@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 3254,
+    "content_en": "I'd like to upgrade my smartphone.",
+    "content_vi": "Tôi muốn nâng cấp điện thoại thông minh của mình.",
+    "phonetic": "aɪd laɪk tu ˈʌpˌɡreɪd maɪ ˈsmɑrtˌfoʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "upgrade"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3255,
+    "content_en": "I've been using this software for three years.",
+    "content_vi": "Tôi sử dụng phần mềm này ba năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈsɔftˌwɛr fɔr θri jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "software",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3256,
+    "content_en": "Could you help me install this application?",
+    "content_vi": "Bạn có thể giúp tôi cài đặt ứng dụng này không?",
+    "phonetic": "kʊd ju hɛlp mi ɪnˈstɔl ðɪs ˌæpləˈkeɪʃən",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "installation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3257,
+    "content_en": "This device is faster than my old one.",
+    "content_vi": "Thiết bị này nhanh hơn thiết bị cũ của tôi.",
+    "phonetic": "ðɪs dɪˈvaɪs ɪz ˈfæstər ðæn maɪ oʊld wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "device",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3258,
+    "content_en": "I need to backup my important files.",
+    "content_vi": "Tôi cần sao lưu các tệp quan trọng của mình.",
+    "phonetic": "aɪ nid tu ˈbækˌʌp maɪ ɪmˈpɔrtənt faɪlz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "necessity",
+      "backup",
+      "files"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3259,
+    "content_en": "I've already downloaded the latest update.",
+    "content_vi": "Tôi đã tải xuống bản cập nhật mới nhất rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˌdaʊnˈloʊdəd ðə ˈleɪtəst ˈʌpˌdeɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect",
+      "update",
+      "download"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3260,
+    "content_en": "I prefer using cloud storage for my documents.",
+    "content_vi": "Tôi thích sử dụng lưu trữ đám mây cho tài liệu của mình.",
+    "phonetic": "aɪ prɪˈfɜr ˈjuzɪŋ klaʊd ˈstɔrəʤ fɔr maɪ ˈdɑkjəmənts",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "preference",
+      "cloud",
+      "storage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3261,
+    "content_en": "The technician fixed my computer yesterday.",
+    "content_vi": "Kỹ thuật viên đã sửa máy tính của tôi hôm qua.",
+    "phonetic": "ðə tɛkˈnɪʃən fɪkst maɪ kəmˈpjutər ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "technician"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3262,
+    "content_en": "My new phone has more storage than the previous one.",
+    "content_vi": "Điện thoại mới của tôi có nhiều bộ nhớ hơn điện thoại trước.",
+    "phonetic": "maɪ nu foʊn hæz mɔr ˈstɔrəʤ ðæn ðə ˈpriviəs wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "storage",
+      "phone"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3263,
+    "content_en": "I've been learning about cybersecurity for months.",
+    "content_vi": "Tôi học về an ninh mạng nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈlɜrnɪŋ əˈbaʊt ˈsaɪbərsɪˌkjʊrəti fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "cybersecurity",
+      "learning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3264,
+    "content_en": "I'd like to upgrade my smartphone.",
+    "content_vi": "Tôi muốn nâng cấp điện thoại thông minh của mình.",
+    "phonetic": "aɪd laɪk tu ˈʌpˌɡreɪd maɪ ˈsmɑrtˌfoʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "upgrade"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3265,
+    "content_en": "I've been using this software for three years.",
+    "content_vi": "Tôi sử dụng phần mềm này ba năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈsɔftˌwɛr fɔr θri jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "software",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3266,
+    "content_en": "Could you help me install this application?",
+    "content_vi": "Bạn có thể giúp tôi cài đặt ứng dụng này không?",
+    "phonetic": "kʊd ju hɛlp mi ɪnˈstɔl ðɪs ˌæpləˈkeɪʃən",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "installation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3267,
+    "content_en": "This device is faster than my old one.",
+    "content_vi": "Thiết bị này nhanh hơn thiết bị cũ của tôi.",
+    "phonetic": "ðɪs dɪˈvaɪs ɪz ˈfæstər ðæn maɪ oʊld wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "device",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3268,
+    "content_en": "I need to backup my important files.",
+    "content_vi": "Tôi cần sao lưu các tệp quan trọng của mình.",
+    "phonetic": "aɪ nid tu ˈbækˌʌp maɪ ɪmˈpɔrtənt faɪlz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "necessity",
+      "backup",
+      "files"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3269,
+    "content_en": "I've already downloaded the latest update.",
+    "content_vi": "Tôi đã tải xuống bản cập nhật mới nhất rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˌdaʊnˈloʊdəd ðə ˈleɪtəst ˈʌpˌdeɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect",
+      "update",
+      "download"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3270,
+    "content_en": "I prefer using cloud storage for my documents.",
+    "content_vi": "Tôi thích sử dụng lưu trữ đám mây cho tài liệu của mình.",
+    "phonetic": "aɪ prɪˈfɜr ˈjuzɪŋ klaʊd ˈstɔrəʤ fɔr maɪ ˈdɑkjəmənts",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "preference",
+      "cloud",
+      "storage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3271,
+    "content_en": "The technician fixed my computer yesterday.",
+    "content_vi": "Kỹ thuật viên đã sửa máy tính của tôi hôm qua.",
+    "phonetic": "ðə tɛkˈnɪʃən fɪkst maɪ kəmˈpjutər ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "technician"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3272,
+    "content_en": "My new phone has more storage than the previous one.",
+    "content_vi": "Điện thoại mới của tôi có nhiều bộ nhớ hơn điện thoại trước.",
+    "phonetic": "maɪ nu foʊn hæz mɔr ˈstɔrəʤ ðæn ðə ˈpriviəs wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "storage",
+      "phone"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3273,
+    "content_en": "I've been learning about cybersecurity for months.",
+    "content_vi": "Tôi học về an ninh mạng nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈlɜrnɪŋ əˈbaʊt ˈsaɪbərsɪˌkjʊrəti fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "cybersecurity",
+      "learning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3274,
+    "content_en": "I'd like to upgrade my smartphone.",
+    "content_vi": "Tôi muốn nâng cấp điện thoại thông minh của mình.",
+    "phonetic": "aɪd laɪk tu ˈʌpˌɡreɪd maɪ ˈsmɑrtˌfoʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "upgrade"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3275,
+    "content_en": "I've been using this software for three years.",
+    "content_vi": "Tôi sử dụng phần mềm này ba năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈsɔftˌwɛr fɔr θri jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "software",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3276,
+    "content_en": "Could you help me install this application?",
+    "content_vi": "Bạn có thể giúp tôi cài đặt ứng dụng này không?",
+    "phonetic": "kʊd ju hɛlp mi ɪnˈstɔl ðɪs ˌæpləˈkeɪʃən",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "installation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3277,
+    "content_en": "This device is faster than my old one.",
+    "content_vi": "Thiết bị này nhanh hơn thiết bị cũ của tôi.",
+    "phonetic": "ðɪs dɪˈvaɪs ɪz ˈfæstər ðæn maɪ oʊld wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "device",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3278,
+    "content_en": "I need to backup my important files.",
+    "content_vi": "Tôi cần sao lưu các tệp quan trọng của mình.",
+    "phonetic": "aɪ nid tu ˈbækˌʌp maɪ ɪmˈpɔrtənt faɪlz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "necessity",
+      "backup",
+      "files"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3279,
+    "content_en": "I've already downloaded the latest update.",
+    "content_vi": "Tôi đã tải xuống bản cập nhật mới nhất rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˌdaʊnˈloʊdəd ðə ˈleɪtəst ˈʌpˌdeɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect",
+      "update",
+      "download"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3280,
+    "content_en": "I prefer using cloud storage for my documents.",
+    "content_vi": "Tôi thích sử dụng lưu trữ đám mây cho tài liệu của mình.",
+    "phonetic": "aɪ prɪˈfɜr ˈjuzɪŋ klaʊd ˈstɔrəʤ fɔr maɪ ˈdɑkjəmənts",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "preference",
+      "cloud",
+      "storage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3281,
+    "content_en": "The technician fixed my computer yesterday.",
+    "content_vi": "Kỹ thuật viên đã sửa máy tính của tôi hôm qua.",
+    "phonetic": "ðə tɛkˈnɪʃən fɪkst maɪ kəmˈpjutər ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "technician"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3282,
+    "content_en": "My new phone has more storage than the previous one.",
+    "content_vi": "Điện thoại mới của tôi có nhiều bộ nhớ hơn điện thoại trước.",
+    "phonetic": "maɪ nu foʊn hæz mɔr ˈstɔrəʤ ðæn ðə ˈpriviəs wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "storage",
+      "phone"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3283,
+    "content_en": "I've been learning about cybersecurity for months.",
+    "content_vi": "Tôi học về an ninh mạng nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈlɜrnɪŋ əˈbaʊt ˈsaɪbərsɪˌkjʊrəti fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "cybersecurity",
+      "learning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3284,
+    "content_en": "I'd like to upgrade my smartphone.",
+    "content_vi": "Tôi muốn nâng cấp điện thoại thông minh của mình.",
+    "phonetic": "aɪd laɪk tu ˈʌpˌɡreɪd maɪ ˈsmɑrtˌfoʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "upgrade"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3285,
+    "content_en": "I've been using this software for three years.",
+    "content_vi": "Tôi sử dụng phần mềm này ba năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈsɔftˌwɛr fɔr θri jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "software",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3286,
+    "content_en": "Could you help me install this application?",
+    "content_vi": "Bạn có thể giúp tôi cài đặt ứng dụng này không?",
+    "phonetic": "kʊd ju hɛlp mi ɪnˈstɔl ðɪs ˌæpləˈkeɪʃən",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "installation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3287,
+    "content_en": "This device is faster than my old one.",
+    "content_vi": "Thiết bị này nhanh hơn thiết bị cũ của tôi.",
+    "phonetic": "ðɪs dɪˈvaɪs ɪz ˈfæstər ðæn maɪ oʊld wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "device",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3288,
+    "content_en": "I need to backup my important files.",
+    "content_vi": "Tôi cần sao lưu các tệp quan trọng của mình.",
+    "phonetic": "aɪ nid tu ˈbækˌʌp maɪ ɪmˈpɔrtənt faɪlz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "necessity",
+      "backup",
+      "files"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3289,
+    "content_en": "I've already downloaded the latest update.",
+    "content_vi": "Tôi đã tải xuống bản cập nhật mới nhất rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˌdaʊnˈloʊdəd ðə ˈleɪtəst ˈʌpˌdeɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect",
+      "update",
+      "download"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3290,
+    "content_en": "I prefer using cloud storage for my documents.",
+    "content_vi": "Tôi thích sử dụng lưu trữ đám mây cho tài liệu của mình.",
+    "phonetic": "aɪ prɪˈfɜr ˈjuzɪŋ klaʊd ˈstɔrəʤ fɔr maɪ ˈdɑkjəmənts",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "preference",
+      "cloud",
+      "storage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3291,
+    "content_en": "The technician fixed my computer yesterday.",
+    "content_vi": "Kỹ thuật viên đã sửa máy tính của tôi hôm qua.",
+    "phonetic": "ðə tɛkˈnɪʃən fɪkst maɪ kəmˈpjutər ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "technician"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3292,
+    "content_en": "My new phone has more storage than the previous one.",
+    "content_vi": "Điện thoại mới của tôi có nhiều bộ nhớ hơn điện thoại trước.",
+    "phonetic": "maɪ nu foʊn hæz mɔr ˈstɔrəʤ ðæn ðə ˈpriviəs wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "storage",
+      "phone"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3293,
+    "content_en": "I've been learning about cybersecurity for months.",
+    "content_vi": "Tôi học về an ninh mạng nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈlɜrnɪŋ əˈbaʊt ˈsaɪbərsɪˌkjʊrəti fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "cybersecurity",
+      "learning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3294,
+    "content_en": "I'd like to upgrade my smartphone.",
+    "content_vi": "Tôi muốn nâng cấp điện thoại thông minh của mình.",
+    "phonetic": "aɪd laɪk tu ˈʌpˌɡreɪd maɪ ˈsmɑrtˌfoʊn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "upgrade"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3295,
+    "content_en": "I've been using this software for three years.",
+    "content_vi": "Tôi sử dụng phần mềm này ba năm rồi.",
+    "phonetic": "aɪv bɪn ˈjuzɪŋ ðɪs ˈsɔftˌwɛr fɔr θri jɪrz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "software",
+      "duration"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3296,
+    "content_en": "Could you help me install this application?",
+    "content_vi": "Bạn có thể giúp tôi cài đặt ứng dụng này không?",
+    "phonetic": "kʊd ju hɛlp mi ɪnˈstɔl ðɪs ˌæpləˈkeɪʃən",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "installation"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3297,
+    "content_en": "This device is faster than my old one.",
+    "content_vi": "Thiết bị này nhanh hơn thiết bị cũ của tôi.",
+    "phonetic": "ðɪs dɪˈvaɪs ɪz ˈfæstər ðæn maɪ oʊld wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "device",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3298,
+    "content_en": "I need to backup my important files.",
+    "content_vi": "Tôi cần sao lưu các tệp quan trọng của mình.",
+    "phonetic": "aɪ nid tu ˈbækˌʌp maɪ ɪmˈpɔrtənt faɪlz",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "necessity",
+      "backup",
+      "files"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3299,
+    "content_en": "I've already downloaded the latest update.",
+    "content_vi": "Tôi đã tải xuống bản cập nhật mới nhất rồi.",
+    "phonetic": "aɪv ɔlˈrɛdi ˌdaʊnˈloʊdəd ðə ˈleɪtəst ˈʌpˌdeɪt",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect",
+      "update",
+      "download"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3300,
+    "content_en": "I prefer using cloud storage for my documents.",
+    "content_vi": "Tôi thích sử dụng lưu trữ đám mây cho tài liệu của mình.",
+    "phonetic": "aɪ prɪˈfɜr ˈjuzɪŋ klaʊd ˈstɔrəʤ fɔr maɪ ˈdɑkjəmənts",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "preference",
+      "cloud",
+      "storage"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3301,
+    "content_en": "The technician fixed my computer yesterday.",
+    "content_vi": "Kỹ thuật viên đã sửa máy tính của tôi hôm qua.",
+    "phonetic": "ðə tɛkˈnɪʃən fɪkst maɪ kəmˈpjutər ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "past",
+      "repair",
+      "technician"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3302,
+    "content_en": "My new phone has more storage than the previous one.",
+    "content_vi": "Điện thoại mới của tôi có nhiều bộ nhớ hơn điện thoại trước.",
+    "phonetic": "maɪ nu foʊn hæz mɔr ˈstɔrəʤ ðæn ðə ˈpriviəs wʌn",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "comparison",
+      "storage",
+      "phone"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3303,
+    "content_en": "I've been learning about cybersecurity for months.",
+    "content_vi": "Tôi học về an ninh mạng nhiều tháng rồi.",
+    "phonetic": "aɪv bɪn ˈlɜrnɪŋ əˈbaʊt ˈsaɪbərsɪˌkjʊrəti fɔr mʌnθs",
+    "level_id": "A2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "cybersecurity",
+      "learning"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống công nghệ (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

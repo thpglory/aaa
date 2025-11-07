@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 3354,
+    "content_en": "Never before has artificial intelligence transformed industries so comprehensively.",
+    "content_vi": "Chưa bao giờ trí tuệ nhân tạo thay đổi các ngành công nghiệp toàn diện đến vậy.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns trænsˈfɔrmd ˈɪndəstriz soʊ ˌkɑmprɪˈhɛnsɪvli",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "AI"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3355,
+    "content_en": "What distinguishes quantum computing from classical systems is its fundamental computational paradigm.",
+    "content_vi": "Điều phân biệt điện toán lượng tử với các hệ thống cổ điển là mô hình tính toán cơ bản của nó.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ˈkwɑntəm kəmˈpjutɪŋ frʌm ˈklæsɪkəl ˈsɪstəmz ɪz ɪts ˌfʌndəˈmɛntəl ˌkɑmpjəˈteɪʃənəl ˈpærəˌdaɪm",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "quantum computing",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3356,
+    "content_en": "Scarcely had 5G networks deployed when discussions about 6G infrastructure began.",
+    "content_vi": "Ngay khi mạng 5G triển khai thì các cuộc thảo luận về cơ sở hạ tầng 6G đã bắt đầu.",
+    "phonetic": "ˈskɛrsli hæd faɪv ʤi ˈnɛtˌwɜrks dɪˈplɔɪd wɛn dɪˈskʌʃənz əˈbaʊt sɪks ʤi ˈɪnfrəˌstrʌkʧər bɪˈɡæn",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "networks",
+      "5G/6G"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3357,
+    "content_en": "It is through machine learning algorithms that predictive analytics achieves remarkable accuracy.",
+    "content_vi": "Chính thông qua các thuật toán học máy, phân tích dự đoán đạt được độ chính xác đáng chú ý.",
+    "phonetic": "ɪt ɪz θru məˈʃin ˈlɜrnɪŋ ˈælɡəˌrɪðəmz ðæt prɪˈdɪktɪv ˌænəˈlɪtɪks əˈʧivz rɪˈmɑrkəbəl ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "machine learning",
+      "analytics"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3358,
+    "content_en": "The technology sector's exponential growth necessitates continuous workforce adaptation.",
+    "content_vi": "Tăng trưởng theo cấp số nhân của ngành công nghệ đòi hỏi sự thích ứng liên tục của lực lượng lao động.",
+    "phonetic": "ðə tɛkˈnɑləʤi ˈsɛktərz ˌɛkspəˈnɛnʃəl ɡroʊθ nəˈsɛsɪˌteɪts kənˈtɪnjuəs ˈwɜrkˌfɔrs ˌædæpˈteɪʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "growth",
+      "workforce"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3359,
+    "content_en": "Not until ethical AI frameworks mature will autonomous systems gain universal trust.",
+    "content_vi": "Chỉ khi các khung AI đạo đức trưởng thành, các hệ thống tự động mới giành được sự tin tưởng phổ cập.",
+    "phonetic": "nɑt ənˈtɪl ˈɛθɪkəl ˌeɪˈaɪ ˈfreɪmˌwɜrks məˈʧʊr wɪl ɔˈtɑnəməs ˈsɪstəmz ɡeɪn ˌjunəˈvɜrsəl trʌst",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "AI ethics",
+      "trust"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3360,
+    "content_en": "What makes edge computing revolutionary is its capacity to process data at unprecedented speeds.",
+    "content_vi": "Điều làm cho điện toán biên mang tính cách mạng là khả năng xử lý dữ liệu ở tốc độ chưa từng có.",
+    "phonetic": "wʌt meɪks ɛʤ kəmˈpjutɪŋ ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈprɑˌsɛs ˈdeɪtə æt ʌnˈprɛsɪˌdɛntəd spidz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "edge computing",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3361,
+    "content_en": "The cybersecurity landscape's evolution has fundamentally altered threat mitigation strategies.",
+    "content_vi": "Sự phát triển của bối cảnh an ninh mạng đã thay đổi căn bản các chiến lược giảm thiểu mối đe dọa.",
+    "phonetic": "ðə ˈsaɪbərsɪˌkjʊrəti ˈlændˌskeɪps ˌɛvəˈluʃən hæz ˌfʌndəˈmɛntəli ˈɔltərd θrɛt ˌmɪtəˈɡeɪʃən ˈstrætəʤiz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "cybersecurity",
+      "threats"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3362,
+    "content_en": "Seldom have technological breakthroughs generated such profound societal transformations.",
+    "content_vi": "Hiếm khi những đột phá công nghệ lại tạo ra những biến đổi xã hội sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˌtɛknəˈlɑʤɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd səˈsaɪətəl ˌtrænsfərˈmeɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "breakthroughs",
+      "society"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3363,
+    "content_en": "It is the convergence of IoT and artificial intelligence that enables smart city infrastructure.",
+    "content_vi": "Chính sự hội tụ của IoT và trí tuệ nhân tạo cho phép cơ sở hạ tầng thành phố thông minh.",
+    "phonetic": "ɪt ɪz ðə kənˈvɜrʤəns ʌv ˌaɪoʊˈti ænd ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ðæt ɪˈneɪbəlz smɑrt ˈsɪti ˈɪnfrəˌstrʌkʧər",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "IoT",
+      "smart cities"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3364,
+    "content_en": "Never before has artificial intelligence transformed industries so comprehensively.",
+    "content_vi": "Chưa bao giờ trí tuệ nhân tạo thay đổi các ngành công nghiệp toàn diện đến vậy.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns trænsˈfɔrmd ˈɪndəstriz soʊ ˌkɑmprɪˈhɛnsɪvli",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "AI"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3365,
+    "content_en": "What distinguishes quantum computing from classical systems is its fundamental computational paradigm.",
+    "content_vi": "Điều phân biệt điện toán lượng tử với các hệ thống cổ điển là mô hình tính toán cơ bản của nó.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ˈkwɑntəm kəmˈpjutɪŋ frʌm ˈklæsɪkəl ˈsɪstəmz ɪz ɪts ˌfʌndəˈmɛntəl ˌkɑmpjəˈteɪʃənəl ˈpærəˌdaɪm",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "quantum computing",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3366,
+    "content_en": "Scarcely had 5G networks deployed when discussions about 6G infrastructure began.",
+    "content_vi": "Ngay khi mạng 5G triển khai thì các cuộc thảo luận về cơ sở hạ tầng 6G đã bắt đầu.",
+    "phonetic": "ˈskɛrsli hæd faɪv ʤi ˈnɛtˌwɜrks dɪˈplɔɪd wɛn dɪˈskʌʃənz əˈbaʊt sɪks ʤi ˈɪnfrəˌstrʌkʧər bɪˈɡæn",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "networks",
+      "5G/6G"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3367,
+    "content_en": "It is through machine learning algorithms that predictive analytics achieves remarkable accuracy.",
+    "content_vi": "Chính thông qua các thuật toán học máy, phân tích dự đoán đạt được độ chính xác đáng chú ý.",
+    "phonetic": "ɪt ɪz θru məˈʃin ˈlɜrnɪŋ ˈælɡəˌrɪðəmz ðæt prɪˈdɪktɪv ˌænəˈlɪtɪks əˈʧivz rɪˈmɑrkəbəl ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "machine learning",
+      "analytics"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3368,
+    "content_en": "The technology sector's exponential growth necessitates continuous workforce adaptation.",
+    "content_vi": "Tăng trưởng theo cấp số nhân của ngành công nghệ đòi hỏi sự thích ứng liên tục của lực lượng lao động.",
+    "phonetic": "ðə tɛkˈnɑləʤi ˈsɛktərz ˌɛkspəˈnɛnʃəl ɡroʊθ nəˈsɛsɪˌteɪts kənˈtɪnjuəs ˈwɜrkˌfɔrs ˌædæpˈteɪʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "growth",
+      "workforce"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3369,
+    "content_en": "Not until ethical AI frameworks mature will autonomous systems gain universal trust.",
+    "content_vi": "Chỉ khi các khung AI đạo đức trưởng thành, các hệ thống tự động mới giành được sự tin tưởng phổ cập.",
+    "phonetic": "nɑt ənˈtɪl ˈɛθɪkəl ˌeɪˈaɪ ˈfreɪmˌwɜrks məˈʧʊr wɪl ɔˈtɑnəməs ˈsɪstəmz ɡeɪn ˌjunəˈvɜrsəl trʌst",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "AI ethics",
+      "trust"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3370,
+    "content_en": "What makes edge computing revolutionary is its capacity to process data at unprecedented speeds.",
+    "content_vi": "Điều làm cho điện toán biên mang tính cách mạng là khả năng xử lý dữ liệu ở tốc độ chưa từng có.",
+    "phonetic": "wʌt meɪks ɛʤ kəmˈpjutɪŋ ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈprɑˌsɛs ˈdeɪtə æt ʌnˈprɛsɪˌdɛntəd spidz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "edge computing",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3371,
+    "content_en": "The cybersecurity landscape's evolution has fundamentally altered threat mitigation strategies.",
+    "content_vi": "Sự phát triển của bối cảnh an ninh mạng đã thay đổi căn bản các chiến lược giảm thiểu mối đe dọa.",
+    "phonetic": "ðə ˈsaɪbərsɪˌkjʊrəti ˈlændˌskeɪps ˌɛvəˈluʃən hæz ˌfʌndəˈmɛntəli ˈɔltərd θrɛt ˌmɪtəˈɡeɪʃən ˈstrætəʤiz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "cybersecurity",
+      "threats"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3372,
+    "content_en": "Seldom have technological breakthroughs generated such profound societal transformations.",
+    "content_vi": "Hiếm khi những đột phá công nghệ lại tạo ra những biến đổi xã hội sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˌtɛknəˈlɑʤɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd səˈsaɪətəl ˌtrænsfərˈmeɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "breakthroughs",
+      "society"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3373,
+    "content_en": "It is the convergence of IoT and artificial intelligence that enables smart city infrastructure.",
+    "content_vi": "Chính sự hội tụ của IoT và trí tuệ nhân tạo cho phép cơ sở hạ tầng thành phố thông minh.",
+    "phonetic": "ɪt ɪz ðə kənˈvɜrʤəns ʌv ˌaɪoʊˈti ænd ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ðæt ɪˈneɪbəlz smɑrt ˈsɪti ˈɪnfrəˌstrʌkʧər",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "IoT",
+      "smart cities"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3374,
+    "content_en": "Never before has artificial intelligence transformed industries so comprehensively.",
+    "content_vi": "Chưa bao giờ trí tuệ nhân tạo thay đổi các ngành công nghiệp toàn diện đến vậy.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns trænsˈfɔrmd ˈɪndəstriz soʊ ˌkɑmprɪˈhɛnsɪvli",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "AI"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3375,
+    "content_en": "What distinguishes quantum computing from classical systems is its fundamental computational paradigm.",
+    "content_vi": "Điều phân biệt điện toán lượng tử với các hệ thống cổ điển là mô hình tính toán cơ bản của nó.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ˈkwɑntəm kəmˈpjutɪŋ frʌm ˈklæsɪkəl ˈsɪstəmz ɪz ɪts ˌfʌndəˈmɛntəl ˌkɑmpjəˈteɪʃənəl ˈpærəˌdaɪm",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "quantum computing",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3376,
+    "content_en": "Scarcely had 5G networks deployed when discussions about 6G infrastructure began.",
+    "content_vi": "Ngay khi mạng 5G triển khai thì các cuộc thảo luận về cơ sở hạ tầng 6G đã bắt đầu.",
+    "phonetic": "ˈskɛrsli hæd faɪv ʤi ˈnɛtˌwɜrks dɪˈplɔɪd wɛn dɪˈskʌʃənz əˈbaʊt sɪks ʤi ˈɪnfrəˌstrʌkʧər bɪˈɡæn",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "networks",
+      "5G/6G"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3377,
+    "content_en": "It is through machine learning algorithms that predictive analytics achieves remarkable accuracy.",
+    "content_vi": "Chính thông qua các thuật toán học máy, phân tích dự đoán đạt được độ chính xác đáng chú ý.",
+    "phonetic": "ɪt ɪz θru məˈʃin ˈlɜrnɪŋ ˈælɡəˌrɪðəmz ðæt prɪˈdɪktɪv ˌænəˈlɪtɪks əˈʧivz rɪˈmɑrkəbəl ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "machine learning",
+      "analytics"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3378,
+    "content_en": "The technology sector's exponential growth necessitates continuous workforce adaptation.",
+    "content_vi": "Tăng trưởng theo cấp số nhân của ngành công nghệ đòi hỏi sự thích ứng liên tục của lực lượng lao động.",
+    "phonetic": "ðə tɛkˈnɑləʤi ˈsɛktərz ˌɛkspəˈnɛnʃəl ɡroʊθ nəˈsɛsɪˌteɪts kənˈtɪnjuəs ˈwɜrkˌfɔrs ˌædæpˈteɪʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "growth",
+      "workforce"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3379,
+    "content_en": "Not until ethical AI frameworks mature will autonomous systems gain universal trust.",
+    "content_vi": "Chỉ khi các khung AI đạo đức trưởng thành, các hệ thống tự động mới giành được sự tin tưởng phổ cập.",
+    "phonetic": "nɑt ənˈtɪl ˈɛθɪkəl ˌeɪˈaɪ ˈfreɪmˌwɜrks məˈʧʊr wɪl ɔˈtɑnəməs ˈsɪstəmz ɡeɪn ˌjunəˈvɜrsəl trʌst",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "AI ethics",
+      "trust"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3380,
+    "content_en": "What makes edge computing revolutionary is its capacity to process data at unprecedented speeds.",
+    "content_vi": "Điều làm cho điện toán biên mang tính cách mạng là khả năng xử lý dữ liệu ở tốc độ chưa từng có.",
+    "phonetic": "wʌt meɪks ɛʤ kəmˈpjutɪŋ ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈprɑˌsɛs ˈdeɪtə æt ʌnˈprɛsɪˌdɛntəd spidz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "edge computing",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3381,
+    "content_en": "The cybersecurity landscape's evolution has fundamentally altered threat mitigation strategies.",
+    "content_vi": "Sự phát triển của bối cảnh an ninh mạng đã thay đổi căn bản các chiến lược giảm thiểu mối đe dọa.",
+    "phonetic": "ðə ˈsaɪbərsɪˌkjʊrəti ˈlændˌskeɪps ˌɛvəˈluʃən hæz ˌfʌndəˈmɛntəli ˈɔltərd θrɛt ˌmɪtəˈɡeɪʃən ˈstrætəʤiz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "cybersecurity",
+      "threats"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3382,
+    "content_en": "Seldom have technological breakthroughs generated such profound societal transformations.",
+    "content_vi": "Hiếm khi những đột phá công nghệ lại tạo ra những biến đổi xã hội sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˌtɛknəˈlɑʤɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd səˈsaɪətəl ˌtrænsfərˈmeɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "breakthroughs",
+      "society"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3383,
+    "content_en": "It is the convergence of IoT and artificial intelligence that enables smart city infrastructure.",
+    "content_vi": "Chính sự hội tụ của IoT và trí tuệ nhân tạo cho phép cơ sở hạ tầng thành phố thông minh.",
+    "phonetic": "ɪt ɪz ðə kənˈvɜrʤəns ʌv ˌaɪoʊˈti ænd ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ðæt ɪˈneɪbəlz smɑrt ˈsɪti ˈɪnfrəˌstrʌkʧər",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "IoT",
+      "smart cities"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3384,
+    "content_en": "Never before has artificial intelligence transformed industries so comprehensively.",
+    "content_vi": "Chưa bao giờ trí tuệ nhân tạo thay đổi các ngành công nghiệp toàn diện đến vậy.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns trænsˈfɔrmd ˈɪndəstriz soʊ ˌkɑmprɪˈhɛnsɪvli",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "AI"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3385,
+    "content_en": "What distinguishes quantum computing from classical systems is its fundamental computational paradigm.",
+    "content_vi": "Điều phân biệt điện toán lượng tử với các hệ thống cổ điển là mô hình tính toán cơ bản của nó.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ˈkwɑntəm kəmˈpjutɪŋ frʌm ˈklæsɪkəl ˈsɪstəmz ɪz ɪts ˌfʌndəˈmɛntəl ˌkɑmpjəˈteɪʃənəl ˈpærəˌdaɪm",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "quantum computing",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3386,
+    "content_en": "Scarcely had 5G networks deployed when discussions about 6G infrastructure began.",
+    "content_vi": "Ngay khi mạng 5G triển khai thì các cuộc thảo luận về cơ sở hạ tầng 6G đã bắt đầu.",
+    "phonetic": "ˈskɛrsli hæd faɪv ʤi ˈnɛtˌwɜrks dɪˈplɔɪd wɛn dɪˈskʌʃənz əˈbaʊt sɪks ʤi ˈɪnfrəˌstrʌkʧər bɪˈɡæn",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "networks",
+      "5G/6G"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3387,
+    "content_en": "It is through machine learning algorithms that predictive analytics achieves remarkable accuracy.",
+    "content_vi": "Chính thông qua các thuật toán học máy, phân tích dự đoán đạt được độ chính xác đáng chú ý.",
+    "phonetic": "ɪt ɪz θru məˈʃin ˈlɜrnɪŋ ˈælɡəˌrɪðəmz ðæt prɪˈdɪktɪv ˌænəˈlɪtɪks əˈʧivz rɪˈmɑrkəbəl ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "machine learning",
+      "analytics"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3388,
+    "content_en": "The technology sector's exponential growth necessitates continuous workforce adaptation.",
+    "content_vi": "Tăng trưởng theo cấp số nhân của ngành công nghệ đòi hỏi sự thích ứng liên tục của lực lượng lao động.",
+    "phonetic": "ðə tɛkˈnɑləʤi ˈsɛktərz ˌɛkspəˈnɛnʃəl ɡroʊθ nəˈsɛsɪˌteɪts kənˈtɪnjuəs ˈwɜrkˌfɔrs ˌædæpˈteɪʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "growth",
+      "workforce"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3389,
+    "content_en": "Not until ethical AI frameworks mature will autonomous systems gain universal trust.",
+    "content_vi": "Chỉ khi các khung AI đạo đức trưởng thành, các hệ thống tự động mới giành được sự tin tưởng phổ cập.",
+    "phonetic": "nɑt ənˈtɪl ˈɛθɪkəl ˌeɪˈaɪ ˈfreɪmˌwɜrks məˈʧʊr wɪl ɔˈtɑnəməs ˈsɪstəmz ɡeɪn ˌjunəˈvɜrsəl trʌst",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "AI ethics",
+      "trust"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3390,
+    "content_en": "What makes edge computing revolutionary is its capacity to process data at unprecedented speeds.",
+    "content_vi": "Điều làm cho điện toán biên mang tính cách mạng là khả năng xử lý dữ liệu ở tốc độ chưa từng có.",
+    "phonetic": "wʌt meɪks ɛʤ kəmˈpjutɪŋ ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈprɑˌsɛs ˈdeɪtə æt ʌnˈprɛsɪˌdɛntəd spidz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "edge computing",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3391,
+    "content_en": "The cybersecurity landscape's evolution has fundamentally altered threat mitigation strategies.",
+    "content_vi": "Sự phát triển của bối cảnh an ninh mạng đã thay đổi căn bản các chiến lược giảm thiểu mối đe dọa.",
+    "phonetic": "ðə ˈsaɪbərsɪˌkjʊrəti ˈlændˌskeɪps ˌɛvəˈluʃən hæz ˌfʌndəˈmɛntəli ˈɔltərd θrɛt ˌmɪtəˈɡeɪʃən ˈstrætəʤiz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "cybersecurity",
+      "threats"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3392,
+    "content_en": "Seldom have technological breakthroughs generated such profound societal transformations.",
+    "content_vi": "Hiếm khi những đột phá công nghệ lại tạo ra những biến đổi xã hội sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˌtɛknəˈlɑʤɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd səˈsaɪətəl ˌtrænsfərˈmeɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "breakthroughs",
+      "society"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3393,
+    "content_en": "It is the convergence of IoT and artificial intelligence that enables smart city infrastructure.",
+    "content_vi": "Chính sự hội tụ của IoT và trí tuệ nhân tạo cho phép cơ sở hạ tầng thành phố thông minh.",
+    "phonetic": "ɪt ɪz ðə kənˈvɜrʤəns ʌv ˌaɪoʊˈti ænd ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ðæt ɪˈneɪbəlz smɑrt ˈsɪti ˈɪnfrəˌstrʌkʧər",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "IoT",
+      "smart cities"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3394,
+    "content_en": "Never before has artificial intelligence transformed industries so comprehensively.",
+    "content_vi": "Chưa bao giờ trí tuệ nhân tạo thay đổi các ngành công nghiệp toàn diện đến vậy.",
+    "phonetic": "ˈnɛvər bɪˈfɔr hæz ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns trænsˈfɔrmd ˈɪndəstriz soʊ ˌkɑmprɪˈhɛnsɪvli",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "complex",
+      "AI"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3395,
+    "content_en": "What distinguishes quantum computing from classical systems is its fundamental computational paradigm.",
+    "content_vi": "Điều phân biệt điện toán lượng tử với các hệ thống cổ điển là mô hình tính toán cơ bản của nó.",
+    "phonetic": "wʌt dɪˈstɪŋɡwɪʃɪz ˈkwɑntəm kəmˈpjutɪŋ frʌm ˈklæsɪkəl ˈsɪstəmz ɪz ɪts ˌfʌndəˈmɛntəl ˌkɑmpjəˈteɪʃənəl ˈpærəˌdaɪm",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "quantum computing",
+      "comparison"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3396,
+    "content_en": "Scarcely had 5G networks deployed when discussions about 6G infrastructure began.",
+    "content_vi": "Ngay khi mạng 5G triển khai thì các cuộc thảo luận về cơ sở hạ tầng 6G đã bắt đầu.",
+    "phonetic": "ˈskɛrsli hæd faɪv ʤi ˈnɛtˌwɜrks dɪˈplɔɪd wɛn dɪˈskʌʃənz əˈbaʊt sɪks ʤi ˈɪnfrəˌstrʌkʧər bɪˈɡæn",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "networks",
+      "5G/6G"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3397,
+    "content_en": "It is through machine learning algorithms that predictive analytics achieves remarkable accuracy.",
+    "content_vi": "Chính thông qua các thuật toán học máy, phân tích dự đoán đạt được độ chính xác đáng chú ý.",
+    "phonetic": "ɪt ɪz θru məˈʃin ˈlɜrnɪŋ ˈælɡəˌrɪðəmz ðæt prɪˈdɪktɪv ˌænəˈlɪtɪks əˈʧivz rɪˈmɑrkəbəl ˈækjərəsi",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "machine learning",
+      "analytics"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3398,
+    "content_en": "The technology sector's exponential growth necessitates continuous workforce adaptation.",
+    "content_vi": "Tăng trưởng theo cấp số nhân của ngành công nghệ đòi hỏi sự thích ứng liên tục của lực lượng lao động.",
+    "phonetic": "ðə tɛkˈnɑləʤi ˈsɛktərz ˌɛkspəˈnɛnʃəl ɡroʊθ nəˈsɛsɪˌteɪts kənˈtɪnjuəs ˈwɜrkˌfɔrs ˌædæpˈteɪʃən",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "growth",
+      "workforce"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3399,
+    "content_en": "Not until ethical AI frameworks mature will autonomous systems gain universal trust.",
+    "content_vi": "Chỉ khi các khung AI đạo đức trưởng thành, các hệ thống tự động mới giành được sự tin tưởng phổ cập.",
+    "phonetic": "nɑt ənˈtɪl ˈɛθɪkəl ˌeɪˈaɪ ˈfreɪmˌwɜrks məˈʧʊr wɪl ɔˈtɑnəməs ˈsɪstəmz ɡeɪn ˌjunəˈvɜrsəl trʌst",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "AI ethics",
+      "trust"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3400,
+    "content_en": "What makes edge computing revolutionary is its capacity to process data at unprecedented speeds.",
+    "content_vi": "Điều làm cho điện toán biên mang tính cách mạng là khả năng xử lý dữ liệu ở tốc độ chưa từng có.",
+    "phonetic": "wʌt meɪks ɛʤ kəmˈpjutɪŋ ˌrɛvəˈluʃəˌnɛri ɪz ɪts kəˈpæsəti tu ˈprɑˌsɛs ˈdeɪtə æt ʌnˈprɛsɪˌdɛntəd spidz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "edge computing",
+      "speed"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3401,
+    "content_en": "The cybersecurity landscape's evolution has fundamentally altered threat mitigation strategies.",
+    "content_vi": "Sự phát triển của bối cảnh an ninh mạng đã thay đổi căn bản các chiến lược giảm thiểu mối đe dọa.",
+    "phonetic": "ðə ˈsaɪbərsɪˌkjʊrəti ˈlændˌskeɪps ˌɛvəˈluʃən hæz ˌfʌndəˈmɛntəli ˈɔltərd θrɛt ˌmɪtəˈɡeɪʃən ˈstrætəʤiz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "complex",
+      "cybersecurity",
+      "threats"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3402,
+    "content_en": "Seldom have technological breakthroughs generated such profound societal transformations.",
+    "content_vi": "Hiếm khi những đột phá công nghệ lại tạo ra những biến đổi xã hội sâu sắc như vậy.",
+    "phonetic": "ˈsɛldəm hæv ˌtɛknəˈlɑʤɪkəl ˈbreɪkˌθruz ˈʤɛnəˌreɪtəd sʌʧ prəˈfaʊnd səˈsaɪətəl ˌtrænsfərˈmeɪʃənz",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "inversion",
+      "breakthroughs",
+      "society"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 3403,
+    "content_en": "It is the convergence of IoT and artificial intelligence that enables smart city infrastructure.",
+    "content_vi": "Chính sự hội tụ của IoT và trí tuệ nhân tạo cho phép cơ sở hạ tầng thành phố thông minh.",
+    "phonetic": "ɪt ɪz ðə kənˈvɜrʤəns ʌv ˌaɪoʊˈti ænd ˌɑrtəˈfɪʃəl ɪnˈtɛləʤəns ðæt ɪˈneɪbəlz smɑrt ˈsɪti ˈɪnfrəˌstrʌkʧər",
+    "level_id": "B2",
+    "topic_ids": [
+      "technology"
+    ],
+    "tags": [
+      "cleft sentence",
+      "IoT",
+      "smart cities"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Công nghệ nâng cao (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
