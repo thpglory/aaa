@@ -3635,7 +3635,19 @@
         let currentJournalMorningFeeling = 3;
         let currentJournalStress = 1;
         let currentLastNightQuality = 3;
+
+        // Load journal entries from localStorage
         let journalEntries = [];
+        try {
+            const savedEntries = localStorage.getItem('journalEntries');
+            if (savedEntries) {
+                journalEntries = JSON.parse(savedEntries);
+            }
+        } catch (e) {
+            console.error('Lỗi khi tải dữ liệu nhật ký từ localStorage:', e);
+            journalEntries = [];
+        }
+
         let currentWeek = 1;
         let completedTasks = 0;
         
@@ -4979,7 +4991,14 @@
             };
             
             journalEntries.unshift(entry);
-            
+
+            // Save to localStorage
+            try {
+                localStorage.setItem('journalEntries', JSON.stringify(journalEntries));
+            } catch (e) {
+                console.error('Lỗi khi lưu dữ liệu nhật ký vào localStorage:', e);
+            }
+
             // Clear form
             const today = new Date().toISOString().split('T')[0];
             document.getElementById('journalDate').value = today;
