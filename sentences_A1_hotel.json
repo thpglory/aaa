@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 1004,
+        "content_en": "I need a room.",
+        "content_vi": "Tôi cần một phòng.",
+        "phonetic": "aɪ nid ə rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "basic",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu cơ bản",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1005,
+        "content_en": "Where is my room?",
+        "content_vi": "Phòng tôi ở đâu?",
+        "phonetic": "wɛr ɪz maɪ rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1006,
+        "content_en": "What is the WiFi password?",
+        "content_vi": "Mật khẩu WiFi là gì?",
+        "phonetic": "wʌt ɪz ðə ˈwaɪˌfaɪ ˈpæsˌwɜrd",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "wifi",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi mật khẩu WiFi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1007,
+        "content_en": "Can I have the key?",
+        "content_vi": "Cho tôi chìa khóa được không?",
+        "phonetic": "kæn aɪ hæv ðə ki",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "key"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chìa khóa",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1008,
+        "content_en": "Where is the elevator?",
+        "content_vi": "Thang máy ở đâu?",
+        "phonetic": "wɛr ɪz ði ˈɛləˌveɪtər",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí thang máy",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1009,
+        "content_en": "I want to check in.",
+        "content_vi": "Tôi muốn nhận phòng.",
+        "phonetic": "aɪ wɑnt tə ʧɛk ɪn",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "check-in",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Muốn nhận phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1010,
+        "content_en": "I want to check out.",
+        "content_vi": "Tôi muốn trả phòng.",
+        "phonetic": "aɪ wɑnt tə ʧɛk aʊt",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "check-out",
+            "basic"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Muốn trả phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1011,
+        "content_en": "How much is the room?",
+        "content_vi": "Phòng giá bao nhiêu?",
+        "phonetic": "haʊ mʌʧ ɪz ðə rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "price",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giá phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1012,
+        "content_en": "Do you have a single room?",
+        "content_vi": "Bạn có phòng đơn không?",
+        "phonetic": "du ju hæv ə ˈsɪŋɡəl rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "room type",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phòng đơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1013,
+        "content_en": "Do you have a double room?",
+        "content_vi": "Bạn có phòng đôi không?",
+        "phonetic": "du ju hæv ə ˈdʌbəl rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "room type",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phòng đôi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1014,
+        "content_en": "This is my passport.",
+        "content_vi": "Đây là hộ chiếu của tôi.",
+        "phonetic": "ðɪs ɪz maɪ ˈpæsˌpɔrt",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "document",
+            "check-in"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xuất trình hộ chiếu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1015,
+        "content_en": "Where is breakfast?",
+        "content_vi": "Bữa sáng ở đâu?",
+        "phonetic": "wɛr ɪz ˈbrɛkfəst",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "breakfast"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí bữa sáng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1016,
+        "content_en": "What time is breakfast?",
+        "content_vi": "Bữa sáng lúc mấy giờ?",
+        "phonetic": "wʌt taɪm ɪz ˈbrɛkfəst",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "time",
+            "breakfast"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi giờ ăn sáng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1017,
+        "content_en": "The room is clean.",
+        "content_vi": "Phòng sạch sẽ.",
+        "phonetic": "ðə rum ɪz klin",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "compliment",
+            "quality"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen phòng sạch",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1018,
+        "content_en": "The bed is comfortable.",
+        "content_vi": "Giường thoải mái.",
+        "phonetic": "ðə bɛd ɪz ˈkʌmfərtəbəl",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "compliment",
+            "comfort"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen giường thoải mái",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1019,
+        "content_en": "Can I have more towels?",
+        "content_vi": "Cho tôi thêm khăn tắm được không?",
+        "phonetic": "kæn aɪ hæv mɔr ˈtaʊəlz",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "amenities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thêm khăn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1020,
+        "content_en": "I need more soap.",
+        "content_vi": "Tôi cần thêm xà phòng.",
+        "phonetic": "aɪ nid mɔr soʊp",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "amenities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thêm xà phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1021,
+        "content_en": "Where is the gym?",
+        "content_vi": "Phòng tập ở đâu?",
+        "phonetic": "wɛr ɪz ðə dʒɪm",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí phòng tập",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1022,
+        "content_en": "Where is the pool?",
+        "content_vi": "Hồ bơi ở đâu?",
+        "phonetic": "wɛr ɪz ðə pul",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi vị trí hồ bơi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1023,
+        "content_en": "The TV doesn't work.",
+        "content_vi": "TV không hoạt động.",
+        "phonetic": "ðə ˌtiˈvi ˈdʌzənt wɜrk",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "problem",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo TV hỏng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1024,
+        "content_en": "The AC doesn't work.",
+        "content_vi": "Máy lạnh không hoạt động.",
+        "phonetic": "ði ˌeɪˈsi ˈdʌzənt wɜrk",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "problem",
+            "complaint"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo máy lạnh hỏng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1025,
+        "content_en": "Can you fix it?",
+        "content_vi": "Bạn có thể sửa nó không?",
+        "phonetic": "kæn ju fɪks ɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "repair"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu sửa chữa",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1026,
+        "content_en": "I lost my key.",
+        "content_vi": "Tôi mất chìa khóa.",
+        "phonetic": "aɪ lɔst maɪ ki",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "problem",
+            "key"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Báo mất chìa khóa",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1027,
+        "content_en": "Can I have a new key?",
+        "content_vi": "Cho tôi chìa khóa mới được không?",
+        "phonetic": "kæn aɪ hæv ə nu ki",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "key"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin chìa khóa mới",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1028,
+        "content_en": "Is there a safe?",
+        "content_vi": "Có két an toàn không?",
+        "phonetic": "ɪz ðɛr ə seɪf",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "question",
+            "facilities"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về két an toàn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1029,
+        "content_en": "Can I leave my luggage here?",
+        "content_vi": "Tôi có thể để hành lý ở đây không?",
+        "phonetic": "kæn aɪ liv maɪ ˈlʌɡɪdʒ hɪr",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "luggage"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gửi hành lý",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1030,
+        "content_en": "What floor is my room on?",
+        "content_vi": "Phòng tôi ở tầng mấy?",
+        "phonetic": "wʌt flɔr ɪz maɪ rum ɑn",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "location",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về tầng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1031,
+        "content_en": "It's too hot.",
+        "content_vi": "Quá nóng.",
+        "phonetic": "ɪts tu hɑt",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "complaint",
+            "temperature"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn quá nóng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1032,
+        "content_en": "It's too cold.",
+        "content_vi": "Quá lạnh.",
+        "phonetic": "ɪts tu koʊld",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "complaint",
+            "temperature"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn quá lạnh",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1033,
+        "content_en": "It's too noisy.",
+        "content_vi": "Quá ồn.",
+        "phonetic": "ɪts tu ˈnɔɪzi",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "complaint",
+            "noise"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn quá ồn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1034,
+        "content_en": "Can I change rooms?",
+        "content_vi": "Tôi có thể đổi phòng không?",
+        "phonetic": "kæn aɪ ʧeɪndʒ rumz",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "room change"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu đổi phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1035,
+        "content_en": "Where can I park?",
+        "content_vi": "Tôi có thể đỗ xe ở đâu?",
+        "phonetic": "wɛr kæn aɪ pɑrk",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "parking",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về chỗ đỗ xe",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1036,
+        "content_en": "Is parking free?",
+        "content_vi": "Đỗ xe có miễn phí không?",
+        "phonetic": "ɪz ˈpɑrkɪŋ fri",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "parking",
+            "price"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phí đỗ xe",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1037,
+        "content_en": "Can you call a taxi?",
+        "content_vi": "Bạn có thể gọi taxi không?",
+        "phonetic": "kæn ju kɔl ə ˈtæksi",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "taxi"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nhờ gọi taxi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1038,
+        "content_en": "Thank you very much.",
+        "content_vi": "Cảm ơn rất nhiều.",
+        "phonetic": "θæŋk ju ˈvɛri mʌʧ",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "gratitude",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Cảm ơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1039,
+        "content_en": "You're welcome.",
+        "content_vi": "Không có gì.",
+        "phonetic": "jʊr ˈwɛlkəm",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "polite",
+            "response"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Trả lời cảm ơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1040,
+        "content_en": "Good morning.",
+        "content_vi": "Chào buổi sáng.",
+        "phonetic": "ɡʊd ˈmɔrnɪŋ",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "greeting",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chào buổi sáng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1041,
+        "content_en": "Good night.",
+        "content_vi": "Chúc ngủ ngon.",
+        "phonetic": "ɡʊd naɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "greeting",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chúc ngủ ngon",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1042,
+        "content_en": "Goodbye.",
+        "content_vi": "Tạm biệt.",
+        "phonetic": "ɡʊdˈbaɪ",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "farewell",
+            "polite"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Tạm biệt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1043,
+        "content_en": "See you later.",
+        "content_vi": "Hẹn gặp lại.",
+        "phonetic": "si ju ˈleɪtər",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "farewell",
+            "casual"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hẹn gặp lại",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1044,
+        "content_en": "I have a reservation.",
+        "content_vi": "Tôi có đặt phòng.",
+        "phonetic": "aɪ hæv ə ˌrɛzərˈveɪʃən",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "check-in",
+            "reservation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Có đặt phòng trước",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1045,
+        "content_en": "My name is...",
+        "content_vi": "Tên tôi là...",
+        "phonetic": "maɪ neɪm ɪz",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "introduction",
+            "check-in"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Giới thiệu tên",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1046,
+        "content_en": "Can I see the room first?",
+        "content_vi": "Tôi có thể xem phòng trước không?",
+        "phonetic": "kæn aɪ si ðə rum fɜrst",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "request",
+            "room viewing"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin xem phòng trước",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1047,
+        "content_en": "I like this room.",
+        "content_vi": "Tôi thích phòng này.",
+        "phonetic": "aɪ laɪk ðɪs rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "opinion",
+            "positive"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thích phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1048,
+        "content_en": "I don't like this room.",
+        "content_vi": "Tôi không thích phòng này.",
+        "phonetic": "aɪ doʊnt laɪk ðɪs rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "opinion",
+            "negative"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Không thích phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1049,
+        "content_en": "Do you have a bigger room?",
+        "content_vi": "Bạn có phòng lớn hơn không?",
+        "phonetic": "du ju hæv ə ˈbɪɡər rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "question",
+            "room size"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phòng lớn hơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1050,
+        "content_en": "Do you have a cheaper room?",
+        "content_vi": "Bạn có phòng rẻ hơn không?",
+        "phonetic": "du ju hæv ə ˈʧipər rum",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "question",
+            "price"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phòng rẻ hơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1051,
+        "content_en": "I'll take it.",
+        "content_vi": "Tôi sẽ lấy phòng này.",
+        "phonetic": "aɪl teɪk ɪt",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "decision",
+            "acceptance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Chấp nhận phòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1052,
+        "content_en": "Can I pay by credit card?",
+        "content_vi": "Tôi có thể trả bằng thẻ tín dụng không?",
+        "phonetic": "kæn aɪ peɪ baɪ ˈkrɛdɪt kɑrd",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "payment",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thanh toán",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 1053,
+        "content_en": "Here is my credit card.",
+        "content_vi": "Đây là thẻ tín dụng của tôi.",
+        "phonetic": "hɪr ɪz maɪ ˈkrɛdɪt kɑrd",
+        "level_id": "A1",
+        "topic_ids": [
+            "hotel"
+        ],
+        "tags": [
+            "payment",
+            "action"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đưa thẻ thanh toán",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]

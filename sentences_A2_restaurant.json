@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 854,
+        "content_en": "I'd like to make a reservation for tonight.",
+        "content_vi": "Tôi muốn đặt bàn cho tối nay.",
+        "phonetic": "aɪd laɪk tə meɪk ə ˌrɛzərˈveɪʃən fɔr təˈnaɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "reservation",
+            "polite request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đặt bàn lịch sự",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 855,
+        "content_en": "Could you recommend something from the menu?",
+        "content_vi": "Bạn có thể giới thiệu món gì từ thực đơn không?",
+        "phonetic": "kʊd ju ˌrɛkəˈmɛnd ˈsʌmθɪŋ frʌm ðə ˈmɛnju",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "recommendation",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin gợi ý món ăn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 856,
+        "content_en": "What's the special of the day?",
+        "content_vi": "Món đặc biệt hôm nay là gì?",
+        "phonetic": "wʌts ðə ˈspɛʃəl ʌv ðə deɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "menu"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món đặc biệt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 857,
+        "content_en": "The food took longer than expected to arrive.",
+        "content_vi": "Đồ ăn mất thời gian lâu hơn dự kiến để đến.",
+        "phonetic": "ðə fud tʊk ˈlɔŋɡər ðæn ɪkˈspɛktəd tə əˈraɪv",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "time"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về thời gian chờ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 858,
+        "content_en": "I'm allergic to peanuts.",
+        "content_vi": "Tôi bị dị ứng với đậu phộng.",
+        "phonetic": "aɪm əˈlɜrʤɪk tə ˈpiˌnʌts",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "health"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thông báo dị ứng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 859,
+        "content_en": "Does this dish contain dairy?",
+        "content_vi": "Món này có chứa sữa không?",
+        "phonetic": "dʌz ðɪs dɪʃ kənˈteɪn ˈdɛri",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thành phần",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 860,
+        "content_en": "We've been waiting for 30 minutes already.",
+        "content_vi": "Chúng tôi đã chờ 30 phút rồi.",
+        "phonetic": "wiv bɪn ˈweɪtɪŋ fɔr ˈθɜrti ˈmɪnəts ɔlˈrɛdi",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "time"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về thời gian",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 861,
+        "content_en": "Can we have separate bills, please?",
+        "content_vi": "Chúng tôi có thể tính tiền riêng được không?",
+        "phonetic": "kæn wi hæv ˈsɛpərət bɪlz pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "payment",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu tách hóa đơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 862,
+        "content_en": "This tastes better than I expected.",
+        "content_vi": "Món này ngon hơn tôi nghĩ.",
+        "phonetic": "ðɪs teɪsts ˈbɛtər ðæn aɪ ɪkˈspɛktəd",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "comparison"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "So sánh với mong đợi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 863,
+        "content_en": "I'd prefer a table by the window.",
+        "content_vi": "Tôi thích bàn gần cửa sổ hơn.",
+        "phonetic": "aɪd prɪˈfɜr ə ˈteɪbəl baɪ ðə ˈwɪndoʊ",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "preference",
+            "seating"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thể hiện sở thích về chỗ ngồi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 864,
+        "content_en": "Could you bring us some more bread?",
+        "content_vi": "Bạn có thể mang cho chúng tôi thêm bánh mì không?",
+        "phonetic": "kʊd ju brɪŋ ʌs sʌm mɔr brɛd",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "food"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu thêm bánh mì",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 865,
+        "content_en": "I ordered the steak, but this is chicken.",
+        "content_vi": "Tôi đã gọi bít tết, nhưng đây là gà.",
+        "phonetic": "aɪ ˈɔrdərd ðə steɪk bʌt ðɪs ɪz ˈʧɪkən",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "wrong order"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn giao sai món",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 866,
+        "content_en": "The service was excellent tonight.",
+        "content_vi": "Dịch vụ tối nay rất xuất sắc.",
+        "phonetic": "ðə ˈsɜrvəs wʌz ˈɛksələnt təˈnaɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen dịch vụ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 867,
+        "content_en": "How long will our food take?",
+        "content_vi": "Đồ ăn của chúng tôi sẽ mất bao lâu?",
+        "phonetic": "haʊ lɔŋ wɪl ˈaʊər fud teɪk",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "time"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thời gian chờ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 868,
+        "content_en": "I'd like my steak well done, please.",
+        "content_vi": "Tôi muốn bít tết chín kỹ, làm ơn.",
+        "phonetic": "aɪd laɪk maɪ steɪk wɛl dʌn pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "preference",
+            "cooking"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu độ chín",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 869,
+        "content_en": "We enjoyed everything we ordered.",
+        "content_vi": "Chúng tôi thích tất cả những gì đã gọi.",
+        "phonetic": "wi ɛnˈdʒɔɪd ˈɛvriˌθɪŋ wi ˈɔrdərd",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "satisfied"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thể hiện sự hài lòng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 870,
+        "content_en": "Is the tip included in the bill?",
+        "content_vi": "Tiền boa có bao gồm trong hóa đơn không?",
+        "phonetic": "ɪz ðə tɪp ɪnˈkludəd ɪn ðə bɪl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "payment",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về tiền boa",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 871,
+        "content_en": "My soup is cold. Could you warm it up?",
+        "content_vi": "Súp của tôi lạnh. Bạn có thể hâm nóng nó không?",
+        "phonetic": "maɪ sup ɪz koʊld kʊd ju wɔrm ɪt ʌp",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "request"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu hâm nóng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 872,
+        "content_en": "Do you have any vegetarian options?",
+        "content_vi": "Bạn có món chay nào không?",
+        "phonetic": "du ju hæv ˈɛni ˌvɛʤəˈtɛriən ˈɑpʃənz",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món chay",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 873,
+        "content_en": "The portion size was smaller than I thought.",
+        "content_vi": "Khẩu phần nhỏ hơn tôi nghĩ.",
+        "phonetic": "ðə ˈpɔrʃən saɪz wʌz ˈsmɔlər ðæn aɪ θɔt",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "comparison"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về khẩu phần",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 874,
+        "content_en": "I'm going to try the seafood pasta.",
+        "content_vi": "Tôi sẽ thử mì ống hải sản.",
+        "phonetic": "aɪm ˈɡoʊɪŋ tə traɪ ðə ˈsiˌfud ˈpɑstə",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "decision"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Quyết định gọi món",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 875,
+        "content_en": "We need a few more minutes to decide.",
+        "content_vi": "Chúng tôi cần thêm vài phút để quyết định.",
+        "phonetic": "wi nid ə fju mɔr ˈmɪnəts tə dɪˈsaɪd",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "time"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin thêm thời gian",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 876,
+        "content_en": "This restaurant has a nice atmosphere.",
+        "content_vi": "Nhà hàng này có không khí đẹp.",
+        "phonetic": "ðɪs ˈrɛstəˌrɑnt hæz ə naɪs ˈætməsˌfɪr",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "ambiance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen không khí",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 877,
+        "content_en": "Can I change my order?",
+        "content_vi": "Tôi có thể đổi món đã gọi không?",
+        "phonetic": "kæn aɪ ʧeɪndʒ maɪ ˈɔrdər",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "change"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu đổi món",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 878,
+        "content_en": "The waiter was very friendly and helpful.",
+        "content_vi": "Người phục vụ rất thân thiện và nhiệt tình.",
+        "phonetic": "ðə ˈweɪtər wʌz ˈvɛri ˈfrɛndli ænd ˈhɛlpfəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "service"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen người phục vụ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 879,
+        "content_en": "What sides come with the main course?",
+        "content_vi": "Món phụ nào đi kèm với món chính?",
+        "phonetic": "wʌt saɪdz kʌm wɪð ðə meɪn kɔrs",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "menu"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món phụ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 880,
+        "content_en": "I didn't enjoy the dessert very much.",
+        "content_vi": "Tôi không thích món tráng miệng lắm.",
+        "phonetic": "aɪ ˈdɪdənt ɛnˈdʒɔɪ ðə dɪˈzɜrt ˈvɛri mʌʧ",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "dessert"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn nhẹ về tráng miệng",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 881,
+        "content_en": "Could we move to a quieter table?",
+        "content_vi": "Chúng tôi có thể chuyển đến bàn yên tĩnh hơn không?",
+        "phonetic": "kʊd wi muv tə ə kwaɪətər ˈteɪbəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "seating"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu đổi bàn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 882,
+        "content_en": "The prices are reasonable for the quality.",
+        "content_vi": "Giá cả hợp lý với chất lượng.",
+        "phonetic": "ðə ˈpraɪsəz ɑr ˈrizənəbəl fɔr ðə ˈkwɑləti",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "opinion",
+            "price"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Đánh giá giá cả",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 883,
+        "content_en": "I've never tried this cuisine before.",
+        "content_vi": "Tôi chưa bao giờ thử ẩm thực này trước đây.",
+        "phonetic": "aɪv ˈnɛvər traɪd ðɪs kwɪˈzin bɪˈfɔr",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "experience",
+            "first time"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về trải nghiệm mới",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 884,
+        "content_en": "Do you accept credit cards?",
+        "content_vi": "Bạn có nhận thẻ tín dụng không?",
+        "phonetic": "du ju ækˈsɛpt ˈkrɛdɪt kɑrdz",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "payment",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về phương thức thanh toán",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 885,
+        "content_en": "The music is a bit too loud.",
+        "content_vi": "Nhạc hơi quá to.",
+        "phonetic": "ðə ˈmjuzɪk ɪz ə bɪt tu laʊd",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "ambiance"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về tiếng ồn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 886,
+        "content_en": "I'll have what she's having.",
+        "content_vi": "Tôi sẽ gọi món giống cô ấy.",
+        "phonetic": "aɪl hæv wʌt ʃiz ˈhævɪŋ",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "order",
+            "choice"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Gọi món giống người khác",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 887,
+        "content_en": "We came here last week and loved it.",
+        "content_vi": "Chúng tôi đến đây tuần trước và rất thích.",
+        "phonetic": "wi keɪm hɪr læst wik ænd lʌvd ɪt",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "past experience",
+            "compliment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về lần trước",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 888,
+        "content_en": "Is there a children's menu available?",
+        "content_vi": "Có thực đơn trẻ em không?",
+        "phonetic": "ɪz ðɛr ə ˈʧɪldrənz ˈmɛnju əˈveɪləbəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "menu"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về thực đơn trẻ em",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 889,
+        "content_en": "My friend recommended this place to me.",
+        "content_vi": "Bạn tôi đã giới thiệu chỗ này cho tôi.",
+        "phonetic": "maɪ frɛnd ˌrɛkəˈmɛndəd ðɪs pleɪs tə mi",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "recommendation",
+            "conversation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về lời giới thiệu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 890,
+        "content_en": "The presentation of the food was beautiful.",
+        "content_vi": "Cách trình bày món ăn rất đẹp.",
+        "phonetic": "ðə ˌprɛzənˈteɪʃən ʌv ðə fud wʌz ˈbjutəfəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "presentation"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen cách trình bày",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 891,
+        "content_en": "Can you wrap this to go, please?",
+        "content_vi": "Bạn có thể gói món này để mang về không?",
+        "phonetic": "kæn ju ræp ðɪs tə ɡoʊ pliz",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "takeaway"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Yêu cầu gói mang về",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 892,
+        "content_en": "I think there's a mistake in the bill.",
+        "content_vi": "Tôi nghĩ có lỗi trong hóa đơn.",
+        "phonetic": "aɪ θɪŋk ðɛrz ə mɪˈsteɪk ɪn ðə bɪl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "complaint",
+            "payment"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Phàn nàn về hóa đơn",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 893,
+        "content_en": "The chef did an amazing job.",
+        "content_vi": "Đầu bếp đã làm rất tuyệt vời.",
+        "phonetic": "ðə ʃɛf dɪd ən əˈmeɪzɪŋ ʤɑb",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "chef"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen đầu bếp",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 894,
+        "content_en": "How spicy is the curry?",
+        "content_vi": "Cà ri cay như thế nào?",
+        "phonetic": "haʊ ˈspaɪsi ɪz ðə ˈkɜri",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "question",
+            "spice level"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về độ cay",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 895,
+        "content_en": "We're celebrating a special occasion today.",
+        "content_vi": "Chúng tôi đang ăn mừng một dịp đặc biệt hôm nay.",
+        "phonetic": "wir ˈsɛləˌbreɪtɪŋ ə ˈspɛʃəl əˈkeɪʒən təˈdeɪ",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "occasion",
+            "celebration"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về dịp đặc biệt",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 896,
+        "content_en": "Can I see the wine list?",
+        "content_vi": "Tôi có thể xem danh sách rượu không?",
+        "phonetic": "kæn aɪ si ðə waɪn lɪst",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "request",
+            "drinks"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Xin xem danh sách rượu",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 897,
+        "content_en": "The restaurant was fully booked when we arrived.",
+        "content_vi": "Nhà hàng đã hết chỗ khi chúng tôi đến.",
+        "phonetic": "ðə ˈrɛstəˌrɑnt wʌz ˈfʊli bʊkt wɛn wi əˈraɪvd",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "experience",
+            "booking"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về nhà hàng đầy",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 898,
+        "content_en": "I'd like to leave a review online.",
+        "content_vi": "Tôi muốn để lại đánh giá trực tuyến.",
+        "phonetic": "aɪd laɪk tə liv ə rɪˈvju ˈɔnˌlaɪn",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "feedback",
+            "review"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Muốn viết đánh giá",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 899,
+        "content_en": "The ingredients tasted very fresh.",
+        "content_vi": "Nguyên liệu có vị rất tươi.",
+        "phonetic": "ði ɪnˈɡridiənts ˈteɪstəd ˈvɛri frɛʃ",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "quality"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen nguyên liệu tươi",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 900,
+        "content_en": "Do you have gluten-free options?",
+        "content_vi": "Bạn có món không gluten không?",
+        "phonetic": "du ju hæv ˈɡlutənfri ˈɑpʃənz",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "dietary",
+            "question"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Hỏi về món không gluten",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 901,
+        "content_en": "I'll definitely come back here again.",
+        "content_vi": "Tôi chắc chắn sẽ quay lại đây lần nữa.",
+        "phonetic": "aɪl ˈdɛfənətli kʌm bæk hɪr əˈɡɛn",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "future plan"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Thể hiện muốn quay lại",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 902,
+        "content_en": "The view from our table was spectacular.",
+        "content_vi": "Quang cảnh từ bàn của chúng tôi rất ngoạn mục.",
+        "phonetic": "ðə vju frʌm ˈaʊər ˈteɪbəl wʌz spɛkˈtækjələr",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "compliment",
+            "view"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Khen quang cảnh",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    },
+    {
+        "id": 903,
+        "content_en": "We had to wait 15 minutes for a table.",
+        "content_vi": "Chúng tôi phải đợi 15 phút để có bàn.",
+        "phonetic": "wi hæd tə weɪt ˈfɪfˈtin ˈmɪnəts fɔr ə ˈteɪbəl",
+        "level_id": "A2",
+        "topic_ids": [
+            "restaurant"
+        ],
+        "tags": [
+            "experience",
+            "waiting"
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "source": "system",
+        "notes": "Nói về thời gian chờ",
+        "status": "active",
+        "created_at": "2025-11-04 10:00:00",
+        "updated_at": "2025-11-04 10:00:00"
+    }
+]
