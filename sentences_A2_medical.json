@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 2254,
+    "content_en": "I'd like to make an appointment with the doctor.",
+    "content_vi": "Tôi muốn đặt lịch hẹn với bác sĩ.",
+    "phonetic": "aɪd laɪk tu meɪk ən əˈpɔɪntmənt wɪð ðə ˈdɑktər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "appointment",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2255,
+    "content_en": "I've been feeling dizzy since yesterday.",
+    "content_vi": "Tôi cảm thấy chóng mặt từ hôm qua.",
+    "phonetic": "aɪv bɪn ˈfilɪŋ ˈdɪzi sɪns ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "present perfect",
+      "time"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2256,
+    "content_en": "Could you check my blood pressure?",
+    "content_vi": "Bạn có thể kiểm tra huyết áp của tôi không?",
+    "phonetic": "kʊd ju ʧɛk maɪ blʌd ˈprɛʃər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2257,
+    "content_en": "The doctor recommended that I get more sleep.",
+    "content_vi": "Bác sĩ khuyên tôi nên ngủ nhiều hơn.",
+    "phonetic": "ðə ˈdɑktər ˌrɛkəˈmɛndɪd ðæt aɪ ɡɛt mɔr slip",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "advice",
+      "past",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2258,
+    "content_en": "I need to schedule a dental checkup.",
+    "content_vi": "Tôi cần đặt lịch kiểm tra nha khoa.",
+    "phonetic": "aɪ nid tu ˈskɛdʒul ə ˈdɛntəl ˈʧɛkˌʌp",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "dental",
+      "appointment",
+      "necessity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2259,
+    "content_en": "I've had this cough for about two weeks.",
+    "content_vi": "Tôi bị ho khoảng hai tuần rồi.",
+    "phonetic": "aɪv hæd ðɪs kɔf fɔr əˈbaʊt tu wiks",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "duration",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2260,
+    "content_en": "The nurse took my temperature.",
+    "content_vi": "Y tá đã đo nhiệt độ của tôi.",
+    "phonetic": "ðə nɜrs tʊk maɪ ˈtɛmprəʧər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past",
+      "medical procedure",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2261,
+    "content_en": "I'd like to get a second opinion.",
+    "content_vi": "Tôi muốn được tư vấn ý kiến thứ hai.",
+    "phonetic": "aɪd laɪk tu ɡɛt ə ˈsɛkənd əˈpɪnjən",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "consultation",
+      "decision"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2262,
+    "content_en": "The pain is worse than it was last week.",
+    "content_vi": "Cơn đau tệ hơn tuần trước.",
+    "phonetic": "ðə peɪn ɪz wɜrs ðæn ɪt wɑz læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "comparison",
+      "symptom",
+      "pain"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2263,
+    "content_en": "I've been taking vitamins every day.",
+    "content_vi": "Tôi uống vitamin mỗi ngày.",
+    "phonetic": "aɪv bɪn ˈteɪkɪŋ ˈvaɪtəmɪnz ˈɛvri deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "medication",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2264,
+    "content_en": "I'd like to make an appointment with the doctor.",
+    "content_vi": "Tôi muốn đặt lịch hẹn với bác sĩ.",
+    "phonetic": "aɪd laɪk tu meɪk ən əˈpɔɪntmənt wɪð ðə ˈdɑktər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "appointment",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2265,
+    "content_en": "I've been feeling dizzy since yesterday.",
+    "content_vi": "Tôi cảm thấy chóng mặt từ hôm qua.",
+    "phonetic": "aɪv bɪn ˈfilɪŋ ˈdɪzi sɪns ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "present perfect",
+      "time"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2266,
+    "content_en": "Could you check my blood pressure?",
+    "content_vi": "Bạn có thể kiểm tra huyết áp của tôi không?",
+    "phonetic": "kʊd ju ʧɛk maɪ blʌd ˈprɛʃər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2267,
+    "content_en": "The doctor recommended that I get more sleep.",
+    "content_vi": "Bác sĩ khuyên tôi nên ngủ nhiều hơn.",
+    "phonetic": "ðə ˈdɑktər ˌrɛkəˈmɛndɪd ðæt aɪ ɡɛt mɔr slip",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "advice",
+      "past",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2268,
+    "content_en": "I need to schedule a dental checkup.",
+    "content_vi": "Tôi cần đặt lịch kiểm tra nha khoa.",
+    "phonetic": "aɪ nid tu ˈskɛdʒul ə ˈdɛntəl ˈʧɛkˌʌp",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "dental",
+      "appointment",
+      "necessity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2269,
+    "content_en": "I've had this cough for about two weeks.",
+    "content_vi": "Tôi bị ho khoảng hai tuần rồi.",
+    "phonetic": "aɪv hæd ðɪs kɔf fɔr əˈbaʊt tu wiks",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "duration",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2270,
+    "content_en": "The nurse took my temperature.",
+    "content_vi": "Y tá đã đo nhiệt độ của tôi.",
+    "phonetic": "ðə nɜrs tʊk maɪ ˈtɛmprəʧər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past",
+      "medical procedure",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2271,
+    "content_en": "I'd like to get a second opinion.",
+    "content_vi": "Tôi muốn được tư vấn ý kiến thứ hai.",
+    "phonetic": "aɪd laɪk tu ɡɛt ə ˈsɛkənd əˈpɪnjən",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "consultation",
+      "decision"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2272,
+    "content_en": "The pain is worse than it was last week.",
+    "content_vi": "Cơn đau tệ hơn tuần trước.",
+    "phonetic": "ðə peɪn ɪz wɜrs ðæn ɪt wɑz læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "comparison",
+      "symptom",
+      "pain"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2273,
+    "content_en": "I've been taking vitamins every day.",
+    "content_vi": "Tôi uống vitamin mỗi ngày.",
+    "phonetic": "aɪv bɪn ˈteɪkɪŋ ˈvaɪtəmɪnz ˈɛvri deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "medication",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2274,
+    "content_en": "I'd like to make an appointment with the doctor.",
+    "content_vi": "Tôi muốn đặt lịch hẹn với bác sĩ.",
+    "phonetic": "aɪd laɪk tu meɪk ən əˈpɔɪntmənt wɪð ðə ˈdɑktər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "appointment",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2275,
+    "content_en": "I've been feeling dizzy since yesterday.",
+    "content_vi": "Tôi cảm thấy chóng mặt từ hôm qua.",
+    "phonetic": "aɪv bɪn ˈfilɪŋ ˈdɪzi sɪns ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "present perfect",
+      "time"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2276,
+    "content_en": "Could you check my blood pressure?",
+    "content_vi": "Bạn có thể kiểm tra huyết áp của tôi không?",
+    "phonetic": "kʊd ju ʧɛk maɪ blʌd ˈprɛʃər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2277,
+    "content_en": "The doctor recommended that I get more sleep.",
+    "content_vi": "Bác sĩ khuyên tôi nên ngủ nhiều hơn.",
+    "phonetic": "ðə ˈdɑktər ˌrɛkəˈmɛndɪd ðæt aɪ ɡɛt mɔr slip",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "advice",
+      "past",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2278,
+    "content_en": "I need to schedule a dental checkup.",
+    "content_vi": "Tôi cần đặt lịch kiểm tra nha khoa.",
+    "phonetic": "aɪ nid tu ˈskɛdʒul ə ˈdɛntəl ˈʧɛkˌʌp",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "dental",
+      "appointment",
+      "necessity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2279,
+    "content_en": "I've had this cough for about two weeks.",
+    "content_vi": "Tôi bị ho khoảng hai tuần rồi.",
+    "phonetic": "aɪv hæd ðɪs kɔf fɔr əˈbaʊt tu wiks",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "duration",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2280,
+    "content_en": "The nurse took my temperature.",
+    "content_vi": "Y tá đã đo nhiệt độ của tôi.",
+    "phonetic": "ðə nɜrs tʊk maɪ ˈtɛmprəʧər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past",
+      "medical procedure",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2281,
+    "content_en": "I'd like to get a second opinion.",
+    "content_vi": "Tôi muốn được tư vấn ý kiến thứ hai.",
+    "phonetic": "aɪd laɪk tu ɡɛt ə ˈsɛkənd əˈpɪnjən",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "consultation",
+      "decision"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2282,
+    "content_en": "The pain is worse than it was last week.",
+    "content_vi": "Cơn đau tệ hơn tuần trước.",
+    "phonetic": "ðə peɪn ɪz wɜrs ðæn ɪt wɑz læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "comparison",
+      "symptom",
+      "pain"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2283,
+    "content_en": "I've been taking vitamins every day.",
+    "content_vi": "Tôi uống vitamin mỗi ngày.",
+    "phonetic": "aɪv bɪn ˈteɪkɪŋ ˈvaɪtəmɪnz ˈɛvri deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "medication",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2284,
+    "content_en": "I'd like to make an appointment with the doctor.",
+    "content_vi": "Tôi muốn đặt lịch hẹn với bác sĩ.",
+    "phonetic": "aɪd laɪk tu meɪk ən əˈpɔɪntmənt wɪð ðə ˈdɑktər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "appointment",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2285,
+    "content_en": "I've been feeling dizzy since yesterday.",
+    "content_vi": "Tôi cảm thấy chóng mặt từ hôm qua.",
+    "phonetic": "aɪv bɪn ˈfilɪŋ ˈdɪzi sɪns ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "present perfect",
+      "time"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2286,
+    "content_en": "Could you check my blood pressure?",
+    "content_vi": "Bạn có thể kiểm tra huyết áp của tôi không?",
+    "phonetic": "kʊd ju ʧɛk maɪ blʌd ˈprɛʃər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2287,
+    "content_en": "The doctor recommended that I get more sleep.",
+    "content_vi": "Bác sĩ khuyên tôi nên ngủ nhiều hơn.",
+    "phonetic": "ðə ˈdɑktər ˌrɛkəˈmɛndɪd ðæt aɪ ɡɛt mɔr slip",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "advice",
+      "past",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2288,
+    "content_en": "I need to schedule a dental checkup.",
+    "content_vi": "Tôi cần đặt lịch kiểm tra nha khoa.",
+    "phonetic": "aɪ nid tu ˈskɛdʒul ə ˈdɛntəl ˈʧɛkˌʌp",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "dental",
+      "appointment",
+      "necessity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2289,
+    "content_en": "I've had this cough for about two weeks.",
+    "content_vi": "Tôi bị ho khoảng hai tuần rồi.",
+    "phonetic": "aɪv hæd ðɪs kɔf fɔr əˈbaʊt tu wiks",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "duration",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2290,
+    "content_en": "The nurse took my temperature.",
+    "content_vi": "Y tá đã đo nhiệt độ của tôi.",
+    "phonetic": "ðə nɜrs tʊk maɪ ˈtɛmprəʧər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past",
+      "medical procedure",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2291,
+    "content_en": "I'd like to get a second opinion.",
+    "content_vi": "Tôi muốn được tư vấn ý kiến thứ hai.",
+    "phonetic": "aɪd laɪk tu ɡɛt ə ˈsɛkənd əˈpɪnjən",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "consultation",
+      "decision"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2292,
+    "content_en": "The pain is worse than it was last week.",
+    "content_vi": "Cơn đau tệ hơn tuần trước.",
+    "phonetic": "ðə peɪn ɪz wɜrs ðæn ɪt wɑz læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "comparison",
+      "symptom",
+      "pain"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2293,
+    "content_en": "I've been taking vitamins every day.",
+    "content_vi": "Tôi uống vitamin mỗi ngày.",
+    "phonetic": "aɪv bɪn ˈteɪkɪŋ ˈvaɪtəmɪnz ˈɛvri deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "medication",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2294,
+    "content_en": "I'd like to make an appointment with the doctor.",
+    "content_vi": "Tôi muốn đặt lịch hẹn với bác sĩ.",
+    "phonetic": "aɪd laɪk tu meɪk ən əˈpɔɪntmənt wɪð ðə ˈdɑktər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "appointment",
+      "polite",
+      "request"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2295,
+    "content_en": "I've been feeling dizzy since yesterday.",
+    "content_vi": "Tôi cảm thấy chóng mặt từ hôm qua.",
+    "phonetic": "aɪv bɪn ˈfilɪŋ ˈdɪzi sɪns ˈjɛstərˌdeɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "present perfect",
+      "time"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2296,
+    "content_en": "Could you check my blood pressure?",
+    "content_vi": "Bạn có thể kiểm tra huyết áp của tôi không?",
+    "phonetic": "kʊd ju ʧɛk maɪ blʌd ˈprɛʃər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "request",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2297,
+    "content_en": "The doctor recommended that I get more sleep.",
+    "content_vi": "Bác sĩ khuyên tôi nên ngủ nhiều hơn.",
+    "phonetic": "ðə ˈdɑktər ˌrɛkəˈmɛndɪd ðæt aɪ ɡɛt mɔr slip",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "advice",
+      "past",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2298,
+    "content_en": "I need to schedule a dental checkup.",
+    "content_vi": "Tôi cần đặt lịch kiểm tra nha khoa.",
+    "phonetic": "aɪ nid tu ˈskɛdʒul ə ˈdɛntəl ˈʧɛkˌʌp",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "dental",
+      "appointment",
+      "necessity"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2299,
+    "content_en": "I've had this cough for about two weeks.",
+    "content_vi": "Tôi bị ho khoảng hai tuần rồi.",
+    "phonetic": "aɪv hæd ðɪs kɔf fɔr əˈbaʊt tu wiks",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "symptom",
+      "duration",
+      "present perfect"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2300,
+    "content_en": "The nurse took my temperature.",
+    "content_vi": "Y tá đã đo nhiệt độ của tôi.",
+    "phonetic": "ðə nɜrs tʊk maɪ ˈtɛmprəʧər",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past",
+      "medical procedure",
+      "checkup"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2301,
+    "content_en": "I'd like to get a second opinion.",
+    "content_vi": "Tôi muốn được tư vấn ý kiến thứ hai.",
+    "phonetic": "aɪd laɪk tu ɡɛt ə ˈsɛkənd əˈpɪnjən",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "polite",
+      "consultation",
+      "decision"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2302,
+    "content_en": "The pain is worse than it was last week.",
+    "content_vi": "Cơn đau tệ hơn tuần trước.",
+    "phonetic": "ðə peɪn ɪz wɜrs ðæn ɪt wɑz læst wik",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "comparison",
+      "symptom",
+      "pain"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2303,
+    "content_en": "I've been taking vitamins every day.",
+    "content_vi": "Tôi uống vitamin mỗi ngày.",
+    "phonetic": "aɪv bɪn ˈteɪkɪŋ ˈvaɪtəmɪnz ˈɛvri deɪ",
+    "level_id": "A2",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "present perfect continuous",
+      "medication",
+      "routine"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Tình huống y tế (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]

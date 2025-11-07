@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 2304,
+    "content_en": "If I had known about the symptoms earlier, I would have seen a doctor sooner.",
+    "content_vi": "Nếu tôi biết về các triệu chứng sớm hơn, tôi đã đi khám bác sĩ sớm hơn.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə ˈsɪmptəmz ˈɜrliər, aɪ wʊd hæv sin ə ˈdɑktər ˈsunər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2305,
+    "content_en": "Had I followed the doctor's advice, I wouldn't be in this condition.",
+    "content_vi": "Nếu tôi nghe lời khuyên của bác sĩ, tôi sẽ không ở trong tình trạng này.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ðə ˈdɑktərz ədˈvaɪs, aɪ ˈwʊdənt bi ɪn ðɪs kənˈdɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2306,
+    "content_en": "The treatment, which had been recommended by specialists, proved effective.",
+    "content_vi": "Phương pháp điều trị, được các chuyên gia khuyến nghị, đã chứng minh hiệu quả.",
+    "phonetic": "ðə ˈtritmənt, wɪʧ hæd bɪn ˌrɛkəˈmɛndɪd baɪ ˈspɛʃəlɪsts, pruvd ɪˈfɛktɪv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2307,
+    "content_en": "Should you experience any side effects, contact your doctor immediately.",
+    "content_vi": "Nếu bạn gặp bất kỳ tác dụng phụ nào, hãy liên hệ bác sĩ ngay lập tức.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni saɪd ɪˈfɛkts, ˈkɑntækt jʊr ˈdɑktər ɪˈmidiətli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "medical advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2308,
+    "content_en": "The patient who had undergone surgery recovered quickly.",
+    "content_vi": "Bệnh nhân đã trải qua phẫu thuật hồi phục nhanh chóng.",
+    "phonetic": "ðə ˈpeɪʃənt hu hæd ˌʌndərˈɡɔn ˈsɜrʤəri rɪˈkʌvərd ˈkwɪkli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "surgery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2309,
+    "content_en": "If the healthcare system were more accessible, fewer people would suffer.",
+    "content_vi": "Nếu hệ thống chăm sóc sức khỏe dễ tiếp cận hơn, ít người sẽ bị đau khổ hơn.",
+    "phonetic": "ɪf ðə ˈhɛlθˌkɛr ˈsɪstəm wɜr mɔr əkˈsɛsəbəl, ˈfjuər ˈpipəl wʊd ˈsʌfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2310,
+    "content_en": "Were preventive care prioritized, many diseases could be avoided.",
+    "content_vi": "Nếu chăm sóc phòng ngừa được ưu tiên, nhiều bệnh có thể tránh được.",
+    "phonetic": "wɜr prɪˈvɛntɪv kɛr praɪˈɔrəˌtaɪzd, ˈmɛni dɪˈzizəz kʊd bi əˈvɔɪdɪd",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "prevention",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2311,
+    "content_en": "The diagnosis, which took several weeks to confirm, changed everything.",
+    "content_vi": "Chẩn đoán, mất vài tuần để xác nhận, đã thay đổi mọi thứ.",
+    "phonetic": "ðə ˌdaɪəɡˈnoʊsɪs, wɪʧ tʊk ˈsɛvrəl wiks tu kənˈfɜrm, ʧeɪnʤd ˈɛvriˌθɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "diagnosis",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2312,
+    "content_en": "Had I maintained a healthier lifestyle, I might not need medication now.",
+    "content_vi": "Nếu tôi duy trì lối sống lành mạnh hơn, tôi có thể không cần thuốc bây giờ.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ə ˈhɛlθiər ˈlaɪfˌstaɪl, aɪ maɪt nɑt nid ˌmɛdəˈkeɪʃən naʊ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "regret",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2313,
+    "content_en": "Unless you take your medication regularly, your condition won't improve.",
+    "content_vi": "Trừ khi bạn uống thuốc đều đặn, tình trạng của bạn sẽ không cải thiện.",
+    "phonetic": "ənˈlɛs ju teɪk jʊr ˌmɛdəˈkeɪʃən ˈrɛɡjələrli, jʊr kənˈdɪʃən woʊnt ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "medication"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2314,
+    "content_en": "If I had known about the symptoms earlier, I would have seen a doctor sooner.",
+    "content_vi": "Nếu tôi biết về các triệu chứng sớm hơn, tôi đã đi khám bác sĩ sớm hơn.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə ˈsɪmptəmz ˈɜrliər, aɪ wʊd hæv sin ə ˈdɑktər ˈsunər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2315,
+    "content_en": "Had I followed the doctor's advice, I wouldn't be in this condition.",
+    "content_vi": "Nếu tôi nghe lời khuyên của bác sĩ, tôi sẽ không ở trong tình trạng này.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ðə ˈdɑktərz ədˈvaɪs, aɪ ˈwʊdənt bi ɪn ðɪs kənˈdɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2316,
+    "content_en": "The treatment, which had been recommended by specialists, proved effective.",
+    "content_vi": "Phương pháp điều trị, được các chuyên gia khuyến nghị, đã chứng minh hiệu quả.",
+    "phonetic": "ðə ˈtritmənt, wɪʧ hæd bɪn ˌrɛkəˈmɛndɪd baɪ ˈspɛʃəlɪsts, pruvd ɪˈfɛktɪv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2317,
+    "content_en": "Should you experience any side effects, contact your doctor immediately.",
+    "content_vi": "Nếu bạn gặp bất kỳ tác dụng phụ nào, hãy liên hệ bác sĩ ngay lập tức.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni saɪd ɪˈfɛkts, ˈkɑntækt jʊr ˈdɑktər ɪˈmidiətli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "medical advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2318,
+    "content_en": "The patient who had undergone surgery recovered quickly.",
+    "content_vi": "Bệnh nhân đã trải qua phẫu thuật hồi phục nhanh chóng.",
+    "phonetic": "ðə ˈpeɪʃənt hu hæd ˌʌndərˈɡɔn ˈsɜrʤəri rɪˈkʌvərd ˈkwɪkli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "surgery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2319,
+    "content_en": "If the healthcare system were more accessible, fewer people would suffer.",
+    "content_vi": "Nếu hệ thống chăm sóc sức khỏe dễ tiếp cận hơn, ít người sẽ bị đau khổ hơn.",
+    "phonetic": "ɪf ðə ˈhɛlθˌkɛr ˈsɪstəm wɜr mɔr əkˈsɛsəbəl, ˈfjuər ˈpipəl wʊd ˈsʌfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2320,
+    "content_en": "Were preventive care prioritized, many diseases could be avoided.",
+    "content_vi": "Nếu chăm sóc phòng ngừa được ưu tiên, nhiều bệnh có thể tránh được.",
+    "phonetic": "wɜr prɪˈvɛntɪv kɛr praɪˈɔrəˌtaɪzd, ˈmɛni dɪˈzizəz kʊd bi əˈvɔɪdɪd",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "prevention",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2321,
+    "content_en": "The diagnosis, which took several weeks to confirm, changed everything.",
+    "content_vi": "Chẩn đoán, mất vài tuần để xác nhận, đã thay đổi mọi thứ.",
+    "phonetic": "ðə ˌdaɪəɡˈnoʊsɪs, wɪʧ tʊk ˈsɛvrəl wiks tu kənˈfɜrm, ʧeɪnʤd ˈɛvriˌθɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "diagnosis",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2322,
+    "content_en": "Had I maintained a healthier lifestyle, I might not need medication now.",
+    "content_vi": "Nếu tôi duy trì lối sống lành mạnh hơn, tôi có thể không cần thuốc bây giờ.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ə ˈhɛlθiər ˈlaɪfˌstaɪl, aɪ maɪt nɑt nid ˌmɛdəˈkeɪʃən naʊ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "regret",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2323,
+    "content_en": "Unless you take your medication regularly, your condition won't improve.",
+    "content_vi": "Trừ khi bạn uống thuốc đều đặn, tình trạng của bạn sẽ không cải thiện.",
+    "phonetic": "ənˈlɛs ju teɪk jʊr ˌmɛdəˈkeɪʃən ˈrɛɡjələrli, jʊr kənˈdɪʃən woʊnt ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "medication"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 2)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2324,
+    "content_en": "If I had known about the symptoms earlier, I would have seen a doctor sooner.",
+    "content_vi": "Nếu tôi biết về các triệu chứng sớm hơn, tôi đã đi khám bác sĩ sớm hơn.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə ˈsɪmptəmz ˈɜrliər, aɪ wʊd hæv sin ə ˈdɑktər ˈsunər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2325,
+    "content_en": "Had I followed the doctor's advice, I wouldn't be in this condition.",
+    "content_vi": "Nếu tôi nghe lời khuyên của bác sĩ, tôi sẽ không ở trong tình trạng này.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ðə ˈdɑktərz ədˈvaɪs, aɪ ˈwʊdənt bi ɪn ðɪs kənˈdɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2326,
+    "content_en": "The treatment, which had been recommended by specialists, proved effective.",
+    "content_vi": "Phương pháp điều trị, được các chuyên gia khuyến nghị, đã chứng minh hiệu quả.",
+    "phonetic": "ðə ˈtritmənt, wɪʧ hæd bɪn ˌrɛkəˈmɛndɪd baɪ ˈspɛʃəlɪsts, pruvd ɪˈfɛktɪv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2327,
+    "content_en": "Should you experience any side effects, contact your doctor immediately.",
+    "content_vi": "Nếu bạn gặp bất kỳ tác dụng phụ nào, hãy liên hệ bác sĩ ngay lập tức.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni saɪd ɪˈfɛkts, ˈkɑntækt jʊr ˈdɑktər ɪˈmidiətli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "medical advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2328,
+    "content_en": "The patient who had undergone surgery recovered quickly.",
+    "content_vi": "Bệnh nhân đã trải qua phẫu thuật hồi phục nhanh chóng.",
+    "phonetic": "ðə ˈpeɪʃənt hu hæd ˌʌndərˈɡɔn ˈsɜrʤəri rɪˈkʌvərd ˈkwɪkli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "surgery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2329,
+    "content_en": "If the healthcare system were more accessible, fewer people would suffer.",
+    "content_vi": "Nếu hệ thống chăm sóc sức khỏe dễ tiếp cận hơn, ít người sẽ bị đau khổ hơn.",
+    "phonetic": "ɪf ðə ˈhɛlθˌkɛr ˈsɪstəm wɜr mɔr əkˈsɛsəbəl, ˈfjuər ˈpipəl wʊd ˈsʌfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2330,
+    "content_en": "Were preventive care prioritized, many diseases could be avoided.",
+    "content_vi": "Nếu chăm sóc phòng ngừa được ưu tiên, nhiều bệnh có thể tránh được.",
+    "phonetic": "wɜr prɪˈvɛntɪv kɛr praɪˈɔrəˌtaɪzd, ˈmɛni dɪˈzizəz kʊd bi əˈvɔɪdɪd",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "prevention",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2331,
+    "content_en": "The diagnosis, which took several weeks to confirm, changed everything.",
+    "content_vi": "Chẩn đoán, mất vài tuần để xác nhận, đã thay đổi mọi thứ.",
+    "phonetic": "ðə ˌdaɪəɡˈnoʊsɪs, wɪʧ tʊk ˈsɛvrəl wiks tu kənˈfɜrm, ʧeɪnʤd ˈɛvriˌθɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "diagnosis",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2332,
+    "content_en": "Had I maintained a healthier lifestyle, I might not need medication now.",
+    "content_vi": "Nếu tôi duy trì lối sống lành mạnh hơn, tôi có thể không cần thuốc bây giờ.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ə ˈhɛlθiər ˈlaɪfˌstaɪl, aɪ maɪt nɑt nid ˌmɛdəˈkeɪʃən naʊ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "regret",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2333,
+    "content_en": "Unless you take your medication regularly, your condition won't improve.",
+    "content_vi": "Trừ khi bạn uống thuốc đều đặn, tình trạng của bạn sẽ không cải thiện.",
+    "phonetic": "ənˈlɛs ju teɪk jʊr ˌmɛdəˈkeɪʃən ˈrɛɡjələrli, jʊr kənˈdɪʃən woʊnt ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "medication"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 3)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2334,
+    "content_en": "If I had known about the symptoms earlier, I would have seen a doctor sooner.",
+    "content_vi": "Nếu tôi biết về các triệu chứng sớm hơn, tôi đã đi khám bác sĩ sớm hơn.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə ˈsɪmptəmz ˈɜrliər, aɪ wʊd hæv sin ə ˈdɑktər ˈsunər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2335,
+    "content_en": "Had I followed the doctor's advice, I wouldn't be in this condition.",
+    "content_vi": "Nếu tôi nghe lời khuyên của bác sĩ, tôi sẽ không ở trong tình trạng này.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ðə ˈdɑktərz ədˈvaɪs, aɪ ˈwʊdənt bi ɪn ðɪs kənˈdɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2336,
+    "content_en": "The treatment, which had been recommended by specialists, proved effective.",
+    "content_vi": "Phương pháp điều trị, được các chuyên gia khuyến nghị, đã chứng minh hiệu quả.",
+    "phonetic": "ðə ˈtritmənt, wɪʧ hæd bɪn ˌrɛkəˈmɛndɪd baɪ ˈspɛʃəlɪsts, pruvd ɪˈfɛktɪv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2337,
+    "content_en": "Should you experience any side effects, contact your doctor immediately.",
+    "content_vi": "Nếu bạn gặp bất kỳ tác dụng phụ nào, hãy liên hệ bác sĩ ngay lập tức.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni saɪd ɪˈfɛkts, ˈkɑntækt jʊr ˈdɑktər ɪˈmidiətli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "medical advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2338,
+    "content_en": "The patient who had undergone surgery recovered quickly.",
+    "content_vi": "Bệnh nhân đã trải qua phẫu thuật hồi phục nhanh chóng.",
+    "phonetic": "ðə ˈpeɪʃənt hu hæd ˌʌndərˈɡɔn ˈsɜrʤəri rɪˈkʌvərd ˈkwɪkli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "surgery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2339,
+    "content_en": "If the healthcare system were more accessible, fewer people would suffer.",
+    "content_vi": "Nếu hệ thống chăm sóc sức khỏe dễ tiếp cận hơn, ít người sẽ bị đau khổ hơn.",
+    "phonetic": "ɪf ðə ˈhɛlθˌkɛr ˈsɪstəm wɜr mɔr əkˈsɛsəbəl, ˈfjuər ˈpipəl wʊd ˈsʌfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2340,
+    "content_en": "Were preventive care prioritized, many diseases could be avoided.",
+    "content_vi": "Nếu chăm sóc phòng ngừa được ưu tiên, nhiều bệnh có thể tránh được.",
+    "phonetic": "wɜr prɪˈvɛntɪv kɛr praɪˈɔrəˌtaɪzd, ˈmɛni dɪˈzizəz kʊd bi əˈvɔɪdɪd",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "prevention",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2341,
+    "content_en": "The diagnosis, which took several weeks to confirm, changed everything.",
+    "content_vi": "Chẩn đoán, mất vài tuần để xác nhận, đã thay đổi mọi thứ.",
+    "phonetic": "ðə ˌdaɪəɡˈnoʊsɪs, wɪʧ tʊk ˈsɛvrəl wiks tu kənˈfɜrm, ʧeɪnʤd ˈɛvriˌθɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "diagnosis",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2342,
+    "content_en": "Had I maintained a healthier lifestyle, I might not need medication now.",
+    "content_vi": "Nếu tôi duy trì lối sống lành mạnh hơn, tôi có thể không cần thuốc bây giờ.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ə ˈhɛlθiər ˈlaɪfˌstaɪl, aɪ maɪt nɑt nid ˌmɛdəˈkeɪʃən naʊ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "regret",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2343,
+    "content_en": "Unless you take your medication regularly, your condition won't improve.",
+    "content_vi": "Trừ khi bạn uống thuốc đều đặn, tình trạng của bạn sẽ không cải thiện.",
+    "phonetic": "ənˈlɛs ju teɪk jʊr ˌmɛdəˈkeɪʃən ˈrɛɡjələrli, jʊr kənˈdɪʃən woʊnt ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "medication"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 4)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2344,
+    "content_en": "If I had known about the symptoms earlier, I would have seen a doctor sooner.",
+    "content_vi": "Nếu tôi biết về các triệu chứng sớm hơn, tôi đã đi khám bác sĩ sớm hơn.",
+    "phonetic": "ɪf aɪ hæd noʊn əˈbaʊt ðə ˈsɪmptəmz ˈɜrliər, aɪ wʊd hæv sin ə ˈdɑktər ˈsunər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2345,
+    "content_en": "Had I followed the doctor's advice, I wouldn't be in this condition.",
+    "content_vi": "Nếu tôi nghe lời khuyên của bác sĩ, tôi sẽ không ở trong tình trạng này.",
+    "phonetic": "hæd aɪ ˈfɑloʊd ðə ˈdɑktərz ədˈvaɪs, aɪ ˈwʊdənt bi ɪn ðɪs kənˈdɪʃən",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "inversion",
+      "past perfect",
+      "regret"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2346,
+    "content_en": "The treatment, which had been recommended by specialists, proved effective.",
+    "content_vi": "Phương pháp điều trị, được các chuyên gia khuyến nghị, đã chứng minh hiệu quả.",
+    "phonetic": "ðə ˈtritmənt, wɪʧ hæd bɪn ˌrɛkəˈmɛndɪd baɪ ˈspɛʃəlɪsts, pruvd ɪˈfɛktɪv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "medical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2347,
+    "content_en": "Should you experience any side effects, contact your doctor immediately.",
+    "content_vi": "Nếu bạn gặp bất kỳ tác dụng phụ nào, hãy liên hệ bác sĩ ngay lập tức.",
+    "phonetic": "ʃʊd ju ɪkˈspɪriəns ˈɛni saɪd ɪˈfɛkts, ˈkɑntækt jʊr ˈdɑktər ɪˈmidiətli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "warning",
+      "medical advice"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2348,
+    "content_en": "The patient who had undergone surgery recovered quickly.",
+    "content_vi": "Bệnh nhân đã trải qua phẫu thuật hồi phục nhanh chóng.",
+    "phonetic": "ðə ˈpeɪʃənt hu hæd ˌʌndərˈɡɔn ˈsɜrʤəri rɪˈkʌvərd ˈkwɪkli",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "past perfect",
+      "surgery"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2349,
+    "content_en": "If the healthcare system were more accessible, fewer people would suffer.",
+    "content_vi": "Nếu hệ thống chăm sóc sức khỏe dễ tiếp cận hơn, ít người sẽ bị đau khổ hơn.",
+    "phonetic": "ɪf ðə ˈhɛlθˌkɛr ˈsɪstəm wɜr mɔr əkˈsɛsəbəl, ˈfjuər ˈpipəl wʊd ˈsʌfər",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional type 2",
+      "hypothetical",
+      "healthcare"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2350,
+    "content_en": "Were preventive care prioritized, many diseases could be avoided.",
+    "content_vi": "Nếu chăm sóc phòng ngừa được ưu tiên, nhiều bệnh có thể tránh được.",
+    "phonetic": "wɜr prɪˈvɛntɪv kɛr praɪˈɔrəˌtaɪzd, ˈmɛni dɪˈzizəz kʊd bi əˈvɔɪdɪd",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional inversion",
+      "prevention",
+      "hypothetical"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2351,
+    "content_en": "The diagnosis, which took several weeks to confirm, changed everything.",
+    "content_vi": "Chẩn đoán, mất vài tuần để xác nhận, đã thay đổi mọi thứ.",
+    "phonetic": "ðə ˌdaɪəɡˈnoʊsɪs, wɪʧ tʊk ˈsɛvrəl wiks tu kənˈfɜrm, ʧeɪnʤd ˈɛvriˌθɪŋ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "relative clause",
+      "diagnosis",
+      "past"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2352,
+    "content_en": "Had I maintained a healthier lifestyle, I might not need medication now.",
+    "content_vi": "Nếu tôi duy trì lối sống lành mạnh hơn, tôi có thể không cần thuốc bây giờ.",
+    "phonetic": "hæd aɪ meɪnˈteɪnd ə ˈhɛlθiər ˈlaɪfˌstaɪl, aɪ maɪt nɑt nid ˌmɛdəˈkeɪʃən naʊ",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "past perfect conditional",
+      "regret",
+      "health"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  },
+  {
+    "id": 2353,
+    "content_en": "Unless you take your medication regularly, your condition won't improve.",
+    "content_vi": "Trừ khi bạn uống thuốc đều đặn, tình trạng của bạn sẽ không cải thiện.",
+    "phonetic": "ənˈlɛs ju teɪk jʊr ˌmɛdəˈkeɪʃən ˈrɛɡjələrli, jʊr kənˈdɪʃən woʊnt ɪmˈpruv",
+    "level_id": "B1",
+    "topic_ids": [
+      "medical"
+    ],
+    "tags": [
+      "conditional",
+      "warning",
+      "medication"
+    ],
+    "audio_url": "",
+    "image_url": "",
+    "source": "system",
+    "notes": "Y tế trung cấp (variant 5)",
+    "status": "active",
+    "created_at": "2025-11-07 10:00:00",
+    "updated_at": "2025-11-07 10:00:00"
+  }
+]
