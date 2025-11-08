@@ -1,0 +1,1302 @@
+[
+    {
+        "id": "C_A2_1",
+        "title": "Professional Networking",
+        "title_vi": "Kết nối chuyên nghiệp",
+        "title_phonetic": "prəˈfɛʃənəl ˈnɛtˌwɜrkɪŋ",
+        "level_id": "A2",
+        "scenario": "Two professionals meeting at a conference",
+        "scenario_vi": "Hai chuyên gia gặp nhau tại hội nghị",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Michael",
+                "content_en": "I've heard so much about you. It's a pleasure to finally meet you.",
+                "content_vi": "Tôi đã nghe nói về bạn rất nhiều. Thật vinh hạnh cuối cùng được gặp bạn.",
+                "phonetic": "aɪv hɜrd soʊ mʌʧ əˈbaʊt ju ɪts ə ˈplɛʒər tə ˈfaɪnəli mit ju"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Jennifer",
+                "content_en": "Thank you! Allow me to introduce myself. I work in marketing.",
+                "content_vi": "Cảm ơn! Cho phép tôi tự giới thiệu. Tôi làm trong ngành marketing.",
+                "phonetic": "θæŋk ju əˈlaʊ mi tə ˌɪntrəˈdus maɪˈsɛlf aɪ wɜrk ɪn ˈmɑrkətɪŋ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Michael",
+                "content_en": "That's interesting. What company do you work for?",
+                "content_vi": "Thật thú vị. Bạn làm cho công ty nào?",
+                "phonetic": "ðæts ˈɪntrəstɪŋ wʌt ˈkʌmpəni du ju wɜrk fɔr"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Jennifer",
+                "content_en": "I work for a tech company. How long have you been in this field?",
+                "content_vi": "Tôi làm cho một công ty công nghệ. Bạn làm trong lĩnh vực này bao lâu rồi?",
+                "phonetic": "aɪ wɜrk fɔr ə tɛk ˈkʌmpəni haʊ lɔŋ hæv ju bɪn ɪn ðɪs fild"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Michael",
+                "content_en": "I've been working there for five years. Here's my business card.",
+                "content_vi": "Tôi làm ở đó được năm năm rồi. Đây là danh thiếp của tôi.",
+                "phonetic": "aɪv bɪn ˈwɜrkɪŋ ðɛr fɔr faɪv jɪrz hɪrz maɪ ˈbɪznəs kɑrd"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại kết nối chuyên nghiệp tại hội nghị",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_2",
+        "title": "New Resident",
+        "title_vi": "Cư dân mới",
+        "title_phonetic": "nu ˈrɛzɪdənt",
+        "level_id": "A2",
+        "scenario": "Meeting a neighbor who just moved in",
+        "scenario_vi": "Gặp hàng xóm mới chuyển đến",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Robert",
+                "content_en": "Hi! I just moved here last month. I'm your new neighbor.",
+                "content_vi": "Chào! Tôi mới chuyển đến đây tháng trước. Tôi là hàng xóm mới của bạn.",
+                "phonetic": "haɪ aɪ dʒʌst muvd hɪr læst mʌnθ aɪm jʊr nu ˈneɪbər"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Lisa",
+                "content_en": "Welcome! How long have you been living here?",
+                "content_vi": "Chào mừng! Bạn sống ở đây bao lâu rồi?",
+                "phonetic": "ˈwɛlkəm haʊ lɔŋ hæv ju bɪn ˈlɪvɪŋ hɪr"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Robert",
+                "content_en": "Just a few weeks. I came here for work. What brought you here?",
+                "content_vi": "Chỉ vài tuần thôi. Tôi đến đây để làm việc. Điều gì đưa bạn đến đây?",
+                "phonetic": "dʒʌst ə fju wiks aɪ keɪm hɪr fɔr wɜrk wʌt brɔt ju hɪr"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Lisa",
+                "content_en": "I've been here for three years. I'm still getting used to the neighborhood.",
+                "content_vi": "Tôi ở đây được ba năm rồi. Tôi vẫn đang làm quen với khu phố.",
+                "phonetic": "aɪv bɪn hɪr fɔr θri jɪrz aɪm stɪl ˈɡɛtɪŋ just tə ðə ˈneɪbərˌhʊd"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Robert",
+                "content_en": "It's been wonderful so far. Feel free to call me anytime.",
+                "content_vi": "Cho đến nay thật tuyệt vời. Cứ thoải mái gọi cho tôi bất cứ lúc nào.",
+                "phonetic": "ɪts bɪn ˈwʌndərfəl soʊ fɑr fil fri tə kɔl mi ˈɛniˌtaɪm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại làm quen với hàng xóm mới",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_3",
+        "title": "University Students",
+        "title_vi": "Sinh viên đại học",
+        "title_phonetic": "ˌjunəˈvɜrsəti ˈstudənts",
+        "level_id": "A2",
+        "scenario": "Two students meeting at university",
+        "scenario_vi": "Hai sinh viên gặp nhau tại trường đại học",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Kevin",
+                "content_en": "Are you new here? Which university do you go to?",
+                "content_vi": "Bạn mới ở đây à? Bạn học trường đại học nào?",
+                "phonetic": "ɑr ju nu hɪr wɪʧ ˌjunəˈvɜrsəti du ju ɡoʊ tə"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Amanda",
+                "content_en": "I go to Vietnam National University. I'm studying computer science.",
+                "content_vi": "Tôi học Đại học Quốc gia Việt Nam. Tôi đang học khoa học máy tính.",
+                "phonetic": "aɪ ɡoʊ tə ˌvjɛtˈnɑm ˈnæʃənəl ˌjunəˈvɜrsəti aɪm ˈstʌdiɪŋ kəmˈpjutər ˈsaɪəns"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Kevin",
+                "content_en": "That's great! I'm majoring in business. What are you studying?",
+                "content_vi": "Tuyệt quá! Tôi học chuyên ngành kinh doanh. Bạn đang học gì?",
+                "phonetic": "ðæts ɡreɪt aɪm ˈmeɪdʒərɪŋ ɪn ˈbɪznəs wʌt ɑr ju ˈstʌdiɪŋ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Amanda",
+                "content_en": "I'm here to study programming. I've been here for three years.",
+                "content_vi": "Tôi ở đây để học lập trình. Tôi ở đây được ba năm rồi.",
+                "phonetic": "aɪm hɪr tə ˈstʌdi ˈproʊɡræmɪŋ aɪv bɪn hɪr fɔr θri jɪrz"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Kevin",
+                "content_en": "We should study together sometime. Let's stay in touch.",
+                "content_vi": "Chúng ta nên học cùng nhau lúc nào đó. Hãy giữ liên lạc.",
+                "phonetic": "wi ʃʊd ˈstʌdi təˈɡɛðər ˈsʌmˌtaɪm lɛts steɪ ɪn tʌʧ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại giữa sinh viên đại học",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_4",
+        "title": "Work Discussion",
+        "title_vi": "Thảo luận công việc",
+        "title_phonetic": "wɜrk dɪˈskʌʃən",
+        "level_id": "A2",
+        "scenario": "Colleagues discussing their work",
+        "scenario_vi": "Đồng nghiệp thảo luận về công việc",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Daniel",
+                "content_en": "How's work going? You seem busy lately.",
+                "content_vi": "Công việc thế nào? Gần đây bạn có vẻ bận.",
+                "phonetic": "haʊz wɜrk ˈɡoʊɪŋ ju sim ˈbɪzi ˈleɪtli"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Rachel",
+                "content_en": "It's been really hectic. I've been swamped with work this week.",
+                "content_vi": "Nó thực sự bận rộn. Tuần này tôi ngập đầu trong công việc.",
+                "phonetic": "ɪts bɪn ˈrɪli ˈhɛktɪk aɪv bɪn swɑmpt wɪð wɜrk ðɪs wik"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Daniel",
+                "content_en": "Things have been pretty calm for me. Can I help you with anything?",
+                "content_vi": "Mọi thứ khá yên tĩnh đối với tôi. Tôi có thể giúp gì không?",
+                "phonetic": "θɪŋz hæv bɪn ˈprɪti kɑm fɔr mi kæn aɪ hɛlp ju wɪð ˈɛniθɪŋ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Rachel",
+                "content_en": "Thanks! I'm doing my best to manage everything.",
+                "content_vi": "Cảm ơn! Tôi đang cố gắng hết sức để quản lý mọi thứ.",
+                "phonetic": "θæŋks aɪm ˈduɪŋ maɪ bɛst tə ˈmænɪdʒ ˈɛvriθɪŋ"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Daniel",
+                "content_en": "Don't hesitate to contact me if you need help.",
+                "content_vi": "Đừng ngần ngại liên lạc với tôi nếu bạn cần giúp đỡ.",
+                "phonetic": "doʊnt ˈhɛzəˌteɪt tə ˈkɑntækt mi ɪf ju nid hɛlp"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về công việc giữa đồng nghiệp",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_5",
+        "title": "Hobbies Chat",
+        "title_vi": "Trò chuyện sở thích",
+        "title_phonetic": "ˈhɑbiz ʧæt",
+        "level_id": "A2",
+        "scenario": "Friends discussing their hobbies",
+        "scenario_vi": "Bạn bè thảo luận về sở thích",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Sophie",
+                "content_en": "How do you spend your free time?",
+                "content_vi": "Bạn dành thời gian rảnh như thế nào?",
+                "phonetic": "haʊ du ju spɛnd jʊr fri taɪm"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Nathan",
+                "content_en": "I enjoy reading books and playing sports. Do you have any hobbies?",
+                "content_vi": "Tôi thích đọc sách và chơi thể thao. Bạn có sở thích gì không?",
+                "phonetic": "aɪ ɛnˈdʒɔɪ ˈridɪŋ bʊks ænd ˈpleɪɪŋ spɔrts du ju hæv ˈɛni ˈhɑbiz"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Sophie",
+                "content_en": "My hobby is photography. I like taking pictures.",
+                "content_vi": "Sở thích của tôi là chụp ảnh. Tôi thích chụp hình.",
+                "phonetic": "maɪ ˈhɑbi ɪz fəˈtɑɡrəfi aɪ laɪk ˈteɪkɪŋ ˈpɪkʧərz"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Nathan",
+                "content_en": "That's interesting! What kind of music do you listen to?",
+                "content_vi": "Thật thú vị! Bạn nghe loại nhạc gì?",
+                "phonetic": "ðæts ˈɪntrəstɪŋ wʌt kaɪnd ʌv ˈmjuzɪk du ju ˈlɪsən tə"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Sophie",
+                "content_en": "I listen to all kinds of music. We should hang out sometime!",
+                "content_vi": "Tôi nghe mọi loại nhạc. Chúng ta nên đi chơi lúc nào đó!",
+                "phonetic": "aɪ ˈlɪsən tə ɔl kaɪndz ʌv ˈmjuzɪk wi ʃʊd hæŋ aʊt ˈsʌmˌtaɪm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về sở thích cá nhân",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_6",
+        "title": "Family Talk",
+        "title_vi": "Nói về gia đình",
+        "title_phonetic": "ˈfæməli tɔk",
+        "level_id": "A2",
+        "scenario": "Discussing family background",
+        "scenario_vi": "Thảo luận về xuất thân gia đình",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Eric",
+                "content_en": "Where did you grow up?",
+                "content_vi": "Bạn lớn lên ở đâu?",
+                "phonetic": "wɛr dɪd ju ɡroʊ ʌp"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Victoria",
+                "content_en": "I grew up in a small town. I was born in Saigon.",
+                "content_vi": "Tôi lớn lên ở một thị trấn nhỏ. Tôi sinh ra ở Sài Gòn.",
+                "phonetic": "aɪ ɡru ʌp ɪn ə smɔl taʊn aɪ wʌz bɔrn ɪn saɪˈɡɑn"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Eric",
+                "content_en": "Do you have any siblings?",
+                "content_vi": "Bạn có anh chị em không?",
+                "phonetic": "du ju hæv ˈɛni ˈsɪblɪŋz"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Victoria",
+                "content_en": "I have one brother and one sister. What does your father do?",
+                "content_vi": "Tôi có một anh trai và một chị gái. Bố bạn làm nghề gì?",
+                "phonetic": "aɪ hæv wʌn ˈbrʌðər ænd wʌn ˈsɪstər wʌt dʌz jʊr ˈfɑðər du"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Eric",
+                "content_en": "My father is a businessman. My mother works as a nurse.",
+                "content_vi": "Bố tôi là doanh nhân. Mẹ tôi làm y tá.",
+                "phonetic": "maɪ ˈfɑðər ɪz ə ˈbɪznəsmən maɪ ˈmʌðər wɜrks æz ə nɜrs"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về xuất thân và gia đình",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_7",
+        "title": "Tourist Arrival",
+        "title_vi": "Du khách đến",
+        "title_phonetic": "ˈtʊrɪst əˈraɪvəl",
+        "level_id": "A2",
+        "scenario": "Meeting a tourist visiting Vietnam",
+        "scenario_vi": "Gặp du khách thăm Việt Nam",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Guide",
+                "content_en": "Welcome to Vietnam! What brings you to Vietnam?",
+                "content_vi": "Chào mừng đến Việt Nam! Điều gì đưa bạn đến Việt Nam?",
+                "phonetic": "ˈwɛlkəm tə ˌvjɛtˈnɑm wʌt brɪŋz ju tə ˌvjɛtˈnɑm"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Tourist",
+                "content_en": "I'm here on vacation. How long are you staying?",
+                "content_vi": "Tôi đến đây nghỉ mát. Bạn ở lại bao lâu?",
+                "phonetic": "aɪm hɪr ɑn veɪˈkeɪʃən haʊ lɔŋ ɑr ju ˈsteɪɪŋ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Guide",
+                "content_en": "I'm staying for two weeks. Is this your first time here?",
+                "content_vi": "Tôi ở lại hai tuần. Đây có phải lần đầu bạn đến đây không?",
+                "phonetic": "aɪm ˈsteɪɪŋ fɔr tu wiks ɪz ðɪs jʊr fɜrst taɪm hɪr"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Tourist",
+                "content_en": "Yes, it's my first time. How are you finding it here?",
+                "content_vi": "Vâng, đây là lần đầu tiên. Bạn thấy ở đây thế nào?",
+                "phonetic": "jɛs ɪts maɪ fɜrst taɪm haʊ ɑr ju ˈfaɪndɪŋ ɪt hɪr"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Guide",
+                "content_en": "I'm really enjoying it. It's been wonderful so far.",
+                "content_vi": "Tôi thực sự thích nó. Cho đến nay thật tuyệt vời.",
+                "phonetic": "aɪm ˈrɪli ɛnˈdʒɔɪɪŋ ɪt ɪts bɪn ˈwʌndərfəl soʊ fɑr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại với du khách đến Việt Nam",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_8",
+        "title": "Business Traveler",
+        "title_vi": "Khách công tác",
+        "title_phonetic": "ˈbɪznəs ˈtrævələr",
+        "level_id": "A2",
+        "scenario": "Meeting a business traveler",
+        "scenario_vi": "Gặp khách công tác",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Host",
+                "content_en": "Are you here on business?",
+                "content_vi": "Bạn đến đây công tác à?",
+                "phonetic": "ɑr ju hɪr ɑn ˈbɪznəs"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Visitor",
+                "content_en": "Yes, I'm here on business. No, I've been here before.",
+                "content_vi": "Vâng, tôi đến đây công tác. Không, tôi đã đến đây trước đây.",
+                "phonetic": "jɛs aɪm hɪr ɑn ˈbɪznəs noʊ aɪv bɪn hɪr bɪˈfɔr"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Host",
+                "content_en": "Where are you staying?",
+                "content_vi": "Bạn đang ở đâu?",
+                "phonetic": "wɛr ɑr ju ˈsteɪɪŋ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Visitor",
+                "content_en": "I'm staying at a hotel downtown. The area is very convenient.",
+                "content_vi": "Tôi đang ở khách sạn trung tâm. Khu vực rất tiện lợi.",
+                "phonetic": "aɪm ˈsteɪɪŋ æt ə hoʊˈtɛl ˈdaʊnˈtaʊn ði ˈɛriə ɪz ˈvɛri kənˈvinjənt"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Host",
+                "content_en": "Do you like living here?",
+                "content_vi": "Bạn có thích sống ở đây không?",
+                "phonetic": "du ju laɪk ˈlɪvɪŋ hɪr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại với khách công tác",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_9",
+        "title": "Local Experience",
+        "title_vi": "Trải nghiệm địa phương",
+        "title_phonetic": "ˈloʊkəl ɪkˈspɪriəns",
+        "level_id": "A2",
+        "scenario": "Discussing local living experience",
+        "scenario_vi": "Thảo luận về trải nghiệm sống địa phương",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "James",
+                "content_en": "I'm staying with friends. Yes, I love it here.",
+                "content_vi": "Tôi đang ở với bạn bè. Vâng, tôi yêu nơi đây.",
+                "phonetic": "aɪm ˈsteɪɪŋ wɪð frɛndz jɛs aɪ lʌv ɪt hɪr"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Helen",
+                "content_en": "How's everything going for you here?",
+                "content_vi": "Mọi thứ với bạn ở đây thế nào?",
+                "phonetic": "haʊz ˈɛvriθɪŋ ˈɡoʊɪŋ fɔr ju hɪr"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "James",
+                "content_en": "Everything's going great. The people are friendly.",
+                "content_vi": "Mọi thứ đang rất tốt. Người dân thân thiện.",
+                "phonetic": "ˈɛvriθɪŋz ˈɡoʊɪŋ ɡreɪt ðə ˈpipəl ɑr ˈfrɛndli"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Helen",
+                "content_en": "Can't complain. Have you explored the city?",
+                "content_vi": "Không có gì phàn nàn. Bạn đã khám phá thành phố chưa?",
+                "phonetic": "kænt kəmˈpleɪn hæv ju ɪkˈsplɔrd ðə ˈsɪti"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "James",
+                "content_en": "Could be better, but I'm doing my best.",
+                "content_vi": "Có thể tốt hơn, nhưng tôi đang cố gắng hết sức.",
+                "phonetic": "kʊd bi ˈbɛtər bʌt aɪm ˈduɪŋ maɪ bɛst"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về trải nghiệm sống địa phương",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_10",
+        "title": "Recognition",
+        "title_vi": "Nhận ra",
+        "title_phonetic": "ˌrɛkəɡˈnɪʃən",
+        "level_id": "A2",
+        "scenario": "Recognizing someone from before",
+        "scenario_vi": "Nhận ra ai đó từ trước",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Thomas",
+                "content_en": "Have we met before? You look familiar.",
+                "content_vi": "Chúng ta đã gặp trước đây chưa? Bạn trông quen quen.",
+                "phonetic": "hæv wi mɛt bɪˈfɔr ju lʊk fəˈmɪljər"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Emily",
+                "content_en": "I think we met at the conference last year.",
+                "content_vi": "Tôi nghĩ chúng ta gặp nhau ở hội nghị năm ngoái.",
+                "phonetic": "aɪ θɪŋk wi mɛt æt ðə ˈkɑnfərəns læst jɪr"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Thomas",
+                "content_en": "I don't think so. Let me introduce myself.",
+                "content_vi": "Tôi không nghĩ vậy. Để tôi tự giới thiệu.",
+                "phonetic": "aɪ doʊnt θɪŋk soʊ lɛt mi ˌɪntrəˈdus maɪˈsɛlf"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Emily",
+                "content_en": "Allow me to introduce myself as well. What do you do?",
+                "content_vi": "Cho phép tôi tự giới thiệu. Bạn làm nghề gì?",
+                "phonetic": "əˈlaʊ mi tə ˌɪntrəˈdus maɪˈsɛlf æz wɛl wʌt du ju du"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Thomas",
+                "content_en": "I work in marketing. It's nice to meet you again.",
+                "content_vi": "Tôi làm trong ngành marketing. Vui được gặp lại bạn.",
+                "phonetic": "aɪ wɜrk ɪn ˈmɑrkətɪŋ ɪts naɪs tə mit ju əˈɡɛn"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại nhận ra người quen",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_11",
+        "title": "Self-Employment Chat",
+        "title_vi": "Trò chuyện tự làm chủ",
+        "title_phonetic": "sɛlf ɪmˈplɔɪmənt ʧæt",
+        "level_id": "A2",
+        "scenario": "Discussing self-employment",
+        "scenario_vi": "Thảo luận về tự làm chủ",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Marcus",
+                "content_en": "What company do you work for?",
+                "content_vi": "Bạn làm cho công ty nào?",
+                "phonetic": "wʌt ˈkʌmpəni du ju wɜrk fɔr"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Julia",
+                "content_en": "I work for myself. I'm self-employed.",
+                "content_vi": "Tôi tự làm chủ. Tôi tự kinh doanh.",
+                "phonetic": "aɪ wɜrk fɔr maɪˈsɛlf aɪm ˈsɛlfɪmˈplɔɪd"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Marcus",
+                "content_en": "That's interesting! How long have you been working there?",
+                "content_vi": "Thật thú vị! Bạn làm ở đó bao lâu rồi?",
+                "phonetic": "ðæts ˈɪntrəstɪŋ haʊ lɔŋ hæv ju bɪn ˈwɜrkɪŋ ðɛr"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Julia",
+                "content_en": "I've been there for five years. I just started last week.",
+                "content_vi": "Tôi làm ở đó được năm năm rồi. Tôi mới bắt đầu tuần trước.",
+                "phonetic": "aɪv bɪn ðɛr fɔr faɪv jɪrz aɪ dʒʌst ˈstɑrtɪd læst wik"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Marcus",
+                "content_en": "That's impressive! Feel free to call me anytime.",
+                "content_vi": "Thật ấn tượng! Cứ thoải mái gọi cho tôi bất cứ lúc nào.",
+                "phonetic": "ðæts ɪmˈprɛsɪv fil fri tə kɔl mi ˈɛniˌtaɪm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về tự kinh doanh",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_12",
+        "title": "University Major",
+        "title_vi": "Chuyên ngành đại học",
+        "title_phonetic": "ˌjunəˈvɜrsəti ˈmeɪdʒər",
+        "level_id": "A2",
+        "scenario": "Students discussing their majors",
+        "scenario_vi": "Sinh viên thảo luận về chuyên ngành",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Oliver",
+                "content_en": "Which university do you go to?",
+                "content_vi": "Bạn học trường đại học nào?",
+                "phonetic": "wɪʧ ˌjunəˈvɜrsəti du ju ɡoʊ tə"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Grace",
+                "content_en": "I go to Vietnam National University. I'm majoring in business.",
+                "content_vi": "Tôi học Đại học Quốc gia Việt Nam. Tôi học chuyên ngành kinh doanh.",
+                "phonetic": "aɪ ɡoʊ tə ˌvjɛtˈnɑm ˈnæʃənəl ˌjunəˈvɜrsəti aɪm ˈmeɪdʒərɪŋ ɪn ˈbɪznəs"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Oliver",
+                "content_en": "What are you studying exactly?",
+                "content_vi": "Cụ thể bạn đang học gì?",
+                "phonetic": "wʌt ɑr ju ˈstʌdiɪŋ ɪɡˈzæktli"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Grace",
+                "content_en": "I'm studying computer science. What about you?",
+                "content_vi": "Tôi đang học khoa học máy tính. Còn bạn?",
+                "phonetic": "aɪm ˈstʌdiɪŋ kəmˈpjutər ˈsaɪəns wʌt əˈbaʊt ju"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Oliver",
+                "content_en": "I'm in my third year studying engineering.",
+                "content_vi": "Tôi đang học năm thứ ba ngành kỹ thuật.",
+                "phonetic": "aɪm ɪn maɪ θɜrd jɪr ˈstʌdiɪŋ ˌɛndʒəˈnɪrɪŋ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về chuyên ngành học",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_13",
+        "title": "Contact Exchange",
+        "title_vi": "Trao đổi liên lạc",
+        "title_phonetic": "ˈkɑntækt ɪksˈʧeɪndʒ",
+        "level_id": "A2",
+        "scenario": "Exchanging contact information",
+        "scenario_vi": "Trao đổi thông tin liên lạc",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "William",
+                "content_en": "It's been great meeting you. Here's my business card.",
+                "content_vi": "Thật tuyệt khi được gặp bạn. Đây là danh thiếp của tôi.",
+                "phonetic": "ɪts bɪn ɡreɪt ˈmitɪŋ ju hɪrz maɪ ˈbɪznəs kɑrd"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Isabella",
+                "content_en": "Can I have your contact information?",
+                "content_vi": "Tôi có thể có thông tin liên lạc của bạn không?",
+                "phonetic": "kæn aɪ hæv jʊr ˈkɑntækt ˌɪnfərˈmeɪʃən"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "William",
+                "content_en": "Sure! What's your email address?",
+                "content_vi": "Chắc chắn rồi! Địa chỉ email của bạn là gì?",
+                "phonetic": "ʃʊr wʌts jʊr ˈimeɪl əˈdrɛs"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Isabella",
+                "content_en": "What's your phone number? Let's stay in touch.",
+                "content_vi": "Số điện thoại của bạn là gì? Hãy giữ liên lạc.",
+                "phonetic": "wʌts jʊr foʊn ˈnʌmbər lɛts steɪ ɪn tʌʧ"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "William",
+                "content_en": "Feel free to call me anytime. Don't hesitate to contact me.",
+                "content_vi": "Cứ thoải mái gọi cho tôi bất cứ lúc nào. Đừng ngần ngại liên lạc với tôi.",
+                "phonetic": "fil fri tə kɔl mi ˈɛniˌtaɪm doʊnt ˈhɛzəˌteɪt tə ˈkɑntækt mi"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại trao đổi thông tin liên lạc",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_14",
+        "title": "Friendly Goodbye",
+        "title_vi": "Tạm biệt thân thiện",
+        "title_phonetic": "ˈfrɛndli ˌɡʊdˈbaɪ",
+        "level_id": "A2",
+        "scenario": "Saying goodbye to a friend",
+        "scenario_vi": "Chào tạm biệt bạn bè",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Christopher",
+                "content_en": "I hope we can meet again soon. Keep in touch!",
+                "content_vi": "Tôi hy vọng chúng ta có thể gặp lại sớm. Giữ liên lạc nhé!",
+                "phonetic": "aɪ hoʊp wi kæn mit əˈɡɛn sun kip ɪn tʌʧ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Madison",
+                "content_en": "It was nice chatting with you. I enjoyed our conversation.",
+                "content_vi": "Thật vui khi trò chuyện với bạn. Tôi thích cuộc trò chuyện của chúng ta.",
+                "phonetic": "ɪt wʌz naɪs ˈʧætɪŋ wɪð ju aɪ ɛnˈdʒɔɪd ˈaʊər ˌkɑnvərˈseɪʃən"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Christopher",
+                "content_en": "We should do this again sometime.",
+                "content_vi": "Chúng ta nên làm điều này lần nữa.",
+                "phonetic": "wi ʃʊd du ðɪs əˈɡɛn ˈsʌmˌtaɪm"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Madison",
+                "content_en": "Definitely! Take care of yourself.",
+                "content_vi": "Chắc chắn rồi! Bảo trọng bản thân nhé.",
+                "phonetic": "ˈdɛfənətli teɪk kɛr ʌv jərˈsɛlf"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Christopher",
+                "content_en": "Thank you! See you soon!",
+                "content_vi": "Cảm ơn! Hẹn sớm gặp lại!",
+                "phonetic": "θæŋk ju si ju sun"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chào tạm biệt thân thiện",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_15",
+        "title": "Leaving Meeting",
+        "title_vi": "Rời cuộc họp",
+        "title_phonetic": "ˈlivɪŋ ˈmitɪŋ",
+        "level_id": "A2",
+        "scenario": "Leaving a meeting early",
+        "scenario_vi": "Rời cuộc họp sớm",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Andrew",
+                "content_en": "I'd better get going. I should probably head out.",
+                "content_vi": "Tôi nên đi thôi. Tôi có lẽ nên đi ra ngoài.",
+                "phonetic": "aɪd ˈbɛtər ɡɛt ˈɡoʊɪŋ aɪ ʃʊd ˈprɑbəbli hɛd aʊt"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Charlotte",
+                "content_en": "I don't want to keep you. What time is it?",
+                "content_vi": "Tôi không muốn giữ bạn lại. Mấy giờ rồi?",
+                "phonetic": "aɪ doʊnt wɑnt tə kip ju wʌt taɪm ɪz ɪt"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Andrew",
+                "content_en": "It's getting late. I have to get back to work.",
+                "content_vi": "Trời sắp tối rồi. Tôi phải quay lại làm việc.",
+                "phonetic": "ɪts ˈɡɛtɪŋ leɪt aɪ hæv tə ɡɛt bæk tə wɜrk"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Charlotte",
+                "content_en": "I understand. Thanks for your time.",
+                "content_vi": "Tôi hiểu. Cảm ơn vì thời gian của bạn.",
+                "phonetic": "aɪ ˌʌndərˈstænd θæŋks fɔr jʊr taɪm"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Andrew",
+                "content_en": "I appreciate you taking the time. Goodbye!",
+                "content_vi": "Tôi đánh giá cao việc bạn dành thời gian. Tạm biệt!",
+                "phonetic": "aɪ əˈpriʃiˌeɪt ju ˈteɪkɪŋ ðə taɪm ˌɡʊdˈbaɪ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại xin phép rời đi sớm",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_16",
+        "title": "Prior Commitment",
+        "title_vi": "Cam kết trước",
+        "title_phonetic": "ˈpraɪər kəˈmɪtmənt",
+        "level_id": "A2",
+        "scenario": "Leaving due to prior appointment",
+        "scenario_vi": "Rời đi do có hẹn trước",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Benjamin",
+                "content_en": "I have an appointment soon. I need to leave.",
+                "content_vi": "Tôi có một cuộc hẹn sớm. Tôi cần phải đi.",
+                "phonetic": "aɪ hæv ən əˈpɔɪntmənt sun aɪ nid tə liv"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Sophia",
+                "content_en": "No problem. This has been very helpful.",
+                "content_vi": "Không vấn đề gì. Điều này rất hữu ích.",
+                "phonetic": "noʊ ˈprɑbləm ðɪs hæz bɪn ˈvɛri ˈhɛlpfəl"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Benjamin",
+                "content_en": "I'll send you an email tomorrow. Drive safely!",
+                "content_vi": "Tôi sẽ gửi email cho bạn vào ngày mai. Lái xe cẩn thận nhé!",
+                "phonetic": "aɪl sɛnd ju ən ˈimeɪl təˈmɑroʊ draɪv ˈseɪfli"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Sophia",
+                "content_en": "Have a safe trip home! Take care!",
+                "content_vi": "Chúc bạn về nhà an toàn! Bảo trọng!",
+                "phonetic": "hæv ə seɪf trɪp hoʊm teɪk kɛr"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Benjamin",
+                "content_en": "Thank you for coming today. Goodbye!",
+                "content_vi": "Cảm ơn vì đã đến hôm nay. Tạm biệt!",
+                "phonetic": "θæŋk ju fɔr ˈkʌmɪŋ təˈdeɪ ˌɡʊdˈbaɪ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại rời đi do có hẹn trước",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_17",
+        "title": "Only Child",
+        "title_vi": "Con một",
+        "title_phonetic": "ˈoʊnli ʧaɪld",
+        "level_id": "A2",
+        "scenario": "Discussing being an only child",
+        "scenario_vi": "Thảo luận về việc là con một",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Matthew",
+                "content_en": "Do you have any siblings?",
+                "content_vi": "Bạn có anh chị em không?",
+                "phonetic": "du ju hæv ˈɛni ˈsɪblɪŋz"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Olivia",
+                "content_en": "I'm an only child. I grew up without brothers or sisters.",
+                "content_vi": "Tôi là con một. Tôi lớn lên không có anh chị em.",
+                "phonetic": "aɪm ən ˈoʊnli ʧaɪld aɪ ɡru ʌp wɪˈθaʊt ˈbrʌðərz ɔr ˈsɪstərz"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Matthew",
+                "content_en": "Was it lonely? What does your father do?",
+                "content_vi": "Có cô đơn không? Bố bạn làm nghề gì?",
+                "phonetic": "wʌz ɪt ˈloʊnli wʌt dʌz jʊr ˈfɑðər du"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Olivia",
+                "content_en": "Not really. I had many friends. My father is a businessman.",
+                "content_vi": "Không hẳn. Tôi có nhiều bạn bè. Bố tôi là doanh nhân.",
+                "phonetic": "nɑt ˈrɪli aɪ hæd ˈmɛni frɛndz maɪ ˈfɑðər ɪz ə ˈbɪznəsmən"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Matthew",
+                "content_en": "That's interesting! Tell me about your family.",
+                "content_vi": "Thật thú vị! Kể cho tôi về gia đình bạn.",
+                "phonetic": "ðæts ˈɪntrəstɪŋ tɛl mi əˈbaʊt jʊr ˈfæməli"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về việc là con một",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_18",
+        "title": "Networking Event",
+        "title_vi": "Sự kiện kết nối",
+        "title_phonetic": "ˈnɛtˌwɜrkɪŋ ɪˈvɛnt",
+        "level_id": "A2",
+        "scenario": "Meeting at a networking event",
+        "scenario_vi": "Gặp gỡ tại sự kiện kết nối",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Alexander",
+                "content_en": "This is a great networking opportunity. I'm glad I came.",
+                "content_vi": "Đây là một cơ hội kết nối tuyệt vời. Tôi vui vì đã đến.",
+                "phonetic": "ðɪs ɪz ə ɡreɪt ˈnɛtˌwɜrkɪŋ ˌɑpərˈtunəti aɪm ɡlæd aɪ keɪm"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Natalie",
+                "content_en": "Have we met before at similar events?",
+                "content_vi": "Chúng ta đã gặp nhau trước đây ở các sự kiện tương tự chưa?",
+                "phonetic": "hæv wi mɛt bɪˈfɔr æt ˈsɪmələr ɪˈvɛnts"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Alexander",
+                "content_en": "Let me introduce myself. I work in the technology sector.",
+                "content_vi": "Để tôi tự giới thiệu. Tôi làm trong lĩnh vực công nghệ.",
+                "phonetic": "lɛt mi ˌɪntrəˈdus maɪˈsɛlf aɪ wɜrk ɪn ðə tɛkˈnɑləʤi ˈsɛktər"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Natalie",
+                "content_en": "Here's my contact information. What's your email?",
+                "content_vi": "Đây là thông tin liên lạc của tôi. Email bạn là gì?",
+                "phonetic": "hɪrz maɪ ˈkɑntækt ˌɪnfərˈmeɪʃən wʌts jʊr ˈimeɪl"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Alexander",
+                "content_en": "Let's keep in touch. I look forward to working together.",
+                "content_vi": "Hãy giữ liên lạc. Tôi mong được làm việc cùng nhau.",
+                "phonetic": "lɛts kip ɪn tʌʧ aɪ lʊk ˈfɔrwərd tə ˈwɜrkɪŋ təˈɡɛðər"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại tại sự kiện kết nối",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_19",
+        "title": "Weekend Plans",
+        "title_vi": "Kế hoạch cuối tuần",
+        "title_phonetic": "ˈwikˌɛnd plænz",
+        "level_id": "A2",
+        "scenario": "Discussing weekend activities",
+        "scenario_vi": "Thảo luận về hoạt động cuối tuần",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Ethan",
+                "content_en": "What do you usually do on weekends?",
+                "content_vi": "Bạn thường làm gì vào cuối tuần?",
+                "phonetic": "wʌt du ju ˈjuʒəwəli du ɑn ˈwikˌɛndz"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Ava",
+                "content_en": "I enjoy spending time outdoors. Sometimes I go hiking.",
+                "content_vi": "Tôi thích dành thời gian ngoài trời. Đôi khi tôi đi leo núi.",
+                "phonetic": "aɪ ɛnˈdʒɔɪ ˈspɛndɪŋ taɪm ˈaʊtˈdɔrz ˈsʌmˌtaɪmz aɪ ɡoʊ ˈhaɪkɪŋ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Ethan",
+                "content_en": "That sounds fun! How do you spend your free time?",
+                "content_vi": "Nghe vui đó! Bạn dành thời gian rảnh như thế nào?",
+                "phonetic": "ðæt saʊndz fʌn haʊ du ju spɛnd jʊr fri taɪm"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Ava",
+                "content_en": "I also like reading and photography. What about you?",
+                "content_vi": "Tôi cũng thích đọc sách và chụp ảnh. Còn bạn?",
+                "phonetic": "aɪ ˈɔlsoʊ laɪk ˈridɪŋ ænd fəˈtɑɡrəfi wʌt əˈbaʊt ju"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Ethan",
+                "content_en": "We should plan something together sometime.",
+                "content_vi": "Chúng ta nên lên kế hoạch làm điều gì đó cùng nhau.",
+                "phonetic": "wi ʃʊd plæn ˈsʌmθɪŋ təˈɡɛðər ˈsʌmˌtaɪm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về hoạt động cuối tuần",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_20",
+        "title": "Cultural Interest",
+        "title_vi": "Quan tâm văn hóa",
+        "title_phonetic": "ˈkʌlʧərəl ˈɪntrəst",
+        "level_id": "A2",
+        "scenario": "Discussing cultural interests",
+        "scenario_vi": "Thảo luận về quan tâm văn hóa",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Noah",
+                "content_en": "I'm interested in learning about Vietnamese culture.",
+                "content_vi": "Tôi quan tâm đến việc tìm hiểu về văn hóa Việt Nam.",
+                "phonetic": "aɪm ˈɪntrəstəd ɪn ˈlɜrnɪŋ əˈbaʊt ˌvjɛtnɑˈmiz ˈkʌlʧər"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Mia",
+                "content_en": "Can you recommend some places to visit?",
+                "content_vi": "Bạn có thể giới thiệu một số địa điểm để thăm không?",
+                "phonetic": "kæn ju ˌrɛkəˈmɛnd sʌm ˈpleɪsəz tə ˈvɪzət"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Noah",
+                "content_en": "I'd love to try authentic local food. Have you been to my country?",
+                "content_vi": "Tôi muốn thử món ăn địa phương đích thực. Bạn đã đến nước tôi chưa?",
+                "phonetic": "aɪd lʌv tə traɪ əˈθɛntɪk ˈloʊkəl fud hæv ju bɪn tə maɪ ˈkʌntri"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Mia",
+                "content_en": "Not yet, but I'd like to visit. We could exchange language practice.",
+                "content_vi": "Chưa, nhưng tôi muốn đến thăm. Chúng ta có thể trao đổi thực hành ngôn ngữ.",
+                "phonetic": "nɑt jɛt bʌt aɪd laɪk tə ˈvɪzət wi kʊd ɪksˈʧeɪndʒ ˈlæŋɡwədʒ ˈpræktəs"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Noah",
+                "content_en": "That's a great idea! Let's do that.",
+                "content_vi": "Đó là một ý tưởng tuyệt vời! Hãy làm điều đó.",
+                "phonetic": "ðæts ə ɡreɪt aɪˈdiə lɛts du ðæt"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về quan tâm văn hóa",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_21",
+        "title": "Reconnecting",
+        "title_vi": "Kết nối lại",
+        "title_phonetic": "ˌrikəˈnɛktɪŋ",
+        "level_id": "A2",
+        "scenario": "Meeting an old friend after a long time",
+        "scenario_vi": "Gặp lại bạn cũ sau thời gian dài",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Lucas",
+                "content_en": "It's been ages since we last met! How have you been?",
+                "content_vi": "Đã lâu lắm rồi kể từ lần cuối chúng ta gặp! Bạn thế nào?",
+                "phonetic": "ɪts bɪn ˈeɪdʒəz sɪns wi læst mɛt haʊ hæv ju bɪn"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Emma",
+                "content_en": "You look great! What have you been up to all these years?",
+                "content_vi": "Bạn trông tuyệt! Bạn đã làm gì trong suốt những năm qua?",
+                "phonetic": "ju lʊk ɡreɪt wʌt hæv ju bɪn ʌp tə ɔl ðiz jɪrz"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Lucas",
+                "content_en": "We have so much to catch up on! Are you still living here?",
+                "content_vi": "Chúng ta có rất nhiều điều để nói! Bạn vẫn sống ở đây à?",
+                "phonetic": "wi hæv soʊ mʌʧ tə kæʧ ʌp ɑn ɑr ju stɪl ˈlɪvɪŋ hɪr"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Emma",
+                "content_en": "Yes, I've been here for years. Let's grab coffee sometime.",
+                "content_vi": "Vâng, tôi ở đây nhiều năm rồi. Hãy đi uống cà phê.",
+                "phonetic": "jɛs aɪv bɪn hɪr fɔr jɪrz lɛts ɡræb ˈkɔfi ˈsʌmˌtaɪm"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Lucas",
+                "content_en": "That would be wonderful! I'll call you next week.",
+                "content_vi": "Điều đó sẽ tuyệt vời! Tôi sẽ gọi cho bạn tuần sau.",
+                "phonetic": "ðæt wʊd bi ˈwʌndərfəl aɪl kɔl ju nɛkst wik"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại gặp lại bạn cũ",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_22",
+        "title": "Professional Closure",
+        "title_vi": "Kết thúc chuyên nghiệp",
+        "title_phonetic": "prəˈfɛʃənəl ˈkloʊʒər",
+        "level_id": "A2",
+        "scenario": "Ending a professional meeting",
+        "scenario_vi": "Kết thúc cuộc họp chuyên nghiệp",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Ryan",
+                "content_en": "Thank you for taking the time to speak with me today.",
+                "content_vi": "Cảm ơn bạn đã dành thời gian nói chuyện với tôi hôm nay.",
+                "phonetic": "θæŋk ju fɔr ˈteɪkɪŋ ðə taɪm tə spik wɪð mi təˈdeɪ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Hannah",
+                "content_en": "This meeting has been very productive. What's next?",
+                "content_vi": "Cuộc họp này rất hiệu quả. Tiếp theo là gì?",
+                "phonetic": "ðɪs ˈmitɪŋ hæz bɪn ˈvɛri prəˈdʌktɪv wʌts nɛkst"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Ryan",
+                "content_en": "I'll follow up with you via email tomorrow.",
+                "content_vi": "Tôi sẽ theo dõi với bạn qua email vào ngày mai.",
+                "phonetic": "aɪl ˈfɑloʊ ʌp wɪð ju ˈvaɪə ˈimeɪl təˈmɑroʊ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Hannah",
+                "content_en": "Looking forward to working together. When should we meet again?",
+                "content_vi": "Mong được làm việc cùng nhau. Khi nào chúng ta nên gặp lại?",
+                "phonetic": "ˈlʊkɪŋ ˈfɔrwərd tə ˈwɜrkɪŋ təˈɡɛðər wɛn ʃʊd wi mit əˈɡɛn"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Ryan",
+                "content_en": "Have a wonderful rest of your day. Goodbye!",
+                "content_vi": "Chúc bạn một ngày tốt lành. Tạm biệt!",
+                "phonetic": "hæv ə ˈwʌndərfəl rɛst ʌv jʊr deɪ ˌɡʊdˈbaɪ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại kết thúc cuộc họp chuyên nghiệp",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_23",
+        "title": "Career Change",
+        "title_vi": "Thay đổi sự nghiệp",
+        "title_phonetic": "kəˈrɪr ʧeɪndʒ",
+        "level_id": "A2",
+        "scenario": "Discussing a career change",
+        "scenario_vi": "Thảo luận về thay đổi sự nghiệp",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Jacob",
+                "content_en": "I heard you changed jobs recently. How's it going?",
+                "content_vi": "Tôi nghe bạn đổi việc gần đây. Thế nào rồi?",
+                "phonetic": "aɪ hɜrd ju ʧeɪndʒd dʒɑbz ˈrisəntli haʊz ɪt ˈɡoʊɪŋ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Lily",
+                "content_en": "Yes, I just started last week. It's been really exciting.",
+                "content_vi": "Vâng, tôi mới bắt đầu tuần trước. Nó thực sự thú vị.",
+                "phonetic": "jɛs aɪ dʒʌst ˈstɑrtɪd læst wik ɪts bɪn ˈrɪli ɪkˈsaɪtɪŋ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Jacob",
+                "content_en": "What made you decide to change careers?",
+                "content_vi": "Điều gì khiến bạn quyết định thay đổi nghề nghiệp?",
+                "phonetic": "wʌt meɪd ju dɪˈsaɪd tə ʧeɪndʒ kəˈrɪrz"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Lily",
+                "content_en": "I wanted new challenges. I've been learning so much.",
+                "content_vi": "Tôi muốn những thử thách mới. Tôi đã học được rất nhiều.",
+                "phonetic": "aɪ ˈwɑntɪd nu ˈʧælɪndʒɪz aɪv bɪn ˈlɜrnɪŋ soʊ mʌʧ"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Jacob",
+                "content_en": "That's brave! I'm really happy for you.",
+                "content_vi": "Thật dũng cảm! Tôi thực sự vui cho bạn.",
+                "phonetic": "ðæts breɪv aɪm ˈrɪli ˈhæpi fɔr ju"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về thay đổi nghề nghiệp",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_24",
+        "title": "Sharing Experience",
+        "title_vi": "Chia sẻ kinh nghiệm",
+        "title_phonetic": "ˈʃɛrɪŋ ɪkˈspɪriəns",
+        "level_id": "A2",
+        "scenario": "Sharing work experience",
+        "scenario_vi": "Chia sẻ kinh nghiệm làm việc",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Samuel",
+                "content_en": "How long have you been working in this field?",
+                "content_vi": "Bạn làm trong lĩnh vực này bao lâu rồi?",
+                "phonetic": "haʊ lɔŋ hæv ju bɪn ˈwɜrkɪŋ ɪn ðɪs fild"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Chloe",
+                "content_en": "I've been working there for five years. Time flies!",
+                "content_vi": "Tôi làm ở đó được năm năm rồi. Thời gian trôi nhanh!",
+                "phonetic": "aɪv bɪn ˈwɜrkɪŋ ðɛr fɔr faɪv jɪrz taɪm flaɪz"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Samuel",
+                "content_en": "What do you enjoy most about your work?",
+                "content_vi": "Bạn thích nhất điều gì về công việc của mình?",
+                "phonetic": "wʌt du ju ɛnˈdʒɔɪ moʊst əˈbaʊt jʊr wɜrk"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Chloe",
+                "content_en": "I love the creative challenges. Every day is different.",
+                "content_vi": "Tôi yêu những thử thách sáng tạo. Mỗi ngày đều khác nhau.",
+                "phonetic": "aɪ lʌv ðə kriˈeɪtɪv ˈʧælɪndʒɪz ˈɛvri deɪ ɪz ˈdɪfərənt"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Samuel",
+                "content_en": "That sounds wonderful! I'd love to learn more.",
+                "content_vi": "Nghe tuyệt vời! Tôi muốn học hỏi thêm.",
+                "phonetic": "ðæt saʊndz ˈwʌndərfəl aɪd lʌv tə lɜrn mɔr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chia sẻ kinh nghiệm làm việc",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    },
+    {
+        "id": "C_A2_25",
+        "title": "Future Plans",
+        "title_vi": "Kế hoạch tương lai",
+        "title_phonetic": "ˈfjuʧər plænz",
+        "level_id": "A2",
+        "scenario": "Discussing future plans",
+        "scenario_vi": "Thảo luận về kế hoạch tương lai",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Joshua",
+                "content_en": "What are your plans for the future?",
+                "content_vi": "Kế hoạch của bạn cho tương lai là gì?",
+                "phonetic": "wʌt ɑr jʊr plænz fɔr ðə ˈfjuʧər"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Aria",
+                "content_en": "I'm planning to start my own business next year.",
+                "content_vi": "Tôi dự định bắt đầu kinh doanh riêng của mình năm sau.",
+                "phonetic": "aɪm ˈplænɪŋ tə stɑrt maɪ oʊn ˈbɪznəs nɛkst jɪr"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Joshua",
+                "content_en": "That's ambitious! What field will you work in?",
+                "content_vi": "Thật có tham vọng! Bạn sẽ làm trong lĩnh vực nào?",
+                "phonetic": "ðæts æmˈbɪʃəs wʌt fild wɪl ju wɜrk ɪn"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Aria",
+                "content_en": "I want to work in technology. I've been preparing for months.",
+                "content_vi": "Tôi muốn làm trong công nghệ. Tôi đã chuẩn bị nhiều tháng.",
+                "phonetic": "aɪ wɑnt tə wɜrk ɪn tɛkˈnɑləʤi aɪv bɪn prɪˈpɛrɪŋ fɔr mʌnθs"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Joshua",
+                "content_en": "I wish you all the best! Keep me updated.",
+                "content_vi": "Tôi chúc bạn tất cả những điều tốt đẹp nhất! Giữ tôi cập nhật nhé.",
+                "phonetic": "aɪ wɪʃ ju ɔl ðə bɛst kip mi ˈʌpˌdeɪtɪd"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về kế hoạch tương lai",
+        "status": "active",
+        "created_at": "2025-11-08 17:00:00",
+        "updated_at": "2025-11-08 17:00:00"
+    }
+]
