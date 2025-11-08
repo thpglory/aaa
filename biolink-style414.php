@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Máy tính tỷ lệ vàng và biến thể - Toàn diện</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         * {
             margin: 0;
@@ -13,78 +14,194 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: #f5f5f5;
             min-height: 100vh;
-            padding: 10px;
+            display: flex;
+            flex-direction: column;
         }
 
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-            background: rgba(255, 255, 255, 0.95);
-            border-radius: 20px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            overflow: hidden;
-        }
-
+        /* Header Full Width */
         .header {
             background: linear-gradient(135deg, #FFD700, #FFA500);
             color: white;
             padding: 20px 30px;
-            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .menu-toggle {
+            display: none;
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            cursor: pointer;
+            padding: 8px 12px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .menu-toggle:hover {
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .header-title {
+            flex: 1;
         }
 
         .header h1 {
-            font-size: 2.2rem;
-            margin-bottom: 5px;
+            font-size: 1.8rem;
+            margin-bottom: 3px;
             text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
         }
 
         .header p {
-            font-size: 1rem;
+            font-size: 0.9rem;
             opacity: 0.9;
         }
 
-        .nav-tabs {
+        .header-actions {
             display: flex;
-            background: #f8f9fa;
-            border-bottom: 3px solid #FFD700;
-            overflow-x: auto;
-            scrollbar-width: thin;
+            align-items: center;
+            gap: 10px;
         }
 
-        .nav-tab {
-            flex: 1;
-            min-width: 100px;
-            padding: 12px 8px;
-            background: transparent;
-            border: none;
-            cursor: pointer;
-            font-size: 0.85rem;
+        .apps-store-btn {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            border: 2px solid white;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
             font-weight: 600;
-            color: #555;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
             transition: all 0.3s ease;
-            border-bottom: 3px solid transparent;
-            text-align: center;
         }
 
-        .nav-tab:hover {
-            background: rgba(255, 215, 0, 0.1);
-        }
-
-        .nav-tab.active {
+        .apps-store-btn:hover {
             background: white;
+            color: #FFA500;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Main Container */
+        .container {
+            display: flex;
+            flex: 1;
+            max-width: 100%;
+            margin: 0;
+            background: white;
+        }
+
+        /* Sidebar Navigation */
+        .sidebar {
+            width: 280px;
+            background: white;
+            box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
+            overflow-y: auto;
+            position: sticky;
+            top: 80px;
+            height: calc(100vh - 80px);
+            transition: transform 0.3s ease;
+        }
+
+        .nav-menu {
+            list-style: none;
+            padding: 20px 0;
+        }
+
+        .nav-item {
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .nav-link {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 15px 20px;
+            color: #555;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border-left: 4px solid transparent;
+        }
+
+        .nav-link i {
+            font-size: 1.1rem;
+            width: 24px;
+            text-align: center;
+            color: #FFD700;
+        }
+
+        .nav-link:hover {
+            background: rgba(255, 215, 0, 0.1);
+            border-left-color: #FFD700;
+        }
+
+        .nav-link.active {
+            background: rgba(255, 215, 0, 0.15);
             color: #FF6B35;
-            border-bottom-color: #FFD700;
+            border-left-color: #FFA500;
+            font-weight: 600;
+        }
+
+        .nav-link.active i {
+            color: #FF6B35;
+        }
+
+        /* Content Area */
+        .content-wrapper {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+            background: #fafafa;
         }
 
         .tab-content {
             display: none;
-            padding: 20px;
+            animation: fadeIn 0.3s ease;
         }
 
         .tab-content.active {
             display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Footer Full Width */
+        .footer {
+            background: linear-gradient(135deg, #FFD700, #FFA500);
+            color: white;
+            text-align: center;
+            padding: 20px 30px;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+            margin-top: auto;
+        }
+
+        .footer p {
+            margin: 0;
+            font-size: 0.9rem;
+            font-weight: 500;
         }
 
         .tools-grid {
@@ -431,48 +548,231 @@
             border-bottom: none;
         }
 
+        /* Mobile Responsive */
         @media (max-width: 768px) {
+            .header {
+                padding: 15px 20px;
+            }
+
+            .header h1 {
+                font-size: 1.3rem;
+            }
+
+            .header p {
+                font-size: 0.8rem;
+                display: none;
+            }
+
+            .menu-toggle {
+                display: block;
+            }
+
+            .apps-store-btn {
+                padding: 8px 12px;
+                font-size: 0.8rem;
+            }
+
+            .apps-store-btn span {
+                display: none;
+            }
+
+            .sidebar {
+                position: fixed;
+                left: 0;
+                top: 0;
+                width: 280px;
+                height: 100vh;
+                transform: translateX(-100%);
+                z-index: 1100;
+                box-shadow: 2px 0 20px rgba(0, 0, 0, 0.3);
+            }
+
+            .sidebar.active {
+                transform: translateX(0);
+            }
+
+            .sidebar-overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.5);
+                z-index: 1050;
+            }
+
+            .sidebar-overlay.active {
+                display: block;
+            }
+
+            .content-wrapper {
+                padding: 15px;
+            }
+
             .tools-grid {
                 grid-template-columns: 1fr;
             }
-            
+
             .input-row, .input-triple {
                 grid-template-columns: 1fr;
             }
-            
+
             .ratio-comparison {
                 grid-template-columns: repeat(2, 1fr);
+            }
+
+            .footer {
+                padding: 15px 20px;
+            }
+
+            .footer p {
+                font-size: 0.8rem;
             }
         }
     </style>
 </head>
 <body>
+    <!-- Header Full Width -->
+    <div class="header">
+        <div class="header-left">
+            <button class="menu-toggle" onclick="toggleMenu()">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="header-title">
+                <h1>🌟 Máy tính tỷ lệ vàng và biến thể toàn diện</h1>
+                <p>Khám phá tỷ lệ vàng, tỷ lệ bạc, trung bình kim loại (metallic means) và ứng dụng trong mọi lĩnh vực</p>
+            </div>
+        </div>
+        <div class="header-actions">
+            <a href="https://dinhdanh.com/apps_store" target="_blank" class="apps-store-btn">
+                <i class="fas fa-cube"></i>
+                <span>Kho ứng dụng</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- Sidebar Overlay for Mobile -->
+    <div class="sidebar-overlay" onclick="toggleMenu()"></div>
+
+    <!-- Main Container -->
     <div class="container">
-        <div class="header">
-            <h1>🌟 Máy tính tỷ lệ vàng và biến thể toàn diện</h1>
-            <p>Khám phá tỷ lệ vàng, tỷ lệ bạc, trung bình kim loại (metallic means) và ứng dụng trong mọi lĩnh vực</p>
+        <!-- Sidebar Navigation -->
+        <div class="sidebar">
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a class="nav-link active" onclick="switchMainTab('basic', this)">
+                        <i class="fas fa-calculator"></i>
+                        <span>Cơ bản</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('variants', this)">
+                        <i class="fas fa-bolt"></i>
+                        <span>Biến thể</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('architecture', this)">
+                        <i class="fas fa-landmark"></i>
+                        <span>Kiến trúc</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('construction', this)">
+                        <i class="fas fa-hard-hat"></i>
+                        <span>Xây dựng</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('sculpture', this)">
+                        <i class="fas fa-palette"></i>
+                        <span>Điêu khắc</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('art', this)">
+                        <i class="fas fa-paint-brush"></i>
+                        <span>Nghệ thuật</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('nature', this)">
+                        <i class="fas fa-leaf"></i>
+                        <span>Tự nhiên</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('finance', this)">
+                        <i class="fas fa-coins"></i>
+                        <span>Tài chính</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('medicine', this)">
+                        <i class="fas fa-heartbeat"></i>
+                        <span>Y học</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('physics', this)">
+                        <i class="fas fa-atom"></i>
+                        <span>Vật lý</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('music', this)">
+                        <i class="fas fa-music"></i>
+                        <span>Âm nhạc</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('psychology', this)">
+                        <i class="fas fa-brain"></i>
+                        <span>Tâm lý</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('astronomy', this)">
+                        <i class="fas fa-star"></i>
+                        <span>Thiên văn</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('technology', this)">
+                        <i class="fas fa-laptop-code"></i>
+                        <span>Công nghệ</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('fashion', this)">
+                        <i class="fas fa-tshirt"></i>
+                        <span>Thời trang</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('culinary', this)">
+                        <i class="fas fa-utensils"></i>
+                        <span>Ẩm thực</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('sports', this)">
+                        <i class="fas fa-football-ball"></i>
+                        <span>Thể thao</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" onclick="switchMainTab('calculator', this)">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Máy tính</span>
+                    </a>
+                </li>
+            </ul>
         </div>
 
-        <div class="nav-tabs">
-            <button class="nav-tab active" onclick="switchMainTab('basic', this)">🔢 Cơ bản</button>
-            <button class="nav-tab" onclick="switchMainTab('variants', this)">⚡ Biến thể</button>
-            <button class="nav-tab" onclick="switchMainTab('architecture', this)">🏛️ Kiến trúc</button>
-            <button class="nav-tab" onclick="switchMainTab('construction', this)">🏗️ Xây dựng</button>
-            <button class="nav-tab" onclick="switchMainTab('sculpture', this)">🎨 Điêu khắc</button>
-            <button class="nav-tab" onclick="switchMainTab('art', this)">🖼️ Nghệ thuật</button>
-            <button class="nav-tab" onclick="switchMainTab('nature', this)">🌿 Tự nhiên</button>
-            <button class="nav-tab" onclick="switchMainTab('finance', this)">💰 Tài chính</button>
-            <button class="nav-tab" onclick="switchMainTab('medicine', this)">🏥 Y học</button>
-            <button class="nav-tab" onclick="switchMainTab('physics', this)">⚛️ Vật lý</button>
-            <button class="nav-tab" onclick="switchMainTab('music', this)">🎵 Âm nhạc</button>
-            <button class="nav-tab" onclick="switchMainTab('psychology', this)">🧠 Tâm lý</button>
-            <button class="nav-tab" onclick="switchMainTab('astronomy', this)">🌌 Thiên văn</button>
-            <button class="nav-tab" onclick="switchMainTab('technology', this)">💻 Công nghệ</button>
-            <button class="nav-tab" onclick="switchMainTab('fashion', this)">👗 Thời trang</button>
-            <button class="nav-tab" onclick="switchMainTab('culinary', this)">🍽️ Ẩm thực</button>
-            <button class="nav-tab" onclick="switchMainTab('sports', this)">⚽ Thể thao</button>
-            <button class="nav-tab" onclick="switchMainTab('calculator', this)">📊 Máy tính</button>
-        </div>
+        <!-- Content Wrapper -->
+        <div class="content-wrapper">
 
         <!-- Tab Cơ bản -->
         <div id="basic" class="tab-content active">
@@ -1830,12 +2130,17 @@
             document.querySelectorAll('.tab-content').forEach(content => {
                 content.classList.remove('active');
             });
-            document.querySelectorAll('.nav-tab').forEach(tab => {
+            document.querySelectorAll('.nav-link').forEach(tab => {
                 tab.classList.remove('active');
             });
-            
+
             document.getElementById(tabId).classList.add('active');
             button.classList.add('active');
+
+            // Close mobile menu after selection
+            if (window.innerWidth <= 768) {
+                toggleMenu();
+            }
         }
 
         function switchTab(tabId, button) {
@@ -7532,13 +7837,13 @@ function analyzeEquipmentDesign() {
         document.addEventListener('DOMContentLoaded', function() {
             generateFibonacci();
             generateDesignGrid();
-            
+
             // Tự động tính toán khi nhập
             ['lengthA', 'lengthB'].forEach(id => {
                 const element = document.getElementById(id);
                 if (element) {
                     element.addEventListener('input', function() {
-                        if (document.getElementById('lengthA').value && 
+                        if (document.getElementById('lengthA').value &&
                             document.getElementById('lengthB').value) {
                             setTimeout(calculateRatio, 500);
                         }
@@ -7546,6 +7851,22 @@ function analyzeEquipmentDesign() {
                 }
             });
         });
+
+        // Toggle menu for mobile
+        function toggleMenu() {
+            const sidebar = document.querySelector('.sidebar');
+            const overlay = document.querySelector('.sidebar-overlay');
+            sidebar.classList.toggle('active');
+            overlay.classList.toggle('active');
+        }
     </script>
+
+    </div><!-- End content-wrapper -->
+    </div><!-- End container -->
+
+    <!-- Footer Full Width -->
+    <div class="footer">
+        <p>Bản quyền 2025 Định Danh - DINHDANH.COM</p>
+    </div>
 </body>
 </html>
