@@ -1,0 +1,1155 @@
+[
+    {
+        "id": "C1",
+        "title": "First Meeting",
+        "title_vi": "Lần gặp đầu tiên",
+        "title_phonetic": "fɜrst ˈmitɪŋ",
+        "level_id": "A1",
+        "scenario": "Two people meet for the first time",
+        "scenario_vi": "Hai người gặp nhau lần đầu",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "John",
+                "content_en": "Hello! My name is John.",
+                "content_vi": "Xin chào! Tên tôi là John.",
+                "phonetic": "həˈloʊ maɪ neɪm ɪz dʒɑn"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Sarah",
+                "content_en": "Hi John! I'm Sarah. Nice to meet you.",
+                "content_vi": "Chào John! Tôi là Sarah. Rất vui được gặp bạn.",
+                "phonetic": "haɪ dʒɑn aɪm ˈsɛrə naɪs tə mit ju"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "John",
+                "content_en": "Where are you from?",
+                "content_vi": "Bạn đến từ đâu?",
+                "phonetic": "wɛr ɑr ju frʌm"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Sarah",
+                "content_en": "I'm from Canada. And you?",
+                "content_vi": "Tôi đến từ Canada. Còn bạn?",
+                "phonetic": "aɪm frʌm ˈkænədə ænd ju"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "John",
+                "content_en": "I'm from the USA.",
+                "content_vi": "Tôi đến từ Mỹ.",
+                "phonetic": "aɪm frʌm ðə ˌjuˌɛˈseɪ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại giới thiệu cơ bản giữa hai người lần đầu gặp mặt.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C2",
+        "title": "At Work Introduction",
+        "title_vi": "Giới thiệu tại nơi làm việc",
+        "title_phonetic": "æt wɜrk ˌɪntrəˈdʌkʃən",
+        "level_id": "A1",
+        "scenario": "New colleague introducing himself at work",
+        "scenario_vi": "Đồng nghiệp mới tự giới thiệu tại nơi làm việc",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Manager",
+                "content_en": "Welcome! What's your name?",
+                "content_vi": "Chào mừng! Tên bạn là gì?",
+                "phonetic": "ˈwɛlkəm wʌts jʊr neɪm"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "David",
+                "content_en": "My name is David. I'm new here.",
+                "content_vi": "Tên tôi là David. Tôi mới ở đây.",
+                "phonetic": "maɪ neɪm ɪz ˈdeɪvɪd aɪm nu hɪr"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Manager",
+                "content_en": "Nice to meet you, David. What do you do?",
+                "content_vi": "Rất vui được gặp bạn, David. Bạn làm nghề gì?",
+                "phonetic": "naɪs tə mit ju ˈdeɪvɪd wʌt du ju du"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "David",
+                "content_en": "I'm an engineer.",
+                "content_vi": "Tôi là kỹ sư.",
+                "phonetic": "aɪm ən ˌɛndʒəˈnɪr"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Manager",
+                "content_en": "Great! Welcome to the team.",
+                "content_vi": "Tuyệt vời! Chào mừng đến với đội ngũ.",
+                "phonetic": "ɡreɪt ˈwɛlkəm tə ðə tim"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại giới thiệu trong môi trường công sở.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C3",
+        "title": "Morning Greetings",
+        "title_vi": "Chào buổi sáng",
+        "title_phonetic": "ˈmɔrnɪŋ ˈɡritɪŋz",
+        "level_id": "A1",
+        "scenario": "Two colleagues meeting in the morning",
+        "scenario_vi": "Hai đồng nghiệp gặp nhau vào buổi sáng",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Tom",
+                "content_en": "Good morning!",
+                "content_vi": "Chào buổi sáng!",
+                "phonetic": "ɡʊd ˈmɔrnɪŋ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Lisa",
+                "content_en": "Good morning! How are you?",
+                "content_vi": "Chào buổi sáng! Bạn khỏe không?",
+                "phonetic": "ɡʊd ˈmɔrnɪŋ haʊ ɑr ju"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Tom",
+                "content_en": "I'm fine, thank you. And you?",
+                "content_vi": "Tôi khỏe, cảm ơn bạn. Còn bạn?",
+                "phonetic": "aɪm faɪn θæŋk ju ænd ju"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Lisa",
+                "content_en": "I'm great, thanks!",
+                "content_vi": "Tôi rất tốt, cảm ơn!",
+                "phonetic": "aɪm ɡreɪt θæŋks"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chào hỏi buổi sáng đơn giản.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C4",
+        "title": "Asking for Help",
+        "title_vi": "Xin giúp đỡ",
+        "title_phonetic": "ˈæskɪŋ fɔr hɛlp",
+        "level_id": "A1",
+        "scenario": "Someone asking for help from a stranger",
+        "scenario_vi": "Ai đó xin giúp đỡ từ người lạ",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Tourist",
+                "content_en": "Excuse me. Can you help me?",
+                "content_vi": "Xin lỗi. Bạn có thể giúp tôi không?",
+                "phonetic": "ɪkˈskjuz mi kæn ju hɛlp mi"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Local",
+                "content_en": "Sure! What do you need?",
+                "content_vi": "Chắc chắn rồi! Bạn cần gì?",
+                "phonetic": "ʃʊr wʌt du ju nid"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Tourist",
+                "content_en": "I'm new here. I'm lost.",
+                "content_vi": "Tôi mới ở đây. Tôi bị lạc.",
+                "phonetic": "aɪm nu hɪr aɪm lɔst"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Local",
+                "content_en": "No problem. Where do you want to go?",
+                "content_vi": "Không vấn đề gì. Bạn muốn đi đâu?",
+                "phonetic": "noʊ ˈprɑbləm wɛr du ju wɑnt tə ɡoʊ"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Tourist",
+                "content_en": "Thank you very much!",
+                "content_vi": "Cảm ơn bạn rất nhiều!",
+                "phonetic": "θæŋk ju ˈvɛri mʌʧ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại xin giúp đỡ lịch sự.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C5",
+        "title": "Meeting a Neighbor",
+        "title_vi": "Gặp hàng xóm",
+        "title_phonetic": "ˈmitɪŋ ə ˈneɪbər",
+        "level_id": "A1",
+        "scenario": "Meeting a new neighbor",
+        "scenario_vi": "Gặp hàng xóm mới",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Alex",
+                "content_en": "Hello! I'm your new neighbor.",
+                "content_vi": "Xin chào! Tôi là hàng xóm mới của bạn.",
+                "phonetic": "həˈloʊ aɪm jʊr nu ˈneɪbər"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Emma",
+                "content_en": "Oh, hello! What's your name?",
+                "content_vi": "Ồ, xin chào! Tên bạn là gì?",
+                "phonetic": "oʊ həˈloʊ wʌts jʊr neɪm"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Alex",
+                "content_en": "I'm Alex. Nice to meet you.",
+                "content_vi": "Tôi là Alex. Rất vui được gặp bạn.",
+                "phonetic": "aɪm ˈælɪks naɪs tə mit ju"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Emma",
+                "content_en": "I'm Emma. Where are you from?",
+                "content_vi": "Tôi là Emma. Bạn đến từ đâu?",
+                "phonetic": "aɪm ˈɛmə wɛr ɑr ju frʌm"
+            },
+            {
+                "turn": 5,
+                "speaker_name": "Alex",
+                "content_en": "I'm from Korea. Welcome to meet you!",
+                "content_vi": "Tôi đến từ Hàn Quốc. Rất vui được gặp bạn!",
+                "phonetic": "aɪm frʌm kəˈriə ˈwɛlkəm tə mit ju"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại làm quen với hàng xóm mới.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C6",
+        "title": "Saying Goodbye",
+        "title_vi": "Chào tạm biệt",
+        "title_phonetic": "ˈseɪɪŋ ˌɡʊdˈbaɪ",
+        "level_id": "A1",
+        "scenario": "Two friends saying goodbye",
+        "scenario_vi": "Hai người bạn chào tạm biệt",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Mike",
+                "content_en": "I'm going home now.",
+                "content_vi": "Tôi đang về nhà bây giờ.",
+                "phonetic": "aɪm ˈɡoʊɪŋ hoʊm naʊ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Anna",
+                "content_en": "Okay. See you tomorrow!",
+                "content_vi": "Được rồi. Hẹn gặp bạn ngày mai!",
+                "phonetic": "ˌoʊˈkeɪ si ju təˈmɑroʊ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Mike",
+                "content_en": "Have a nice day!",
+                "content_vi": "Chúc bạn một ngày tốt lành!",
+                "phonetic": "hæv ə naɪs deɪ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Anna",
+                "content_en": "Thank you! Take care!",
+                "content_vi": "Cảm ơn! Bảo trọng nhé!",
+                "phonetic": "θæŋk ju teɪk kɛr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chào tạm biệt đơn giản.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C7",
+        "title": "At a Party",
+        "title_vi": "Tại bữa tiệc",
+        "title_phonetic": "æt ə ˈpɑrti",
+        "level_id": "A1",
+        "scenario": "Meeting someone at a party",
+        "scenario_vi": "Gặp ai đó tại một bữa tiệc",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Maria",
+                "content_en": "Hi! I'm Maria.",
+                "content_vi": "Chào! Tôi là Maria.",
+                "phonetic": "haɪ aɪm məˈriə"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Peter",
+                "content_en": "Hello Maria! I'm Peter.",
+                "content_vi": "Xin chào Maria! Tôi là Peter.",
+                "phonetic": "həˈloʊ məˈriə aɪm ˈpitər"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Maria",
+                "content_en": "Nice weather today!",
+                "content_vi": "Thời tiết hôm nay đẹp nhỉ!",
+                "phonetic": "naɪs ˈwɛðər təˈdeɪ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Peter",
+                "content_en": "Yes, it is! I'm happy to be here.",
+                "content_vi": "Vâng, đúng vậy! Tôi vui được ở đây.",
+                "phonetic": "jɛs ɪt ɪz aɪm ˈhæpi tə bi hɪr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại làm quen tại sự kiện xã hội.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C8",
+        "title": "Language Learning",
+        "title_vi": "Học ngôn ngữ",
+        "title_phonetic": "ˈlæŋɡwədʒ ˈlɜrnɪŋ",
+        "level_id": "A1",
+        "scenario": "Discussing language skills",
+        "scenario_vi": "Thảo luận về kỹ năng ngôn ngữ",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Teacher",
+                "content_en": "Do you speak English?",
+                "content_vi": "Bạn có nói tiếng Anh không?",
+                "phonetic": "du ju spik ˈɪŋɡlɪʃ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Student",
+                "content_en": "I speak a little English.",
+                "content_vi": "Tôi nói một chút tiếng Anh.",
+                "phonetic": "aɪ spik ə ˈlɪtəl ˈɪŋɡlɪʃ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Teacher",
+                "content_en": "Are you learning English?",
+                "content_vi": "Bạn đang học tiếng Anh à?",
+                "phonetic": "ɑr ju ˈlɜrnɪŋ ˈɪŋɡlɪʃ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Student",
+                "content_en": "Yes, I am. I'm a student.",
+                "content_vi": "Vâng, tôi đang học. Tôi là sinh viên.",
+                "phonetic": "jɛs aɪ æm aɪm ə ˈstudənt"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về việc học ngôn ngữ.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C9",
+        "title": "Job and Work",
+        "title_vi": "Công việc",
+        "title_phonetic": "dʒɑb ænd wɜrk",
+        "level_id": "A1",
+        "scenario": "Asking about someone's job",
+        "scenario_vi": "Hỏi về công việc của ai đó",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Person A",
+                "content_en": "What do you do?",
+                "content_vi": "Bạn làm nghề gì?",
+                "phonetic": "wʌt du ju du"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Person B",
+                "content_en": "I'm a teacher.",
+                "content_vi": "Tôi là giáo viên.",
+                "phonetic": "aɪm ə ˈtiʧər"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Person A",
+                "content_en": "Where do you work?",
+                "content_vi": "Bạn làm việc ở đâu?",
+                "phonetic": "wɛr du ju wɜrk"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Person B",
+                "content_en": "I work at a school.",
+                "content_vi": "Tôi làm việc tại trường học.",
+                "phonetic": "aɪ wɜrk æt ə skul"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại hỏi về công việc và nơi làm việc.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C10",
+        "title": "Family Talk",
+        "title_vi": "Nói về gia đình",
+        "title_phonetic": "ˈfæməli tɔk",
+        "level_id": "A1",
+        "scenario": "Discussing family",
+        "scenario_vi": "Thảo luận về gia đình",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Linda",
+                "content_en": "Are you married?",
+                "content_vi": "Bạn đã kết hôn chưa?",
+                "phonetic": "ɑr ju ˈmɛrid"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Mark",
+                "content_en": "Yes, I am.",
+                "content_vi": "Vâng, tôi đã kết hôn.",
+                "phonetic": "jɛs aɪ æm"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Linda",
+                "content_en": "Do you have children?",
+                "content_vi": "Bạn có con không?",
+                "phonetic": "du ju hæv ˈʧɪldrən"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Mark",
+                "content_en": "Yes, I have two children.",
+                "content_vi": "Vâng, tôi có hai đứa con.",
+                "phonetic": "jɛs aɪ hæv tu ˈʧɪldrən"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về gia đình.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C11",
+        "title": "Weekend Goodbye",
+        "title_vi": "Chào cuối tuần",
+        "title_phonetic": "ˈwikˌɛnd ˌɡʊdˈbaɪ",
+        "level_id": "A1",
+        "scenario": "Saying goodbye before the weekend",
+        "scenario_vi": "Chào tạm biệt trước cuối tuần",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Jake",
+                "content_en": "See you next week!",
+                "content_vi": "Hẹn gặp tuần sau!",
+                "phonetic": "si ju nɛkst wik"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Sophie",
+                "content_en": "Have a good weekend!",
+                "content_vi": "Chúc cuối tuần vui vẻ!",
+                "phonetic": "hæv ə ɡʊd ˈwikˌɛnd"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Jake",
+                "content_en": "Thank you! You too!",
+                "content_vi": "Cảm ơn! Bạn cũng vậy!",
+                "phonetic": "θæŋk ju ju tu"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Sophie",
+                "content_en": "Take care!",
+                "content_vi": "Bảo trọng nhé!",
+                "phonetic": "teɪk kɛr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chào tạm biệt cuối tuần.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C12",
+        "title": "Thanking Someone",
+        "title_vi": "Cảm ơn ai đó",
+        "title_phonetic": "ˈθæŋkɪŋ ˈsʌmˌwʌn",
+        "level_id": "A1",
+        "scenario": "Thanking someone for help",
+        "scenario_vi": "Cảm ơn ai đó vì sự giúp đỡ",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Rachel",
+                "content_en": "Thank you very much.",
+                "content_vi": "Cảm ơn bạn rất nhiều.",
+                "phonetic": "θæŋk ju ˈvɛri mʌʧ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Ben",
+                "content_en": "You're welcome.",
+                "content_vi": "Không có gì.",
+                "phonetic": "jʊr ˈwɛlkəm"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Rachel",
+                "content_en": "I'm happy you helped me.",
+                "content_vi": "Tôi vui vì bạn đã giúp tôi.",
+                "phonetic": "aɪm ˈhæpi ju hɛlpt mi"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Ben",
+                "content_en": "No problem. I'm happy to help.",
+                "content_vi": "Không vấn đề gì. Tôi vui khi được giúp.",
+                "phonetic": "noʊ ˈprɑbləm aɪm ˈhæpi tə hɛlp"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại cảm ơn và đáp lại.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C13",
+        "title": "Long Time No See",
+        "title_vi": "Lâu không gặp",
+        "title_phonetic": "lɔŋ taɪm noʊ si",
+        "level_id": "A1",
+        "scenario": "Meeting an old friend",
+        "scenario_vi": "Gặp một người bạn cũ",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Chris",
+                "content_en": "Long time no see!",
+                "content_vi": "Lâu quá không gặp!",
+                "phonetic": "lɔŋ taɪm noʊ si"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Kelly",
+                "content_en": "Yes! How are you doing?",
+                "content_vi": "Vâng! Bạn thế nào rồi?",
+                "phonetic": "jɛs haʊ ɑr ju ˈduɪŋ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Chris",
+                "content_en": "I'm great! How about you?",
+                "content_vi": "Tôi rất tốt! Còn bạn?",
+                "phonetic": "aɪm ɡreɪt haʊ əˈbaʊt ju"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Kelly",
+                "content_en": "I'm fine, thanks!",
+                "content_vi": "Tôi khỏe, cảm ơn!",
+                "phonetic": "aɪm faɪn θæŋks"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại gặp lại sau thời gian dài.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C14",
+        "title": "Asking About Age",
+        "title_vi": "Hỏi về tuổi",
+        "title_phonetic": "ˈæskɪŋ əˈbaʊt eɪdʒ",
+        "level_id": "A1",
+        "scenario": "Asking someone's age politely",
+        "scenario_vi": "Hỏi tuổi một cách lịch sự",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Amy",
+                "content_en": "How old are you?",
+                "content_vi": "Bạn bao nhiêu tuổi?",
+                "phonetic": "haʊ oʊld ɑr ju"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Brian",
+                "content_en": "I'm 25 years old.",
+                "content_vi": "Tôi 25 tuổi.",
+                "phonetic": "aɪm ˈtwɛnti faɪv jɪrz oʊld"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Amy",
+                "content_en": "Oh, I'm 30 years old.",
+                "content_vi": "Ồ, tôi 30 tuổi.",
+                "phonetic": "oʊ aɪm ˈθɜrti jɪrz oʊld"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Brian",
+                "content_en": "Nice to meet you!",
+                "content_vi": "Rất vui được gặp bạn!",
+                "phonetic": "naɪs tə mit ju"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại hỏi và trả lời về tuổi.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C15",
+        "title": "Living Location",
+        "title_vi": "Nơi sinh sống",
+        "title_phonetic": "ˈlɪvɪŋ loʊˈkeɪʃən",
+        "level_id": "A1",
+        "scenario": "Asking where someone lives",
+        "scenario_vi": "Hỏi ai đó sống ở đâu",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Nina",
+                "content_en": "Where do you live?",
+                "content_vi": "Bạn sống ở đâu?",
+                "phonetic": "wɛr du ju lɪv"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Oliver",
+                "content_en": "I live in Hanoi.",
+                "content_vi": "Tôi sống ở Hà Nội.",
+                "phonetic": "aɪ lɪv ɪn həˈnɔɪ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Nina",
+                "content_en": "Oh! I live in Ho Chi Minh City.",
+                "content_vi": "Ồ! Tôi sống ở Thành phố Hồ Chí Minh.",
+                "phonetic": "oʊ aɪ lɪv ɪn hoʊ ʧi mɪn ˈsɪti"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Oliver",
+                "content_en": "That's a big city! I like it.",
+                "content_vi": "Đó là một thành phố lớn! Tôi thích nó.",
+                "phonetic": "ðæts ə bɪɡ ˈsɪti aɪ laɪk ɪt"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về nơi sinh sống.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C16",
+        "title": "Apologizing",
+        "title_vi": "Xin lỗi",
+        "title_phonetic": "əˈpɑləˌdʒaɪzɪŋ",
+        "level_id": "A1",
+        "scenario": "Apologizing to someone",
+        "scenario_vi": "Xin lỗi ai đó",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Paul",
+                "content_en": "I'm sorry.",
+                "content_vi": "Tôi xin lỗi.",
+                "phonetic": "aɪm ˈsɑri"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Diana",
+                "content_en": "That's okay. No problem.",
+                "content_vi": "Không sao. Không vấn đề gì.",
+                "phonetic": "ðæts ˌoʊˈkeɪ noʊ ˈprɑbləm"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Paul",
+                "content_en": "Thank you for understanding.",
+                "content_vi": "Cảm ơn bạn vì đã thông cảm.",
+                "phonetic": "θæŋk ju fɔr ˌʌndərˈstændɪŋ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Diana",
+                "content_en": "You're welcome!",
+                "content_vi": "Không có gì!",
+                "phonetic": "jʊr ˈwɛlkəm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại xin lỗi và tha thứ.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C17",
+        "title": "Offering Help",
+        "title_vi": "Đề nghị giúp đỡ",
+        "title_phonetic": "ˈɔfərɪŋ hɛlp",
+        "level_id": "A1",
+        "scenario": "Offering to help someone",
+        "scenario_vi": "Đề nghị giúp đỡ ai đó",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Helper",
+                "content_en": "Can I help you?",
+                "content_vi": "Tôi có thể giúp gì không?",
+                "phonetic": "kæn aɪ hɛlp ju"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Person",
+                "content_en": "Yes, please help me.",
+                "content_vi": "Vâng, làm ơn giúp tôi.",
+                "phonetic": "jɛs pliz hɛlp mi"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Helper",
+                "content_en": "Sure, no problem.",
+                "content_vi": "Chắc chắn rồi, không vấn đề gì.",
+                "phonetic": "ʃʊr noʊ ˈprɑbləm"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Person",
+                "content_en": "I'm happy. Thank you!",
+                "content_vi": "Tôi vui lòng. Cảm ơn bạn!",
+                "phonetic": "aɪm ˈhæpi θæŋk ju"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại đề nghị và chấp nhận giúp đỡ.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C18",
+        "title": "Daily Feelings",
+        "title_vi": "Cảm xúc hàng ngày",
+        "title_phonetic": "ˈdeɪli ˈfilɪŋz",
+        "level_id": "A1",
+        "scenario": "Talking about how you feel",
+        "scenario_vi": "Nói về cảm giác của bạn",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Friend A",
+                "content_en": "How was your day?",
+                "content_vi": "Hôm nay của bạn thế nào?",
+                "phonetic": "haʊ wʌz jʊr deɪ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Friend B",
+                "content_en": "It was good. I'm tired.",
+                "content_vi": "Nó tốt lắm. Tôi mệt.",
+                "phonetic": "ɪt wʌz ɡʊd aɪm ˈtaɪərd"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Friend A",
+                "content_en": "I'm busy today.",
+                "content_vi": "Hôm nay tôi bận.",
+                "phonetic": "aɪm ˈbɪzi təˈdeɪ"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Friend B",
+                "content_en": "That's good to hear!",
+                "content_vi": "Vui khi nghe thế!",
+                "phonetic": "ðæts ɡʊd tə hɪr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về cảm xúc và trạng thái hàng ngày.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C19",
+        "title": "Nationality Discussion",
+        "title_vi": "Thảo luận về quốc tịch",
+        "title_phonetic": "ˌnæʃəˈnæləti dɪˈskʌʃən",
+        "level_id": "A1",
+        "scenario": "Discussing where people are from",
+        "scenario_vi": "Thảo luận về nguồn gốc của mọi người",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Student A",
+                "content_en": "I'm from China.",
+                "content_vi": "Tôi đến từ Trung Quốc.",
+                "phonetic": "aɪm frʌm ˈʧaɪnə"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Student B",
+                "content_en": "Oh! I'm from Thailand.",
+                "content_vi": "Ồ! Tôi đến từ Thái Lan.",
+                "phonetic": "oʊ aɪm frʌm ˈtaɪlænd"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Student A",
+                "content_en": "Where are you from?",
+                "content_vi": "Bạn đến từ đâu?",
+                "phonetic": "wɛr ɑr ju frʌm"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Student B",
+                "content_en": "I'm from Vietnam.",
+                "content_vi": "Tôi đến từ Việt Nam.",
+                "phonetic": "aɪm frʌm ˌvjɛtˈnɑm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại về quốc tịch và nguồn gốc.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C20",
+        "title": "Weather Small Talk",
+        "title_vi": "Nói chuyện phiếm về thời tiết",
+        "title_phonetic": "ˈwɛðər smɔl tɔk",
+        "level_id": "A1",
+        "scenario": "Making small talk about weather",
+        "scenario_vi": "Trò chuyện phiếm về thời tiết",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Person A",
+                "content_en": "Nice weather today!",
+                "content_vi": "Thời tiết hôm nay đẹp nhỉ!",
+                "phonetic": "naɪs ˈwɛðər təˈdeɪ"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Person B",
+                "content_en": "Yes, it is!",
+                "content_vi": "Vâng, đúng vậy!",
+                "phonetic": "jɛs ɪt ɪz"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Person A",
+                "content_en": "How about you?",
+                "content_vi": "Còn bạn thì sao?",
+                "phonetic": "haʊ əˈbaʊt ju"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Person B",
+                "content_en": "I'm happy today! Have a nice day!",
+                "content_vi": "Hôm nay tôi vui! Chúc bạn một ngày tốt lành!",
+                "phonetic": "aɪm ˈhæpi təˈdeɪ hæv ə naɪs deɪ"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại ngắn về thời tiết và tâm trạng.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C21",
+        "title": "Welcoming Guest",
+        "title_vi": "Chào đón khách",
+        "title_phonetic": "ˈwɛlkəmɪŋ ɡɛst",
+        "level_id": "A1",
+        "scenario": "Welcoming someone to your home",
+        "scenario_vi": "Chào đón ai đó đến nhà bạn",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Host",
+                "content_en": "Welcome! Come in, please.",
+                "content_vi": "Chào mừng! Mời vào.",
+                "phonetic": "ˈwɛlkəm kʌm ɪn pliz"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Guest",
+                "content_en": "Thank you very much!",
+                "content_vi": "Cảm ơn bạn rất nhiều!",
+                "phonetic": "θæŋk ju ˈvɛri mʌʧ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Host",
+                "content_en": "Please sit down.",
+                "content_vi": "Mời ngồi xuống.",
+                "phonetic": "pliz sɪt daʊn"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Guest",
+                "content_en": "I'm glad to be here.",
+                "content_vi": "Tôi vui được ở đây.",
+                "phonetic": "aɪm ɡlæd tə bi hɪr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chào đón khách vào nhà.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C22",
+        "title": "Casual Chat",
+        "title_vi": "Trò chuyện thường",
+        "title_phonetic": "ˈkæʒuəl ʧæt",
+        "level_id": "A1",
+        "scenario": "Casual conversation between friends",
+        "scenario_vi": "Trò chuyện thường giữa bạn bè",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Sam",
+                "content_en": "What's up?",
+                "content_vi": "Có chuyện gì thế?",
+                "phonetic": "wʌts ʌp"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Jay",
+                "content_en": "Not much. How's it going?",
+                "content_vi": "Không có gì đặc biệt. Mọi thứ thế nào?",
+                "phonetic": "nɑt mʌʧ haʊz ɪt ˈɡoʊɪŋ"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Sam",
+                "content_en": "It's going well.",
+                "content_vi": "Mọi thứ tốt đẹp.",
+                "phonetic": "ɪts ˈɡoʊɪŋ wɛl"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Jay",
+                "content_en": "See you later!",
+                "content_vi": "Hẹn gặp lại!",
+                "phonetic": "si ju ˈleɪtər"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại ngắn gọn giữa bạn bè.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C23",
+        "title": "Polite Farewell",
+        "title_vi": "Tạm biệt lịch sự",
+        "title_phonetic": "pəˈlaɪt ˌfɛrˈwɛl",
+        "level_id": "A1",
+        "scenario": "Saying goodbye politely",
+        "scenario_vi": "Chào tạm biệt một cách lịch sự",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Visitor",
+                "content_en": "It was nice talking to you.",
+                "content_vi": "Vui khi được nói chuyện với bạn.",
+                "phonetic": "ɪt wʌz naɪs ˈtɔkɪŋ tə ju"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Host",
+                "content_en": "I enjoyed meeting you too.",
+                "content_vi": "Tôi cũng vui khi được gặp bạn.",
+                "phonetic": "aɪ ɛnˈdʒɔɪd ˈmitɪŋ ju tu"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Visitor",
+                "content_en": "See you soon!",
+                "content_vi": "Hẹn sớm gặp lại!",
+                "phonetic": "si ju sun"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Host",
+                "content_en": "Bye for now! Take care!",
+                "content_vi": "Tạm biệt nhé! Bảo trọng!",
+                "phonetic": "baɪ fɔr naʊ teɪk kɛr"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại chào tạm biệt lịch sự.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C24",
+        "title": "Happy Encounter",
+        "title_vi": "Gặp gỡ vui vẻ",
+        "title_phonetic": "ˈhæpi ɪnˈkaʊntər",
+        "level_id": "A1",
+        "scenario": "Happy meeting with someone",
+        "scenario_vi": "Gặp gỡ vui vẻ với ai đó",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Person A",
+                "content_en": "I'm happy to see you!",
+                "content_vi": "Tôi vui khi gặp bạn!",
+                "phonetic": "aɪm ˈhæpi tə si ju"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "Person B",
+                "content_en": "I'm glad to meet you too!",
+                "content_vi": "Tôi cũng vui được gặp bạn!",
+                "phonetic": "aɪm ɡlæd tə mit ju tu"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Person A",
+                "content_en": "How are you?",
+                "content_vi": "Bạn khỏe không?",
+                "phonetic": "haʊ ɑr ju"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "Person B",
+                "content_en": "I'm great! And you?",
+                "content_vi": "Tôi rất tốt! Còn bạn?",
+                "phonetic": "aɪm ɡreɪt ænd ju"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại gặp gỡ vui vẻ.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    },
+    {
+        "id": "C25",
+        "title": "Short Introduction",
+        "title_vi": "Giới thiệu ngắn",
+        "title_phonetic": "ʃɔrt ˌɪntrəˈdʌkʃən",
+        "level_id": "A1",
+        "scenario": "Quick self introduction",
+        "scenario_vi": "Tự giới thiệu nhanh",
+        "dialogue": [
+            {
+                "turn": 1,
+                "speaker_name": "Greeter",
+                "content_en": "Hello! What's your name?",
+                "content_vi": "Xin chào! Tên bạn là gì?",
+                "phonetic": "həˈloʊ wʌts jʊr neɪm"
+            },
+            {
+                "turn": 2,
+                "speaker_name": "New Person",
+                "content_en": "I'm Peter. Nice to meet you.",
+                "content_vi": "Tôi là Peter. Rất vui được gặp bạn.",
+                "phonetic": "aɪm ˈpitər naɪs tə mit ju"
+            },
+            {
+                "turn": 3,
+                "speaker_name": "Greeter",
+                "content_en": "I'm Sarah. Where are you from?",
+                "content_vi": "Tôi là Sarah. Bạn đến từ đâu?",
+                "phonetic": "aɪm ˈsɛrə wɛr ɑr ju frʌm"
+            },
+            {
+                "turn": 4,
+                "speaker_name": "New Person",
+                "content_en": "I'm from England. Welcome!",
+                "content_vi": "Tôi đến từ Anh. Chào mừng!",
+                "phonetic": "aɪm frʌm ˈɪŋɡlənd ˈwɛlkəm"
+            }
+        ],
+        "audio_url": "",
+        "image_url": "",
+        "notes": "Hội thoại giới thiệu ngắn gọn.",
+        "status": "active",
+        "created_at": "2025-11-08 10:00:00",
+        "updated_at": "2025-11-08 10:00:00"
+    }
+]
