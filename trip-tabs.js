@@ -68,6 +68,21 @@ window.TripTabs = (function() {
             title: '🧮 Tính Toán',
             component: 'TripCalculator',
             description: 'Máy tính chi tiêu'
+        },
+        guide: {
+            title: '📖 Hướng Dẫn',
+            component: null,
+            description: 'Hướng dẫn sử dụng ứng dụng'
+        },
+        faq: {
+            title: '❓ FAQ',
+            component: null,
+            description: 'Câu hỏi thường gặp'
+        },
+        data: {
+            title: '💾 Quản Lý Dữ Liệu',
+            component: null,
+            description: 'Xuất/nhập và quản lý dữ liệu'
         }
     };
 
