@@ -7,3 +7,4 @@
   2. Start the app with `php -S 127.0.0.1:8000 -t /workspace /tmp/trip-router.php`.
 - Useful checks are `php -l biolink-style386.php` for the PHP template and `node --check trip-*.js` for the browser JavaScript modules.
 - There is no database, queue, or backend API service for local development; core app state is stored in browser `localStorage`.
+- Current UI add/import flows can show success while leaving dashboard data unchanged because some handlers save a cloned `TripCore` data object or reload after writing storage. For smoke tests, seed through `TripCore.importData()` before verifying dashboard, destinations, and expenses.
